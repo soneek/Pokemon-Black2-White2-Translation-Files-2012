@@ -1,26 +1,26 @@
-ＰＧＬ
-ＧＴＳ
-ＰＤＷ
-Ｗｉ－Ｆｉ
-ぐるぐる
-ゲームシンク
-コロシアム
-サブウェイ
-ジオネット
-シングルバトル
-せきがいせん
-ダブルバトル
-チャット
-つうしん
-ともだちコード
-トリプルバトル
-ハイリンク
-バトルビデオ
-ボイスチャット
-ポケシフター
-マルチバトル
-ミュージカル
-ユニオン
-すれちがいログ
-ローテーション
-ワイヤレス
+PGL
+GTS
+PDW
+Wi-Fi
+Spin Trade
+Game Sync
+Colosseum
+Subway
+Geonet
+Single Battle
+Infrared
+Double Battle
+Chat
+Communication
+Friend Code
+Triple Battle
+High-Link
+Battle Video
+Voice Chat
+Pok\xfffdShifter
+Multi Battle
+Pok\xfffdmon Musical
+Union
+Chance-Upon
+Rotation
+Wireless

@@ -1,8 +1,8 @@
-あなたの　なまえは？
-\xf000ā\x0001\x0000の　なまえは？
-ボックスの　なまえは？
-ライバルの　なまえは？
-ともだちの　なまえは？
+Your name?
+\xf000ā\x0001\x0000's nickname?
+This box's name?
+Your rival's name?
+Your friend's name?
 すれちがった　あいてへの　あいさつは？
 すれちがった　あいてへの　おれいは？
 すれちがった　あいてへ\xfffeつたえたい　メッセージは？
@@ -20,10 +20,10 @@
 ゲームシンクＩＤコードが\xfffeまちがっています
 　
 　
-よろしく！
-ありがとう！
-ホワイト．
-ブラック．
+Nice knowing you!
+Thank you!
+White.
+Black.
 ♂
 ♀
 にゅうりょくしてください
