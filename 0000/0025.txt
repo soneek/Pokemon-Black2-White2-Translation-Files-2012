@@ -1,7 +1,7 @@
-Ｃギアの　でんげんを　いれて\xfffeつうしんを　はじめますか？
-オンのときは　ＤＳの　ふたを　とじても\xfffeスリープ　じょうたいに　なりません\xfffeのこりでんちに　ごちゅうい　ください
-Ｃギアの　でんげんを　きって\xfffeつうしんを　せつだん　しますか？
-\xf000\xff00\x0001\x0001ちゅうい！\xf000\xff00\x0001\x0000\xfffeひこうきや　びょういんなど\xfffeむせんつうしんを　きんしに　している\xfffeばしょでは　Ｃギアの　でんげんをきって\xfffeつうしんを　せつだん　してください
-Ｃギアの　でんげんを　オンにできません\xfffeほんたいの　むせんつうしんが\xfffeオフに　なっています\xfffeほんたいせっていで　むせんつうしんを\xfffeオンに　してください　（５０６９９）
-はい
-いいえ
+Turn on the C-Gear\xfffeand begin communication?
+When the C-Gear is enabled,\xfffeeven if the lid of the DS is closed,\xfffeit will not go into Sleep Mode.\xfffePlease be wary of your battery life.
+Turn off the C-Gear\xfffeand close communications?
+\xf000\xff00\x0001\x0001WARNING!\xf000\xff00\x0001\x0000\xfffeIn places with restrictions\xfffeon wireless communication,\xfffesuch as airplanes or hospitals,\xfffeplease turn off the C-Gear.
+C-Gear could not be turned on.\xfffeRadio communications\xfffeare currently off.\xfffePlease turn on communications\xfffein the wireless settings. (50699)
+Yes
+No

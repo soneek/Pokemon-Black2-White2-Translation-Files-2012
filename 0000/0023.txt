@@ -1,2 +1,2 @@
-モンスターボールを　つかうまえに\xfffeたいりょくを　へらすと　いいよ！
-ベル　は\xfffeモンスターボールを　つかった！
+When it's low on health,\xfffeuse a Pokéball!
+Professor Araragi\xfffeused a Pokéball!

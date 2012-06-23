@@ -1,6 +1,6 @@
-どうぐ
-かいふく
-わざマシン
-きのみ
-たいせつなもの
-フリースペース
+Items
+Medicine
+TMs & HMs
+Berries
+Key Items
+Free Space
