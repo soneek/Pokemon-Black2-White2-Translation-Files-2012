@@ -3,8 +3,8 @@ Black 2
 White 2
 Boy
 Girl
-たいせん
-こうかん
+Battle
+Trade
 とかい
 いなか
 あたまがいい
