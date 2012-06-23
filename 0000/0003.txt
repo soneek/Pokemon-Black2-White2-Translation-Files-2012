@@ -1,61 +1,61 @@
-Do you want to save\xfffethis match in your VS Recorder?
-Yes
-No
-Data will be lost forever.\xfffeAre you sure?
-Yes
-No
-You will be overwriting your previous battle video.\xfffeIs that OK?
-Yes
-No
-Your video is now saving.\xfffePlease wait!
-Your match has been saved.
-There was an error.\xfffeVideo couldn't be saved.
-Waiting for your opponent.\xfffePlease wait a moment!
-Your opponent is not ready.\xfffePlease wait a moment!
-You cannot record a match with this opponent.
-You cannot record this match.
-SELECT TIME
+いまの　しょうぶを\xfffeバトルビデオに　きろく　しますか？
+はい
+いいえ
+いまの　しょうぶの　きろくは\xfffeのこりませんが　よろしいですか？
+はい
+いいえ
+ぜんかいの　バトルビデオを　けして\xfffeうわがき　しても　よろしいですか？
+はい
+いいえ
+バトルビデオに　きろくちゅう　です！\xfffeでんげんを　きらないでください
+たたかいが　きろく　されました！
+ふぐあいにより\xfffeきろく　できませんでした
+あいてを　まっています\xfffeしばらく　おまち　ください！
+この　あいてとは　ろくが　できません\xfffeしばらく　おまち　ください！
+この　あいてとは　ろくが　できません
+この　しょうぶは　ろくが　できません
+ＳＥＬＥＣＴ　ＴＩＭＥ
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
-Previous Record
-Single Coliseum\xfffeUnrestricted
-Single Coliseum\xfffeFlat
-Single coliseum\xfffeUnrestricted Shooting
-Single Coliseum\xfffeRestricted Shooting
-Double Coliseum\xfffeUnrestricted
-Double Coliseum\xfffeFlat
-Double Coliseum\xfffeUnrestricted Shooting
-Double Coliseum\xfffeRestricted Shooting
-Triple Coliseum\xfffeUnrestricted
-Triple Coliseum\xfffeFlat
-Triple Coliseum\xfffeUnrestricted Shooting
-Triple Coliseum\xfffeRestricted Shooting
-Rotation Coliseum\xfffeUnrestricted
-Rotation Coliseum\xfffeFlat
-Rotation Coliseum\xfffeUnrestricted Shooting
-Rotation Coliseum\xfffeRestricted Shooting
-Multi Coliseum\xfffeUnrestricted
-Multi Coliseum\xfffeFlat
-Multi Coliseum\xfffeUnrestricted Shooting
-Multi Coliseum\xfffeRestricted Shooting
-Battle Subway\xfffeSingle
-Battle Subway\xfffeDouble
-Battle Subway\xfffeMulti
-Free Random Matches\xfffeSingle
-Free Random Matches\xfffeDouble
-Free Random Matches\xfffeTriple
-Free Random Matches\xfffeRotation
-Free Random Matches\xfffeMiracle Shooter
-Random Match Rating\xfffeSingle
-Random Match Rating\xfffeDouble
-Random Match Rating\xfffeTriple
-Random Match Rating\xfffeRotation
-Random Match Rating\xfffeMiracle Shooter
-Single Tournament\xfffeNo Miracle Shooter
-Single Tournament\xfffeMiracle Shooter
-Double Tournament\xfffeNo Miracle Shooter
-Double Tournament\xfffeMiracle Shooter
-Triple Tournament\xfffeNo Miracle Shooter
-Triple Tournament\xfffeMiracle Shooter
-Rotation Tournament\xfffeNo Miracle Shooter
-Rotation Tournament\xfffeMiracle Shooter
+ぜんかいの　きろく
+コロシアム　シングル\xfffeせいげんなし
+コロシアム　シングル\xfffeフラット
+コロシアム　シングル\xfffeせいげんなし シューターあり
+コロシアム　シングル\xfffeフラット　シューターあり
+コロシアム　ダブル\xfffeせいげんなし
+コロシアム　ダブル\xfffeフラット
+コロシアム　ダブル\xfffeせいげんなし シューターあり
+コロシアム　ダブル\xfffeフラット　シューターあり
+コロシアム　トリプル\xfffeせいげんなし
+コロシアム　トリプル\xfffeフラット
+コロシアム　トリプル\xfffeせいげんなし シューターあり
+コロシアム　トリプル\xfffeフラット　シューターあり
+コロシアム　ローテーション\xfffeせいげんなし
+コロシアム　ローテーション\xfffeフラット
+コロシアム　ローテーション\xfffeせいげんなし シューターあり
+コロシアム　ローテーション\xfffeフラット　シューターあり
+コロシアム　マルチ\xfffeせいげんなし
+コロシアム　マルチ\xfffeフラット
+コロシアム　マルチ\xfffeせいげんなし シューターあり
+コロシアム　マルチ\xfffeフラット　シューターあり
+バトルサブウェイ\xfffeシングル
+バトルサブウェイ\xfffeダブル
+バトルサブウェイ\xfffeマルチ
+ランダムマッチ　フリー\xfffeシングル
+ランダムマッチ　フリー\xfffeダブル
+ランダムマッチ　フリー\xfffeトリプル
+ランダムマッチ　フリー\xfffeローテーション
+ランダムマッチ　フリー\xfffeシューターバトル
+ランダムマッチ　レーティング\xfffeシングル
+ランダムマッチ　レーティング\xfffeダブル
+ランダムマッチ　レーティング\xfffeトリプル
+ランダムマッチ　レーティング\xfffeローテーション
+ランダムマッチ　レーティング\xfffeシューターバトル
+たいかい　シングル\xfffeシューターなし
+たいかい　シングル\xfffeシューターあり
+たいかい　ダブル\xfffeシューターなし
+たいかい　ダブル\xfffeシューターあり
+たいかい　トリプル\xfffeシューターなし
+たいかい　トリプル\xfffeシューターあり
+たいかい　ローテーション\xfffeシューターなし
+たいかい　ローテーション\xfffeシューターあり

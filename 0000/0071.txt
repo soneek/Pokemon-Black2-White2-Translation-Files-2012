@@ -1,6 +1,6 @@
-Confirm
-Quit
-Please enter a phrase or word.
-Stop giving the Pokémon\xfffeMail?
-Yes
-No
+けってい
+やめる
+なにか　ことばを　いれてください
+メールを　もたせるのを\xfffeやめますか？
+はい
+いいえ

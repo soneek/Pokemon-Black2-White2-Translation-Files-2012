@@ -1,24 +1,24 @@
-Man
-Girl
-Woman
-Boy
-Cool
-Cute
-Elegant
-Unique
+おとこのひと
+おんなのこ
+おんなのひと
+おとこのこ
+クール
+キュート
+エレガント
+ユニーク
 こせいてき
-Good balance
-Cool song
-Cute song
-Elegant song
-Unique song
-Transmitted Song
-Transmitted dummy
-Ears
-Head
-Face
-Face
-Body
-Hips
-Elbow
-Face
+バランスがいい
+クールきょく
+キュートきょく
+エレガントきょく
+ユニークきょく
+はいしんきょく
+はいしんダミー
+みみ
+あたま
+かお
+かお
+からだ
+こし
+うで
+かお

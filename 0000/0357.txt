@@ -1,7 +1,7 @@
-Single Battle
-Double Battle
-Triple Battle
-Rotation Battle
-Multi Battle
-Shooter Battle
-Debug Battle
+シングルバトル
+ダブルバトル
+トリプルバトル
+ローテーションバトル
+マルチバトル
+シューターバトル
+デバッグバトル

@@ -1,56 +1,56 @@
-What will \xf000Ă\x0001\x0000 do?
-Please Mark
-Are you sure?
-\xf000Ă\x0001\x0000 released!
-Bye-bye, \xf000Ă\x0001\x0000!
-Your party is full!
-That's your last Pokémon!
-What will you do with this box?
-Jump to what \xfffebox?
-Change Wallpaper?
-Pick Wallpaper.
-Continue Box operations?
-This box is full!
-Bag is full!
-\xf000ĉ\x0001\x0000 received!
-\xf000ĉ\x0001\x0000 is now being held!
-Select Pokemon!
-Move to what Box?
-Not holding anything
+\xf000Ă\x0001\x0000を　どうする？
+マーキング　してください
+ほんとうに　にがしますか？
+\xf000Ă\x0001\x0000を　そとに　にがしてあげた
+ばいばい　\xf000Ă\x0001\x0000！
+てもちが　いっぱいです！
+たたかうポケモンが　いなくなります！
+このボックスを　どうしますか？
+どのボックスに\xfffeジャンプしますか？
+どのテーマに　しますか？
+どの　かべがみに　しますか？
+ボックスそうさを　つづけますか？
+このボックスは　いっぱいです！
+バッグが　いっぱいです！
+\xf000ĉ\x0001\x0000を　あずかった！
+\xf000ĉ\x0001\x0000を　もたせた！
+ポケモンを　タッチ！
+どのボックスへ　あずける？
+もちものなし
 ♂
 ♀
-Receive \xf000ĉ\x0001\x0000?
-Cannot send!
-What to do with \xf000ĉ\x0001\x0000?
-Put away \xf000ĉ\x0001\x0000?
-Placed \xf000ĉ\x0001\x0000 in the Bag!
-Can't hold an item.
-Please remove mail!
-Egg cannot be released!
+\xf000ĉ\x0001\x0000を　あずかりますか？
+メールをしまうことは　できません！
+\xf000ĉ\x0001\x0000を　どうしますか？
+\xf000ĉ\x0001\x0000を　しまいますか？
+\xf000ĉ\x0001\x0000を　バッグに　いれた！
+どうぐを　もつことが　できます
+メールを　はずしてください！
+タマゴを　にがすことは　できません！
 がったいした　キュレムは　にがせません！
-\xf000Ă\x0001\x0000 returned!
-Huh, It failed...
-Egg cannot hold items!
-Touch to Mark!
-Place it in the box!
-Item can be eaten!
-This box is full!
-Already holding an item!
-Deposit Pokémon
-Withdraw Pokémon
-Move Pokémon
-Move Items
-Battle Box
-Put to Bed
-Mail cannot be removed!
-Cannot hold \xf000ĉ\x0001\x0000!
-Has Mail!
-Pokemon will not fight!
-Mail cannot be removed!
-You can't hold mail here
-You can't choose an Egg!
-Make \xf000Ă\x0001\x0000 go to sleep?
-This Pokemon doesn't\xfffelook sleepy.
-Continue Box operations?
-Battle Box has been locked.\xfffePokemon cannot be removed.
-Battle Box has been locked.\xfffeHeld item cannot be changed.
+\xf000Ă\x0001\x0000が　もどってきちゃった！
+しんぱい　だったのかな……
+タマゴは　どうぐを　もてません！
+マークを　タッチしよう！
+ボックスに　おけます！
+てもちに　くわえることが　できます！
+このボックスは　いっぱいです！
+てもちが　いっぱいです！
+ポケモンを　あずける
+ポケモンを　つれていく
+ボックスを　せいりする
+もちものを　せいりする
+バトルボックス
+ねかすポケモンをえらぶ
+メールは　いどうできません！
+\xf000ĉ\x0001\x0000を　もてない！
+メールを　もっています！
+たたかうポケモンが　いなくなります！
+メールは　いどうできません！
+ここでは　メールを　もたせられません
+タマゴは　えらべません！
+\xf000Ă\x0001\x0000を　ねむらせます\xfffeよろしいですか？
+このポケモンは\xfffeいまは　ねむくないみたいです
+ポケモンせんたくを　つづけますか？
+バトルボックスが　ロックされています\xfffeポケモンは　いどう　できません
+バトルボックスが　ロックされています\xfffeもちものは　へんこう　できません

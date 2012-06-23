@@ -1,11 +1,11 @@
-Please choose a language.
-Are you a boy? Are you a girl?
-Turn on wireless functionality?
-Warning!
-Please turn on wireless communication\xfffefor maximum enjoyment of the game.\xfffePlease turn it off in places\xfffewith bans on wireless communication,\xfffesuch as airplanes and hospitals.\xfffeThis can be changed in-game\xfffein the Settings menu.
-English
-Japanese
-Boy
-Girl
-Yes
-No
+もじモードを　えらんでください
+おとこのこ？　おんなのこ？
+つうしんきのう　を　オンにしますか？
+ちゅうい！
+このゲームを　さいだいげんに　たのしむ\xfffeためには　むせんつうしんきのうを\xfffeオンに　してください\xfffeひこうきや　びょういんなど\xfffeむせんつうしんきのうを　きんしに　している\xfffeばしょでは　オフに　してください\xfffeゲームちゅうの　せっていがめんでも\xfffeへんこう　することが　できます　
+ひらがなモード
+漢字モード
+おとこのこ
+おんなのこ
+はい
+いいえ

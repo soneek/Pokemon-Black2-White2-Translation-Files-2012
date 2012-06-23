@@ -1,11 +1,11 @@
-About IR Settings
-About Wi-Fi Settings
-About Wi-Fi Settings
-About Wireless Settings
-About Wireless Settings
-About Wireless Settings
-About Wireless Settings
-About Wireless Settings
+「ＩＲ」について
+「Ｗｉ－Ｆｉ」について
+「Ｗｉ－Ｆｉ」について
+「Ｗｉｒｅｌｅｓｓ」について
+「Ｗｉｒｅｌｅｓｓ」について
+「Ｗｉｒｅｌｅｓｓ」について
+「Ｗｉｒｅｌｅｓｓ」について
+「Ｗｉｒｅｌｅｓｓ」について
 「すれちがいログ」について
 「すれちがいログ」について
 「ちょうさレーダー」について
@@ -28,6 +28,6 @@ About Wireless Settings
 カスタムマークを　タッチすると\xfffeマークが　てんめつ　します。\xfffeボタンを　タッチしながら　うごかすと\xfffeばしょを　かえることが　できます。\xfffeまた　リングを　タッチすると\xfffeリングの　いろが　へんかします。
 でんげんマークを　タッチすると\xfffeオンと　オフを　きりかえるかの\xfffeかくにんがめんに　かわります。\xfffeオフにすると　タッチぶぶんが\xfffeくらくなり　どうじに\xfffeむせんの　つうしんが　オフになります。
 のこされた　でんりょくが\xfffeすくない　じょうたいで\xfffeＤＳの　ふたが　とじられていると\xfffeＣギアの　でんげんが\xfffeじどうてきに　オフになります。
-Next
-Back
-Previous
+つぎへ
+もどる
+まえへ

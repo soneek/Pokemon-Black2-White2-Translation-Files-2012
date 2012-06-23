@@ -1,6 +1,6 @@
-Items
-Medicine
-TMs & HMs
-Berries
-Key Items
-Free Space
+どうぐ
+かいふく
+わざマシン
+きのみ
+たいせつなもの
+フリースペース

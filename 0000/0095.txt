@@ -1,11 +1,11 @@
-Join a group
-Become leader
-Quit
-Start
-Back
+グループにはいる
+リーダーになる
+やめる
+はじめる
+もどる
 １：\xf000Ā\x0001\x0000
 ２：\xf000Ā\x0001\x0000
 ３：\xf000Ā\x0001\x0000
 ４：\xf000Ā\x0001\x0000
-Please choose whether you want to be a\xfffeleader or enter a group
-When you get all your members\xfffeSelect Start
+リーダーになるか　グループにはいるか\xfffeえらんでください
+メンバーが　そろったら\xfffeはじめるを　せんたく　してください

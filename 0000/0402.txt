@@ -1,560 +1,560 @@
 ―\xfffe―\xfffe―\xfffe―\xfffe―
-The target is physically pounded with\xfffea long tail or a foreleg, etc.
-The target is attacked with a sharp chop.\xfffeCritical hits land more easily.
-The target is slapped repeatedly, back\xfffeand forth, two to five times in a row.
-The target is hit with a flurry of punches\xfffethat strike two to five times in a row.
-The target is slugged by a punch thrown\xfffewith muscle-packed power.
-Numerous coins are hurled at the\xfffetarget to inflict damage.\xfffeMoney is earned after the battle.
-The target is punched with a fiery fist.\xfffeIt may also leave the target with a burn.
-The target is punched with an icy fist.\xfffeIt may also leave the target frozen.
-The target is punched with an electrified\xfffefist. It may also leave the target\xfffewith paralysis.
-Hard, pointed, and sharp claws rake\xfffethe target to inflict damage.
-The target is gripped and squeezed from\xfffeboth sides to inflict damage.
-A vicious, tearing attack with big pincers.\xfffeThe target will faint instantly\xfffeif this attack hits.
-A two-turn attack. Blades of wind hit\xfffeopposing Pokémon on the second turn.\xfffeCritical hits land more easily.
-A frenetic dance to uplift the fighting\xfffespirit. It sharply raises the user's\xfffeAttack stat.
-The target is cut with a scythe or a claw.\xfffeIt can also be used to cut down\xfffethin trees.
-A gust of wind is whipped up by wings and\xfffelaunched at the target to inflict damage.
-The target is struck with large, imposing\xfffewings spread wide to inflict damage.
-The target is blown away, to be replaced\xfffeby another Pokémon in its party. In the\xfffewild, the battle ends.
-The user soars, then strikes its target\xfffeon the second turn. It can also be\xfffeused for flying to any familiar town.
-Things such as long bodies or tentacles\xfffeare used to bind and squeeze\xfffethe target for four to five turns.
-The target is slammed with a long tail,\xfffevines, etc., to inflict damage.
-The target is struck with slender,\xfffewhiplike vines to inflict damage.
-The target is stomped with a big foot.\xfffeIt may also make the target flinch.
-The target is quickly kicked twice in\xfffesuccession using both feet.
-The target is attacked by a kick launched\xfffewith muscle-packed power.
-The user jumps up high, then strikes\xfffewith a kick. If the kick misses, the\xfffeuser hurts itself.
-The user lashes out with a quick, spinning\xfffekick. It may also make the target flinch.
-Sand is hurled in the target's face,\xfffereducing its accuracy.
-The user sticks out its head and attacks\xfffeby charging straight into the target.\xfffeIt may also make the target flinch.
-The target is jabbed with a sharply\xfffepointed horn to inflict damage.
-The target is jabbed repeatedly with a\xfffehorn or beak two to five times in a row.
-The user stabs the target with a horn\xfffethat rotates like a drill.\xfffeIf it hits, the target faints instantly.
-A physical attack in which the user\xfffecharges and slams into the target\xfffewith its whole body.
-The user drops onto the target\xfffewith its full body weight. It may also\xfffeleave the target with paralysis.
-A long body or vines are used to wrap and\xfffesqueeze the target for four to five turns.
-A reckless, full-body charge attack for\xfffeslamming into the target.\xfffeIt also damages the user a little.
-The user rampages and attacks for two\xfffeto three turns. It then becomes\xfffeconfused, however.
-A reckless, life-risking tackle.\xfffeIt also damages the user by a fairly large\xfffeamount, however.
-The user wags its tail cutely, making\xfffeopposing Pokémon less wary and\xfffelowering their Defense stat.
-The user stabs the target\xfffewith a poisonous stinger.\xfffeThis may also poison the target.
-The user damages the target twice in\xfffesuccession by jabbing it with two spikes.\xfffeIt may also poison the target.
-Sharp spikes are shot at the target\xfffein rapid succession.\xfffeThey hit two to five times in a row.
-The opposing team gains an intimidating\xfffeleer with sharp eyes. The opposing team's\xfffeDefense stats are reduced.
-The target is bitten\xfffewith viciously sharp fangs.\xfffeIt may make the target flinch.
-The user growls in an endearing way,\xfffemaking the opposing team less wary.\xfffeThe foes' Attack stats are lowered.
-The target is scared off and replaced by\xfffeanother Pokémon in its party. In the\xfffewild, the battle ends.
-A soothing lullaby is sung in a calming\xfffevoice that puts the target into a deep\xfffeslumber.
-The user generates odd sound waves from\xfffeits body. It may confuse the target.
-The target is hit with a destructive shock\xfffewave that always inflicts 20 HP damage.
-For four turns, this move prevents the\xfffetarget from using the move it last used.
-The opposing team is attacked with a spray\xfffeof harsh acid. The acid may also lower\xfffethe targets' Sp. Def stats.
-The target is attacked with small flames.\xfffeIt may also leave the target with a burn.
-The target is scorched with an intense\xfffeblast of fire. It may also leave the target\xfffewith a burn.
-The user cloaks its body with a white mist\xfffethat prevents any of its stats from being\xfffecut for five turns.
-The target is blasted with a\xfffeforceful shot of water.
-The target is blasted by a huge volume\xfffeof water launched under great pressure.
-It swamps the area around the user\xfffewith a giant wave.\xfffeIt can also be used for crossing water.
-The target is struck with an icy-cold\xfffebeam of energy.\xfffeIt may also freeze the target solid.
-A howling blizzard is summoned to strike\xfffethe opposing team. It may also freeze\xfffethem solid.
-The target is attacked with a peculiar ray.\xfffeIt may also cause confusion.
-A spray of bubbles is forcefully ejected\xfffeat the opposing team. It may also lower\xfffetheir Speed stats.
-The target is hit with a rainbow-colored\xfffebeam. This may also lower the target's\xfffeAttack stat.
-The target is attacked with a powerful\xfffebeam. The user must rest on the next\xfffeturn to regain its energy.
-The target is jabbed with a sharply\xfffepointed beak or horn.
-A corkscrewing attack with the\xfffesharp beak acting as a drill.
-The user grabs the target and recklessly\xfffedives for the ground. It also hurts the\xfffeuser slightly.
-A powerful low kick that makes the target\xfffefall over. It inflicts greater damage on\xfffeheavier targets.
-A retaliation move that counters any\xfffephysical attack, inflicting double the\xfffedamage taken.
-The target is thrown using the power of\xfffegravity. It inflicts damage equal to\xfffethe user's level.
-The target is slugged with a punch thrown\xfffeat maximum power. It can also be used\xfffeto move heavy boulders.
-A nutrient-draining attack. The user's\xfffeHP is restored by half the damage taken\xfffeby the target.
-A nutrient-draining attack. The user's\xfffeHP is restored by half the damage taken\xfffeby the target.
-A seed is planted on the target. It steals\xfffesome HP from the target every turn.
-The user's body grows all at once,\xffferaising the Attack and Sp. Atk stats.
-Sharp-edged leaves are launched\xfffeto slash at the opposing team.\xfffeCritical hits land more easily.
-A two-turn attack. The user gathers\xfffelight, then blasts a bundled beam on the\xfffesecond turn.
-The user scatters a cloud of poisonous\xfffedust on the target. It may poison\xfffethe target.
-The user scatters a cloud of paralyzing\xfffepowder. It may leave the target\xfffewith paralysis.
-The user scatters a big cloud\xfffeof sleep-inducing dust\xfffearound the target.
-The user attacks the target by scattering\xfffepetals for two to three turns.\xfffeThe user then becomes confused.
-The targets are bound with silk blown\xfffefrom the user's mouth. This silk reduces\xfffethe targets' Speed stat.
-This attack hits the target with a shock\xfffewave of pure rage. This attack always\xfffeinflicts 40 HP damage.
-The target becomes trapped within a\xfffefierce vortex of fire that rages for four\xfffeto five turns.
-A jolt of electricity is hurled\xfffeat the target to inflict damage. It may\xfffealso leave the target with paralysis.
-A strong electric blast is loosed at the\xfffetarget. It may also leave the target\xfffewith paralysis.
-A weak electric charge is launched at\xfffethe target. It causes paralysis if it hits.
-A wicked thunderbolt is dropped\xfffeon the target to inflict damage. It may\xfffealso leave the target with paralysis.
-The user picks up and throws a small\xffferock at the target to attack.
-The user sets off an earthquake that\xfffestrikes those around it.
-The user opens up a fissure in the ground\xfffeand drops the target in.\xfffeThe target instantly faints if it hits.
-The user burrows, then attacks\xfffeon the second turn.\xfffeIt can also be used to exit dungeons.
-A move that leaves the target\xfffebadly poisoned.\xfffeIts poison damage worsens every turn.
-The target is hit by a weak telekinetic\xfffeforce. It may also leave the\xfffetarget confused.
-The target is hit by a strong telekinetic\xfffeforce. It may also reduce the target's\xfffeSp. Def stat.
-The user employs hypnotic suggestion\xfffeto make the target fall into a deep sleep.
-The user meditates to awaken the power\xfffedeep within its body and raise its\xfffeAttack stat.
-The user relaxes and lightens its body to\xfffemove faster. It sharply boosts\xfffethe Speed stat.
-The user lunges at the target at a speed\xfffethat makes it almost invisible. It is sure\xfffeto strike first.
-As long as this move is in use, the power\xfffeof rage raises the Attack stat each\xfffetime the user is hit in battle.
-Use it to flee from any wild Pokémon.\xfffeIt can also warp to the last Pokémon\xfffeCenter visited.
-The user makes the target see a\xfffefrightening mirage. It inflicts damage\xfffematching the user's level.
-The user copies the target's last move.\xfffeThe move can be used during battle\xfffeuntil the Pokémon is switched out.
-An earsplitting screech harshly reduces\xfffethe target's Defense stat.
-By moving rapidly, the user makes illusory\xfffecopies of itself to raise its evasiveness.
-Restoring its own cells, the user\xffferestores its own HP by half of\xfffeits max HP.
-The user stiffens all the muscles in its\xfffebody to raise its Defense stat.
-The user compresses its body\xfffeto make itself look smaller,\xfffewhich sharply raises its evasiveness.
-The user releases an obscuring cloud\xfffeof smoke or ink. It reduces the\xfffetarget's accuracy.
-The target is exposed to a sinister\xffferay that triggers confusion.
-The user withdraws its body into its hard\xfffeshell, raising its Defense stat.
-The user curls up to conceal weak spots\xfffeand raise its Defense stat.
-The user throws up a sturdy wall that\xfffesharply raises its Defense stat.
-A wondrous wall of light is put up to\xfffesuppress damage from special attacks\xfffefor five turns.
-The user creates a haze that eliminates\xfffeevery stat change among all the Pokémon\xfffeengaged in battle.
-A wondrous wall of light is put up to\xfffesuppress damage from physical attacks\xfffefor five turns.
-The user takes a deep breath and\xfffefocuses so that critical hits land\xfffemore easily.
-The user endures attacks for two\xfffeturns, then strikes back to cause\xfffedouble the damage taken.
-The user waggles a finger and stimulates\xfffeits brain into randomly using nearly\xfffeany move.
-The user counters the target by mimicking\xfffethe target's last move.
-The user attacks everything around it\xfffeby causing an explosion.\xfffeThe user faints upon using this move.
-A large egg is hurled at the target\xfffewith maximum force to inflict damage.
-The target is licked with a long tongue,\xfffecausing damage. It may also leave\xfffethe target with paralysis.
-The target is attacked with a\xfffedischarge of filthy gases.\xfffeIt may also poison the target.
-Unsanitary sludge is hurled at the target.\xfffeIt may also poison the target.
-The user clubs the target with a bone.\xfffeIt may also make the target flinch.
-The target is attacked with an intense\xfffeblast of all-consuming fire.\xfffeIt may also leave the target with a burn.
-The user charges at the target\xfffeand may make it flinch.\xfffeIt can also be used to climb a waterfall.
-The target is clamped and squeezed by\xfffethe user's very thick and sturdy shell for\xfffefour to five turns.
-Star-shaped rays are shot at the opposing\xfffeteam. This attack never misses.
-The user tucks in its head to raise its\xfffeDefense in the first turn, then\xffferams the target on the next turn.
-Sharp spikes are shot at the target\xfffein rapid succession.\xfffeThey hit two to five times in a row.
-The target is attacked with long, creeping\xfffetentacles or vines.\xfffeIt may also lower the target's Speed stat.
-The user temporarily empties its mind to\xfffeforget its concerns.\xfffeIt sharply raises the user's Sp. Def stat.
-The user distracts the target\xfffeby bending a spoon.\xfffeIt lowers the target's accuracy.
-The user restores its own HP\xfffeby up to half of its maximum HP.\xfffeMay also be used in the field to heal HP.
-The target is attacked with a knee kick\xfffefrom a jump. If it misses, the user is hurt\xfffeinstead.
-The user intimidates the target with the\xfffepattern on its belly to cause paralysis.
-The user eats the dreams of a sleeping\xfffetarget. It absorbs half the damage\xfffecaused to heal the user's HP.
-A cloud of poison gas is sprayed\xfffein the face of opposing Pokémon.\xfffeIt may poison those hit.
-Round objects are hurled at the target\xfffeto strike two to five times in a row.
-The user drains the target's blood.\xfffeThe user's HP is restored by half the\xfffedamage taken by the target.
-With a scary face, the user tries to\xfffeforce a kiss on the target. If it\xfffesucceeds, the target falls asleep.
-A second-turn attack move where\xfffecritical hits land more easily.\xfffeIt may also make the target flinch.
-The user transforms into a copy of the\xfffetarget right down to having\xfffethe same move set.
-A spray of countless bubbles is jetted at\xfffethe opposing team. It may also lower the\xfffetargets' Speed stats.
-The target is hit with rhythmically\xfffelaunched punches that may also\xfffeleave it confused.
-The user scatters bursts of spores\xfffethat induce sleep.
-The user flashes a bright light that cuts\xfffethe target's accuracy.\xfffeIt can also be used to illuminate caves.
-The target is attacked with an odd \xfffepsychic wave.\xfffeThe attack varies in intensity.
-The user just flops and splashes around\xfffeto no effect at all...
-The user alters its cellular structure to\xfffeliquefy itself, sharply raising its\xfffeDefense stat.
-The target is hammered with a large pincer.\xfffeCritical hits land more easily.
-The user explodes to inflict damage on\xfffethose around it.\xfffeThe user faints upon using this move.
-The target is raked with sharp claws or\xfffescythes for two to five times in\xfffequick succession.
-The user throws the bone it holds. The\xfffebone loops to hit the target twice,\xfffecoming and going.
-The user goes to sleep for two turns.\xfffeIt fully restores the user's HP and heals\xfffeany status problem.
-Large boulders are hurled at the opposing\xfffeteam to inflict damage. It may also make\xfffethe targets flinch.
-The user bites hard on the target\xfffewith its sharp front fangs.\xfffeIt may also make the target flinch.
-The user reduces its polygon count to\xfffemake itself more jagged, raising the\xfffeAttack stat.
-The user changes its type to become the\xfffesame type as one of its moves.
-The user strikes with a simultaneous\xfffethree-beam attack. May also burn, freeze,\xfffeor leave the target with paralysis.
-The user chomps hard on the\xfffetarget with its sharp front fangs.\xfffeIt cuts the target's HP to half.
-The target is attacked with a slash\xfffeof claws or blades.\xfffeCritical hits land more easily.
-The user makes a copy of itself using\xfffesome of its HP.\xfffeThe copy serves as the user's decoy.
-An attack that is used in desperation\xfffeonly if the user has no PP. It also hurts\xfffethe user slightly.
-It enables the user to permanently learn\xfffethe move last used by the target.\xfffeOnce used, Sketch disappears.
-A consecutive three-kick attack that\xfffebecomes more powerful with each \xfffesuccessive hit.
-The user attacks and steals the target's\xfffeheld item simultaneously.\xfffeIt can't steal if the user holds an item.
-The user ensnares the target with thin,\xfffegooey silk so it can't flee from battle.
-The user senses the target's movements\xfffewith its mind to ensure its next\xfffeattack does not miss the target.
-A sleeping target sees a nightmare\xfffethat inflicts some damage every turn.
-The user cloaks itself in fire and\xfffecharges at the target.\xfffeIt may also leave the target with a burn.
-An attack that can be used only if the\xfffeuser is asleep. The harsh noise may also\xfffemake the target flinch.
-A move that works differently for the\xfffeGhost type than for all other types.
-The user flails about aimlessly to attack.\xfffeIt becomes more powerful the less HP\xfffethe user has.
-The user changes its type to make itself\xffferesistant to the type of the attack the\xfffeopponent used last.
-A vortex of air is shot at the target to\xfffeinflict damage.\xfffeCritical hits land more easily.
-The user releases cotton-like spores\xfffethat cling to the target,\xfffeharshly reducing its Speed stat.
-An all-out attack that becomes more\xfffepowerful the less HP the user has.
-The user unleashes its grudge on the move\xfffelast used by the target by cutting 4 PP\xfffefrom it.
-The user attacks with a chilling gust\xfffeof powdery snow.\xfffeIt may also freeze the targets.
-It enables the user to evade all attacks.\xfffeIts chance of failing rises if it is used in\xfffesuccession.
-The user throws a punch at blinding\xfffespeed. It is certain to strike first.
-The user frightens the target with a scary\xfffeface to harshly reduce its Speed stat.
-The user approaches the target\xfffedisarmingly, then throws a sucker punch.\xfffeIt hits without fail.
-The user kisses the target with a sweet,\xfffeangelic cuteness that causes confusion.
-The user maximizes its Attack stat in\xfffeexchange for HP equal to half its max HP.
-Unsanitary sludge is hurled at the target.\xfffeIt may also poison the target.
-The user hurls mud in the target's face to\xfffeinflict damage and lower its accuracy.
-The user attacks by spraying ink in the\xfffetarget's face or eyes.\xfffeIt may also lower the target's accuracy.
-The user lays a trap of spikes at the\xfffeopposing team's feet. The trap hurts\xfffePokémon that switch into battle.
-The user fires an electric blast like a\xfffecannon to inflict damage and\xfffecause paralysis.
-Enables a Ghost-type target to be hit by\xfffeNormal- and Fighting-type attacks. It also\xfffeenables an evasive target to be hit.
-When this move is used, if the user faints,\xfffethe Pokémon that landed the knockout\xfffehit also faints.
-Any Pokémon that hears this song\xfffefaints in three turns, unless it switches\xfffeout of battle.
-The user attacks with a gust of\xfffechilled air. It also reduces the targets'\xfffeSpeed stat.
-It enables the user to evade all attacks.\xfffeIts chance of failing rises if it is used\xfffein succession.
-The user strikes the target with a hard\xfffebone two to five times in a row.
-The user takes sure aim at the target.\xfffeIt ensures the next attack does not fail\xfffeto hit the target.
-The user rampages and attacks for two\xfffeto three turns.\xfffeIt then becomes confused, however.
-A five-turn sandstorm is summoned\xfffeto hurt all combatants except the\xfffeRock, Ground, and Steel types.
-A nutrient-draining attack. The user's\xfffeHP is restored by half the damage\xfffetaken by the target.
-The user endures any attack with at least\xfffe1 HP. Its chance of failing rises if it is\xfffeused in succession.
-The user gazes at the target rather\xfffecharmingly, making it less wary.\xfffeThe target's Attack is harshly lowered.
-The user continually rolls into the target\xfffeover five turns. It becomes stronger\xfffeeach time it hits.
-A restrained attack that prevents the\xfffetarget from fainting.\xfffeThe target is left with at least 1 HP.
-The user enrages and confuses the target.\xfffeHowever, it also sharply raises the\xfffetarget's Attack stat.
-The user restores its own HP\xfffeby up to half of its maximum HP.\xfffeMay also be used in the field to heal HP.
-The user throws an electrically charged\xfffetackle at the target. It may also leave\xfffethe target with paralysis.
-The target is slashed with scythes or\xfffeclaws. Its power increases if it hits\xfffein succession.
-The target is hit with wings of steel.\xfffeIt may also raise the user's Defense stat.
-The user pins the target with a dark,\xfffearresting look.\xfffeThe target becomes unable to flee.
-If it is the opposite gender of the user,\xfffethe target becomes infatuated and less\xfffelikely to attack.
-While it is asleep, the user randomly uses\xfffeone of the moves it knows.
-The user makes a soothing bell chime\xfffeto heal the status problems of all the\xfffeparty Pokémon.
-A full-power attack that grows more\xfffepowerful the more the user likes\xfffeits Trainer.
-The user attacks by giving the target a\xfffegift with a hidden trap. It restores\xfffeHP sometimes, however.
-A full-power attack that grows more\xfffepowerful the less the user likes\xfffeits Trainer.
-The user creates a protective field that\xfffeprevents status problems for five turns.
-The user adds its HP to the target's HP,\xfffethen equally shares the combined HP\xfffewith the target.
-The target is razed with a mystical fire\xfffeof great intensity. It may also leave the\xfffetarget with a burn.
-The user looses a ground-shaking quake\xfffeaffecting everyone around the user.\xfffeIts power varies.
-The user punches the target with full,\xfffeconcentrated power.\xfffeIt confuses the target if it hits.
-Using its tough and impressive horn,\xfffethe user rams into the target\xfffewith no letup.
-The user exhales a mighty gust that\xfffeinflicts damage. It may also leave the\xfffetarget with paralysis.
-The user switches places with a party\xfffePokémon in waiting, passing along any\xfffestat changes.
-The user compels the target\xfffeto keep using only the move\xfffeit last used for three turns.
-An attack move that inflicts double damage\xfffeif used on a target that is switching out\xfffeof battle.
-A spin attack that can also eliminate\xfffesuch moves as Bind, Wrap, Leech Seed,\xfffeand Spikes.
-A sweet scent that lowers the opposing\xfffeteam's evasiveness. It also lures wild\xfffePokémon if used in grass, etc.
-The target is slammed with a steel-hard\xfffetail. It may also lower the target's\xfffeDefense stat.
-The target is raked with steel claws.\xfffeIt may also raise the user's Attack stat.
-The user attacks last.\xfffeIn return, this throw move is\xfffeguaranteed not to miss.
-The user restores its own HP.\xfffeThe amount of HP regained varies\xfffewith the weather.
-The user restores its own HP.\xfffeThe amount of HP regained varies\xfffewith the weather.
-The user restores its own HP.\xfffeThe amount of HP regained varies\xfffewith the weather.
-A unique attack that varies in type and\xfffeintensity depending on the Pokémon\xfffeusing it.
-The user delivers a double chop with its\xfffeforearms crossed.\xfffeCritical hits land more easily.
-The user whips up a vicious tornado\xfffeto tear at the opposing team.\xfffeIt may also make targets flinch.
-The user summons a heavy rain\xfffethat falls for five turns,\xfffepowering up Water-type moves.
-The user intensifies the sun for\xfffefive turns, powering up\xfffeFire-type moves.
-The user crunches up the target\xfffewith sharp fangs. It may also lower\xfffethe target's Defense stat.
-A retaliation move that counters any\xfffespecial attack, inflicting double the\xfffedamage taken.
-The user hypnotizes itself into\xfffecopying any stat change made\xfffeby the target.
-The user charges the target at blinding\xfffespeed. This attack always goes\xfffebefore any other move.
-The user attacks with a prehistoric power.\xfffeIt may also raise all the user's stats\xfffeat once.
-The user hurls a shadowy blob at the\xfffetarget. It may also lower the target's\xfffeSp. Def stat.
-Two turns after this move is used,\xfffea hunk of psychic energy\xfffeattacks the target.
-The user attacks with a punch that can\xfffeshatter a rock. It may also lower the\xfffetarget's Defense stat.
-Traps foes in a violent swirling\xfffewhirlpool for four to five turns.
-The user gets all party Pokémon to attack\xfffethe target. The more party Pokémon,\xfffethe greater the number of attacks.
-An attack that hits first and makes the\xfffetarget flinch. It only works the first turn\xfffethe user is in battle.
-The user attacks in an uproar for\xfffethree turns. Over that time,\xfffeno one can fall asleep.
-The user charges up power and raises\xfffeboth its Defense and Sp. Def. The move\xfffecan be used three times.
-The power stored using the move Stockpile\xfffeis released at once in an attack. The more\xfffepower is stored, the greater the damage.
-The power stored using the move Stockpile\xfffeis absorbed by the user to heal its HP.\xfffeStoring more power heals more HP.
-The user attacks by exhaling hot breath\xfffeon the opposing team. It may also leave\xfffetargets with a burn.
-The user summons a hailstorm lasting five\xfffeturns. It damages all Pokémon except the\xfffeIce type.
-The user torments and enrages the\xfffetarget, making it incapable of using\xfffethe same move twice in a row.
-Flattery is used to confuse the target.\xfffeHowever, it also raises the target's\xfffeSp. Atk stat.
-The user shoots a sinister, bluish-white\xfffeflame at the target to inflict a burn.
-The user faints when using this move.\xfffeIn return, it harshly lowers the target's\xfffeAttack and Sp. Atk.
-An attack move that doubles its power if\xfffethe user is poisoned, burned, or\xfffehas paralysis.
-The user focuses its mind before\xfffelaunching a punch. It will fail if the user\xfffeis hit before it is used.
-This attack inflicts double damage on a\xfffetarget with paralysis. It also cures the\xfffetarget's paralysis, however.
-The user draws attention to itself,\xfffemaking all targets take aim\xfffeonly at the user.
-An attack that makes use of nature's\xfffepower. Its effects vary depending on the\xfffeuser's environment.
-The user boosts the power of the Electric\xfffemove it uses on the next turn. It also\xffferaises the user's Sp. Def stat.
-The target is taunted into a rage that\xfffeallows it to use only attack moves\xfffefor three turns.
-The user assists an ally by boosting\xfffethe power of its attack.
-The user catches the target off guard\xfffeand swaps its held item with its own.
-The user mimics the target completely,\xfffecopying the target's natural Ability.
-One turn after this move is used,\xfffethe target's HP is restored by\xfffehalf the user's maximum HP.
-The user hurriedly and randomly uses a\xfffemove among those known by other\xfffePokémon in the party.
-The user lays roots that restore\xfffeits HP on every turn. Because it is\xffferooted, it can't switch out.
-The user attacks the target with great\xfffepower. However, it also lowers the\xfffeuser's Attack and Defense.
-A barrier reflects back to the target\xfffemoves like Leech Seed and moves\xfffethat damage status.
-The user recycles a held item that\xfffehas been used in battle so it can be\xfffeused again.
-An attack move that inflicts double the\xfffedamage if the user has been hurt by the\xfffeopponent in the same turn.
-The user attacks with a swift chop. It\xfffecan also break any barrier such as Light\xfffeScreen and Reflect.
-The user lets loose a huge yawn that\xfffelulls the target into falling asleep\xfffeon the next turn.
-The user slaps down the target's\xfffeheld item, preventing that item\xfffefrom being used in the battle.
-An attack move that cuts down the\xfffetarget's HP to equal the user's HP.
-The user attacks the opposing team with\xfffeexplosive fury. The lower the user's HP,\xfffethe less powerful this attack becomes.
-The user employs its psychic power to\xfffeexchange Abilities with the target.
-If the opponents know any move also known\xfffeby the user, the opponents are prevented\xfffefrom using it.
-The user rests to cure itself of a\xfffepoisoning, burn, or paralysis.
-If the user faints, the user's grudge\xfffefully depletes the PP of the opponent's\xfffemove that knocked it out.
-The user steals the effects of any\xfffehealing or stat-changing move the\xfffeopponent attempts to use.
-The user attacks the target with a\xfffesecret power. Its added effects vary\xfffedepending on the user's environment.
-Diving on the first turn, the user floats\xfffeup and attacks on the second turn.\xfffeIt can be used to dive deep in the ocean.
-The user looses a flurry of open-palmed\xfffearm thrusts that hit two to five times in\xfffea row.
-The user's type is changed depending on\xfffeits environment, such as at water's edge,\xfffein grass, or in a cave.
-The user stares at flashing lights to\xfffefocus its mind, drastically raising its\xfffeSp. Atk stat.
-The user lets loose a damaging burst\xfffeof light. It may also reduce the target's\xfffeSp. Def stat.
-A mistlike flurry of down envelops and\xfffedamages the target. It may also lower\xfffethe target's Sp. Atk.
-The user covers the target's body with a\xfffemass of down that harshly lowers its\xfffeAttack stat.
-The user performs a wobbly dance that\xfffeconfuses the Pokémon around it.
-The user launches a kick that lands a\xfffecritical hit more easily.\xfffeIt may also leave the target with a burn.
-The user covers itself with mud. It\xfffeweakens Electric-type moves while the\xfffeuser is in the battle.
-The user continually rolls into the target\xfffeover five turns. It becomes stronger\xfffeeach time it hits.
-The user attacks by wildly swinging its\xfffethorny arms. It may also make the\xfffetarget flinch.
-The user slacks off, restoring its own HP\xfffeby up to half of its maximum HP.
-The user lets loose a horribly echoing\xfffeshout with the power to inflict damage.
-The user bites the target with toxic\xfffefangs. It may also leave the target\xfffebadly poisoned.
-The user slashes the target with hard\xfffeand sharp claws.\xfffeIt may also lower the target's Defense.
-The target is razed by a fiery explosion.\xfffeThe user must rest on the\xfffenext turn, however.
-The target is hit with a watery blast.\xfffeThe user must rest on the\xfffenext turn, however.
-The target is hit with a hard punch fired\xfffelike a meteor. It may also raise\xfffethe user's Attack.
-The user attacks the target while shouting\xfffein a startling fashion.\xfffeIt may also make the target flinch.
-An attack move that varies in power and\xfffetype depending on the weather.
-The user releases a soothing scent that\xfffeheals all status problems affecting\xfffethe user's party.
-The user feigns crying to fluster\xfffethe target, harshly lowering its\xfffeSp. Def stat.
-The user launches razor-like wind to\xfffeslash the opposing team.\xfffeCritical hits land more easily.
-The user attacks the target at full power.\xfffeThe attack's recoil harshly reduces the\xfffeuser's Sp. Atk stat.
-Enables a Ghost-type target to be hit with\xfffeNormal- and Fighting-type attacks. It also\xfffeenables an evasive target to be hit.
-Boulders are hurled at the target. It also\xfffelowers the target's Speed by preventing\xfffeits movement.
-The target is attacked with powdery\xfffescales blown by wind.\xfffeIt may also raise all the user's stats.
-A horrible sound like scraping metal\xfffeharshly reduces the target's\xfffeSp. Def stat.
-The user plays a pleasant melody that\xfffelulls the target into a deep sleep.
-The user tickles the target into laughing,\xfffereducing its Attack and Defense stats.
-The user absorbs a mystical power from\xfffespace to raise its Defense and\xfffeSp. Def stats.
-The user spouts water to damage the\xfffeopposing team. The lower the user's HP,\xfffethe less powerful it becomes.
-The user attacks with a sinister beam of\xfffelight. It may also confuse the target.
-The user throws a punch from the shadows.\xfffeThe punch lands without fail.
-The user attacks with an odd,\xfffeunseeable power.\xfffeIt may also make the target flinch.
-The user attacks the target with an\xfffeuppercut thrown skyward with force.
-The user traps the target inside a harshly\xffferaging sandstorm for four to five turns.
-The target is attacked with a blast of\xfffeabsolute-zero cold.\xfffeThe target instantly faints if it hits.
-The user attacks by shooting muddy water\xfffeat the opposing team.\xfffeIt may also lower the targets' accuracy.
-The user forcefully shoots seeds at the\xfffetarget. Two to five seeds are shot in\xffferapid succession.
-The user confounds the target with speed,\xfffethen slashes.\xfffeThe attack lands without fail.
-The user launches sharp icicles at the\xfffetarget. It strikes two to five times in\xfffea row.
-The user hardens its body's surface\xfffelike iron, sharply raising its\xfffeDefense stat.
-The user blocks the target's way with arms\xfffespread wide to prevent escape.
-The user howls loudly to raise its spirit,\xfffeboosting its Attack stat.
-The user slashes the target with huge,\xfffesharp claws.
-The user slams the target with\xfffean enormous tree.\xfffeThe user can't move on the next turn.
-The user tenses its muscles to bulk up\xfffeits body, boosting both its Attack and\xfffeDefense stats.
-The user bounces up high, then drops on\xfffethe target on the second turn. It may\xfffealso leave the target with paralysis.
-The user attacks by hurling a blob of mud\xfffeat the target.\xfffeIt also reduces the target's Speed.
-The user hits the target with its tail.\xfffeIt may also poison the target.\xfffeCritical hits land more easily.
-The user endearingly approaches\xfffethe target, then steals the target's\xfffeheld item.
-The user electrifies itself, then charges. \xfffeIt causes considerable damage to the user\xfffeand may leave the target with paralysis.
-The user scatters curious leaves\xfffethat chase the target.\xfffeThis attack will not miss.
-The user soaks itself with water. The move\xfffeweakens Fire-type moves while the user\xfffeis in the battle.
-The user quietly focuses its mind and\xfffecalms its spirit to raise its Sp. Atk and\xfffeSp. Def stats.
-The user handles a sharp leaf like a\xfffesword and attacks by cutting its target.\xfffeCritical hits land more easily.
-The user vigorously performs a mystic,\xfffepowerful dance that boosts its Attack and\xfffeSpeed stats.
-The user hurls hard rocks at the target.\xfffeTwo to five rocks are launched in quick\xfffesuccession.
-The user strikes the target with a quick\xfffejolt of electricity.\xfffeThis attack cannot be evaded.
-The user attacks the target with\xfffea pulsing blast of water.\xfffeIt may also confuse the target.
-Two turns after this move is used, the\xfffeuser blasts the target with a\xfffeconcentrated bundle of light.
-The user attacks the target at full power.\xfffeThe attack's recoil harshly reduces the\xfffeuser's Sp. Atk stat.
-The user lands and rests its body.\xfffeIt restores the user's HP by up to\xfffehalf of its max HP.
-Gravity is intensified for five turns,\xfffemaking moves involving flying unusable\xfffeand negating Levitate.
-Enables a Dark-type target to be hit by\xfffePsychic-type attacks. It also enables\xfffean evasive target to be hit.
-This attack inflicts big damage on a\xfffesleeping target. It also wakes the target\xfffeup, however.
-The user swings and hits with its strong\xfffeand heavy fist.\xfffeIt lowers the user's Speed, however.
-The user tackles the target with a\xfffehigh-speed spin. The slower the\xfffeuser, the greater the damage.
-The user faints. In return, the Pokémon\xfffetaking its place will have its HP restored\xfffeand status cured.
-If the target's HP is down to about half,\xfffethis attack will hit with double\xfffethe power.
-The user draws power to attack by using\xfffeits held Berry.\xfffeThe Berry determines its type and power.
-An attack that hits a target using\xfffeProtect or Detect. It also lifts\xfffethe effects of those moves.
-The user pecks the target. If the target\xfffeis holding a Berry, the user eats it and\xfffegains its effect.
-The user whips up a turbulent whirlwind\xfffethat ups the Speed of all party Pokémon\xfffefor four turns.
-The user applies pressure to stress\xfffepoints, sharply boosting one of\xfffeits stats.
-The user retaliates with much greater\xfffepower against the target\xfffethat last inflicted damage on it.
-After making its attack, the user\xffferushes back to switch places with\xfffea party Pokémon in waiting.
-The user fights the target up close\xfffewithout guarding itself. It also cuts\xfffethe user's Defense and Sp. Def.
-If the user moves after the target,\xfffethis attack's power will be doubled.
-If the target has already taken some\xfffedamage in the same turn, this attack's\xfffepower is doubled.
-It prevents the target from using its held\xfffeitem. Its Trainer is also prevented from\xfffeusing items on it.
-The user flings its held item at the target\xfffeto attack. Its power and effects depend\xfffeon the item.
-Using its psychic power of suggestion,\xfffethe user transfers its status problems\xfffeto the target.
-The fewer PP this move has, the greater\xfffeits attack power.
-For five turns, the user prevents the\xfffeopposing team from using any moves,\xfffeAbilities, or held items that recover HP.
-The user powerfully wrings the target.\xfffeThe more HP the target has, the greater\xfffethis attack's power.
-The user employs its psychic power to\xfffeswitch its Attack with its Defense stat.
-The user hurls up its stomach acids on\xfffethe target. The fluid eliminates the effect\xfffeof the target's Ability.
-The user chants an incantation toward\xfffethe sky, preventing opposing Pokémon\xfffefrom landing critical hits.
-The user tries to cut ahead of the target\xfffeto steal and use the target's intended\xfffemove with greater power.
-The user mimics the move used immediately\xfffebefore it. The move fails if no other move\xfffehas been used yet.
-The user employs its psychic power to\xfffeswitch changes to its Attack and\xfffeSp. Atk with the target.
-The user employs its psychic power to\xfffeswitch changes to its Defense and\xfffeSp. Def with the target.
-This attack's power increases\xfffethe more the target has powered\xfffeup with stat changes.
-This move can be used only after the user\xfffehas used all the other moves it knows\xfffein the battle.
-A seed that causes worry is planted on\xfffethe target. It prevents sleep by making\xfffeits Ability Insomnia.
-This move enables the user to attack\xfffefirst. It fails if the target is not\xfffereadying an attack, however.
-The user lays a trap of poison spikes at\xfffethe opponent's feet. They poison\xfffeopponents that switch into battle.
-The user employs its psychic power to\xfffeswitch stat changes with the target.
-The user envelops itself in a veil made\xfffeof water. It regains some HP on\xfffeevery turn.
-The user levitates using electrically\xfffegenerated magnetism for five turns.
-The user cloaks itself in fire and charges\xfffeat the target. The user sustains serious\xfffedamage and may leave the target burned.
-The target is attacked with a shock wave.\xfffeIt may also leave the target\xfffewith paralysis.
-The user looses a blast of aura power\xfffefrom deep within its body at the target.\xfffeThis move is certain to hit.
-The user polishes its body to reduce drag.\xfffeIt can sharply raise the Speed stat.
-The target is stabbed with a tentacle or\xfffearm steeped in poison. It may also\xfffepoison the target.
-The user releases a horrible aura imbued\xfffewith dark thoughts.\xfffeIt may also make the target flinch.
-The user slashes the target\xfffethe instant an opportunity arises.\xfffeCritical hits land more easily.
-The user attacks by swinging its tail as if\xfffeit were a vicious wave in a raging storm.
-The user slams a barrage of hard-shelled\xfffeseeds down on the target from above.
-The user attacks with a blade of air that\xfffeslices even the sky. It may also make the\xfffetarget flinch.
-The user slashes at the target by\xfffecrossing its scythes or claws as if\xfffethey were a pair of scissors.
-The user vibrates its wings to generate a\xfffedamaging sound wave. It may also lower\xfffethe target's Sp. Def stat.
-The target is attacked with a shock wave\xfffegenerated by the user's gaping mouth.
-The user tackles the target while\xfffeexhibiting overwhelming menace.\xfffeIt may also make the target flinch.
-The user attacks with a ray of light that\xfffesparkles as if it were made of gemstones.
-An energy-draining punch. The user's\xfffeHP is restored by half the damage taken\xfffeby the target.
-The user whirls its fists to send a wave\xfffeof pure vacuum at the target. This move\xfffealways goes first.
-The user heightens its mental focus and\xfffeunleashes its power.\xfffeIt may also lower the target's Sp. Def.
-The user draws power from nature and\xfffefires it at the target.\xfffeIt may also lower the target's Sp. Def.
-The user tucks in its wings and charges\xfffefrom a low altitude.\xfffeThe user also takes serious damage.
-The user makes the ground under\xfffethe target erupt with power.\xfffeIt may also lower the target's Sp. Def.
-The user trades held items with the target\xfffefaster than the eye can follow.
-The user charges at the target using\xfffeevery bit of its power.\xfffeThe user must rest on the next turn.
-The user stimulates its brain by thinking\xfffebad thoughts.\xfffeIt sharply raises the user's Sp. Atk.
-The user strikes the target\xfffewith tough punches as fast as bullets.\xfffeThis move always goes first.
-An attack move that inflicts double the\xfffedamage if the user has been hurt by the\xfffetarget in the same turn.
-The user flash freezes chunks of\xfffeice and hurls them at the target.\xfffeThis move always goes first.
-The user slashes with a sharp claw made\xfffefrom shadows.\xfffeCritical hits land more easily.
-The user bites with electrified fangs.\xfffeIt may also make the target flinch or\xfffeleave it with paralysis.
-The user bites with cold-infused fangs.\xfffeIt may also make the target flinch or\xfffeleave it frozen.
-The user bites with flame-cloaked fangs.\xfffeIt may also make the target flinch or leave\xfffeit burned.
-The user extends its shadow and attacks\xfffethe target from behind.\xfffeThis move always goes first.
-The user launches a hard-packed\xfffemud ball to attack.\xfffeIt may also lower the target's accuracy.
-The user tears at the target with blades\xfffeformed by psychic power.\xfffeCritical hits land more easily.
-The user focuses its willpower to its head\xfffeand attacks the target.\xfffeIt may also make the target flinch.
-The user looses a flash of energy at\xfffethe target from its polished body.\xfffeIt may also lower the target's accuracy.
-The user gathers all its light energy and\xfffereleases it at once. It may also lower the\xfffetarget's Sp. Def stat.
-The user attacks the target by smashing\xfffeinto it with incredible force.\xfffeIt may also confuse the target.
-A strong wind blows away the target's\xfffeobstacles such as Reflect or Light Screen.\xfffeIt also lowers the target's evasiveness.
-The user creates a bizarre area in which\xfffeslower Pokémon get to move first for\xfffefive turns.
-Comets are summoned down from the sky\xfffeonto the target. The attack's recoil\xfffeharshly reduces the user's Sp. Atk stat.
-A flare of electricity is loosed to strike\xfffethe area around the user.\xfffeIt may also cause paralysis.
-An inferno of scarlet flames torches\xfffeeverything around the user. It may\xfffeleave targets with a burn.
-The user whips up a storm of leaves around\xfffethe target. The attack's recoil harshly\xfffereduces the user's Sp. Atk stat.
-The user violently whirls its vines or\xfffetentacles to harshly lash the target.
-The user launches a huge boulder at the\xfffetarget to attack. It must rest on the\xfffenext turn, however.
-A slashing attack with a poisonous blade\xfffethat may also leave the target poisoned.\xfffeCritical hits land more easily.
-The user shoots filthy garbage\xfffeat the target to attack.\xfffeIt may also poison the target.
-The user slams the target\xfffewith its steel-hard head.\xfffeIt may also make the target flinch.
-The user launches steel bombs that\xfffestick to the target.\xfffeThis attack will not miss.
-The user stabs the foe with\xfffesharpened stones from below.\xfffeIt has a high critical-hit ratio.
-If it is the opposite gender of the user,\xfffethe target is charmed into harshly\xfffelowering its Sp. Atk stat.
-The user lays a trap of levitating stones\xfffearound the opponent's team. The trap\xfffehurts opponents that switch into battle.
-The user snares the target with grass and\xfffetrips it. The heavier the target,\xfffethe greater the damage.
-The user attacks using a sound wave\xfffebased on words it has learned.\xfffeIt may also confuse the target.
-The user releases countless shots of\xfffelight at the target. Its type varies with\xfffethe kind of Plate the user is holding.
-The user bites the target. If the target\xfffeis holding a Berry, the user eats it and\xfffegains its effect.
-The user attacks with an electric\xfffecharge. The user may use any remaining\xfffeelectricity to raise its Sp. Atk stat.
-The user slams its rugged body into the\xfffetarget to attack. The user also sustains\xfffeserious damage.
-The user lunges at the target at a speed\xfffethat makes it almost invisible. It is sure\xfffeto strike first.
-The user calls out its underlings to\xfffepummel the target.\xfffeCritical hits land more easily.
-The user calls out its underlings to\xfffeshield its body, raising its Defense\xfffeand Sp. Def stats.
-The user calls out its underlings to\xfffeheal it. The user regains up to half of its\xfffemax HP.
-The user attacks the target with a\xfffehazardous, full-power headbutt.\xfffeThe user also takes terrible damage.
-The user slams the target with a long tail,\xfffevines, or tentacle.\xfffeThe target is hit twice in a row.
-The user blasts the target with power\xfffethat distorts even time.\xfffeThe user must rest on the next turn.
-The user tears the target along with the\xfffespace around it.\xfffeCritical hits land more easily.
-The user faints. In return, the Pokémon\xfffetaking its place will have its status and\xfffeHP fully restored.
-The target is crushed with great force.\xfffeThe attack is more powerful the more\xfffeHP the target has left.
-The target becomes trapped\xfffewithin a maelstrom of fire that rages\xfffefor four to five turns.
-Opposing Pokémon are dragged into\xfffea world of total darkness that makes\xfffethem sleep.
-The user emits a shock wave from\xfffeits body to attack its target. It may\xfffeharshly lower the target's Sp. Def.
-The user blasts the target with a gust of\xffferepulsive wind. It may also raise all the\xfffeuser's stats at once.
-The user disappears, then strikes the\xfffetarget on the second turn.\xfffeIt hits even if the target protects itself.
-The user sharpens its claws to\xfffeboost its Attack stat and accuracy.
-The user and its allies are protected from\xfffewide-ranging attacks for one turn. If used\xfffein succession, its chance of failing rises.
-The user employs its psychic power to\xfffeaverage its Defense and Sp. Def stats\xfffewith those of its target's.
-The user employs its psychic power to\xfffeaverage its Attack and Sp. Atk stats\xfffewith those of the target's.
-The user creates a bizarre area in which\xfffePokémon's Defense and Sp. Def\xfffestats are swapped for five turns.
-The user materializes an odd\xfffepsychic wave to attack the target.\xfffeThis attack does physical damage.
-The user drenches the target in a special\xfffepoisonous liquid. Its power is doubled\xfffeif the target is poisoned.
-The user sheds part of its body\xfffeto make itself lighter and sharply\xffferaise its Speed stat.
-The user scatters a cloud of irritating\xfffepowder to draw attention to itself.\xfffeOpponents aim only at the user.
-The user makes the target float with its\xfffepsychic power. The target is easier to\xfffehit for three turns.
-The user creates a bizarre area\xfffein which Pokémon's held items\xfffelose their effects for five turns.
-The user throws a stone or projectile to\xfffeattack an opponent. A flying Pokémon will\xfffefall to the ground when hit.
-The user strikes the target with a fierce\xfffeblow. This attack always results in a\xfffecritical hit.
-The user attacks the target with a\xfffebursting flame. The bursting flame damages\xfffePokémon next to the target as well.
-It swamps the area around the user with a\xfffegiant sludge wave.\xfffeIt may also poison those hit.
-The user lightly performs a beautiful,\xfffemystic dance. It boosts the user's\xfffeSp. Atk, Sp. Def, and Speed stats.
-The user slams into the target with its\xfffeheavy body. The more the user outweighs\xfffethe target, the greater its damage.
-Using an odd shock wave, the user\xfffeinflicts damage on any Pokémon of the same\xfffetype in the area around it.
-The user hurls an electric orb\xfffeat the target. The faster the user is\xfffethan the target, the greater the damage.
-The user shoots a torrent of water\xfffeat the target and changes\xfffethe target's type to Water.
-The user cloaks itself with flame and\xfffeattacks. Building up more power,\xfffeit raises the user's Speed stat.
-The user coils up and concentrates.\xfffeThis raises its Attack and Defense stats\xfffeas well as its accuracy.
-The user attacks the target's legs\xfffeswiftly, reducing the target's\xfffeSpeed stat.
-The user spits fluid that works to melt\xfffethe target. This harshly reduces\xfffethe target's Sp. Def stat.
-The user turns the target's power\xfffeagainst it. The higher the target's\xfffeAttack stat, the greater the damage.
-The user's mysterious psychic wave\xfffechanges the target's Ability to Simple.
-The user dances with an odd rhythm that\xfffecompels the target to mimic it, making the\xfffetarget's Ability the same as the user's.
-The user helps the target and makes it\xfffeuse its move right after the user.
-The user attacks the target with a song.\xfffeOthers can join in the Round and make\xfffethe attack do greater damage.
-The user attacks the target with an\xfffeechoing voice. If this move is used\xfffeevery turn, it does greater damage.
-Looking for an opening, the user strikes\xfffecontinually. The target's stat changes\xfffedon't affect this attack's damage.
-The user attacks by throwing a clump of\xfffespecial mud. All status changes are\xfffereturned to normal.
-The user attacks the target with stored\xfffepower. The more the user's stats are\xffferaised, the greater the damage.
-The user protects itself and its allies\xfffefrom priority moves. If used in\xfffesuccession, its chance of failing rises.
-The user teleports using a strange power\xfffeand switches its place with one of\xfffeits allies.
-The user shoots boiling hot water at\xfffeits target. It may also leave the target\xfffewith a burn.
-The user breaks its shell, lowering its\xfffeDefense and Sp. Def stats but sharply\xffferaising Attack, Sp. Atk, and Speed stats.
-The user emits a healing pulse which\xffferestores the target's HP by up to\xfffehalf of its max HP.
-This relentless attack does massive\xfffedamage to a target affected\xfffeby status problems.
-The user takes the target into the sky,\xfffethen drops it during the next turn.\xfffeThe target cannot attack while in the sky.
-The user rotates its gears, raising its\xfffeAttack and sharply raising its Speed.
-The user throws the target and drags out\xfffeanother Pokémon in its party.\xfffeIn the wild, the battle ends.
-The user attacks the target with fire.\xfffeIf the target is holding a Berry, the\xfffeBerry becomes burnt up and unusable.
-The user suppresses the target and\xfffemakes its move go last.
-The user nimbly strikes the target.\xfffeIf the user is not holding an item,\xfffethis attack inflicts massive damage.
-The user reflects the target's type,\xfffemaking it the same type as the target.
-The user gets revenge for a fainted ally.\xfffeIf an ally fainted in the previous turn,\xfffethis attack's damage increases.
-The user risks everything to attack its\xfffetarget. The user faints but does damage\xfffeequal to the user's HP.
-The user passes its held item to the\xfffetarget when the target isn't holding\xfffean item.
-The user attacks by engulfing the target\xfffein an intense fire. It leaves the target\xfffewith a burn.
-A column of water strikes the target. When\xfffecombined with its fire equivalent, the\xfffedamage increases and a rainbow appears.
-A column of fire hits opposing Pokémon.\xfffeWhen used with its Grass equivalent, its\xfffedamage increases into a vast sea of fire.
-A column of grass hits opposing Pokémon.\xfffeWhen used with its water equivalent, its\xfffedamage increases into a vast swamp.
-After making its attack, the user\xffferushes back to switch places with\xfffea party Pokémon in waiting.
-While resisting, the user attacks the\xfffeopposing Pokémon. The targets'\xfffeSp. Atk stat is reduced.
-The user stomps down on the ground\xfffeand attacks everything in the area. Hit\xfffePokémon's Speed stat is reduced.
-The user blows a cold breath on the\xfffetarget. This attack always results in\xfffea critical hit.
-The user knocks away the target and\xfffedrags out another Pokémon in its party.\xfffeIn the wild, the battle ends.
-The user is roused, and its Attack\xfffeand Sp. Atk stats increase.
-The user captures and attacks opposing\xfffePokémon by using an electric net. It\xfffereduces the targets' Speed stat.
-The user shrouds itself in electricity\xfffeand smashes into its target.\xfffeIt also damages the user a little.
-The user crashes into its target while\xffferotating its body like a drill.\xfffeCritical hits land more easily.
-The user attacks its target by hitting\xfffeit with brutal strikes.\xfffeThe target is hit twice in a row.
-The user unleashes a vicious blow after\xfffeits cute act makes the target less wary.\xfffeIt may also make the target flinch.
-The user drains the target's energy with\xfffeits horns. The user's HP is restored\xfffeby half the damage taken by the target.
-The user attacks by slicing with its long\xfffehorns. The target's stat changes\xfffedon't affect this attack's damage.
-The user cuts its target with sharp\xfffeshells. This attack may also lower the\xfffetarget's Defense stat.
-The user slams its target with its flame-\xfffecovered body. The more the user outweighs\xfffethe target, the greater the damage.
-The user attacks its target by\xfffeencircling it in sharp leaves. This attack\xfffemay also lower the target's accuracy.
-The user crushes its targets by rolling\xfffeover them with its rolled-up body.\xfffeThis attack may make the target flinch.
-The user protects itself by wrapping\xfffeits body in soft cotton, drastically\xffferaising the user's Defense stat.
-The user lets loose a pitch-black shock\xfffewave at its target. It may also lower the\xfffetarget's accuracy.
-The user materializes an odd\xfffepsychic wave to attack the target.\xfffeThis attack does physical damage.
-The user attacks by striking the target\xfffewith its hard tail. It hits the target two\xfffeto five times in a row.
-The user attacks by wrapping its opponent\xfffein a fierce wind that flies up into the sky.\xfffeIt may also confuse the target.
-The user charges its head into its\xfffetarget, using its powerful guard hair.\xfffeIt also damages the user a little.
-The user attacks by throwing\xfffetwo steel gears at its target.
-An inferno of scarlet flames torches\xfffeeverything around the user. It may\xfffeleave targets with a burn.
-The user fires a beam of light at\xfffeits target. The type changes depending\xfffeon the Drive the user holds.
-The user sings an ancient song and attacks\xfffeby appealing to the hearts of those\xfffelistening. It may also induce sleep.
-The user cuts with its long horn. The odd\xfffepower contained in the horn does physical\xfffedamage to the target.
-The user attacks by blowing freezing cold\xfffeair at opposing Pokémon. This attack\xfffereduces the targets' Speed stat.
-The user charges its target, surrounding\xfffeitself with a great amount of electricity.\xfffeIt may leave the target with paralysis.
-The user attacks by engulfing the target\xfffein an intense, yet beautiful, blue flame.\xfffeIt may leave the target with a burn.
-Cloaked in flames, the user dances\xfffeand flaps its wings. It may also\xffferaise the user's Sp. Atk stat.
-On the second turn, the user hits the\xfffetarget with electrically charged ice.\xfffeIt may leave the target with paralysis.
-On the second turn, an ultracold,\xfffefreezing wind surrounds the target.\xfffeThis may leave the target with a burn.
-The user yells as if it is ranting about\xfffesomething, making the target's Sp. Atk\xfffestat decrease.
-The user attacks by harshly dropping\xfffean icicle onto the target.\xfffeIt may also make the target flinch.
-With a hot flame on its forehead, the user\xfffehurls itself at its target. It lowers the\xfffeuser's Defense, Sp. Def, and Speed stats.
-The user brings down a giant flame.\xfffeThis attack does greater damage when\xfffeinfluenced by an enormous thunderbolt.
-The user throws down a giant thunderbolt.\xfffeThis attack does greater damage\xfffewhen influenced by an enormous flame.
+ながい　しっぽや　てなどを　つかって\xfffeあいてを　はたいて　こうげきする。\xfffe
+するどい　チョップで\xfffeあいてを　たたいて　こうげきする。　\xfffeきゅうしょに　あたりやすい。
+おうふく　ビンタで\xfffeあいてを　たたいて　こうげきする。\xfffe２ー５かいの　あいだ　れんぞくで　だす。
+どとうの　パンチで\xfffeあいてを　なぐりつけて　こうげきする。\xfffe２ー５かいの　あいだ　れんぞくで　だす。
+ちからを　こめた　パンチで\xfffeあいてを　こうげきする。\xfffe
+あいての　からだに\xfffeこばんを　なげつけて　こうげきする。\xfffeせんとうの　あとで　おかねが　もらえる。
+ほのおを　こめた　パンチで\xfffeあいてを　こうげきする。\xfffeやけど　じょうたいに　することが　ある。
+れいきを　こめた　パンチで\xfffeあいてを　こうげきする。\xfffeこおり　じょうたいに　することが　ある。
+でんげきを　こめた　パンチで\xfffeあいてを　こうげきする。\xfffeまひ　じょうたいに　することが　ある。
+かたく　とがった　するどい　ツメで\xfffeあいてを　ひっかいて　こうげきする。\xfffe
+あいてを　りょうがわから　はさんで\xfffeダメージを　あたえる。\xfffe
+おおきな　ハサミで\xfffeあいてを　きりさいて　こうげきする。\xfffeあたれば　いちげきで　ひんしに　する。
+かぜの　やいばを　つくり\xfffe２ターンめに　あいてを　こうげきする。\xfffeきゅうしょに　あたりやすい。
+たたかいのまいを　はげしく　おどって\xfffeきあいを　たかめる。\xfffeじぶんの　こうげきを　ぐーんと　あげる。
+カマや　ツメなどで\xfffeあいてを　きりつけて　こうげきする。\xfffeほそいきも　きることが　できる。
+つばさで　おこした　はげしい　かぜを\xfffeあいてに　ぶつけて　こうげきする。\xfffe
+おおきく　ひろげた　りっぱな　つばさを\xfffeあいてに　ぶつけて　こうげきする。\xfffe
+あいてを　ふきとばして\xfffeひかえの　ポケモンを　ひきずりだす。\xfffeやせいの　ばあいは　せんとうが　おわる。
+１ターンめで　そらへ　とび\xfffe２ターンめに　あいてを　こうげきする。\xfffeしっている　まちに　とぶことも　できる。
+ながい　からだや　つるなどを　つかい\xfffe４ー５ターンの　あいだ　\xfffeあいてを　しめつけて　こうげきする。
+ながい　しっぽや　つるなどを　つかい\xfffeあいてを　たたきつけて　こうげきする。\xfffe
+ムチのように　しなる　ほそながい　つるで\xfffeあいてを　たたきつけて　こうげきする。\xfffe
+おおきな　あしで\xfffeあいてを　ふみつけて　こうげきする。\xfffeあいてを　ひるませる　ことが　ある。
+２ほんの　あしで　あいてを　けとばして\xfffeこうげきする。２かい　れんぞくで\xfffeダメージを　あたえる。
+ものすごい　ちからを　こめた　キックで\xfffeあいてを　けとばして　こうげきする。\xfffe
+たかい　ジャンプからの　キックで\xfffeあいてを　こうげきする。\xfffeはずすと　じぶんが　ダメージを　うける。
+からだを　すばやく　かいてん　させながら\xfffeあいてを　けとばして　こうげきする。\xfffe
+あいての　かおに　すなを　かけて　\xfffeめいちゅうりつを　さげる。\xfffe
+あたまを　つきだして\xfffeまっすぐ　つっこんで　こうげきする。\xfffeあいてを　ひるませる　ことが　ある。
+するどく　とがった　つので\xfffeあいてを　こうげきする。\xfffe
+つのや　くちばしで\xfffeあいてを　つついて　こうげきする。\xfffe２ー５かいの　あいだ　れんぞくで　だす。
+かいてんする　つのを\xfffeあいてに　つきさして　こうげきする。\xfffeあたれば　いちげきで　ひんしに　する。
+あいてに　むかって　からだ　ぜんたいで\xfffeぶつかって　いき　こうげきする。\xfffe
+からだ　ぜんたいで\xfffeあいてに　のしかかり　こうげきする。\xfffeまひ　じょうたいに　することが　ある。
+ながい　からだや　つるなどを　つかって\xfffe４ー５ターンの　あいだ\xfffeあいてに　まきついて　こうげきする。
+すごい　いきおいで\xfffeあいてに　ぶつかって　こうげきする。\xfffeじぶんも　すこし　ダメージを　うける。
+２ー３ターンの　あいだ\xfffeあばれまくって　あいてを　こうげきする。\xfffeあばれた　あとは　こんらん　する。
+いのちを　かけて\xfffeあいてに　とっしんして　こうげきする。\xfffeじぶんも　かなり　ダメージを　うける。
+しっぽを　さゆうに　かわいく　ふって\xfffeゆだんを　さそう。\xfffeあいての　ぼうぎょを　さげる。
+どくの　ある　ハリを\xfffeあいてに　つきさして　こうげきする。\xfffeどく　じょうたいに　することが　ある。
+２ほんの　ハリを　あいてに　つきさし\xfffe２かい　れんぞくで　ダメージ。\xfffeどく　じょうたいに　することが　ある。
+するどい　ハリを\xfffeあいてに　はっしゃして　こうげきする。\xfffe２ー５かいの　あいだ　れんぞくで　だす。
+するどい　めつきで　おびえさせて\xfffeあいての　ぼうぎょを　さげる。\xfffe
+するどく　とがった　はで\xfffeかみついて　こうげきする。\xfffeあいてを　ひるませる　ことが　ある。
+かわいい　なきごえを　きかせて\xfffeきを　ひき　ゆだんを　させて\xfffeあいての　こうげきを　さげる。
+あいてを　にがして\xfffeひかえの　ポケモンを　ひきずりだす。\xfffeやせいの　ばあいは　せんとうが　おわる。
+ここちよい　きれいな\xfffeうたごえを　きかせて\xfffeあいてを　ねむり　じょうたいに　する。
+とくしゅな　おんぱを\xfffeからだから　はっして　\xfffeあいてを　こんらん　させる。
+しょうげきはを\xfffeあいてに　ぶつけて　こうげきする。\xfffe２０の　ダメージを　きまって　あたえる。
+あいての　うごきを　とめて\xfffeちょくぜんに　だしていた　わざを\xfffe４ターンの　あいだ　つかえなく　する。
+つよい　さんを　あいてに　かけて\xfffeこうげきする。あいての　とくぼうを\xfffeさげることが　ある。
+ちいさな　ほのおを\xfffeあいてに　はっしゃして　こうげきする。\xfffeやけど　じょうたいに　することが　ある。
+はげしい　ほのおを\xfffeあいてに　はっしゃして　こうげきする。\xfffeやけど　じょうたいに　することが　ある。
+しろいきりで　からだを　おおう。\xfffe５ターンの　あいだ　あいてに\xfffeのうりょくを　さげられなく　なる。
+みずを　いきおいよく\xfffeあいてに　はっしゃして　こうげきする。\xfffe
+たいりょうの　みずを\xfffeはげしい　いきおいで\xfffeあいてに　はっしゃして　こうげきする。
+おおきな　なみで　じぶんの\xfffeまわりに　いるものを　こうげきする。\xfffeみずの　うえも　およいで　すすめる。
+こごえる　ビームを\xfffeあいてに　はっしゃして　こうげきする。\xfffeこおり　じょうたいに　することが　ある。
+はげしい　ふぶきを\xfffeあいてに　ふきつけて　こうげきする。\xfffeこおり　じょうたいに　することが　ある。
+ふしぎな　こうせんを\xfffeあいてに　はっしゃして　こうげきする。\xfffeこんらん　させることが　ある。
+あわを　いきおいよく\xfffeあいてに　はっしゃして　こうげきする。\xfffeすばやさを　さげる　ことが　ある。
+にじいろの　ビームを\xfffeあいてに　はっしゃして　こうげきする。\xfffeこうげきを　さげる　ことが　ある。
+つよい　こうせんを\xfffeあいてに　はっしゃして　こうげきする。\xfffeつぎの　ターンは　うごけなく　なる。
+するどく　とがった　くちばしや　つので　\xfffeあいてを　つついて　こうげきする。\xfffe
+かいてん　しながら　とがった　くちばしを\xfffeあいてに　つきさして　こうげきする。\xfffe
+じめんに　じぶんごと\xfffeあいてを　なげつけて　こうげきする。\xfffeじぶんも　すこし　ダメージを　うける。
+あしを　つよく　けり　あいてを\xfffeころばせて　こうげきする。あいてが\xfffeおもいほど　いりょくが　あがる。
+あいてから　うけた　ぶつり　こうげきの\xfffeダメージを　２ばいに　して\xfffeおなじ　あいてに　かえす。
+いんりょくを　つかい　なげとばす。\xfffeじぶんの　レベルと　おなじ　ダメージを\xfffeあいてに　あたえる。
+こんしんの　ちからで\xfffeあいてを　なぐりつけて　こうげきする。\xfffeおもたい　いわを　おすことも　できる。
+ようぶんを　すいとり　こうげきする。\xfffeあいてに　あたえた　ダメージの\xfffeはんぶんの　ＨＰを　かいふくできる。
+ようぶんを　すいとり　こうげきする。\xfffeあいてに　あたえた　ダメージの\xfffeはんぶんの　ＨＰを　かいふくできる。
+うえつけた　あいての　ＨＰを\xfffeまいターン　すこしだけ　すいとり\xfffeじぶんの　ＨＰを　かいふく　する。
+からだを　いっきに\xfffeおおきく　せいちょう　させて\xfffeこうげきと　とくこうを　あげる。
+はっぱを　とばして　\xfffeあいてを　きりつけて　こうげきする。\xfffeきゅうしょに　あたりやすい。
+１ターンめに　ひかりを　いっぱいに\xfffeあつめ　２ターンめに　ひかりの　たばを\xfffeはっしゃして　こうげきする。
+どくの　ある　こなを\xfffeたくさん　ふりまいて\xfffeあいてを　どく　じょうたいに　する。
+しびれる　こなを\xfffeたくさん　ふりまいて\xfffeあいてを　まひ　じょうたいに　する。
+ねむくなる　こなを\xfffeたくさん　ふりまいて\xfffeあいてを　ねむり　じょうたいに　する。
+２ー３ターンの　あいだ　はなを\xfffeまきちらして　あいてを　こうげきする。\xfffeまきちらした　あとは　こんらん　する。
+くちから　ふきだした　いとを　まきつけて\xfffeあいての　すばやさを　さげる。\xfffe
+いかりの　しょうげきはを\xfffeあいてに　ぶつけて　こうげきする。\xfffe４０の　ダメージを　きまって　あたえる。
+はげしく　うずをまく　ほのおの　なかに\xfffe４ー５ターンの　あいだ\xfffeあいてを　とじこめて　こうげきする。
+でんきの　しげきを\xfffeあいてに　あびせて　こうげきする。\xfffeまひ　じょうたいに　することが　ある。
+つよい　でんげきを\xfffeあいてに　あびせて　こうげきする。\xfffeまひ　じょうたいに　することが　ある。
+よわい　でんげきを　あびせる　ことで\xfffeあいてを　まひ　じょうたいに　する。\xfffe
+はげしい　かみなりを\xfffeあいてに　おとして　こうげきする。\xfffeまひ　じょうたいに　することが　ある。
+ちいさな　いわを　もちあげて\xfffeあいてに　なげつけて　こうげきする。\xfffe
+じしんの　しょうげきで　じぶんの\xfffeまわりに　いるものを　こうげきする。\xfffe
+じわれの　さけめに\xfffeあいてを　おとして　こうげきする。\xfffeあたれば　いちげきで　ひんしに　する。
+１ターンめに　もぐり　２ターンめで\xfffeあいてを　こうげきする。どうくつ\xfffeからの　だっしゅつも　できる。
+あいてを　もうどくの\xfffeじょうたいに　する。ターンが　すすむほど\xfffeどくの　ダメージが　ふえていく。
+よわい　ねんりきを\xfffeあいてに　おくって　こうげきする。\xfffeあいてを　こんらん　させることが　ある。
+つよい　ねんりきを　あいてに　おくって\xfffeこうげきする。あいての　とくぼうを\xfffeさげることが　ある。
+ねむけを　さそう　あんじを　かけて\xfffeあいてを　ねむり　じょうたいに　する。\xfffe
+ねむっている　ちからを\xfffeからだの　おくから　ひきだして\xfffeじぶんの　こうげきを　あげる。
+ちからを　ぬいて　からだを　かるくして\xfffeこうそくで　うごく。\xfffeじぶんの　すばやさを　ぐーんと　あげる。
+めにも　とまらぬ　ものすごい　はやさで\xfffeあいてに　つっこむ。\xfffeかならず　せんせい　こうげき　できる。
+わざを　だしたときに　こうげきを\xfffeうけると　いかりの　ちからで\xfffeこうげきが　あがる。
+やせい　ポケモンとの　せんとうを\xfffeやめる。さいごに　はいった\xfffeポケセンの　ある　まちにも　いける。
+おそろしい　まぼろしを　みせて\xfffeじぶんの　レベルと　おなじ　だけの\xfffeダメージを　あいてに　あたえる。
+あいてが　さいごに　つかった　わざを\xfffeせんとうの　あいだ\xfffeじぶんの　わざに　することが　できる。
+おもわず　みみを　ふさぎたくなる\xfffeいやなおとを　だして\xfffeあいての　ぼうぎょを　がくっと　さげる。
+すばやい　うごきで　ぶんしんを　つくり\xfffeあいてを　まどわせて\xfffeかいひりつを　あげる。
+さいぼうを　さいせい　させて\xfffeじぶんの　さいだい　ＨＰの\xfffeはんぶんの　ＨＰを　かいふく　する。
+ぜんしんに　ちからを　こめて\xfffeからだを　かたくして\xfffeじぶんの　ぼうぎょを　あげる。
+からだを　ちぢめて　ちいさく　みせて\xfffeじぶんの　かいひりつを\xfffeぐーんと　あげる。
+けむりや　スミなどを　ふきかけて\xfffeあいての　めいちゅうりつを　さげる。\xfffe
+あやしい　ひかりを　\xfffeあいてに　みせて　まどわせる。\xfffeあいてを　こんらん　させる。
+からに　もぐりこんで　みをまもり\xfffeじぶんの　ぼうぎょを　あげる。\xfffe
+からだを　まるめて　ちぢこまり\xfffeじぶんの　ぼうぎょを　あげる。\xfffe
+がんじょうな　かべを　つくって\xfffeじぶんの　ぼうぎょを　ぐーんと　あげる。\xfffe
+５ターンの　あいだ　ふしぎな　かべで\xfffeあいてから　うける　とくしゅ　こうげきの\xfffeダメージを　よわめる。
+くろいきりを　だして　せんとうに\xfffeでている　ポケモン　ぜんいんの\xfffeのうりょく　へんかを　もとに　もどす。
+５ターンの　あいだ　ふしぎな　かべで\xfffeあいてから　うける　ぶつり　こうげきの\xfffeダメージを　よわめる。
+ふかく　いきを　すい　きあいを　こめる。\xfffeじぶんの　こうげきが\xfffeきゅうしょに　あたりやすく　なる。
+２ターンの　あいだ　こうげきに　たえて\xfffeうけた　ダメージを　２ばいに　して\xfffeあいてに　かえす。
+ゆびをふり　じぶんの　のうを　しげきして\xfffeすべての　わざの　なかから\xfffeどれか　１つを　くりだす。
+あいての　つかった　わざを　まねして\xfffeじぶんも　おなじ　わざを　つかう。\xfffe
+ばくはつを　おこして　じぶんの\xfffeまわりに　いるものを　こうげきする。\xfffeつかった　あとに　ひんしに　なる。
+おおきな　タマゴを　ちから　いっぱい\xfffeあいてに　なげつけて　こうげきする。\xfffe
+ながい　したで\xfffeあいてを　なめまわして　こうげきする。\xfffeまひ　じょうたいに　することが　ある。
+よごれた　ガスを\xfffeあいてに　ふきつけて　こうげきする。\xfffeどく　じょうたいに　することが　ある。
+きたない　ヘドロを\xfffeあいてに　なげつけて　こうげきする。\xfffeどく　じょうたいに　することが　ある。
+てに　もった　ホネで\xfffeあいてを　なぐりつけて　こうげきする。\xfffeあいてを　ひるませる　ことが　ある。
+だいのじの　ほのおで\xfffeあいてを　やきつくす。\xfffeやけど　じょうたいに　することが　ある。
+すごい　いきおいで　あいてに　つっこむ。\xfffeあいてを　ひるませる　ことが　ある。\xfffeたきも　およいで　のぼれる。
+とても　がんじょうな　ぶあつい　からに\xfffe４ー５ターンの　あいだ\xfffeあいてを　はさんで　こうげきする。
+ほしがたの　ひかりを　はっしゃして\xfffeあいてを　こうげきする。\xfffeこうげきは　かならず　めいちゅう　する。
+１ターンめに　あたまを　ひっこめて\xfffeぼうぎょを　あげる。\xfffe２ターンめに　あいてを　こうげきする。
+するどい　ハリを\xfffeあいてに　はっしゃして　こうげきする。\xfffe２ー５かいの　あいだ　れんぞくで　だす。
+しょくしゅや　ツタ　などを　からみつけて\xfffeこうげきする。あいての　すばやさを\xfffeさげることが　ある。
+あたまを　からにして\xfffeいっしゅん　なにかを　わすれる　ことで\xfffeじぶんの　とくぼうを　ぐーんと　あげる。
+スプーンを　まげて　ちゅういを　ひき\xfffeあいての　めいちゅうりつを　さげる。\xfffe
+さいだい　ＨＰの　はんぶん\xfffeじぶんの　ＨＰを　かいふく　する。\xfffeなかまに　ＨＰを　わけることも　できる。
+ジャンプからの　ひざげりで\xfffeあいてを　こうげきする。\xfffeはずすと　じぶんが　ダメージを　うける。
+おなかの　もようで　おびえさせて\xfffeあいてを　まひの　じょうたいに　する。\xfffe
+ねている　あいての　ゆめを　たべて\xfffeこうげきする。　ダメージの　はんぶんの\xfffeＨＰを　かいふく　する。
+どくガスを　あいての　かおに　ふきかけて\xfffeどくの　じょうたいに　する。\xfffe
+まるい　ものを\xfffeあいてに　なげつけて　こうげきする。\xfffe２ー５かいの　あいだ　れんぞくで　だす。
+ちを　すいとって　あいてを\xfffeこうげきする。　あたえた　ダメージの\xfffeはんぶんの　ＨＰを　かいふく　できる。
+おそろしい　かおで　キスを　せまる。\xfffeあいてを　ねむり　じょうたいに　する。\xfffe
+２ターンめに　あいてを　こうげきする。\xfffeたまに　ひるませる。\xfffeきゅうしょにも　あたりやすい。
+あいての　ポケモンに　へんしん\xfffeすることで　あいてと　まったく\xfffeおなじ　わざが　つかえる。
+むすうの　あわを　あいてに　ふきかけて\xfffeこうげきする。あいての　すばやさを\xfffeさげることが　ある。
+リズミカルに　パンチを　くりだして\xfffeあいてを　こうげきする。\xfffeこんらん　させることが　ある。
+さいみん　こうかの　ある\xfffeほうしを　パラパラと　ふりまき\xfffeあいてを　ねむり　じょうたいに　する。
+まぶしい　ひかりで　\xfffeあいての　めいちゅうりつを　さげる。\xfffeくらい　どうくつも　あかるく　てらせる。
+ふしぎな　ねんぱを\xfffeあいてに　はっしゃして　こうげきする。\xfffeつかう　たびに　ダメージが　かわる。
+こうげきも　せずに　ピョン　ピョンと\xfffeはねるだけで　なにも　おこらない　……。\xfffe
+さいぼうの　へんかで　えきじょうに　なり\xfffeじぶんの　ぼうぎょを　ぐーんと　あげる。\xfffe
+おおきな　ハサミを\xfffeあいてに　たたきつけて　こうげきする。　\xfffeきゅうしょに　あたりやすい。
+おおきな　ばくはつで　じぶんの\xfffeまわりに　いるものを　こうげきする。\xfffeつかった　あとに　ひんしに　なる。
+ツメや　カマなどで\xfffeあいてを　ひっかいて　こうげきする。\xfffe２ー５かいの　あいだ　れんぞくで　だす。
+てに　もった　ホネを　あいてに　なげつけ\xfffeいきと　かえりで　２かい　れんぞくで\xfffeダメージを　あたえる。
+２ターンの　あいだ　ねむり　つづける。\xfffeじぶんの　ＨＰと　じょうたいいじょうを\xfffeすべて　かいふく　する。
+おおきな　いわを\xfffeはげしく　ぶつけて　こうげきする。\xfffeあいてを　ひるませる　ことが　ある。
+するどい　まえばで\xfffeつよく　かみついて　こうげきする。\xfffeあいてを　ひるませる　ことが　ある。
+からだの　かどを　ふやして\xfffeカクカクに　なることで\xfffeじぶんの　こうげきを　あげる。
+じぶんの　タイプを\xfffeおぼえている　わざの　なかの\xfffeどれか　１つと　おなじ　タイプに　する。
+３つの　こうせんで　こうげきする。\xfffeまひか　やけどか　こおりじょうたいの\xfffeどれかに　することが　ある。
+するどい　まえばで\xfffeはげしく　かみついて　こうげきする。\xfffeあいての　ＨＰは　はんぶんに　なる。
+ツメや　カマ　などで\xfffeあいてを　きりさいて　こうげきする。\xfffeきゅうしょに　あたりやすい。
+じぶんの　ＨＰを　すこし　けずって\xfffeぶんしんを　だす。\xfffeぶんしんは　じぶんの　みがわりに　なる。
+じぶんの　ＰＰが　なくなると\xfffeあがいて　あいてを　こうげきする。\xfffeじぶんも　すこし　ダメージを　うける。
+あいてが　つかった　わざを\xfffeじぶんの　ものに　する。\xfffe１かい　つかうと　スケッチは　きえる。
+３かい　れんぞくで　キックを　くりだして\xfffeこうげきする。わざが　あたる　たびに\xfffeいりょくは　あがる。
+こうげきと　どうじに　どうぐを　ぬすむ。\xfffeじぶんが　どうぐを　もっている　ばあいは\xfffeぬすめない。
+ネバネバした　ほそい　いとを\xfffeグルグルと　からませて　あいてを\xfffeせんとうから　にげられなく　する。
+あいての　うごきを　こころで　かんじて\xfffeつぎの　こうげきが　かならず\xfffeあいてに　あたるように　する。
+ねむり　じょうたいの　あいてに\xfffeあくむを　みせて　まいターン　すこしずつ\xfffeＨＰを　へらしていく。
+ほのおを　まとい\xfffeあいてに　とっしんして　こうげきする。\xfffeやけど　じょうたいに　することが　ある。
+じぶんが　ねている　ときに\xfffeざつおんを　だして　こうげきする。　\xfffeあいてを　ひるませる　ことが　ある。
+つかう　ポケモンが\xfffeゴーストタイプと　それいがい　とでは\xfffeこうかが　かわる。
+じたばた　あばれて　こうげきする。\xfffeじぶんの　ＨＰが　すくないほど\xfffeわざの　いりょくは　あがる。
+あいてが　さいごに　つかった　わざに\xfffeていこう　できる　ように\xfffeじぶんの　タイプを　へんか　させる。
+くうきの　うずを\xfffeはっしゃして　こうげきする。\xfffeきゅうしょに　あたりやすい。
+わたのような　フワフワの　ほうしを\xfffeまとわり　つかせて\xfffeあいての　すばやさを　がくっと　さげる。
+ちからを　ふりしぼり　こうげきする。\xfffeじぶんの　ＨＰが　すくないほど\xfffeわざの　いりょくは　あがる。
+あいてが　さいごに　つかった　わざに\xfffeうらみを　いだいて\xfffeそのわざの　ＰＰを　４だけ　へらす。
+つめたい　こなゆきを\xfffeあいてに　ふきつけて　こうげきする。\xfffeこおり　じょうたいに　することが　ある。
+あいての　こうげきを\xfffeまったく　うけない。\xfffeれんぞくで　だすと　しっぱい　しやすい。
+めにも　とまらぬ　ものすごい　はやさで\xfffeパンチを　くりだす。\xfffeかならず　せんせい　こうげき　できる。
+おそろしい　かおで　にらみ　おびえさせて\xfffeあいての　すばやさを　がくっと　さげる。\xfffe
+さりげなく　あいてに　ちかづき\xfffeゆだんした　すきを　みて　なぐりつける。\xfffeこうげきは　かならず　めいちゅう　する。
+てんしのように　かわいく　キスして\xfffeあいてを　こんらん　させる。\xfffe
+じぶんの　ＨＰを　さいだい　ＨＰの\xfffeはんぶん　へらして　じぶんの　こうげきを\xfffeさいだいに　あげる。
+きたない　ヘドロを\xfffeあいてに　なげつけて　こうげきする。\xfffeどく　じょうたいに　することが　ある。
+あいての　かおなどに\xfffeドロを　なげつけて　こうげきする。\xfffeめいちゅうりつを　さげる。
+あいての　かおなどに\xfffeすみを　ふきかけて　こうげきする。\xfffeめいちゅうりつを　さげることが　ある。
+あいての　あしもとに　まきびしを\xfffeしかける。こうたいで　でてきた　あいての\xfffeポケモンに　ダメージを　あたえる。
+たいほうの　ような\xfffeでんきを　はっしゃして　こうげきする。\xfffeあいてを　まひの　じょうたいに　する。
+ゴーストタイプに　こうかがない　わざや\xfffeかいひりつの　たかい　あいてに\xfffeこうげきが　あたるように　なる。
+わざを　だしたあと　こうげきを　うけて\xfffeひんしに　なったとき\xfffeこうげき　あいても　ひんしに　する。
+うたを　きいた　ポケモンは\xfffe３ターン　たつと　ひんしに　なる。\xfffeこうたいすると　こうかは　なくなる。
+つめたい　れいきを\xfffeあいてに　ふきつけて　こうげきする。\xfffeあいての　すばやさを　さげる。
+あいての　こうげきを\xfffeまったく　うけない。\xfffeれんぞくで　だすと　しっぱい　しやすい。
+かたい　ホネで\xfffeあいてを　なぐりつけて　こうげきする。\xfffe２ー５かいの　あいだ　れんぞくで　だす。
+しょうじゅんを　しっかり　あわせて\xfffeつぎの　こうげきが　かならず　\xfffeあいてに　あたるように　する。
+２ー３ターンの　あいだ\xfffeあばれまくって　こうげきする。\xfffeあばれた　あとは　こんらん　する。
+５ターンの　あいだ　すなあらしで\xfffeいわ　じめん　はがねタイプ　いがいの\xfffeポケモンに　ダメージを　あたえる。
+ようぶんを　すいとり　こうげきする。\xfffeあたえた　ダメージの\xfffeはんぶんの　ＨＰを　かいふく　できる。
+こうげきを　うけても\xfffeＨＰを　かならず　１だけ　のこせる。\xfffeれんぞくで　だすと　しっぱい　しやすい。
+かわいく　みつめて　ゆだんを　さそい\xfffeあいての　こうげきを　がくっと　さげる。\xfffe
+５ターンの　あいだ　ころがりつづけて\xfffeこうげきする。わざが　あたる　たびに\xfffeいりょくが　あがる。
+あいての　ＨＰが　\xfffeかならず　１だけ　のこる　ように\xfffeてかげん　して　こうげきする。
+あいてを　おこらせて　こんらん　させる。\xfffeいかりで　あいての　こうげきは\xfffeぐーんと　あがってしまう。
+さいだい　ＨＰの　はんぶん\xfffeじぶんの　ＨＰを　かいふく　する。\xfffeなかまに　ＨＰを　わけることも　できる。
+でんきを　まとい\xfffeあいてに　とっしんして　こうげきする。\xfffeまひ　じょうたいに　することが　ある。
+カマや　ツメ　などで　あいてを\xfffeきりつけて　こうげきする。れんぞくで\xfffeあてると　いりょくが　あがる。
+かたい　つばさを　あいてに　たたきつけて\xfffeこうげきする。じぶんの　ぼうぎょが\xfffeあがることが　ある。
+すいこまれる　ような　くろい　まなざしで\xfffeじっと　みつめて　あいてを\xfffeせんとうから　にげられなく　する。
+♂なら♀を　♀なら♂を　ゆうわくして\xfffeメロメロに　する。\xfffeあいては　わざが　だしにくく　なる。
+じぶんが　おぼえている　わざの　うち\xfffeどれか　１つを　くりだす。\xfffeじぶんが　ねている　ときだけ　つかえる。
+ここちよい　すずの　ねいろを　きかせて\xfffeみかた　ぜんいんの\xfffeじょうたい　いじょうを　かいふく　する。
+トレーナーの　ために　ぜんりょくで\xfffeあいてを　こうげきする。\xfffeなついて　いるほど　いりょくは　あがる。
+わなを　しかけた　はこを\xfffeあいてに　わたして　こうげきする。ＨＰが\xfffeかいふくして　しまうことも　ある。
+ふまんを　はらすため　ぜんりょくで\xfffeあいてを　こうげきする。なついて\xfffeいないほど　いりょくは　あがる。
+５ターンの　あいだ\xfffeふしぎな　ちからに　まもられて\xfffeじょうたい　いじょうに　ならなくなる。
+じぶんの　ＨＰと　あいての　ＨＰを\xfffeあわせて　それを　じぶんと　あいてで\xfffeなかよく　わける。
+しんぴの　ほのおで\xfffeあいてを　やきつくして　こうげきする。\xfffeやけど　じょうたいに　することが　ある。
+じめんを　ゆらして　じぶんの\xfffeまわりに　いるものを　こうげきする。\xfffeわざの　いりょくは　いろいろ　かわる。
+こんしんの　ちからで\xfffeパンチを　くりだして　こうげきする。\xfffeあいてを　かならず　こんらん　させる。
+かたくて　りっぱな　つので　おもいっきり\xfffeあいてを　つきさして　こうげきする。\xfffe
+ものすごい　いきを\xfffeあいてに　ふきつけて　こうげきする。\xfffeまひ　じょうたいに　することが　ある。
+ひかえの　ポケモンと　いれかわる。\xfffeのうりょく　へんかは　かわった\xfffeポケモンが　そのまま　うけつぐ。
+あいてが　さいごに　つかった　わざを\xfffe３ターンの　あいだ\xfffeずっと　ださせる。
+あいて　ポケモンが　いれかわる　ときに\xfffeわざを　だしていると\xfffeばいの　いりょくで　こうげき　できる。
+かいてんして　あいてを　こうげきする。\xfffeしめつける　まきつく　やどりぎのタネ\xfffeまきびし　なども　ふきとばせる。
+かおりで　あいての　かいひりつを\xfffeさげる。くさむら　などで　つかうと\xfffeポケモンが　よってくる。
+かたい　しっぽで　あいてを　たたきつけて\xfffeこうげきする。あいての　ぼうぎょを\xfffeさげることが　ある。
+こうてつの　ツメで　あいてを　きりさいて\xfffeこうげきする。じぶんの　こうげきが\xfffeあがることが　ある。
+あいてより　あとに　こうげきする。\xfffeそのかわり　じぶんの　こうげきは\xfffeかならず　めいちゅうする。
+じぶんの　ＨＰを　かいふく　する。\xfffeてんきに　よって\xfffeかいふくの　りょうが　へんか　する。
+じぶんの　ＨＰを　かいふく　する。\xfffeてんきに　よって\xfffeかいふくの　りょうが　へんか　する。
+じぶんの　ＨＰを　かいふく　する。\xfffeてんきに　よって\xfffeかいふくの　りょうが　へんか　する。
+わざを　つかった　ポケモンに　よって\xfffeあいてに　あたえる\xfffeわざの　タイプと　いりょくが　かわる。
+りょうて　チョップを\xfffeあいてに　たたきつけて　こうげきする。\xfffeきゅうしょに　あたりやすい。
+たつまきを　おこして\xfffeあいてを　まきこみ　こうげきする。\xfffeあいてを　ひるませる　ことが　ある。
+５ターンの　あいだ　あめを　ふらせて\xfffeみずタイプの\xfffeわざの　いりょくを　あげる。
+５ターンの　あいだ　ひざしを\xfffeつよくして　ほのおタイプの\xfffeわざの　いりょくを　あげる。
+するどい　はで　あいてを　かみくだいて\xfffeこうげきする。あいての　ぼうぎょを\xfffeさげることが　ある。
+あいてから　うけた　とくしゅ　こうげきの\xfffeダメージを　２ばいに　して\xfffeそのあいてに　かえす。
+じぶんに　あんじを　かけることで\xfffeのうりょく　へんかの　じょうたいを\xfffeあいてと　おなじにする。
+めにも　とまらぬ　ものすごい　はやさで\xfffeあいてに　とっしんして　こうげきする。\xfffeかならず　せんせい　こうげき　できる。
+げんしの　ちからで　こうげきする。\xfffeじぶんの　すべての\xfffeのうりょくが　あがることが　ある。
+くろいかげの　かたまりを　なげつけて\xfffeこうげきする。あいての　とくぼうを\xfffeさげることが　ある。
+わざを　つかった　２ターン　あとに\xfffeあいてに　ねんりきの\xfffeかたまりを　おくって　こうげきする。
+いわを　くだくような\xfffeパンチで　こうげきする。あいての\xfffeぼうぎょを　さげる　ことが　ある。
+はげしく　うずをまく　みずの　なかに\xfffe４ー５ターンの　あいだ\xfffeあいてを　とじこめて　こうげきする。
+みかた　ぜんいんで　こうげきする。\xfffeなかまの　ポケモンが　おおいほど\xfffeわざの　こうげきかいすうが　ふえる。
+せんせい　こうげきで　あいてを\xfffeひるませる。せんとうに　でたら\xfffeすぐに　ださないと　せいこう　しない。
+３ターンの　あいだ\xfffeさわいで　あいてを　こうげきする。\xfffeそのあいだは　だれも　ねむれなく　なる。
+ちからを　たくわえて　じぶんの\xfffeぼうぎょと　とくぼうを　あげる。\xfffeさいだい　３かいまで　たくわえられる。
+たくわえた　ちからを　あいてに　ぶつけて\xfffeこうげきする。たくわえて　いるほど\xfffeいりょくが　あがる。
+たくわえた　ちからを　のみこんで\xfffeじぶんの　ＨＰを　かいふく　する。\xfffeたくわえて　いるほど　かいふく　する。
+あつい　いきを\xfffeあいてに　ふきつけて　こうげきする。\xfffeやけど　じょうたいに　することが　ある。
+５ターンの　あいだ　あられを　ふらして\xfffeこおりタイプで　ない　ポケモン\xfffeぜんいんに　ダメージを　あたえる。
+あいてに　いちゃもんを　つけて　\xfffeおなじ　わざを　２かい　れんぞくで\xfffeだせなくする。
+あいてを　おだてて　こんらん　させる。\xfffeどうじに　あいての　とくこうも\xfffeあげて　しまう。
+ぶきみで　あやしい　ほのおを　はなって\xfffeあいてを　やけどの　じょうたいに　する。\xfffe
+じぶんは　ひんしに　なるが　そのかわりに\xfffeあいての　こうげきと　とくこうを\xfffeがくっと　さげる。
+じぶんが　どく　まひ　やけど\xfffeじょうたいの　とき　あいてに　くりだすと\xfffeわざの　いりょくが　２ばいに　なる。
+せいしんを　たかめて　パンチを\xfffeくりだす。わざを　だす　までに\xfffeこうげきを　うけると　しっぱい　する。
+まひ　じょうたいの　あいてには\xfffeいりょくが　２ばいに　なるが\xfffeかわりに　あいての　まひが　なおる。
+じぶんに　ちゅうもく　させて\xfffeあいてからの　こうげきを\xfffeすべて　じぶんに　むけさせる。
+しぜんの　ちからで　こうげきする。\xfffeつかう　ばしょで\xfffeでてくる　わざが　へんかする。
+つぎの　ターンに　だす　でんきタイプの\xfffeわざの　いりょくを　あげる。\xfffeじぶんの　とくぼうも　あがる。
+あいてを　おこらせる。３ターンの\xfffeあいだ　あいては　ダメージを\xfffeあたえる　わざしか　だせなく　なる。
+なかまを　たすける。\xfffeてだすけ　された　ポケモンの　わざの\xfffeいりょくは　いつもより　おおきく　なる。
+あいての　すきを　ついて\xfffeじぶんと　あいての\xfffeもちものを　こうかんする。
+あいてに　なりきって　じぶんも　あいてと\xfffeおなじ　とくせいに　へんかする。\xfffe
+つぎの　ターンに　\xfffeじぶんの　ＨＰを　さいだい　ＨＰの　\xfffeはんぶん　かいふく　する。
+おおいそぎで　みかたの　たすけを　かりて\xfffeひかえの　ポケモンが　おぼえている\xfffeわざを　どれか　１つ　つかう。
+だいちに　ねを　はり　まいターン\xfffeじぶんの　ＨＰを　かいふく　する。\xfffeねを　はっているので　いれかえられない。
+すごい　ちからを　はっきして\xfffeあいてを　こうげきする。じぶんの\xfffeこうげきと　ぼうぎょが　さがる。
+じょうたい　いじょうに　なる　ワザや\xfffeやどりぎのタネ　などを\xfffeだされたとき　あいてに　はねかえす。
+せんとうちゅうに　つかって　なくなった\xfffeじぶんの　もちものを　さいせい　させて\xfffeつかえるように　する。
+あいてから　わざを　うけていると\xfffeその　あいてに　たいして\xfffeあたえる　ダメージが　２ばいに　なる。
+しゅとうを　いきおいよく　ふりおろして\xfffeあいてを　こうげきする。ひかりのかべや\xfffeリフレクターも　はかいできる。
+おおきな　あくびで　ねむけを　さそう。\xfffeつぎの　ターンに\xfffeあいてを　ねむり　じょうたいに　する。
+あいての　もちものを　はたき　おとして\xfffeせんとうが　おわるまで\xfffeつかえなく　する。
+あいての　ＨＰが　じぶんの　ＨＰと\xfffeおなじ　くらいに　なるように\xfffeダメージを　あたえる。
+いかりを　ばくはつ　させて　あいてを\xfffeこうげきする。じぶんの　ＨＰが　すくない\xfffeほど　わざの　いりょくは　さがる。
+ちょうのうりょくで　じぶんの　とくせいと\xfffeあいての　とくせいを　いれかえる。\xfffe
+あいてが　じぶんと　おなじ　わざを\xfffeおぼえていたら　あいてだけ\xfffeそのわざを　つかえなく　する。
+からだを　やすめて　じぶんが　おっている\xfffeどく　まひ　やけどの\xfffeじょうたい　いじょうを　なおす。
+あいての　わざで　ひんしに　されたとき\xfffeおんねんを　かけて\xfffeそのわざの　ＰＰを　０に　する。
+あいてが　つかおうと　した\xfffeかいふくわざや　のうりょく　へんかの\xfffeわざを　うばって　じぶんに　つかう。
+ひみつの　ちからで　\xfffeあいてを　こうげきする。つかう　ばしょで\xfffeついかこうかが　へんかする。
+１ターンめで　もぐり　２ターンめに\xfffeうきあがって　こうげきする。うみの\xfffeおくふかくに　もぐる　ことも　できる。
+ひらいた　りょうてで\xfffeあいてを　つっぱって　こうげきする。\xfffe２ー５かいの　あいだ　れんぞくで　だす。
+みずべや　くさむら　どうくつなど\xfffeいる　ばしょに　あわせて\xfffeじぶんの　タイプを　かえる。
+てんめつする　ひかりを　ながめて\xfffeじぶんの　せいしんを　とういつし\xfffeとくこうを　ぐぐーんと　あげる。
+まばゆい　ひかりを　かいほうして　\xfffeこうげきする。あいての　とくぼうを\xfffeさげることが　ある。
+きりじょうの　うもうで　つつみこみ　\xfffeこうげきする。あいての　とくこうを\xfffeさげることが　ある。
+うもうを　ふりまいて\xfffeあいての　からだに　からませる。\xfffeあいての　こうげきを　がくっと　さげる。
+フラフラと　ダンスを　おどって\xfffeじぶんの　まわりに　いるものを\xfffeこんらん　じょうたいに　させる。
+こうげきした　あいてを\xfffeやけど　じょうたいに　することが　ある。\xfffeきゅうしょにも　あたりやすい。
+どろを　かぶって　どろどろに　なる。\xfffeじぶんが　いるあいだ\xfffeでんきタイプの　わざを　よわめる。
+５ターンの　あいだ　ころがりつづけて\xfffeあいてを　こうげきする。わざが\xfffeあたるたび　いりょくが　あがる。
+トゲの　うでを\xfffeはげしく　ふるって　こうげきする。\xfffeあいてを　ひるませる　ことが　ある。
+なまけて　やすむ。\xfffeじぶんの　ＨＰを　さいだい　ＨＰの\xfffeはんぶん　かいふく　する。
+うるさく　ひびく　おおきな　しんどうを\xfffeあいてに　あたえて　こうげきする。\xfffe
+どくの　ある　キバで\xfffeあいてに　かみついて　こうげきする。\xfffeもうどくを　おわせる　ことが　ある。
+かたく　するどい　ツメで　きりさいて\xfffeこうげきする。あいての　ぼうぎょを\xfffeさげることが　ある。
+ばくはつの　ほのおで\xfffeあいてを　やきつくして　こうげきする。\xfffeつぎの　ターンは　うごけなく　なる。
+みずの　たいほうを\xfffeあいてに　はっしゃして　こうげきする。\xfffeつぎの　ターンは　うごけなく　なる。
+すいせいの　ごとく　パンチを　くりだして\xfffeあいてを　こうげきする。じぶんの　\xfffeこうげきが　あがることが　ある。
+おおきな　こえなどで\xfffeふいに　おどろかして　こうげきする。\xfffeあいてを　ひるませる　ことが　ある。
+つかった　ときの　てんきに　よって\xfffeわざの　タイプと　いりょくが　かわる。\xfffe
+ここちよい　やすらぐ　かおりを　かがせて\xfffeみかた　ぜんいんの\xfffeじょうたい　いじょうを　かいふく　する。
+ないた　ふりをして　なみだを　ながす。\xfffeこまらせる　ことで\xfffeあいての　とくぼうを　がくっと　さげる。
+するどい　かぜで\xfffeあいてを　きりつけて　こうげきする。\xfffeきゅうしょに　あたりやすい。
+フルパワーで　あいてを　こうげきする。\xfffeつかうと　はんどうで\xfffeじぶんの　とくこうが　がくっと　さがる。
+ゴーストタイプに　こうかがない　わざや\xfffeかいひりつの　たかい　あいてに\xfffeこうげきが　あたるように　なる。
+がんせきを　なげつけて　こうげきする。\xfffeあいての　うごきを　ふうじることで\xfffeすばやさを　さげる。
+かぜに　りんぷんを　のせて　あいてを\xfffeこうげきする。じぶんの　すべての\xfffeのうりょくが　あがることが　ある。
+きんぞくを　こすって　でるような\xfffeいやな　おとを　きかせる。\xfffeあいての　とくぼうを　がくっと　さげる。
+ここちよい　ふえの　ねいろを　きかせて\xfffeあいてを　ねむりの　じょうたいに　する。\xfffe
+からだを　くすぐり　わらわせる　ことで\xfffeあいての　こうげきと　ぼうぎょを\xfffeさげる。
+うちゅう　から　しんぴの　ちからを\xfffeとりこむ　ことで　じぶんの\xfffeぼうぎょと　とくぼうを　あげる。
+しおを　ふきつけて　こうげきする。\xfffeじぶんの　ＨＰが　すくないほど\xfffeわざの　いりょくは　さがる。
+ふしぎな　ひかりを\xfffeはっしゃして　こうげきする。\xfffeあいてを　こんらん　させることが　ある。
+かげに　まぎれて　パンチを　くりだす。\xfffeこうげきは　かならず　めいちゅう　する。\xfffe
+みえない　ふしぎな　ちからを\xfffeおくって　こうげきする。\xfffeあいてを　ひるませる　ことが　ある。
+そらに　むかうような　たかい　アッパーで\xfffeあいてを　つきあげて　こうげきする。\xfffe
+はげしく　ふきあれる　すなあらしの\xfffeなかに　４ー５ターンの　あいだ\xfffeあいてを　とじこめて　こうげきする。
+ぜったいれいどの　つめたさで\xfffeあいてを　こうげきする。\xfffeあたれば　いちげきで　ひんしに　する。
+にごった　みずを\xfffeあいてに　はっしゃして　こうげきする。\xfffeめいちゅうりつを　さげることが　ある。
+タネを　いきおいよく\xfffeあいてに　はっしゃして　こうげきする。\xfffe２ー５かいの　あいだ　れんぞくで　だす。
+すばやい　うごきで\xfffeあいてを　ほんろうして　きりつける。\xfffeこうげきは　かならず　めいちゅう　する。
+するどい　つららを\xfffeあいてに　はっしゃして　こうげきする。\xfffe２ー５かいの　あいだ　れんぞくで　だす。
+ひふを　てつのように\xfffeかたくする　ことで\xfffeじぶんの　ぼうぎょを　ぐーんと　あげる。
+りょうてを　ひろげて　たちはだかり\xfffeあいての　にげみちを　ふさいで\xfffeにげられなく　する。
+おおごえで　ほえて　きあいを　たかめ\xfffeじぶんの　こうげきを　あげる。\xfffe
+するどく　とがった　きょだいな　ツメで\xfffeあいてを　きりさいて　こうげきする。\xfffe
+おおきな　じゅもくで\xfffeあいてを　たたきつけて　こうげきする。\xfffeつぎの　ターンは　うごけなく　なる。
+からだに　ちからを　こめて　きんにくを\xfffeぶあつく　することで　じぶんの\xfffeこうげきと　ぼうぎょを　あげる。
+そらたかく　とびはねて\xfffe２ターンめに　あいてを　こうげきする。\xfffeまひ　じょうたいに　することが　ある。
+どろの　かたまりを\xfffeあいてに　なげつけて　こうげきする。\xfffeどうじに　あいての　すばやさを　さげる。
+しっぽで　たたく。\xfffeどく　じょうたいに　することが　あり\xfffeきゅうしょにも　あたりやすい。
+かわいく　あまえながら\xfffeあいてに　ちかづき\xfffeもっている　どうぐを　うばう。
+でんきを　まとって　とっしんする。\xfffeじぶんも　かなり ダメージを　うける\xfffeまひ　じょうたいに　することが　ある。
+あいてを　ついせきする\xfffeふしぎな　はっぱを まきちらす。\xfffeこうげきは　かならず　めいちゅう　する。
+みずを　かぶって　びしょびしょに　なる。\xfffeじぶんが　いるあいだ\xfffeほのおタイプの　わざを　よわめる。
+しずかに　せいしんを　とういつし\xfffeこころを　しずめる　ことで　じぶんの\xfffeとくこうと　とくぼうを　あげる。
+はっぱを　つるぎのように　あやつり\xfffeあいてを　きりつけて　こうげきする。\xfffeきゅうしょに　あたりやすい。
+しんぴてきで　ちからづよい　まいを\xfffeはげしく　おどる。じぶんの\xfffeこうげきと　すばやさを　あげる。
+かたい　がんせきを\xfffeあいてに　はっしゃして　こうげきする。\xfffe２ー５かいの　あいだ　れんぞくで　だす。
+でんげきを　すばやく\xfffeあいてに　あびせる。\xfffeこうげきは　かならず　めいちゅう　する。
+みずの　しんどうを\xfffeあいてに　あたえて　こうげきする。\xfffeあいてを　こんらん　させることが　ある。
+わざを　つかった　２ターン　あとに\xfffeむすうの　ひかりの　たばで\xfffeあいてを　こうげきする。
+フルパワーで　あいてを　こうげきする。\xfffeつかうと　はんどうで\xfffeじぶんの　とくこうが　がくっと　さがる。
+じめんに　おりて　からだを　やすめる。\xfffeさいだい　ＨＰの　はんぶんの\xfffeＨＰを　かいふく　する。
+５ターンの　あいだ\xfffeじゅうりょくを　つよくして　ふゆうや\xfffeそらへ　とぶ　わざを　つかえなく　する。
+あくタイプに　こうかがない　わざや\xfffeかいひりつの　たかい　あいてに\xfffeこうげきが　あたるように　なる。
+ねむり　じょうたいの　あいてに\xfffeおおきな　ダメージを　あたえる。　\xfffeかわりに　あいては　ねむりから　さめる。
+つよくて　おもい　こぶしを\xfffeふるって　ダメージを　あたえる。\xfffeじぶんの　すばやさが　さがる。
+からだを　こうそくに　かいてん　させて\xfffeたいあたりする。あいてより　すばやさが\xfffeおそいほど　つよい。
+じぶんは　ひんしに　なるが　ひかえから\xfffeでてくる　ポケモンの　じょうたい\xfffeいじょうと　ＨＰを　かいふく　する。
+あいてが　ＨＰの　はんぶん　くらい\xfffeきずを　おっていると　わざの　いりょくが\xfffe２ばいに　なる。
+きのみから　ちからを　もらい\xfffeこうげきする。もたせた　きのみで\xfffeわざの　タイプと　いりょくが　かわる。
+まもるや　みきりを　している\xfffeあいてに　こうげきが　できる。\xfffeまもりの　こうかを　かいじょ　させる。
+くちばしで　こうげき。\xfffeあいてが　きのみを　もっている　とき\xfffeたべて　きのみの　こうかを　うけられる。
+はげしく　ふきあれる\xfffeかぜのうずを　つくり　４ターンの　あいだ\xfffeみかた　ぜんいんの　すばやさを　あげる。
+つぼおしで　からだを\xfffeかっせいか　させる。のうりょくの\xfffeどれか　１つを　ぐーんと　あげる。
+わざを　だすまえに\xfffeさいごに　うけた　わざの　ダメージを\xfffeおおきくして　だした　あいてに　かえす。
+こうげき　したあと\xfffeものすごい　スピードで　もどってきて\xfffeひかえ　ポケモンと　いれかわる。
+まもりを　すてて　あいての　ふところに\xfffeとつげきする。じぶんの\xfffeぼうぎょと　とくぼうが　さがる。
+ためこんで　こうげきする。\xfffeあいてより　あとに　こうげき　できると\xfffeわざの　いりょくは　２ばいに　なる。
+そのターンに　あいてが\xfffeすでに　ダメージを　うけて　いたら\xfffeわざの　いりょくは　２ばいに　なる。
+もたせた　どうぐを　つかえなくする。\xfffeトレーナーも　その　ポケモンには\xfffeどうぐを　つかえない。
+もたせた　どうぐを\xfffeすばやく　なげつけて　こうげきする。\xfffeどうぐで　いりょくと　こうかが　かわる。
+ちょうのうりょくで　あんじを　かけて\xfffeじぶんの　うけている　じょうたい\xfffeいじょうを　あいてに　うつす。
+きりふだの　のこり　ＰＰが\xfffeすくなければ　すくないほど\xfffeわざの　いりょくが　あがる。
+５ターンの　あいだ　わざや\xfffeとくせいや　もっている　どうぐによって\xfffeＨＰを　かいふく　できなく　する。
+つよく　しめあげて　こうげきを　する。\xfffeあいての　ＨＰが　のこっている　ほど\xfffeいりょくは　あがる。
+ちょうのうりょくで\xfffeじぶんの　こうげきと　ぼうぎょの　\xfffeちからを　こうかん　する。
+いえきを　あいての\xfffeからだに　はきつける。ついた　いえきは\xfffeあいての　とくせいの　こうかを　けす。
+てんに　むかって　おいのりを　ささげ\xfffeあいての　こうげきを\xfffeきゅうしょに　あたらなく　する。
+いりょくを　あげて　あいてが\xfffeだそうとする　わざを　さきにだす。\xfffeさきに　だせないと　しっぱい　する。
+ちょくぜんに　でた　わざを　まねして\xfffeおなじ　わざを　だす。\xfffeわざが　でていないと　しっぱい　する。
+ちょうのうりょくで　じぶんと　あいての\xfffeこうげきと　とくこうの\xfffeのうりょく　へんかを　いれかえる。
+ちょうのうりょくで　じぶんと　あいての\xfffeぼうぎょと　とくぼうの\xfffeのうりょく　へんかを　いれかえる。
+のうりょく　へんかで\xfffeあいてが　パワーアップ　しているほど\xfffeわざの　いりょくが　あがる。
+せんとうちゅうに　おぼえている　わざを\xfffeすべて　つかうと　はじめて　だせる\xfffeとっておきの　わざ。
+こころを　なやませる　タネを\xfffeうえつける。あいてを　ねむれなく　して\xfffeとくせいを　ふみんに　する。
+あいてより　さきに　こうげき　できる。\xfffeあいてが　だすわざが\xfffeこうげきわざ　でないと　しっぱい　する。
+あいての　あしもとに　どくびしを\xfffeしかける。こうたいで　でてきた　あいての\xfffeポケモンに　どくを　おわせる。
+ちょうのうりょくで\xfffeじぶんと　あいてに　かかっている\xfffeのうりょく　へんかを　いれかえる。
+じぶんの　からだの　まわりを\xfffeみずで　つくった　ベールで　おおう。\xfffeまいターン　ＨＰを　かいふく　する。
+でんきで　つくった　じりょくの　ちからで\xfffeちゅうに　うかぶ。\xfffe５ターンの　あいだ　ふゆう　できる。
+ほのおを　まとって　とっしんする。\xfffeじぶんも　かなり　ダメージを　うける。\xfffeやけど　じょうたいに　することが　ある。
+あいての　からだに\xfffeしょうげきはを　あてて　こうげきする。\xfffeまひ　じょうたいに　することが　ある。
+からだの　おくから　はどうの　ちからを\xfffeあいてに　うちはなつ。\xfffeこうげきは　かならず　めいちゅう　する。
+じぶんの　からだを　みがいて　くうきの\xfffeていこうを　すくなくする。すばやさを\xfffeぐーんと　あげることが　できる。
+どくに　そまった　しょくしゅや　うでで\xfffeあいてを　つきさす。\xfffeどく　じょうたいに　することが　ある。
+からだから　あくいに\xfffeみちた　おそろしい　オーラを　はっする。\xfffeあいてを　ひるませる　ことが　ある。
+いっしゅんの　すきを　ついて\xfffeあいてを　きりはらう。\xfffeきゅうしょに　あたりやすい。
+はげしく　あれくるう　あらなみの　ように\xfffeおおきな　しっぽを　ふって\xfffeあいてを　こうげきする。
+かたい　からを　もつ　おおきな　タネを\xfffeうえから　たたきつけて\xfffeあいてを　こうげきする。
+そらをも　きりさく\xfffeくうきの　やいばで　こうげきする。\xfffeあいてを　ひるませる　ことが　ある。
+カマや　ツメを　ハサミのように\xfffeこうさ　させながら　あいてを　きりさく。\xfffe
+はねの　しんどうで　おんぱを　おこして\xfffeこうげきする。あいての　とくぼうを\xfffeさげることが　ある。
+おおきな　くちから　しょうげきはを\xfffeまきおこして　あいてを　こうげきする。\xfffe
+すさまじい　さっきで　いあつ　しながら\xfffeたいあたりする。\xfffeあいてを　ひるませる　ことが　ある。
+ほうせきの　ように　きらめく　ひかりを\xfffeはっしゃして　あいてを　こうげきする。\xfffe
+こぶしから　あいての　ちからを\xfffeすいとる。あたえた　ダメージの\xfffeはんぶんの　ＨＰを　かいふく　できる。
+こぶしを　ふって\xfffeしんくうの　なみを　まきおこす。\xfffeかならず　せんせい　こうげき　できる。
+きあいを　たかめて　こんしんの　ちからを\xfffeほうしゅつする。あいての　とくぼうを\xfffeさげることが　ある。
+しぜんから　あつめた\xfffeいのちの　ちからを　はっしゃする。\xfffeあいての　とくぼうを　さげることが　ある。
+はねを　おりたたみ\xfffeていくう　ひこうで　とつげきする。\xfffeじぶんも　かなり　ダメージを　うける。
+あいての　あしもとへ　だいちの　ちからを\xfffeほうしゅつする。あいての　とくぼうを\xfffeさげることが　ある。
+めにも　とまらぬ　はやさで\xfffeじぶんと　あいての　\xfffeもちものを　こうかんする。
+もてる　ちからを　すべて　つかって\xfffeあいてに　とつげきする。\xfffeつぎの　ターンは　うごけなく　なる。
+わるいことを　かんがえて\xfffeあたまを　かっせいか　させる。\xfffeじぶんの　とくこうを　ぐーんと　あげる。
+だんがんの　ような　はやくて　かたい\xfffeパンチを　あいてに　くりだす。\xfffeかならず　せんせい　こうげき　できる。
+あいてから　わざを　うけていると\xfffeその　あいてに　たいして\xfffeわざの　いりょくが　２ばいに　なる。
+こおりの　かたまりを　いっしゅんで\xfffeつくり　あいてに　すばやく　はなつ。\xfffeかならず　せんせい　こうげき　できる。
+かげから　つくった　するどい　ツメで\xfffeあいてを　きりさく。\xfffeきゅうしょに　あたりやすい。
+でんきを　ためた　キバで　かみつく。\xfffeあいてを　ひるませたり\xfffeまひ　じょうたいに　することが　ある。
+れいきを　ひめた　キバで　かみつく。\xfffeあいてを　ひるませたり\xfffeこおり　じょうたいに　することが　ある。
+ほのおを　まとった　キバで　かみつく。\xfffeあいてを　ひるませたり\xfffeやけど　じょうたいに　することが　ある。
+かげを　のばして\xfffeあいての　はいごから　こうげきする。\xfffeかならず　せんせい　こうげき　できる。
+かたい　どろのたまを\xfffeあいてに　はっしゃして　こうげきする。\xfffeめいちゅうりつを　さげることが　ある。
+じったいか　させた\xfffeこころの　やいばで　あいてを　きりさく。\xfffeきゅうしょに　あたりやすい。
+しねんの　ちからを\xfffeひたいに　あつめて　こうげきする。\xfffeあいてを　ひるませる　ことが　ある。
+みがき　あげられた　からだから\xfffeせんこうの　ちからを　あいてに　はなつ。\xfffeめいちゅうりつを　さげることが　ある。
+からだの　ひかりを　いってんに　あつめて\xfffeちからを　はなつ。あいての　とくぼうを\xfffeさげることが　ある。
+すごい　いきおいで　あいてに\xfffeつっこみ　こうげきする。\xfffeあいてを　こんらん　させることが　ある。
+つよいかぜで　あいての　リフレクターや\xfffeひかりのかべ　などを　はらいのける。\xfffeかいひりつも　さげる。
+まかふしぎな　くうかんを　つくる。\xfffe５ターンの　あいだ\xfffeおそい　ポケモンから　こうどう　できる。
+てんくうから　いんせきを　\xfffeあいてに　おとす。つかうと　はんどうで\xfffeじぶんの　とくこうが　がくっと　さがる。
+まばゆい　でんげきで　じぶんの\xfffeまわりに　いるものを　こうげきする。\xfffeまひ　じょうたいに　することが　ある。
+まっかな　ほのおで　じぶんの\xfffeまわりに　いるものを　こうげきする。\xfffeやけど　じょうたいに　することが　ある。
+とがった　はっぱで　あいてに　あらしを\xfffeおこす。つかうと　はんどうで\xfffeじぶんの　とくこうが　がくっと　さがる。
+ツタや　しょくしゅを　はげしく　ふるって\xfffeあいてを　たたきつけ　こうげきする。\xfffe
+きょだいな　いわを\xfffeあいてに　はっしゃして　こうげきする。\xfffeつぎの　ターンは　うごけなく　なる。
+どくの　やいばで　あいてを　きりさく。\xfffeどく　じょうたいに　することが　あり\xfffeきゅうしょにも　あたりやすい。
+きたない　ゴミを\xfffeあいてに　ぶつけて　こうげきする。\xfffeどく　じょうたいに　することが　ある。
+はがねの　ような\xfffeかたい　あたまで　こうげきする。\xfffeあいてを　ひるませる　ことが　ある。
+あいてに　すいつく\xfffeはがねの　ばくだんを　はっしゃする。\xfffeこうげきは　かならず　めいちゅう　する。
+とがった　いわを\xfffeあいてに　つきさして　こうげきする。\xfffeきゅうしょに　あたりやすい。
+♂なら♀を　♀なら♂を　ゆうわくして\xfffeあいての　とくこうを　がくっと　さげる。\xfffe
+あいての　まわりに　むすうの　いわを\xfffeうかべて　こうたいで　でてきた　あいての\xfffeポケモンに　ダメージを　あたえる。
+くさを　からませて　あいてを\xfffeころばせる。あいてが　おもいほど\xfffeいりょくが　あがる。
+おぼえた　ことばで\xfffeおんぱを　おこして　こうげきする。\xfffeあいてを　こんらん　させることが　ある。
+むすうの　こうだんを　あいてに\xfffeほうしゅつする。じぶんの　もつ　\xfffeプレートに　より　タイプが　かわる。
+かみついて　こうげきする。\xfffeあいてが　きのみを　もっている　とき\xfffeたべて　きのみの　こうかを　うけられる。
+でんげきの　たばを　あいてに\xfffeはっしゃする。でんきを　ためて　じぶんの\xfffeとくこうを　あげることが　ある。
+かたい　どうたいを\xfffeあいてに　たたきつけて　こうげきする。\xfffeじぶんも　かなり　ダメージを　うける。
+めにも　とまらぬ　ものすごい　はやさで\xfffeあいてに　つっこむ。\xfffeかならず　せんせい　こうげき　できる。
+しもべを　よびだして\xfffeあいてに　むかって　こうげき　させる。\xfffeきゅうしょに　あたりやすい。
+しもべを　よびだして　じぶんの　からだに\xfffeおおい　つかせる。ぼうぎょと　とくぼうを\xfffeあげることが　できる。
+しもべを　よびだして　きずを　なおす。\xfffeさいだい　ＨＰの　はんぶん\xfffeじぶんの　ＨＰを　かいふく　する。
+いのちを　かけて　こんしんの　ちからで\xfffeあいてに　ずつきを　する。じぶんも\xfffeものすごい　ダメージを　うける。
+しっぽなどを　つかい　あいてを　たたいて\xfffeこうげきする。２かい　れんぞくで　\xfffeダメージを　あたえる。
+じかんが　ゆがむほどの　ちからを\xfffeうちだして　あいてを　こうげきする。\xfffeつぎの　ターンは　うごけなく　なる。
+まわりの　くうかんごと　あいてを\xfffeひきさき　ダメージを　あたえる。\xfffeきゅうしょに　あたりやすい。
+じぶんは　ひんしに　なるが\xfffeひかえから　でてくる　ポケモンの\xfffeすべての　じょうたいを　かいふく　する。
+すさまじい　ちからで　あいてを　にぎり\xfffeつぶす。あいての　ＨＰが　のこっている\xfffeほど　いりょくが　あがる。
+はげしく　もえたぎる　ほのおの　なかに\xfffe４ー５ターンの　あいだ\xfffeあいてを　とじこめて　こうげきする。
+あんこくの　せかいに　ひきずり　おとして\xfffeあいてを　ねむり　じょうたいに　する。\xfffe
+からだの　なかから　しょうげきはを\xfffeはっせい　させる。あいての　とくぼうを\xfffeがくっと　さげることが　ある。
+みのけも　よだつ　とっぷうで　あいてを\xfffeこうげきする。じぶんの　すべての\xfffeのうりょくが　あがることが　ある。
+１ターンめで　すがたを　けして\xfffe２ターンめに　あいてを　こうげきする。\xfffeまもっていても　こうげきは　あたる。
+ツメを　みがいて　するどく　する。\xfffeじぶんの　こうげきと　\xfffeめいちゅうりつを　あげる。
+みかた　ぜんいんに　あたる　こうげきを\xfffe１ターンの　あいだ　ふせぐ。\xfffeれんぞくで　だすと　しっぱい　しやすい。
+ちょうのうりょくで　じぶんと　あいての\xfffeぼうぎょと　とくぼうを　たして\xfffeはんぶんに　わける。
+ちょうのうりょくで　じぶんと　あいての\xfffeこうげきと　とくこうを　たして\xfffeはんぶんに　わける。
+まかふしぎな　くうかんを　つくる。\xfffe５ターンのあいだ　すべてのポケモンの\xfffeぼうぎょと　とくぼうが　いれかわる。
+ふしぎな　ねんぱを　じったいかして\xfffeあいてを　こうげきする。\xfffeぶつりてきな　ダメージを　あたえる。
+とくしゅな　どくえきを　あびせかける。\xfffeどく　じょうたいの　あいてには\xfffeいりょくが　２ばいに　なる。
+からだの　ムダな　ぶぶんを　けずる。　\xfffeじぶんの　すばやさを　ぐーんと　あげて\xfffeたいじゅうも　かるく　なる。
+イライラさせる　こなを　じぶんに\xfffeふりかけて　ちゅういを　ひく。あいての\xfffeこうげきを　すべて　じぶんに　むける。
+ちょうのうりょくで　あいてを　うかせる。\xfffe３ターンの　あいだ　こうげきが\xfffeあいてに　あたりやすく　なる。
+まかふしぎな　くうかんを　つくる。\xfffe５ターンのあいだ　すべてのポケモンの\xfffeどうぐの　こうかが　なくなる。
+いしや　たまを　なげて　とんでいる\xfffeあいてを　こうげきする。あいては\xfffeうちおとされて　じめんに　おちる。
+きょうれつな　いちげきを\xfffeあいてに　くりだす。こうげきは\xfffeかならず　きゅうしょに　あたる。
+あたると　はじける　ほのおで　あいてを\xfffeこうげきする。はじけた　ほのおは\xfffeとなりの　あいてにも　ふりかかる。
+ヘドロの　なみで　じぶんの\xfffeまわりに　いるものを　こうげきする。\xfffeどく　じょうたいに　することが　ある。
+しんぴてきで　うつくしい　まいを\xfffeかろやかに　おどる。じぶんの　とくこうと\xfffeとくぼうと　すばやさを　あげる。
+おもたい　からだで　あいてに　ぶつかって\xfffeこうげきする。じぶんが　あいてより\xfffeおもいほど　いりょくが　あがる。
+ふしぎな　でんぱで　まわりに　いる\xfffeじぶんと　おなじ　タイプの　\xfffeポケモンに　ダメージを　あたえる。
+でんきの　かたまりを　あいてに\xfffeぶつける。あいてより　すばやさが\xfffeはやいほど　いりょくが　あがる。
+たくさんの　みずを　あびせかけて\xfffeあいてを　みずタイプに　する。\xfffe
+ほのおを　まとい　あいてを\xfffeこうげきする。ちからを　ためて　じぶんの\xfffeすばやさを　あげる。
+とぐろを　まいて　しゅうちゅう　する。\xfffeじぶんの　こうげきと　ぼうぎょと　\xfffeめいちゅうりつを　あげる。
+すばやい　うごきで　あいての　あしを\xfffeねらって　こうげきする。\xfffeあいての　すばやさを　さげる。
+あいてを　とかす　えきたいを\xfffeはきだして　こうげきする。\xfffeあいての　とくぼうを　がくっと　さげる。
+あいての　ちからを　りようする。\xfffeたたかっている　あいての　こうげきが\xfffeたかいほど　ダメージが　あがる。
+なぞの　ねんぱを　あいてに　おくる。\xfffeねんぱを　うけとった　あいては　\xfffeとくせいが　たんじゅんに　なる。
+ふしぎな　リズムで　おどる。\xfffeうごきを　まねさせて　じぶんと　あいての\xfffeとくせいを　おなじに　する。
+あいての　こうどうを　サポートして\xfffeじぶんの　こうどうの　あとに\xfffeつづけて　うごけるように　する。
+うたで　あいてを　こうげきする。\xfffeみんなで　りんしょう　すると　つづけて\xfffeだすことが　でき　いりょくも　あがる。
+ひびく　こえで　あいてを　こうげきする。\xfffeまいターン　だれかが　わざを\xfffeつかい　つづけると　いりょくが　あがる。
+すきを　みて　けんじつに　こうげきする。\xfffeあいての　のうりょく　へんかに　\xfffeかんけいなく　ダメージを　あたえる。
+とくしゅな　どろの　かたまりを\xfffeあいてに　なげつけて　こうげきする。\xfffeのうりょく　へんかを　もとに　もどす。
+ちくせき　された　パワーで　あいてを\xfffeこうげきする。じぶんの　のうりょくが\xfffeあがって　いるほど　いりょくが　あがる。
+じぶんと　みかたを　あいての\xfffeせんせい　こうげきから　まもる。\xfffeれんぞくで　だすと　しっぱい　しやすい。
+ふしぎな　ちからで　テレポートして\xfffeじぶんと　みかたの　いばしょを\xfffeいれかえる。
+あつく　にえたぎる　みずを\xfffeあいてに　はっしゃして　こうげきする。\xfffeやけど　じょうたいに　することが　ある。
+からを　やぶって　じぶんの　ぼうぎょ\xfffeとくぼうを　さげるが　こうげき　とくこう\xfffeすばやさを　ぐーんと　あげる。
+いやしのはどうを　とばして\xfffeさいだい　ＨＰの　はんぶん\xfffeあいての　ＨＰを　かいふく　する。
+たたみかける　ように　こうげきする。\xfffeじょうたい　いじょうの　あいてに\xfffeおおきな　ダメージを　あたえる。　
+１ターンめで　あいてを　そらへ　つれさり\xfffe２ターンめに　おとして　こうげきする。\xfffeつれさられた　あいては　うごけない。
+はぐるまを　まわして\xfffeじぶんの　こうげきを　あげる　だけでなく\xfffeすばやさも　ぐーんと　あげる。
+あいてを　なげとばして\xfffeひかえの　ポケモンを　ひきずりだす。\xfffeやせいの　ばあいは　せんとうが　おわる。
+ほのおで　あいてを　こうげきする。\xfffeあいてが　きのみを　もっている　とき\xfffeもやして　つかえなく　する。
+あいてを　おさえつけて\xfffeこうどうの　じゅんばんを\xfffeさいごに　する。
+かろやかに　あいてを　こうげきする。\xfffeじぶんが　どうぐを　もっていない　とき\xfffeおおきな　ダメージを　あたえる。　
+あいての　タイプを　はんしゃして\xfffeじぶんも　おなじ　タイプに　なる。\xfffe
+たおれた　みかたの　かたきを　うつ。\xfffeまえの　ターンに　みかたが　たおされて\xfffeいると　いりょくが　あがる。　
+いのちがけで　あいてを　こうげきする。\xfffeじぶんは　ひんしに　なるが　あいてに\xfffeＨＰぶんの　ダメージを　あたえる。
+あいてが　どうぐを　もっていない　とき\xfffeじぶんが　もっている　どうぐを\xfffeあいてに　わたす。
+はげしい　ほのおで\xfffeあいてを　つつみこみ　こうげきする。\xfffeやけど　じょうたいに　する。
+みずの　はしらで　こうげきする。\xfffeほのおと　くみあわせると　いりょくが\xfffeあがって　そらに　にじが　かかる。
+ほのおの　はしらで　こうげきする。\xfffeくさと　くみあわせると　いりょくが\xfffeあがって　あたりが　ひの　うみに　なる。
+くさの　はしらで　こうげきする。\xfffeみずと　くみあわせると　いりょくが\xfffeあがって　あたりが　しつげんに　なる。
+こうげき　したあと\xfffeものすごい　スピードで　もどってきて\xfffeひかえ　ポケモンと　いれかわる。
+ていこう　して　あいてを　こうげきする。\xfffeあいての　とくこうを　さげる。\xfffe
+じめんを　ふみならして　じぶんの\xfffeまわりに　いるものを　こうげきする。\xfffeあいての　すばやさを　さげる。
+つめたい　いきを\xfffeあいてに　ふきつけて　こうげきする。\xfffeかならず　きゅうしょに　あたる。
+あいてを　はじきとばして\xfffeひかえの　ポケモンを　ひきずりだす。\xfffeやせいの　ばあいは　せんとうが　おわる。
+じぶんを　ふるいたてて\xfffeこうげきと　とくこうを　あげる。\xfffe
+でんきの　ネットで\xfffeあいてを　つかまえて　こうげきする。\xfffeあいての　すばやさを　さげる。
+でんきを　まとって\xfffeあいてに　ぶつかって　こうげきする。\xfffeじぶんも　すこし　ダメージを　うける。
+ドリルのように　からだを　かいてん\xfffeしながら　あいてに　たいあたりする。\xfffeきゅうしょに　あたりやすい。
+からだの　かたいぶぶんで　あいてを\xfffeたたいて　こうげきする。２かい\xfffeれんぞくで　ダメージを　あたえる。
+かわいい　しぐさで　ゆだん　させて\xfffeきょうれつな　いちげきを　あびせる。\xfffeあいてを　ひるませる　ことが　ある。
+つのを　つきさして　あいての　ようぶんを\xfffeすいとる。あたえた　ダメージの\xfffeはんぶんの　ＨＰを　かいふく　できる。
+ながい　つので　きりつけて　こうげきする。\xfffeあいての　のうりょく　へんかに　\xfffeかんけいなく　ダメージを　あたえる。
+するどい　かいがらで　きりつけて\xfffeこうげきする。あいての　ぼうぎょを\xfffeさげることが　ある。
+もえる　からだで　あいてに　ぶつかって\xfffeこうげきする。じぶんが　あいてより\xfffeおもいほど　いりょくが　あがる。
+するどい　はっぱで　あいてを\xfffeつつみこんで　こうげきする。\xfffeめいちゅうりつを　さげることが　ある。
+まるめた　からだで　かいてんして\xfffeあいてを　おしつぶす。\xfffeあいてを　ひるませる　ことが　ある。
+フワフワの　わたげで　じぶんの\xfffeからだを　つつみこんで　まもる。\xfffeぼうぎょを　ぐぐーんと　あげる。
+あんこくの　しょうげきはを\xfffeとばして　あいてを　こうげきする。\xfffeめいちゅうりつを　さげることが　ある。
+ふしぎな　ねんぱを　じったいかして\xfffeあいてを　こうげきする。\xfffeぶつりてきな　ダメージを　あたえる。
+かたい　しっぽで\xfffeあいてを　たたいて　こうげきする。\xfffe２ー５かいの　あいだ　れんぞくで　だす。
+きょうれつな　かぜで　あいてを\xfffeつつみこんで　こうげきする。\xfffeあいてを　こんらん　させることが　ある。
+すごい　アフロの　あたまで\xfffeあいてに　とっしんして　こうげきする。\xfffeじぶんも　すこし　ダメージを　うける。
+こうてつの　ギアを　あいてに\xfffeなげつけて　こうげきする。２かい\xfffeれんぞくで　ダメージを　あたえる。
+まっかな　ほのおで　じぶんの\xfffeまわりに　いるものを　こうげきする\xfffeやけど　じょうたいに　することが　ある。
+こうだんを　あいてに\xfffeほうしゅつする。じぶんの　もつ\xfffeカセットに　より　タイプが　かわる。
+いにしえのうたを　あいてに　きかせて\xfffeこころに　うったえて　こうげきする。\xfffeねむり　じょうたいに　することが　ある。
+ながい　つので　きりつけて　こうげきする。\xfffeつのが　まとった　ふしぎな　ちからは\xfffeぶつりてきな　ダメージを　あたえる。
+こごえる　ような　れいきを\xfffeあいてに　ふきつけて　こうげきする。\xfffeあいての　すばやさを　さげる。
+ぼうだいな　でんきを　みに　まとって\xfffeあいてに　とっしんして　こうげきする。\xfffeまひ　じょうたいに　することが　ある。
+うつくしくも　はげしい　あおいほのおで\xfffeあいてを　つつみこんで　こうげきする。\xfffeやけど　じょうたいに　することが　ある。
+ほのおを　まとい　はばたいて　あいてを\xfffeこうげきする。じぶんの　とくこうが\xfffeあがることが　ある。
+でんきを　まとった　こおりの　かたまりで\xfffe２ターンめに　あいてを　たたきつける。\xfffeまひ　じょうたいに　することが　ある。
+すべてを　こおらせる　はげしい　れいきで\xfffe２ターンめに　あいてを　つつみこむ。\xfffeやけど　じょうたいに　することが　ある。
+まくしたてる　ように　どなりつけて\xfffeあいての　とくこうを　さげる。\xfffe
+おおきな　つららを\xfffeはげしく　ぶつけて　こうげきする。\xfffeあいてを　ひるませる　ことが　ある。
+しゃくねつの　ほのおを　ひたいから\xfffeはっせいさせて　すてみの　たいあたり。\xfffeぼうぎょ　とくぼう　すばやさが　さがる。
+きょだいな　ほのおを　たたきつける。\xfffeきょだいな　いかずちの　えいきょうをうけ\xfffeわざの　いりょくが　あがる。
+きょだいな　いかずちを　たたきつける。\xfffeきょだいな　ほのおの　えいきょうをうけ\xfffeわざの　いりょくが　あがる。

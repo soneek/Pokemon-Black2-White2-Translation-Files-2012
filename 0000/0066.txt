@@ -1,9 +1,9 @@
-Various
-Student
-Office Worker
-Creator
-Self-Employed
-Govt. Official
-Housewife
-Artist
-Job-Hopper
+いろいろ
+がくせい
+サラリーマン
+クリエーター
+じえいぎょう
+こうむいん
+しゅふ
+げいじゅつか
+フリーター
