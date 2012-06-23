@@ -1,11 +1,11 @@
 やあ
-やきつくす
+Incinerate
 やくそく
 やしろん
 やすみ
 やた
 やたよ
-やつあたり
+Frustration
 やつほー
 やときんく
 やとらん
@@ -15,9 +15,9 @@
 やなつふ
 やはい
 やふくろん
-やまあらし
+Storm Throw
 やみからす
 やみらみ
-やるき
-やるきもの
+Vital Spirit
+Vital Spiritもの
 やんやんま

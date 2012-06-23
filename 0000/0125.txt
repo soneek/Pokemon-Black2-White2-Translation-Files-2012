@@ -1,7 +1,7 @@
 すいーふひんた
 すいくん
-すいすい
-すいとる
+Swift Swim
+Absorb
 すかいあつはー
 すかいとす
 すかたんく
@@ -13,19 +13,19 @@
 すこるひ
 すたーみー
 すつき
-すてみ
-すてみたつくる
+Reckless
+Recklessたつくる
 すてるすろつく
 すとーんえつし
 すとらいく
-すなあらし
+Sandstorm
 すないはー
-すなおこし
-すなかき
+Sand Stream
+Sand Rush
 すなかくれ
-すなかけ
-すなしこく
-すなのちから
+Sand-Attack
+すNoneこく
+Sand Force
 すはーく
 すはつと
 すはめ
@@ -38,8 +38,8 @@
 すもつく
 すりーはー
 すりーふ
-すりかえ
-すりぬけ
+Switcheroo
+Infiltrator
 するすきん
 するつく
 するといめ
