@@ -1,26 +1,26 @@
-むかいとう
+No Answer
 Black 2
 White 2
-Boy
-Girl
+Male
+Female
 Battle
 Trade
-とかい
-いなか
-あたまがいい
-うんどうできる
-じかん
-おかね
-がいけん
-なかみ
-かっこいい
-かわいい
-へんな
-ポカブ
-ミジュマル
-ツタージャ
-きょうそう
-きょうりょく
+The City
+The Country
+Smart
+Athletic
+Time
+Money
+Appearance
+Substance
+Cool
+Cute
+Strange
+Tepig
+Oshawott
+Snivy
+Competitive
+Cooperative
 ー
 かこにいく
 みらいにいく
@@ -43,7 +43,7 @@ Trade
 たたかい
 あつめる
 おはなし
-ポケモン
+Pokémon
 そらをとぶ
 とうめいになる
 じかんをとめる
@@ -52,95 +52,95 @@ Trade
 ためる
 じまんする
 きふする
-０ー５ねん
-５ー１０ねん
-１０ー１５ねん
-１５ねんー
-そとであそぶ
-かいもの
-どくしょ
-ゲーム
-ねてる
-ポップス
-ロック
-ジャズ
-ラップ
-クラシック
-ニュース
-ドラマ
-おわらい
-スポーツ
-アニメ
-アクション
+0-5 Years
+5-10 Years
+10-15 Years
+15+ Years
+Outdoor Activities
+Shopping
+Reading
+Gaming
+Sleeping
+Pop
+Rock
+Jazz
+Rap
+Classical
+News
+Drama
+Comedy
+Sports
+Anime
+Action
 SF
-れんあい
-サスペンス
-コメディ
-ホラー
-アクション
-パズル
-ＲＰＧ
-アドベンチャー
-シミュレーション
-スポーツ
-しごと
-ひとづきあい
-しゅみ
-けんこう
+Romance
+Suspense
+Comedy
+Horror
+Action
+Puzzle
+RPG
+Adventure
+Simulation
+Sports
+Occupation
+Relationships
+Interests
+Health 
 えらくなる
 ー
-うんどう
-どくしょ
-おんがく
-えいが
-りょこう
-りょうり
-つり
-ゲーム
-がくせい
-サラリーマン
-クリエーター
-じえいぎょう
-こうむいん
-しゅふ
-げいじゅつか
-フリーター
-チェレン
-ホミカ
-アーティ
-カミツレ
-ヤーコン
-フウロ
-シャガ
-シズイ
+Exercising
+Reading
+Music
+Movies
+Traveling
+Cooking
+Fishing
+Video Games
+Student
+Office Worker
+Creator
+Self-Employed
+Public Official
+Homemaker
+Artist
+Job-Hopper
+Cheren
+Roxie
+Burgh
+Elesa
+Clay
+Skyla
+Drayden
+Shizui
 ー
 ー
 ー
-ノーマル
-ほのお
-みず
-でんき
-くさ
-こおり
-かくとう
-どく
-じめん
-ひこう
-エスパー
-むし
-いわ
-ゴースト
-ドラゴン
-あく
-はがね
-０ー１０じかん
-１０ー２０じかん
-２０ー３０じかん
-３０ー４０じかん
-４０ー５０じかん
-５０ー６０じかん
-６０ー７０じかん
-７０ー８０じかん
-８０ー９０じかん
-９０ー１００じかん
-１００じかんー
+Normal
+Fire
+Water
+Electric
+Grass
+Ice
+Fighting
+Poison
+Ground
+Flying
+Psychic
+Bug
+Rock
+Ghost
+Dragon
+Dark
+Steel
+0-10 Hours
+10-20 Hours
+20-30 Hours
+30-40 Hours
+40-50 Hours
+50-60 Hours
+60-70 Hours
+70-80 Hours
+80-90 Hours
+90-100 Hours
+100+ Hours
