@@ -1,16 +1,16 @@
-つづきから　はじめる
-さいしょから　はじめる
-ふしぎな　おくりもの
-Ｗｉ－Ｆｉせってい
-バトルたいかい
-ゲームシンクせってい
-てんそうマシンを　つかう
-マイクテスト
+Continue Game
+New Game
+Mystery Gift
+Wi-Fi Settings
+GL: Battle Tournament
+GL: Game Sync
+Transfer Machine
+Mic Test
 イッシュリンク
-しゅじんこう
-プレイじかん　\xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
-ずかん　\xf000Ȃ\x0001\x0000ひき
-バッジ　\xf000ȁ\x0001\x0000こ
+Player
+Playtime \xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
+Pokédex \xf000Ȃ\x0001\x0000
+Badges \xf000ȁ\x0001\x0000
 \xf000Ā\x0001\x0000
 \xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
 \xf000Ȃ\x0001\x0000ひき
@@ -28,14 +28,14 @@
 ほんたいの　せっていにより\xfffeむせんつうしんが　つかえません\xf000븁\x0000\xfffeむせんつうしんを　つかうには\xfffeほんたいせっていの　むせんつうしんを\xf000븀\x0000\xfffeオンにしてください　（５０６９９）
 ペアレンタルコントロールの\xfffeつうしんせいげん
 イッシュリンクの　キーシステム　で\xfffeモードへんこうの　キーが\xf000븀\x0000\xfffeそうしん　できるように　なりました\xf000븁\x0000
-ちゅうい！
-つうしんを　はじめると\xfffeこのゲームを　さいだいげん　たのしめます\xfffeつねに　つうしんを　おこないますので\xfffeひこうきや　びょういんなど\xfffeむせんつうしんが　きんしの　ばしょでは\xfffeつうしんを　せつだんしてください\xfffeゲームちゅうの　Ｃギアがめんでも\xfffeへんこう　することが　できます
-ちゅうい！
-べつの　レポートが　かかれています\xfffeこれから　はじめる　ぼうけんは\xfffeとちゅうで　レポートを\xfffeかくことが　できません！\xfffeそれでも　はじめますか？
-Ａボタン　ぼうけんを　はじめる
-Ｂボタン　やめる
-つうしんを　はじめますか？
-Ｃギアの　きのうが\xfffeせいげんされますが　よろしいですか？
+WARNING!
+Activating communications will give you\xfffemaximum enjoyment from the game.\xfffeCommunication is continuous,\xfffeso please turn it off in areas with\xffferestrictions on wireless communication,\xfffesuch as airplanes and hospitals.\xfffeThis can be changed from\xfffethe in-game C-Gear menu.
+WARNING!
+There is already a report written.\xfffeIf you start a new adventure,\xfffeyou will not be able to save!\xfffeDo you want to start regardless?
+A Button: Continue
+B Button: Back to menu
+Enable the C-Gear?\xfffePlease read the warning below.
+Are you sure you want to disable\xfffethe C-Gear? You may enable it later.
 レポートの　ないようが\xfffeきえてしまった！
 きえて　しまった　バトルビデオの\xfffeきろくが　あります！
 Ｃギアの　スキンデータが\xfffeきえてしまった！
