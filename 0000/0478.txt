@@ -1,8 +1,8 @@
 イッシュずかん
-ぜんこくずかん
-みつけたかず
-つかまえたかず
-けんさくけっか
+NATIONAL POKÉDEX
+SEEN
+OBTAINED
+SEARCH RESULTS
 \xf000Ȃ\x0001\x0000
 \xf000ā\x0001\x0000
 ？？？？？

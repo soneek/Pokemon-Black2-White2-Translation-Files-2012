@@ -1,7 +1,7 @@
-ともだち　てちょう
-ともだちリストを　みる
-ともだちコードを　とうろく
-\xf000Ā\x0001\x0000の　ともだちコード
+PAL PAD
+CHECK FRIEND ROSTER
+REGISTER FRIEND CODE
+\xf000Ā\x0001\x0000'S FRIEND CODE
 とじる
 ともだちリスト
 \xf000Ā\x0001\x0000
@@ -64,6 +64,6 @@
 ともだちリストが　いっぱい　です！\xfffeだれか　さくじょ　しますか？
 \xf000Ā\x0001\x0000さんの　とうろく　を\xfffeあきらめますか？
 \xf000Ā\x0001\x0000の　データを\xfffeさくじょ　しますか？
-Yes
-No
-\xf000Ā\x0001\x0000さんと　いっしょに\xfffeＷｉ－Ｆｉクラブへ　いってください
+YES
+NO
+Please go to the Wi-Fi Club\xfffewith \xf000Ā\x0001\x0000.
