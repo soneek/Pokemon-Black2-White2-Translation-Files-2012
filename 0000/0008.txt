@@ -111,134 +111,134 @@
 あてはまる　バトルビデオが　ありません……
 バトルビデオを　おくっています……
 バトルビデオを　おくりました！
-\xf000봂\x0000プロフィールをみる
-\xf000봂\x0000プロフィールをしまう
+\xf000봂\x0000VIEW PROFILE
+\xf000봂\x0000CLOSE PROFILE
 バトルビデオ　さいしん３０けん
-じょうけんを　いれてください
-なし
+Please set the search criteria.
+Undefined
 けんさくした　バトルビデオ\xfffeいちらん
-おなじ　バトルビデオは\xfffe２かい　おくれません
-ちいきを　とうろくしていません
-おくる　バトルビデオが　ありません
+The same Battle Video can't be sent again.\xfffeTouch the Touch Screen to continue.
+You have not registered your location.
+There is no Battle Video to send.
 \xf000ȁ\x0001\x0000
 つうしんたいせん
-バトルサブウェイ
+BATTLE SUBWAY
 すんでいるばしょ\xfffe\xf000Ĥ\x0001\x0000
-\xf000봂\x0000シングルトレイン
-\xf000봂\x0000ダブルトレイン
-\xf000봂\x0000マルチトレイン
-\xf000봂\x0000Ｗｉ－Ｆｉトレイン
-\xf000봂\x0000バトルサブウェイ
-\xf000봂\x0000スーパーシングルトレイン
-\xf000봂\x0000スーパーダブルトレイン
-\xf000봂\x0000スーパーマルチトレイン
-みたい　せいせきを　えらんでください
-ぜんかい：
-さいこう：
+\xf000봂\x0000SINGLE TRAIN
+\xf000봂\x0000DOUBLE TRAIN
+\xf000봂\x0000MULTI TRAIN
+\xf000봂\x0000Wi-Fi TRAIN
+\xf000봂\x0000BATTLE SUBWAY
+\xf000봂\x0000SUPER SINGLE TRAIN
+\xf000봂\x0000SUPER DOUBLE TRAIN
+\xf000봂\x0000SUPER MULTI TRAIN
+Please select the Record\xfffeyou want to view.
+PREVIOUS:
+RECORD:
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-れんしょう
-トレーナーとマルチ
-ともだちとマルチ
-ランク
-げんざいの　きろく
-\xf000봂\x0000Ｗｉ－Ｆｉトレイン　せいせき
-げんざい：
-\xf000봂\x0000\xf000Ā\x0001\x0000　の　レーティング
-\xf000봂\x0000レーティングモード　せいせき
-\xf000봂\x0000フリーモード　せいせき
-\xf000봃\x0001\x0000Win
-\xf000봃\x0001\x0000Lose
-\xf000봃\x0001\x0000シングル：
-\xf000봃\x0001\x0000ダブル：
-\xf000봃\x0001\x0000トリプル：
-\xf000봃\x0001\x0000ローテーション：
-\xf000봃\x0001\x0000シューター：
+\xf000봃\x0001\x0000 Wins
+Multi with Trainer
+Multi with friend
+RANK
+Current Record
+\xf000봂\x0000Wi-Fi Train Record
+CURRENT:
+\xf000봂\x0000\xf000Ā\x0001\x0000'S RATING
+\xf000봂\x0000RATING MODE RECORD
+\xf000봂\x0000FREE MODE RECORD
+\xf000봂\x0000Win
+\xf000봂\x0000Lose
+\xf000봃\x0001\x0000Single:
+\xf000봃\x0001\x0000Double:
+\xf000봃\x0001\x0000Triple:
+\xf000봃\x0001\x0000Rotation:
+\xf000봃\x0001\x0000Launcher:
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
 \xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
 \xf000봃\x0001\x0000Rating
-\xf000봂\x0000はい
-\xf000봂\x0000いいえ
-Yes
-No
-Ｗｉ－Ｆｉコネクションから\xfffeせつだん　しても　よろしいですか？
-コロシアム　シングル\xfffeせいげんなし
-コロシアム　シングル\xfffeフラット
-コロシアム　シングル\xfffeせいげんなし　シューターあり
-コロシアム　シングル\xfffeフラット　シューターあり
-コロシアム　ダブル\xfffeせいげんなし
-コロシアム　ダブル\xfffeフラット
-コロシアム　ダブル\xfffeせいげんなし　シューターあり
-コロシアム　ダブル\xfffeフラット　シューターあり
-コロシアム　トリプル\xfffeせいげんなし
-コロシアム　トリプル\xfffeフラット
-コロシアム　トリプル\xfffeせいげんなし　シューターあり
-コロシアム　トリプル\xfffeフラット　シューターあり
-コロシアム　ローテーション\xfffeせいげんなし
-コロシアム　ローテーション\xfffeフラット
-コロシアム　ローテーション\xfffeせいげんなし　シューターあり
-コロシアム　ローテーション\xfffeフラット　シューターあり
-コロシアム　マルチ\xfffeせいげんなし
-コロシアム　マルチ\xfffeフラット
-コロシアム　マルチ\xfffeせいげんなし　シューターあり
-コロシアム　マルチ\xfffeフラット　シューターあり
-バトルサブウェイ\xfffeシングル
-バトルサブウェイ\xfffeダブル
-バトルサブウェイ\xfffeマルチ
-ランダムマッチ　フリー\xfffeシングル
-ランダムマッチ　フリー\xfffeダブル
-ランダムマッチ　フリー\xfffeトリプル
-ランダムマッチ　フリー\xfffeローテーション
-ランダムマッチ　フリー\xfffeシューターバトル
-ランダムマッチ　レーティング\xfffeシングル
-ランダムマッチ　レーティング\xfffeダブル
-ランダムマッチ　レーティング\xfffeトリプル
-ランダムマッチ　レーティング\xfffeローテーション
-ランダムマッチ　レーティング\xfffeシューターバトル
-たいかい　シングル\xfffeシューターなし
-たいかい　シングル\xfffeシューターあり
-たいかい　ダブル\xfffeシューターなし
-たいかい　ダブル\xfffeシューターあり
-たいかい　トリプル\xfffeシューターなし
-たいかい　トリプル\xfffeシューターあり
-たいかい　ローテーション\xfffeシューターなし
-たいかい　ローテーション\xfffeシューターあり
-０１：コロシアム　シングル\xfffe　　　シューターなし
-０２：コロシアム　シングル\xfffe　　　シューターあり
-０３：コロシアム　ダブル\xfffe　　　シューターなし 
-０４：コロシアム　ダブル\xfffe　　　シューターあり
-０５：コロシアム　トリプル\xfffe　　　シューターなし
-０６：コロシアム　トリプル\xfffe　　　シューターあり
-０７：コロシアム　ローテーション\xfffe　　　シューターなし
-０８：コロシアム　ローテーション\xfffe　　　シューターあり
-０９：コロシアム　マルチ\xfffe　　　シューターなし
-１０：コロシアム　マルチ\xfffe　　　シューターあり
-１１：バトルサブウェイ\xfffe　　　シングル
-１２：バトルサブウェイ\xfffe　　　ダブル
-１３：バトルサブウェイ\xfffe　　　マルチ
-１４：ランダムマッチ\xfffe　　　シングル
-１５：ランダムマッチ\xfffe　　　ダブル
-１６：ランダムマッチ\xfffe　　　トリプル
-１７：ランダムマッチ\xfffe　　　ローテーション
-１８：ランダムマッチ\xfffe　　　シューターバトル
-１９：バトルたいかい\xfffe
-２０：バトルキャッスル\xfffe　　　マルチ
-２１：バトルルーレット\xfffe　　　シングル
-２２：バトルルーレット\xfffe　　　ダブル
-２３：バトルルーレット\xfffe　　　マルチ
-\xf000봂\x0000TOUCH HERE!
-Ｗｉ－Ｆｉコネクション　から\xfffeせつだんしても　よろしいですか？
+\xf000봂\x0000YES
+\xf000봂\x0000NO
+YES
+NO
+Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
+Colosseum Single,\xfffeNo Restrictions
+Colosseum Single,\xfffeFlat
+Colosseum Single,\xfffeNo Restrictions, Launcher On
+Colosseum Single,\xfffeFlat, Launcher On
+Colosseum Double,\xfffeNo Restrictions
+Colosseum Double,\xfffeFlat
+Colosseum Double,\xfffeNo Restrictions, Launcher On
+Colosseum Double,\xfffeFlat, Launcher On
+Colosseum Triple,\xfffeNo Restrictions
+Colosseum Triple,\xfffeFlat
+Colosseum Triple,\xfffeNo Restrictions, Launcher On
+Colosseum Triple,\xfffeFlat, Launcher On
+Colosseum Rotation,\xfffeNo Restrictions
+Colosseum Rotation,\xfffeFlat
+Colosseum Rotation,\xfffeNo Restrictions, Launcher On
+Colosseum Rotation,\xfffeFlat, Launcher On
+Colosseum Multi,\xfffeNo Restrictions
+Colosseum Multi,\xfffeFlat
+Colosseum Multi,\xfffeNo Restrictions, Launcher On
+Colosseum Multi,\xfffeFlat, Launcher On
+Battle Subway,\xfffeSingle
+Battle Subway,\xfffeDouble
+Battle Subway,\xfffeMulti
+Random Matchup, Free\xfffeSingle
+Random Matchup, Free\xfffeDouble
+Random Matchup, Free\xfffeTriple
+Random Matchup, Free\xfffeRotation
+Random Matchup, Free\xfffeLauncher Battle
+Random Matchup, Rating\xfffeSingle
+Random Matchup, Rating\xfffeDouble
+Random Matchup, Rating\xfffeTriple
+Random Matchup, Rating\xfffeRotation
+Random Matchup, Rating\xfffeLauncher Battle
+Competition, Single\xfffeLauncher Off
+Competition, Single\xfffeLauncher On
+Competition, Double\xfffeLauncher Off
+Competition, Double\xfffeLauncher On
+Competition, Triple\xfffeLauncher Off
+Competition, Triple\xfffeLauncher On
+Competition, Rotation\xfffeLauncher Off
+Competition, Rotation\xfffeLauncher On
+01: Colosseum, Single\xfffeLauncher Off
+02: Colosseum, Single\xfffeLauncher On
+03: Colosseum, Double\xfffeLauncher Off
+04: Colosseum, Double\xfffeLauncher On
+05: Colosseum, Triple\xfffeLauncher Off
+06: Colosseum, Triple\xfffeLauncher On
+07: Colosseum, Rotation\xfffeLauncher Off
+08: Colosseum, Rotation\xfffeLauncher On
+09: Colosseum, Multi\xfffeLauncher Off
+10: Colosseum, Multi\xfffeLauncher On
+11: Battle Subway\xfffeSingle
+12: Battle Subway\xfffeDouble
+13: Battle Subway\xfffeMulti
+14: Random Matchup\xfffeSingle
+15: Random Matchup\xfffeDouble
+16: Random Matchup\xfffeTriple
+17: Random Matchup\xfffeRotation
+18: Random Matchup\xfffeLauncher Battle
+19: Battle Competition
+20: Battle Castle\xfffeMulti
+21: Battle Arcade\xfffeSingle
+22: Battle Arcade\xfffeDouble
+23: Battle Arcade\xfffeMulti
+\xf000봂\x0000TAP HERE!
+Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
 　
-にんしょうエラーで\xfffeせつぞく　できませんでした
-すでに　とうろくされています
-ミュージカルショットの　ないように\xfffeもんだいが　あるようです
-ミュージカルショットの　ポケモンに\xfffeもんだいが　あるようです
-プロフィールの　ないように\xfffeもんだいが　あるようです
-エラーが　はっせいしました
+Authentication error.\xfffeUnable to connect.
+This data is already registered.\xfffeTouch the Touch Screen to continue.
+There appears to be a problem\xfffewith the Musical Photo.
+There appears to be a problem with the\xfffePokémon in the Musical Photo.
+There appears to be a problem\xfffewith the Profile data.
+An error occurred.\xfffeTouch the Touch Screen to continue.
 　
-にんしょうエラーで\xfffeせつぞく　できませんでした
-えらんだ　ポケモンに\xfffeもんだいが　あるようです
-エラーが　はっせいしました
+Authentication error.\xfffeUnable to connect.
+There appears to be a problem with the\xfffechosen Pokémon.
+An error occurred.\xfffeTouch the Touch Screen to continue.
 　
 ユーザーにんしょうエラーです\xfffeすこし　まってから　せつぞくしてください
 すでに　とうろくされています
@@ -260,85 +260,85 @@ No
 プロフィールに\xfffeもんだいが　あるようです
 エラーが　はっせいしました
 　
-にんしょうエラーで\xfffeせつぞく　できませんでした
-すでに　とうろくされています
-バトルビデオの　ないように\xfffeもんだいが　あるようです
-バトルビデオの　ないように\xfffeもんだいが　あるようです
-プロフィールに\xfffeもんだいが　あるようです
-バトルビデオの　ポケモンに\xfffeもんだいが　あるようです
-エラーがはっせいしました
+Authentication error.\xfffeUnable to connect.
+This data is already registered.\xfffeTouch the Touch Screen to continue.
+There appears to be a problem\xfffewith the Battle Video.
+There appears to be a problem\xfffewith the Battle Video.
+There appears to be a problem\xfffewith the Profile data.
+There appears to be a problem with the\xfffePokémon in the Battle Video.
+An error occurred.\xfffeTouch the Touch Screen to continue.
 　
-にんしょうエラーで\xfffeせつぞく　できませんでした
-けんさく　ないように\xfffeもんだいが　あるようです
-けんさく　ないように\xfffeもんだいが　あるようです
-けんさく　できませんでした
+Authentication error.\xfffeUnable to connect.
+There appears to be a problem\xfffewith the search criteria.
+There appears to be a problem\xfffewith the search criteria.
+The search failed...
 　
-にんしょうエラーで\xfffeせつぞく　できませんでした
-あてはまる　バトルビデオが　ありません……
-この　バトルビデオは\xfffeみることが　できません
-バトルビデオの　うけとりに\xfffeしっぱい　しました
-　
-　
-　
-　
-　
-エラーが　はっせいしました\xfffeエラー１０６０１
-エラーが　はっせいしました\xfffeエラー１０６０２
-エラーが　はっせいしました\xfffeエラー１０６０３
-エラーが　はっせいしました\xfffeエラー１０６０４
-せつぞくに　しっぱいしました\xfffeエラー１０６０５
-エラーが　はっせいしました\xfffeエラー１０６０６
-せつぞくに　しっぱいしました\xfffeエラー１０６０７
-エラーが　はっせいしました\xfffeエラー１０６０８
-エラーが　はっせいしました\xfffeエラー１０６０９
-おうとうが　ありません\xfffeエラー１０６１０
-おうとうが　ありません\xfffeエラー１０６１１
-おうとうが　ありません\xfffeエラー１０６１２
-つうしんが　ちゅうだんされました\xfffeエラー１０６１３
-せつぞくに　しっぱいしました\xfffeエラー１０６１４
+Authentication error.\xfffeUnable to connect.
+No matching Battle Videos found...\xfffeTouch the Touch Screen to continue.
+You cannot watch this Battle Video.
+Failed to receive the Battle Video.
 　
 　
 　
 　
 　
+An error occurred.\xfffeError Code 10601
+An error occurred.\xfffeError Code 10602
+An error occurred.\xfffeError Code 10603
+An error occurred.\xfffeError Code 10604
+Unable to connect.\xfffeError Code 10605
+An error occurred.\xfffeError Code 10606
+Unable to connect.\xfffeError Code 10607
+An error occurred.\xfffeError Code 10608
+An error occurred.\xfffeError Code 10609
+There is no response.\xfffeError Code 10610
+There is no response.\xfffeError Code 10611
+There is no response.\xfffeError Code 10612
+Communication was interrupted.\xfffeError Code 10613
+Unable to connect.\xfffeError Code 10614
 　
 　
-サーバーとの　せつぞくが　ちゅうだん　しました
 　
 　
-きろくが　ありません
+　
+　
+　
+The connection to the server was lost.\xfffeTouch the Touch Screen to continue.
+　
+　
+There is nothing saved.\xfffeTouch the Touch Screen to continue.
 ボックスを　えらんでください
 からの　ボックスは　おくれません！
 どの　コーナーに　おくりますか？
 ボックスは　いちどに\xfffeひとつ　しか　おくれません
 おなじ　ボックスは　おくれません
 どの　コーナーを　みますか？
-きろくを　けせませんでした……
-おなじバトルビデオは　ほぞんできません
-ほぞんしています……
-ランキングを　うけとっています……
-ほぞんじょうほうを　おくっています……
-ほぞんが　おわりました！
-\xf000Ā\x0001\x0000の　バトルビデオを\xfffeけしても　よろしいですか？
-ほんとうに　けしても　いいですか？
-きろくを　けしています……\xfffeでんげんを　きらないでください
-きろくを　けしました！
-ミュージカルショットを　おくっています……
-ミュージカルショットを　うけとっています……
-ボックスショットを　おくっています……
-ボックスショットを　うけとっています……
-おくる　しゃしんが　ありません\xfffeポケモンミュージカルに　さんかしよう！
-おなじ　しゃしんは\xfffe２かい　おくれません
-バトルビデオを　うけとっています……
-あてはまる　しゃしんが　ありません……
-あてはまる　ミュージカルショットが\xfffeありません……
-バトルビデオを　おくりました\xfffeビデオナンバー：\xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002\xfffe
-バトルビデオを　みる　まえに\xfffeレポートを　かきます
-きろくを　けしています……\xfffeレポートを　たくさん　かいています……
-レポートを　たくさん　かいています……
-レポートを　かいています……\xfffeでんげんを　きらないでください
-ランキングが　ありません……
-バトルビデオを　おくりますか？
+The saved data could not be deleted...
+The same Battle Video can't be saved again.\xfffeTouch the Touch Screen to continue.
+Saving...\xfffeDon't turn off the power.
+Receiving ranking data...
+Sending save data...
+Save completed.\xfffeTouch the Touch Screen to continue.
+Is it OK to delete\xfffe\xf000Ā\x0001\x0000's Battle Video?
+Is it really OK to delete this data?
+Deleting data...\xfffeSaving... Don't turn off the power.
+The data was deleted.\xfffeTouch the Touch Screen to continue.
+Sending your Musical Photo...
+Receiving Musical Photo...
+Sending your Box Data...
+Receiving Box Data...
+You have no saved data to send.\xfffeParticipate in the data to send.
+The same data can't be sent again.\xfffeTouch the Touch Screen to continue.
+Receiving Battle Videos...
+No matching data was found...\xfffeTouch the Touch Screen to continue.
+No matching Musical Photo was found...\xfffeTouch the Touch Screen to continue.
+Your Battle Video was sent.\xfffeVideo no.: \xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002
+The game will be saved before\xfffeyou can view Battle Videos.
+Deleting data... Saving a lot of\xfffedata... Don't turn off the power.
+Saving a lot of data...\xfffeDon't turn off the power.
+Saving...\xfffeDon't turn off the power.
+There is no ranking data...\xfffeTouch the Touch Screen to continue.
+Would you like to send\xfffeyour Battle Video?
 
 　
 　

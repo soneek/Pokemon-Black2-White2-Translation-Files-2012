@@ -681,7 +681,7 @@ Set K1
 UFO 2
 Scene OL 2
 F-002
-KarateKing
+Black Belt
 Double 2
 Egg
 Egg
