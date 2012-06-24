@@ -626,14 +626,14 @@ Gram 2
 Gram 3
 Xtransceiver
 Medal Box
-いでんしのくさび
-いでんしのくさび
-きょかしょう
-まるいおまもり
-ひかるおまもり
+DNA Link Pin
+DNA Link Pin
+License
+Round Charm
+Shining Charm
 Plasma Card
 Dirty Handkerchief
-Achroma's Machine
-わすれもの
-わすれもの
-Transfer Mirror
+Achroma Machine
+Forgotten Item
+Forgotten Item
+Reflecting Mirror
