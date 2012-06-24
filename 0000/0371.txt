@@ -7,10 +7,10 @@ GL: Game Sync
 Transfer Machine
 Mic Test
 イッシュリンク
-Player
-Playtime \xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
-Pokédex \xf000Ȃ\x0001\x0000
-Badges \xf000ȁ\x0001\x0000
+Player:
+Time: \xf000Ȃ\x0001\x0000:\xf000ȁ\x0001\x0001
+Pokédex: \xf000Ȃ\x0001\x0000
+Badges: \xf000ȁ\x0001\x0000
 \xf000Ā\x0001\x0000
 \xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
 \xf000Ȃ\x0001\x0000ひき
