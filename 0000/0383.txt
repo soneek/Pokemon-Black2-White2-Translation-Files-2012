@@ -1,236 +1,234 @@
-ポケモントレーナー
-ポケモントレーナー
-たんぱんこぞう
-ミニスカート
-じゅくがえり
-じゅくがえり
-テニスプレイヤー
-フットボーラー
-ウエーター
-ウエートレス
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ほいくし
-えんじ
-えんじ
-ふたごちゃん
-ポケモンブリーダー
-ポケモンブリーダー
-アロエ
+Pokémon Trainer
+Pokémon Trainer
+Youngster
+Lass
+School Kid
+School Kid
+Smasher
+Linebacker
+Waiter
+Waitress
+Pokémon Trainer
+Pokémon Trainer
+Pokémon Trainer
+Nursery Aide
+Preschooler
+Preschooler
+Twins
+Pokémon Breeder
+Pokémon Breeder
+Lenora
 no data
 no data
 no data
 no data
-ポケモンレンジャー
-ポケモンレンジャー
-さぎょういん
-バックパッカー
-バックパッカー
-つりびと
-ミュージシャン
-ダンサー
-クラウン
-げいじゅつか
-ベーカリー
-サイキッカー
-サイキッカー
+Pokémon Ranger
+Pokémon Ranger
+Worker
+Backpacker
+Backpacker
+Fisherman
+Musician
+Dancer
+Harlequin
+Artist
+Baker
+Psychic
+Psychic
 no data
-ポケモントレーナー
+Pokémon Trainer
 no data
-ポケモントレーナー
-おぼっちゃま
-おじょうさま
-パイロット
-さぎょういん
-バスケせんしゅ
-けんきゅういん
+Pokémon Trainer
+Rich Boy
+Lady
+Pilot
+Worker
+Hoopster
+Scientist
 no data
-ＯＬ
-エリートトレーナー
-エリートトレーナー
-カラテおう
-けんきゅういん
-サッカーせんしゅ
-ハチク
-no data
-no data
-スキンヘッズ
-せいそういん
-だいすきクラブ
-だいすきクラブ
-ドクター
-ナース
-バッドチーム
-バトルガール
-パラソルおねえさん
-ビジネスマン
-ビジネスマン
-ファンクラブ
-ファンクラブ
-ベテラントレーナー
-ベテラントレーナー
-ぼうそうぞく
-やきゅうせんしゅ
-やまおとこ
-マダム
-ジェントルマン
-no data
-してんのう
-してんのう
-してんのう
-してんのう
-no data
-てつどういん
-かいパンやろう
-ビキニのおねえさん
-おまわりさん
-メイド
-サブウェイマスター
-ポケモントレーナー
-サイクリング
-サイクリング
-バイクずき
+Clerk
+Ace Trainer
+Ace Trainer
+Black Belt
+Scientist
+Striker
+Brycen
 no data
 no data
+Roughneck
+Janitor
+Pokéfan
+Pokéfan
+Doctor
+Nurse
+Hooligans
+Battle Girl
+Parasol Lady
+Clerk 
+Clerk 
+Backers
+Backers
+Veteran
+Veteran
+Biker
+Infielder
+Hiker
+Socialite
+Gentleman
+no data
+Elite Four
+Elite Four
+Elite Four
+Elite Four
+no data
+Depot Agent
+Swimmer 
+Swimmer 
+Policeman
+Maid
+Subway Boss
+Pokémon Trainer
+Cyclist
+Cyclist
+Motorcyclist
 no data
 no data
-ゲームフリーク
 no data
 no data
-ポケモントレーナー
-プラズマだん
-サブウェイマスター
+GAME FREAK
 no data
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ジムリーダー
-ジムリーダー
-ジムリーダー
-ジムリーダー
-ジムリーダー
-ジムリーダー
-ジムリーダー
-ジムリーダー
-タケシ
-カスミ
-マチス
-エリカ
-ナツメ
-カツラ
-サカキ
-ハヤト
-ツクシ
-アカネ
-マツバ
-シジマ
-ミカン
-ヤナギ
-イブキ
-アンズ
-ツツジ
-トウキ
-テッセン
-アスナ
-センリ
-ナギ
-フウ
-ラン
-アダン
-ポケモントレーナー
-ギタリスト
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-サブウェイマスター
 no data
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-ボストレーナー
-サブウェイマスター
+Pokémon Trainer
+Team Plasma
+Subway Boss
 no data
-ヒョウタ
-ナタネ
-メリッサ
-スモモ
-マキシ
-トウガン
-スズナ
-デンジ
-グリーン
-ワタル
-ダイゴ
-ミクリ
+Pokémon Trainer
+Pokémon Trainer
+Pokémon Trainer
+Pokémon Trainer
+Pokémon Trainer
+Pokémon Trainer
+Pokémon Trainer
+Pokémon Trainer
+Leader
+Leader
+Leader
+Leader
+Leader
+Leader
+Leader
+Leader
+Brock
+Misty
+Lt. Surge
+Erika
+Sabrina
+Blaine
+Giovanni
+Bugsy
+Whitney
+Morty
+Chuck
+Jasmine
+Pryce
+Clair
+Janine
+Roxanne
+Brawly
+Wattson
+Flannery
+Norman
+Winona
+Tate
+Liza
+Juan
+Pokémon Trainer
+Guitarist
+The Riches
+The Riches
+The Riches
+The Riches
+The Riches
+The Riches
+The Riches
+The Riches
+Subway Boss
+no data
+The Riches
+The Riches
+The Riches
+The Riches
+The Riches
+The Riches
+The Riches
+The Riches
+Subway Boss
+no data
+Roark
+Gardenia
+Maylene
+Crasher Wake
+Byron
+Candice
+Volkner
+Blue
+Lance
+Steven
+Wallace
 おとなのおねえさん
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
-プラズマだん
-プラズマだん
-プラズマだん
-プラズマだん
-ポケモントレーナー
-プラズマだん
-プラズマだん
-チャンピオン
-かいじん
-ポケモントレーナー
-ゲームフリーク
-ポケモントレーナー
-ポケモントレーナー
-ヒーロー
-ヒーロー
-にんじゃ
-にんじゃ
+Pokémon Trainer
+Pokémon Trainer
+Pokémon Trainer
+Pokémon Trainer
+Pokémon Trainer
+Pokémon Trainer
+Team Plasma
+Team Plasma
+Team Plasma
+Team Plasma
+Pokémon Trainer
+Team Plasma
+Team Plasma
+Champion
+Mysterious Trainer
+Pokémon Trainer
+GAME FREAK
+Pokémon Trainer
+Pokémon Trainer
+Hero
+Hero
+Ninja
+Ninja
 ＳＦたいいん
 ＳＦたいいん
-けんきゅういん
-けんきゅういん
-ふだんぎ
-ふだんぎ
+Scientist
+Scientist
+Trender
+Trender
 おうじさま
 おひめさま
-ハチクかん
-メカコンビ
-ＵＦＯ
-エイリアン
+Brycen Man
+Mecha Combinatiion
+UFO
+Alien
 あかいきり
-のろわれたおじさん
-のろわれたえんじ
+Cursed Elder
+Cursed Child
 こだいぞう
-のろわれたしんし
+Cursed Man
 こうごうしいメイド
-まじょ
-ぬいぐるみ
-ダミースーツ
-ダミースーツ
-ダミースーツ
-ダミースーツ
-ボストレーナー
-ポケモントレーナー
-ポケモントレーナー
-ポケモントレーナー
+Witch
+Stuffed Doll
+Stunt Double
+Stunt Double
+Stunt Double
+Stunt Double
+The Riches
+Pokémon Trainer
+Pokémon Trainer
+Pokémon Trainer
 no data
 みらいじん
-クラウン
-レッド
-ポケモントレーナー
+Harlequin
+Red
+Pokémon Trainer
