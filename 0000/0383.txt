@@ -125,6 +125,7 @@ Erika
 Sabrina
 Blaine
 Giovanni
+Falkner
 Bugsy
 Whitney
 Morty
@@ -166,6 +167,7 @@ Subway Boss
 no data
 Roark
 Gardenia
+Fantina
 Maylene
 Crasher Wake
 Byron
