@@ -192,7 +192,7 @@ Pokémon Trainer
 Team Plasma
 Team Plasma
 Champion
-Mysterious Trainer
+Mysterious Person
 Pokémon Trainer
 GAME FREAK
 Pokémon Trainer
@@ -201,24 +201,24 @@ Hero
 Hero
 Ninja
 Ninja
-ＳＦたいいん
-ＳＦたいいん
+Sci-fi Member
+Sci-fi Member
 Scientist
 Scientist
 Trender
 Trender
-おうじさま
-おひめさま
+Prince
+Princess
 Brycen Man
-Mecha Combinatiion
+Mecha Combi
 UFO
 Alien
-あかいきり
+Red Wear
 Cursed Elder
 Cursed Child
-こだいぞう
+Ancient Statue
 Cursed Man
-こうごうしいメイド
+Divine Maid
 Witch
 Stuffed Doll
 Stunt Double
@@ -230,7 +230,7 @@ Pokémon Trainer
 Pokémon Trainer
 Pokémon Trainer
 no data
-みらいじん
+Time Traveler
 Harlequin
 Red
 Pokémon Trainer
