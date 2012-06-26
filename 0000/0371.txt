@@ -25,7 +25,7 @@ Black City
 いわやまのま
 くろがねのま
 ひょうざんのま
-ほんたいの　せっていにより\xfffeむせんつうしんが　つかえません\xf000븁\x0000\xfffeむせんつうしんを　つかうには\xfffeほんたいせっていの　むせんつうしんを\xf000븀\x0000\xfffeオンにしてください　（５０６９９）
+ほんたいの　せっていにより\xfffeむせんつうしんが　つかえません\xf000븁\x0000\xfffeむせんつうしんを　つかうには\xfffeほんたいせっていの　むせんつうしんを\xf000븀\x0000\xfffeオンにしてください　（50699）
 ペアレンタルコントロールの\xfffeつうしんせいげん
 イッシュリンクの　キーシステム　で\xfffeモードへんこうの　キーが\xf000븀\x0000\xfffeそうしん　できるように　なりました\xf000븁\x0000
 WARNING!
@@ -38,7 +38,7 @@ Enable the C-Gear?\xfffePlease read the warning below.
 Are you sure you want to disable\xfffethe C-Gear? You may enable it later.
 レポートの　ないようが\xfffeきえてしまった！
 きえて　しまった　バトルビデオの\xfffeきろくが　あります！
-Ｃギアの　スキンデータが\xfffeきえてしまった！
+Cギアの　スキンデータが\xfffeきえてしまった！
 とくべつな　バトルけんていの\xfffeデータが　きえてしまった！
 ミュージカルの　えんもくデータが\xfffeきえてしまった！
 ずかんの　スキンデータが\xfffeきえてしまった！
@@ -46,4 +46,4 @@ Are you sure you want to disable\xfffethe C-Gear? You may enable it later.
 ふしぎな　おくりものの\xfffeきろくが　きえてしまった！
 きえてしまった　ポケウッドの\xfffeきろくが　あります！
 キーシステムと　おもいでリンクの\xfffeきろくが　きえてしまった！
-きえて　しまった　ＰＷＴの\xfffeきろくが　あります！
+きえて　しまった　PWTの\xfffeきろくが　あります！
