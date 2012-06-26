@@ -6,7 +6,7 @@ Hallo
 Hola
 안녕하세요
 Konnichiwa
-……
+...
 Thanks
 Okay
 No
