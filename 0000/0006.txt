@@ -28,7 +28,7 @@ DESELECT
 ♀
 Lv.
 No
-＋
++
 →
 IDNo
 ﻿

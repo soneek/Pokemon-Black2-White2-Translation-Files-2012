@@ -19,9 +19,9 @@ Peter
 メンデス
 カタリーナ
 イザベル
-ナツメ
+Sabrina
 モブヘイ
-ナツメ
+Sabrina
 Kiyomi
 Terry
 Terry
@@ -39,9 +39,9 @@ Terry
 ウッド
 Brycen
 Brycen
-ハチクマン
-ハチクマン
-ハチクかん
+Brycen Man
+Brycen Man
+Brycen Man
 メカポリス
 メカポリス
 ポリアンナ
@@ -49,7 +49,7 @@ Brycen
 ＵFO
 E
 ＵFO
-エイリアン
+Alien
 ???
 Hoffman
 ???
@@ -67,19 +67,19 @@ Stuffed
 グアイ
 グアイ
 グアイ
-あかいきり
-あかいきり
-あかいきり
+Red Wear
+Red Wear
+Red Wear
 マニュエル
 Simon
 マニュエル
 Simon
 カダス
 セラエノ
-こだいぞう
+Ancient Statue
 アーカム
-ハチクマン
-ハチクマン
+Brycen Man
+Brycen Man
 Brycen
 Brycen
 モブタロウ
@@ -101,9 +101,9 @@ Peter
 ホセ
 ロドリゲス
 ファビオ
-ナツメ
+Sabrina
 モブヘイ
-ナツメ
+Sabrina
 Kiyomi
 Terry
 Terry
@@ -121,9 +121,9 @@ Terry
 ウッド
 Brycen
 Brycen
-ハチクマン
-ハチクマン
-ハチクかん
+Brycen Man
+Brycen Man
+Brycen Man
 メカポリス
 メカポリス
 ポリアンナ
@@ -131,7 +131,7 @@ Brycen
 ＵFO
 E
 ＵFO
-エイリアン
+Alien
 ???
 Hoffman
 ???
@@ -149,27 +149,27 @@ Stuffed
 グアイ
 グアイ
 グアイ
-あかいきり
-あかいきり
-あかいきり
+Red Wear
+Red Wear
+Red Wear
 マニュエル
 Simon
 マニュエル
 Simon
 カダス
 セラエノ
-こだいぞう
+Ancient Statue
 アーカム
-ハチクマン
-ハチクマン
+Brycen Man
+Brycen Man
 ＵFO
-ハチクマン
+Brycen Man
 M・B
 M・B2
 てんそうき
 モニカ
-ひとがた
-かいぶつ
+Puppet
+Monster
 F－00
 まじん
 しろとびら
