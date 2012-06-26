@@ -6,6 +6,6 @@
 Quit
 Touch Start
 Rhythm Check
-no data
-no data
-no data
+﻿no data
+﻿no data
+﻿no data
