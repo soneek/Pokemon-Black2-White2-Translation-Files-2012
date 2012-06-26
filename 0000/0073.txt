@@ -79,7 +79,7 @@ Once you have completed\xfffethe registration for Battle Competition,\xfffeyou w
 Before adjusting Game Sync settings,\xfffeyou must complete your\xfffeNintendo Wi-Fi Connection settings.\xfffe\xfffeWhen these settings are done,\xfffeadjust the Game Sync settings\xfffeto have the Game Sync ID issued.\xfffeThis is a unique ID assigned to you.
 You must have a Game Sync ID\xfffeto register at the\xfffePokémon Global Link using\xfffea computer with Internet access.
 When you delete a saved game,\xfffeyour Game Sync ID will also be lost.\xfffe\xfffeWhen you change your Game Sync ID,\xfffeyou must also renew your registration\xfffeat the Pokémon Global Link.
-ニンテンドーDS/DS　Liｔｅで\xfffeWi－Fiつうしんを　するための\xfffeせっていが　できます。\xfffe\xfffeWi－Fiせっていをすると\xfffeインターネットを　つうじて\xfffeせかいじゅうの　ひとたちと\xfffeポケモンのこうかんや　たいせんが\xfffeできるように　なります。
+ニンテンドーDS/DS　Liteで\xfffeWi－Fiつうしんを　するための\xfffeせっていが　できます。\xfffe\xfffeWi－Fiせっていをすると\xfffeインターネットを　つうじて\xfffeせかいじゅうの　ひとたちと\xfffeポケモンのこうかんや　たいせんが\xfffeできるように　なります。
 You need to set up the Nintendo Wi-Fi\xfffeConnection settings to connect your game\xfffewith the Pokémon Global Link, which allows\xfffeBattle Competition, Game Sync settings,\xfffeand so on.
 You can check to see\xfffeif your DS system's\xfffemicrophone is functioning.\xfffe\xfffeThe microphone is functioning properly\xfffeif Jigglypuff on the top screen\xfffereacts when you talk\xfffeor blow into it.
 You can restore your tired Pokémon and buy\xfffeuseful items. You'll find the PC where you\xfffecan keep captured Pokémon.\xfffe\xfffeYou can hear\xfffeProfessor Juniper's evaluation\xfffeof your Pokédex.\xfffe\xfffeVisit 2F for Link Trade and Link Battle.
@@ -115,7 +115,7 @@ You can use the PC to store and organize\xfffePokémon.\xfffe\xfffeWhen you have
 ともだちコードを　とうろくするほうほうは\xfffeつぎの2しゅるいが　あります。\xfffe\xfffe・バッグの　たいせつなもの　にある\xfffe　ともだちてちょうで　「つかう」をえらび\xfffe　ともだちから　おそわった　コードを\xfffe　ちょくせつ　にゅうりょくする\xfffe・Cギアの　IRつうしんを　つかう
 Cギアは　ちかくのひとと\xfffeつうしんこうかんや　たいせんをしたり\xfffeハイリンクや　ライブキャスター\xfffeゲームシンクなどを　するときにつかう\xfffeいろいろな　きのうをもった　きかいです。\xfffe\xfffeCギアの　みぎしたに　ひょうじされた\xfffeでんげんのマークを　タッチすると\xfffeCギアのでんげんを　オン/オフできます。
 Cギアのでんげんが　はいっているとき\xfffeDSのむせんは　つねにオンになっています。\xfffe\xfffeひこうきや　びょういんのなか　など\xfffeむせんつうしんを　つかってはいけない\xfffeばしょでは　Cギアの　でんげんは\xfffeかならず　オフに　してください。\xfffeまもらないと　ほうりついはんになる\xfffeばあいが　あります。
-Cギアの　みぎしたに　ある\xfffeスパナマークを　タッチすると\xfffeCギアを　カスタマイズできます。\xfffeわくを　タッチして　いろをかえたり\xfffeひかる　ボタンを　スライドさせて\xfffeすきな　ばしょに　いどうできます。\xfffe\xfffe？マークを　タッチすると　Cギアの\xfffeヘルプを　みることができます。
+Cギアの　みぎしたに　ある\xfffeスパナマークを　タッチすると\xfffeCギアを　カスタマイズできます。\xfffeわくを　タッチして　いろをかえたり\xfffeひかる　ボタンを　スライドさせて\xfffeすきな　ばしょに　いどうできます。\xfffe\xfffe?マークを　タッチすると　Cギアの\xfffeヘルプを　みることができます。
 Cギアの　まんなかに　ひょうじされる\xfffeしかくいマークが　すれちがいログ　です。\xfffeタッチすると　ちかくで　Cギアを\xfffeつかっている　ひとがいるか　わかります。\xfffeちかくの　ひとの　ゲームでの　ようすや\xfffeプロフィールが　わかったり\xfffeメッセージの　やりとりなどが　できます。\xfffeまた　フェスミッションが　はっせいすると\xfffeてんめつして　しらせてくれます。
 Cギアをつかっている　べつのひとが\xfffeひょうじされているときに\xfffeそのひとを　タッチすると\xfffeプレイじかんや\xfffeどこを　ぼうけんしているのか\xfffeすれちがいちょうさたいの　ランクなどの\xfffeじょうほうを　みることが　できます。
 すれちがいログ　がめんの　したにある\xfffeさんかくマークを　タッチすると\xfffeハイルツリーから　うけとった\xfffeデルパワーを　つかうことが　できます。\xfffe\xfffeデルパワーを　うけとるには\xfffeハイリンクにある　ハイルツリーを\xfffeかくにん　してください。
@@ -143,7 +143,7 @@ Cギアの\xfffe「WIRELESS（ワイヤレス）」と\xfffeかかれた　ま�
 デルパワーを　つかうには\xfffeハイリンクから　でたあとに\xfffeCギアの　ちゅうおうに　ある\xfffe「すれちがいログ」を　タッチして\xfffeあらわれた　つぎの　がめんにある\xfffeさんかくマークを　タッチして　ください。\xfffeまた　デルパワーを　つかうには\xfffeきめられた　かずの\xfffeデルダマが　ひつよう　です。
 ハイルツリーが　せいちょうし\xfffeレベルが　あがることで\xfffeあたらしい　デルパワーを\xfffeうけとれるように　なります。\xfffe\xfffeレベルを　あげるには\xfffeフェスミッションを　うけて\xfffeスコアを　たくさん　ためます。
 デルダマは　デルパワーを　つかうときに\xfffeきまったかずだけ　ひつように　なります。\xfffe\xfffeデルダマは　ハイルツリーから　うける\xfffeフェスミッションを　クリアすることで\xfffeもらうことが　できます。
-■バッグの　きのう\xfffeバッグは　もちものの　しゅるいごとに\xfffeじどうてきに　ふりわけられます。\xfffe\xfffeたいせつなものポケットに　いれている\xfffeどうぐは　なまえの　よこの　しかくい\xfffeマークを　チェックして　とうろくすると\xfffeバッグを　ひらかなくても　Ｙボタンで\xfffeかんたんに　つかうことが　できます。
+■バッグの　きのう\xfffeバッグは　もちものの　しゅるいごとに\xfffeじどうてきに　ふりわけられます。\xfffe\xfffeたいせつなものポケットに　いれている\xfffeどうぐは　なまえの　よこの　しかくい\xfffeマークを　チェックして　とうろくすると\xfffeバッグを　ひらかなくても　Yボタンで\xfffeかんたんに　つかうことが　できます。
 したがめんの　みどりいろの　マークか\xfffeスタートボタンを　おすと　ひょうじされる\xfffeならびかたを　えらぶことで\xfffeどうぐの　ならびを　へんこう　できます。\xfffeセレクトボタンを　おすと\xfffeポケットの　どうぐの　じゅんばんを\xfffeじゆうに　いれかえることが　できます。\xfffeL/Rボタンを　おすと\xfffeページを　きりかえることが　できます。
 バッグには　「フリースペース」が\xfffeようい　されています。\xfffe\xfffeまず　ポケットの　どうぐを　えらびます。\xfffeつぎに　「フリースペースへ」を\xfffeえらぶことで　すきな　どうぐを\xfffeフリースペースに\xfffeいどう　させることが　できます。
 ■もちものの　しゅるい\xfffe・どうぐ\xfffeポケモンに　もたせると　のうりょくや\xfffeわざの　いりょくが　アップする\xfffeどうぐが　あります。\xfffeもたせて　こうかのある　どうぐには\xfffeしるしが　ついているので　\xfffeポケモンに　もたせて\xfffeこうかを　たしかめて　みましょう。
@@ -185,15 +185,15 @@ DSワイヤレスつうしんや\xfffeWi－Fiつうしんを　つかって\xfff
 ともだちからの　よびだしが　あると\xfffeCギアの　ワイヤレスボタンが　ひかり\xfffeよびだしおんが　なります。\xfffeライブキャスターに　ともだちの\xfffeなまえが　ひょうじ　されますので\xfffeタッチして　よびだしを　うけてください。\xfffeよびだしを　うけるまえに\xfffeライブキャスターを　えらぶと\xfffeよびだしを　うけることが　できません。
 ■Wi－Fiクラブのばあい\xfffeWi－Fiクラブの　なかにいる\xfffeメンバーの　ひとりと\xfffeいっしょに　おはなしできます。
 ■ライブキャスターの　つかいかた\xfffeしたがめんで　そうさを　おこないます。\xfffeまんなかの　ボタンを　\xfffeタッチしながら　ことばを　はなすと\xfffeつうしんで　あいてに　こえが　とどきます。\xfffe\xfffeひだりの　ゲージを　そうさすると\xfffeこえの　たかさが　かえられます。
-3DSやDSi、DSiLLなら\xfffeおたがいの　かおが　ひょうじされます。\xfffeみぎうえの　ボタンを　おすと　かおに\xfffeらくがきを　しあって　あそべます。\xfffeみぎしたの　ボタンで　がめんを\xfffeこていすることも　できます。\xfffeカメラが　ない　ほんたいの　ばあいは\xfffe「SOＵND　ONLＹ」と\xfffeひょうじされます。
+3DSやDSi、DSiLLなら\xfffeおたがいの　かおが　ひょうじされます。\xfffeみぎうえの　ボタンを　おすと　かおに\xfffeらくがきを　しあって　あそべます。\xfffeみぎしたの　ボタンで　がめんを\xfffeこていすることも　できます。\xfffeカメラが　ない　ほんたいの　ばあいは\xfffe「SOＵND　ONLY」と\xfffeひょうじされます。
 みぎしたの　ふうせんマークの\xfffeボタンを　おすと　ライブキャスターに\xfffeさんかしている　ひとと　ミニゲームで\xfffeあそぶことが　できます。\xfffe\xfffeおしたボタンにより　それぞれ　ちがう\xfffeゲームを　あそぶことが　できます。
 ミニゲームを　はじめられるのは\xfffeさいしょに　ライブキャスターを　えらんだ\xfffeプレイヤー　だけです。\xfffe\xfffeまた　『ポケットモンスターブラック』\xfffe『ポケットモンスターホワイト』の\xfffeプレイヤーとは　ミニゲームを\xfffeあそぶことは　できません。
 イッシュちほうには　8つの　ジムが　あり\xfffeそれぞれに　ジムリーダーが　います。\xfffeジムバッジは　ジムリーダーに　かった\xfffeあかしとして　もらえる　バッジです。\xfffe\xfffeトレーナーカードがめんの\xfffeひだりしたにある　マークを　タッチすると\xfffeジムバッジを　どれだけ　もっているか\xfffeかくにん　することが　できます。
 てにいれた　バッジの　かずが　おおいと\xfffeひとから　もらった　ポケモンの　レベルが\xfffeたかくても　あなたの　めいれいを　\xfffeすなおに　きいてくれるように　なります。
-べんりボタンは　よくつかう　きのうや\xfffeどうぐを　つかいたいときに　すぐに\xfffeつかうことができる　べんりなボタンです。\xfffe\xfffeべんりボタンに　とうろくすると\xfffeＹボタンを　おして　すぐにつかえます。
-Ｘボタンを　おして　メニューを　ひらくと\xfffeしたのがめんに　しかくい　マークが\xfffeひょうじされている　ことが　あります。\xfffeこのマークを　タッチするか\xfffeＹボタンを　おすと\xfffeあかい　チェックマークが　つきます。\xfffe\xfffeチェックを　つけた　きのうや　どうぐが\xfffeべんりボタンに　とうろくされます。
-たいせつなもの　ポケットに　はいっている\xfffeどうぐの　よこにも\xfffeしかくい　マークが　あります。\xfffe\xfffeカーソルを　あわせて　Ｙボタンを　おすか\xfffeタッチして　チェックしておくと　\xfffeべんりボタンに　とうろくして　おけます。
-べんりボタンには　34こ　まで\xfffeどうぐや　きのうを　とうろく　できます。\xfffeとうろくを　かいじょ　したい　ばあいは\xfffeしかくい　マークを　タッチするか\xfffeＹボタンを　おして\xfffeチェックを　はずして　ください。\xfffe2つ　いじょう　とうろく　していると\xfffeセレクトボタンで　べんりボタンの\xfffeこうもくを　ならびかえることが　できます。
+べんりボタンは　よくつかう　きのうや\xfffeどうぐを　つかいたいときに　すぐに\xfffeつかうことができる　べんりなボタンです。\xfffe\xfffeべんりボタンに　とうろくすると\xfffeYボタンを　おして　すぐにつかえます。
+Ｘボタンを　おして　メニューを　ひらくと\xfffeしたのがめんに　しかくい　マークが\xfffeひょうじされている　ことが　あります。\xfffeこのマークを　タッチするか\xfffeYボタンを　おすと\xfffeあかい　チェックマークが　つきます。\xfffe\xfffeチェックを　つけた　きのうや　どうぐが\xfffeべんりボタンに　とうろくされます。
+たいせつなもの　ポケットに　はいっている\xfffeどうぐの　よこにも\xfffeしかくい　マークが　あります。\xfffe\xfffeカーソルを　あわせて　Yボタンを　おすか\xfffeタッチして　チェックしておくと　\xfffeべんりボタンに　とうろくして　おけます。
+べんりボタンには　34こ　まで\xfffeどうぐや　きのうを　とうろく　できます。\xfffeとうろくを　かいじょ　したい　ばあいは\xfffeしかくい　マークを　タッチするか\xfffeYボタンを　おして\xfffeチェックを　はずして　ください。\xfffe2つ　いじょう　とうろく　していると\xfffeセレクトボタンで　べんりボタンの\xfffeこうもくを　ならびかえることが　できます。
 「メダルラリー」は　プレイヤーが　した\xfffeいろんなことを　ひょうかして\xfffeメダルを　プレゼントする　システムです。\xfffe\xfffeてにいれた　メダルは　バッグの\xfffe「たいせつなもの」にある\xfffe「メダルボックス」を　えらぶことで\xfffeかくにん　することが　できます。
 メダルは　じょうけんを　みたすと\xfffeポケモンセンターに　あらわれる\xfffe「メダルおやじ」に　はなしかけることで\xfffeてにいれることが　できます。
 ポケットモンスターの\xfffe『ダイヤモンド・パール・プラチナ\xfffe　ハートゴールド・ソウルシルバー』の\xfffeいずれかを　もう1だいの　DSほんたいに\xfffeセットして　でんげんを　いれたあと\xfffeDSメニューがめん　の\xfffe「DSダウンロードプレイ」を　えらび\xfffe「ポケシフター」を　えらんでください。

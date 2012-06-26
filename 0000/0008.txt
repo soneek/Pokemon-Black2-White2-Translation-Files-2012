@@ -308,11 +308,11 @@ The connection to the server was lost.\xfffeTouch the Touch Screen to continue.
 　
 There is nothing saved.\xfffeTouch the Touch Screen to continue.
 ボックスを　えらんでください
-からの　ボックスは　おくれません！
-どの　コーナーに　おくりますか？
+からの　ボックスは　おくれません!
+どの　コーナーに　おくりますか?
 ボックスは　いちどに\xfffeひとつ　しか　おくれません
 おなじ　ボックスは　おくれません
-どの　コーナーを　みますか？
+どの　コーナーを　みますか?
 The saved data could not be deleted...
 The same Battle Video can't be saved again.\xfffeTouch the Touch Screen to continue.
 Saving...\xfffeDon't turn off the power.

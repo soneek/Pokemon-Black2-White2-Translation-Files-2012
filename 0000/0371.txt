@@ -36,14 +36,14 @@ A Button: Continue
 B Button: Back to menu
 Enable the C-Gear?\xfffePlease read the warning below.
 Are you sure you want to disable\xfffethe C-Gear? You may enable it later.
-レポートの　ないようが\xfffeきえてしまった！
-きえて　しまった　バトルビデオの\xfffeきろくが　あります！
-Cギアの　スキンデータが\xfffeきえてしまった！
-とくべつな　バトルけんていの\xfffeデータが　きえてしまった！
-ミュージカルの　えんもくデータが\xfffeきえてしまった！
-ずかんの　スキンデータが\xfffeきえてしまった！
-でんどういりポケモンの\xfffeきろくが　きえてしまった！
-ふしぎな　おくりものの\xfffeきろくが　きえてしまった！
-きえてしまった　ポケウッドの\xfffeきろくが　あります！
-キーシステムと　おもいでリンクの\xfffeきろくが　きえてしまった！
-きえて　しまった　PWTの\xfffeきろくが　あります！
+レポートの　ないようが\xfffeきえてしまった!
+きえて　しまった　バトルビデオの\xfffeきろくが　あります!
+Cギアの　スキンデータが\xfffeきえてしまった!
+とくべつな　バトルけんていの\xfffeデータが　きえてしまった!
+ミュージカルの　えんもくデータが\xfffeきえてしまった!
+ずかんの　スキンデータが\xfffeきえてしまった!
+でんどういりポケモンの\xfffeきろくが　きえてしまった!
+ふしぎな　おくりものの\xfffeきろくが　きえてしまった!
+きえてしまった　ポケウッドの\xfffeきろくが　あります!
+キーシステムと　おもいでリンクの\xfffeきろくが　きえてしまった!
+きえて　しまった　PWTの\xfffeきろくが　あります!

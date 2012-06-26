@@ -141,17 +141,17 @@ Lv. 80 and up
 Lv. 90 and up
 Level 100
 \xf000봂\x0000Return
-ポケモンを ＧTSに\xfffeおくりだして います
-ＧTSに ポケモンが\xfffeとうろく されました!\xf000븁\x0000
-ポケモンを ＧTSから\xfffeうけとっています
-ＧTSから ポケモンを\xfffeひきとりました!\xf000븁\x0000
-ＧTSと ポケモンを \xfffeこうかん しています!
+ポケモンを GTSに\xfffeおくりだして います
+GTSに ポケモンが\xfffeとうろく されました!\xf000븁\x0000
+ポケモンを GTSから\xfffeうけとっています
+GTSから ポケモンを\xfffeひきとりました!\xf000븁\x0000
+GTSと ポケモンを \xfffeこうかん しています!
 ポケモンの こうかんが\xfffeせいりつ しました!\xf000븁\x0000
 ざんねんですが ほかのひとと\xfffeこうかん されていました\xf000븁\x0000
 ポケモンレポートに かきこんでいます\xfffeでんげんを きらないでください
-ただいま ＧTSと つうしんを\xfffeおこなっています……
-ＧTSは\xfffeげんざい メンテナンスちゅう です\xf000븁\x0000\xfffeしばらく おまちいただいたのち \xfffeごりようください\xf000븁\x0000
-ＧTSは\xfffeげんざい こみあって おります\xf000븁\x0000\xfffeしばらく おまちいただいたのち\xfffeごりようください（13261）\xf000븁\x0000
+ただいま GTSと つうしんを\xfffeおこなっています……
+GTSは\xfffeげんざい メンテナンスちゅう です\xf000븁\x0000\xfffeしばらく おまちいただいたのち \xfffeごりようください\xf000븁\x0000
+GTSは\xfffeげんざい こみあって おります\xf000븁\x0000\xfffeしばらく おまちいただいたのち\xfffeごりようください（13261）\xf000븁\x0000
 Communication error...
 Communication error...
 Communication error...\xfffeError code: 13272\xf000븁\x0000

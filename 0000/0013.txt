@@ -64,7 +64,7 @@ KYUREM 1
 KYUREM 2
 RESHIRAM
 ZEKROM
-もどる
+Quit
 まえへ
 つぎへ
 てもちポケモン
