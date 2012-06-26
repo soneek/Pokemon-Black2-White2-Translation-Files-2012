@@ -23,7 +23,7 @@
 ◇Lushgreen Park will warm your heart!
 ◇Many trainers visit the daycare next to the city.
 ◇Study Pokémon from the basics at the Trainer's School!
-◇From Sanyou City, you can smell the refreshing breeze of the forest!
+◇From Striaton City, you can smell the refreshing breeze of the forest!
 ◇The stairs leading into the gate prevent snow from piling in.
 ◇サンヨウレストランは　しょうぶと　しょくじを　たのしめる　スポットです　
 ◇Shippo City has stone roads and warehouses!
@@ -34,9 +34,9 @@
 ◇You can also see the remains of the track that ran through town!
 ◇A town where appreciators of the fine arts gather!
 ◇The museum is themed around the comparison of civilization and nature!
-◇Many famous artists were born in Shippou City!
-◇The obscure specialty Hiun Ice is becoming majorly popular!
-◇The ships taking off from Hiun City's piers have a variety of destinations!
+◇Many famous artists were born in Nacrene City!
+◇The obscure specialty Castelia Ice is becoming majorly popular!
+◇The ships taking off from Castelia City's piers have a variety of destinations!
 ◇ヒウンジムが　アーティの　しんさくアートによって　うまれかわりました
 ◇ちゅうしんの　ふんすいは　ひととひとを　つなぐばしょだと　いわれています
 ◇せかいじゅうの　げいじゅつかが　ヒウンシティで　ギャラリーを　ひらいています
@@ -53,9 +53,9 @@
 ◇キラキラけしき　ワクワクたかさ　ドキドキであいの　あいのりかんらんしゃ
 ◇ギアステーションから　カナワタウンへ　いくことができます
 ◇なんどでも　きたくなる　ごらくのまち　ライモンシティへようこそ
-◇Hodomoe City is a harbor adjacent to the shore.
+◇Driftveil City is a harbor adjacent to the shore.
 ◇Long ago, ships sailed by means of the wind and water.
-◇Hodomoe is a town founded upon freight trading and fishing.
+◇Driftveil is a town founded upon freight trading and fishing.
 ◇The Market is packed with items from around the world.
 ◇まちのイメージカラーは　オレンジから　エメラルドにかわりました
 ◇The Charizard Bridge that rises into the sky serves as picturesque scenery.

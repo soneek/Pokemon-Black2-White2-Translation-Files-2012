@@ -2,33 +2,33 @@
 \xf000Ā\x0001\x0000のせかい　と　\xfffeせつぞく　しました!
 \xf000Ā\x0001\x0000のせかい　と　\xfffeせつぞく　しました!
 \xf000Ā\x0001\x0000のせかい　と　\xfffeせつぞく　しました!
-\xf000Ā\x0001\x0000 is in the High-Link.
-\xf000Ā\x0001\x0001 is in the High-Link.
-\xf000Ā\x0001\x0002 is in the High-Link.
-\xf000Ā\x0001\x0003 is in the High-Link.
+\xf000Ā\x0001\x0000 is in the Entralink.
+\xf000Ā\x0001\x0001 is in the Entralink.
+\xf000Ā\x0001\x0002 is in the Entralink.
+\xf000Ā\x0001\x0003 is in the Entralink.
 Able to enter\xfffe\xf000Ā\x0001\x0000's world.
 Able to enter\xfffe\xf000Ā\x0001\x0000's world.
 Able to enter\xfffe\xf000Ā\x0001\x0000's world.
 Able to enter\xfffe\xf000Ā\x0001\x0000's world.
-\xf000Ā\x0001\x0000 returned to the High-Link.
-\xf000Ā\x0001\x0001 returned to the High-Link.
-\xf000Ā\x0001\x0002 returned to the High-Link.
-\xf000Ā\x0001\x0003 returned to the High-Link.
-\xf000Ā\x0001\x0000 left the High-Link.
-\xf000Ā\x0001\x0001 left the High-Link.
-\xf000Ā\x0001\x0002 left the High-Link.
-\xf000Ā\x0001\x0003 left the High-Link.
+\xf000Ā\x0001\x0000 returned to the Entralink.
+\xf000Ā\x0001\x0001 returned to the Entralink.
+\xf000Ā\x0001\x0002 returned to the Entralink.
+\xf000Ā\x0001\x0003 returned to the Entralink.
+\xf000Ā\x0001\x0000 left the Entralink.
+\xf000Ā\x0001\x0001 left the Entralink.
+\xf000Ā\x0001\x0002 left the Entralink.
+\xf000Ā\x0001\x0003 left the Entralink.
 Communications ended.
 \xf000Ā\x0001\x0000が　まちに　きました!
 \xf000Ā\x0001\x0001が　まちに　きました!
 \xf000Ā\x0001\x0002が　まちに　きました!
 \xf000Ā\x0001\x0003が　まちに　きました!
-In \xf000Ā\x0001\x0000's High-Link.
-In \xf000Ā\x0001\x0001's High-Link.
-In \xf000Ā\x0001\x0002's High-Link.
-In \xf000Ā\x0001\x0003's High-Link.
-\xf000Ā\x0001\x0000 entered\xfffe\xf000Ā\x0001\x0001's High-Link.
-\xf000Ā\x0001\x0000 returned\xfffeto their own High-Link.
+In \xf000Ā\x0001\x0000's Entralink.
+In \xf000Ā\x0001\x0001's Entralink.
+In \xf000Ā\x0001\x0002's Entralink.
+In \xf000Ā\x0001\x0003's Entralink.
+\xf000Ā\x0001\x0000 entered\xfffe\xf000Ā\x0001\x0001's Entralink.
+\xf000Ā\x0001\x0000 returned\xfffeto their own Entralink.
 \xf000Ā\x0001\x0000のせかい　と　\xfffeせつぞく　しました!
 \xf000Ā\x0001\x0000 returned\xfffeto their own world.
 Mission starting soon.\xfffeParticipants, press Enter.
@@ -36,8 +36,8 @@ Mission starting soon.\xfffePlease wait a moment.
 On a mission.
 Mission was completed.
 Mission was failed.
-\xf000Ā\x0001\x0000 received an Exit Power\xfffefrom\xfffe\xf000Ā\x0001\x0001's High-Link.
-\xf000Ā\x0001\x0000 received an Exit Power\xfffefrom their own High-Link.
+\xf000Ā\x0001\x0000 received an Exit Power\xfffefrom\xfffe\xf000Ā\x0001\x0001's Entralink.
+\xf000Ā\x0001\x0000 received an Exit Power\xfffefrom their own Entralink.
 \xf000Ā\x0001\x0000 is\xfffein this area.
 Linking with \xf000Ā\x0001\x0000's world...\xfffePlease wait.
 \xf000Ā\x0001\x0000 and \xf000Ā\x0001\x0001's\xfffeworlds are linking... Please wait.
@@ -49,7 +49,7 @@ Linking with \xf000Ā\x0001\x0000's world...\xfffePlease wait.
 This is somewhere\xfffeyou haven't been yet.
 Someone is coming\xfffeto play nearby.
 Someone is coming\xfffeto play in this world.
-Communicating... Looking for\xfffepartners around the High-Link.
+Communicating... Looking for\xfffepartners around the Entralink.
 Someone is coming\xfffeto play in this world.
 Your partner's world\xfffeis disappearing.
 \xf000Ā\x0001\x0000 is\xfffefighting in this area.
@@ -65,7 +65,7 @@ Coming to play in \xf000Ā\x0001\x0000's world.
 Coming to play in \xf000Ā\x0001\x0000's world.
 Coming to play in \xf000Ā\x0001\x0000's world.
 Coming to play in \xf000Ā\x0001\x0000's world.
-Touch to go to the High-Link.
+Touch to go to the Entralink.
 Own World
 \xf000Ā\x0001\x0000's World
 Enter
@@ -85,7 +85,7 @@ Checked \xf000Ā\x0001\x0000's\xfffeEntrance Tree.
 Please wait on the bridge\xfffeuntil a partner is found.
 ここからは　もとのせかいに\xfffeもどることが　できます\xf000븁\x0000\xfffeもとのせかい　に\xfffeもどりますか?
 Communications halted.
-Your partner's world vanished, and\xfffeyou returned to your own High-Link.
+Your partner's world vanished, and\xfffeyou returned to your own Entralink.
 ミッション　しっぱい!\xfffeさきを　こされてしまった……\xf000븁\x0000\xfffeあいてのせかいが　きえさり\xfffeじぶんのハイリンクに　もどってきた
 ミッション　しっぱい!\xfffeじかんが　なくなった……\xf000븁\x0000\xfffeあいてのせかいが　きえさり\xfffeじぶんのハイリンクに　もどってきた
 とつぜん　じぶんのハイリンクに\xfffeもどされた!\xf000븁\x0000\xfffe……どうやら　つながっていた\xfffeハイリンクが　きえてしまったようだ

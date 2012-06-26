@@ -2,9 +2,9 @@
 \xf000봂\x0000Appointed Trade
 Trade Wish
 Level
-Lｖ．1からLｖ．49
-Lｖ．50
-Lｖ．51からLｖ．100
+Lv.1からLv.49
+Lv.50
+Lv.51からLv.100
 Any
 Cool
 Cute
