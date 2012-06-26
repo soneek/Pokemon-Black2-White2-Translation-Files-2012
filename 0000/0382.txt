@@ -199,8 +199,8 @@ Tomofumi
 ヤチヨ
 ライラ
 ランバート
-バンジロウ
-バンジロウ
+Banjirou
+Banjirou
 Masashi
 ミツハル
 Yasuo
@@ -342,7 +342,7 @@ Charles
 Iris
 Grunt
 Grunt
-アクロマ
+Achroma
 Geechisu
 ロット
 ヴィオ
@@ -356,7 +356,7 @@ Washio
 ナギサ
 Grunt
 ニシノ
-アクロマ
+Achroma
 Grunt
 Kyouhei
 Kyouhei
@@ -579,7 +579,7 @@ Tetsuharu
 パーカー
 Lisa
 ガンジロウ
-アクロマ
+Achroma
 Alder
 ダーク
 ヴィオ

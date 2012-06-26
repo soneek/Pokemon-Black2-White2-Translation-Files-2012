@@ -18,18 +18,18 @@ HAUNTER
 Dragon
 Dark
 Steel
-ホドモエ
+Driftveil
 イッシュ
 Kanto
 Johto
 ホウエン
 シンオウ
 World
-チャンピオンズ
+Champions
 Rental
-レンタルマスター
-ミックス
-ミックスマスター
+Rental Master
+Mix
+Mix Master
 ﻿\xf000Ā\x0001\x0000
 そうゆうしょうかいすう
 Name

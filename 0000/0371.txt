@@ -22,9 +22,9 @@ Assist Mode
 Challange Mode
 White Forest
 Black City
-いわやまのま
-くろがねのま
-ひょうざんのま
+Rocky Mountain Room
+Iron Room
+Glacier Room
 ほんたいの　せっていにより\xfffeむせんつうしんが　つかえません\xf000븁\x0000\xfffeむせんつうしんを　つかうには\xfffeほんたいせっていの　むせんつうしんを\xf000븀\x0000\xfffeオンにしてください　（50699）
 ペアレンタルコントロールの\xfffeつうしんせいげん
 イッシュリンクの　キーシステム　で\xfffeモードへんこうの　キーが\xf000븀\x0000\xfffeそうしん　できるように　なりました\xf000븁\x0000
