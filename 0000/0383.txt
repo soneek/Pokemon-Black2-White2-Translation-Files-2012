@@ -18,10 +18,10 @@ Twins
 Pokémon Breeder
 Pokémon Breeder
 Lenora
-no data
-no data
-no data
-no data
+﻿no data
+﻿no data
+﻿no data
+﻿no data
 Pokémon Ranger
 Pokémon Ranger
 Worker
@@ -35,9 +35,9 @@ Artist
 Baker
 Psychic
 Psychic
-no data
+﻿no data
 Pokémon Trainer
-no data
+﻿no data
 Pokémon Trainer
 Rich Boy
 Lady
@@ -45,7 +45,7 @@ Pilot
 Worker
 Hoopster
 Scientist
-no data
+﻿no data
 Clerk
 Ace Trainer
 Ace Trainer
@@ -53,8 +53,8 @@ Black Belt
 Scientist
 Striker
 Brycen
-no data
-no data
+﻿no data
+﻿no data
 Roughneck
 Janitor
 Pokéfan
@@ -75,12 +75,12 @@ Infielder
 Hiker
 Socialite
 Gentleman
-no data
+﻿no data
 Elite Four
 Elite Four
 Elite Four
 Elite Four
-no data
+﻿no data
 Depot Agent
 Swimmer 
 Swimmer 
@@ -91,17 +91,17 @@ Pokémon Trainer
 Cyclist
 Cyclist
 Motorcyclist
-no data
-no data
-no data
-no data
+﻿no data
+﻿no data
+﻿no data
+﻿no data
 GAME FREAK
-no data
-no data
+﻿no data
+﻿no data
 Pokémon Trainer
 Team Plasma
 Subway Boss
-no data
+﻿no data
 Pokémon Trainer
 Pokémon Trainer
 Pokémon Trainer
@@ -154,7 +154,7 @@ The Riches
 The Riches
 The Riches
 Subway Boss
-no data
+﻿no data
 The Riches
 The Riches
 The Riches
@@ -164,7 +164,7 @@ The Riches
 The Riches
 The Riches
 Subway Boss
-no data
+﻿no data
 Roark
 Gardenia
 Fantina
@@ -229,7 +229,7 @@ The Riches
 Pokémon Trainer
 Pokémon Trainer
 Pokémon Trainer
-no data
+﻿no data
 Time Traveler
 Harlequin
 Red
