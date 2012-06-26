@@ -6,7 +6,7 @@
 Hironobu
 ゆうえんちのきゃくB
 Megumi
-エキストラ
+Extra
 P　キャスティング
 None
 None
@@ -308,15 +308,15 @@ Hironobu
 Akito
 いっぱんしみんC
 Megumi
-エキストラ
+Extra
 ライモンのみなさん
 None
 None
 S・テルユキ
 クイーンの　しもべ
 おともポケモン
-おうじさま
-おひめさま
+Prince
+Princess
 None
 None
 None
@@ -330,8 +330,8 @@ None
 S・ヒトミ
 まほうの　とびら
 おともポケモン
-おうじさま
-おひめさま
+Prince
+Princess
 None
 None
 None
@@ -345,8 +345,8 @@ None
 S・ヒトミ
 まほうの　とびら
 おともポケモン
-おうじさま
-おひめさま
+Prince
+Princess
 もんばんぬいぐるみ
 トヤマボイススタジオ
 None
@@ -524,24 +524,24 @@ None
 None
 N・スグル
 ゆうれいたち
-ゴーストイレイザーズ
-ゴーストイレイザー
-ゴーストイレイザー
+Ghost Erasers
+Ghost Eraser
+Ghost Eraser
 ひの　たま　1
 Hironobu
 ひの　たま　2
 Akito
 ひの　たま　3
 Megumi
-エキストラ
+Extra
 ヤマジの　みなさん
 None
 None
 S・テルユキ
 ゆうれいたち
-ゴーストイレイザーズ
+Ghost Erasers
 Ghost Thief CChar
-ゴーストイレイザー
+Ghost Eraser
 ポルターガイストA
 Hironobu
 ポルターガイストB
@@ -563,15 +563,15 @@ Hironobu
 Akito
 いらいぬし
 Megumi
-エキストラ
+Extra
 P　キャスティング
 None
 None
 S・テルユキ
 はかいのまじん
 ゴーストイレイザーズ\xfffe
-ゴーストイレイザー
-ゴーストイレイザー
+Ghost Eraser
+Ghost Eraser
 にげまどう　しみん
 Hironobu
 にげまどう　しみん
@@ -606,7 +606,7 @@ N・スグル
 Hironobu
 ゆうえんちの　きゃくB
 Megumi
-エキストラ
+Extra
 P　キャスティング
 None
 None
