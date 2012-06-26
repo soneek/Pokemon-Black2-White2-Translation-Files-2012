@@ -1,69 +1,69 @@
-PAL PAD
-CHECK FRIEND ROSTER
-REGISTER FRIEND CODE
-\xf000Ā\x0001\x0000'S FRIEND CODE
-とじる
-ともだちリスト
-\xf000Ā\x0001\x0000
-\xf000봂\x0000もどる
-くわしく　みる
-なまえを　かきかえる
-さくじょ　する
-やめる
+Pal Pad
+Check Friend Roster
+Register Friend Code
+\xf000Ā\x0001\x0000's Friend Code
+Close
+Friend Roster
+﻿\xf000Ā\x0001\x0000
+\xf000봂\x0000Cancel
+Details
+Rewrite Name
+Delete
+Cancel
 \xf000Ā\x0001\x0000の　データを\xfffeどうしますか?
-\xf000Ā\x0001\x0000との　きろく
+Record With \xf000Ā\x0001\x0000
 \xf000봂\x0000A：まえの　がめんに　もどります
-グループ
-\xf000Ā\x0001\x0000
+Group
+﻿\xf000Ā\x0001\x0000
 \xf000봂\x0000\xf000Ā\x0001\x0000
 \xf000봂\x0000\xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001
-たいせんせいせき
-かち
-まけ
+Battle Record
+Win
+Lose
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-ポケモンこうかん
+Pokémon Trades
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-りょうりかいすう
+Times Cooked
 \xf000ȃ\x0001\x0000
-さいごにあそんだひづけ
+Date Last Played
 \xf000ȃ\x0001\x0000/\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002
-バトルタワー
-バトルファクトリー
-バトルキャッスル
-バトルステージ
-バトルルーレット
-ぜんかい
-げんざい
-さいこう
-\xf000ȃ\x0001\x0000れんしょう
+Battle Tower
+Battle Factory
+Battle Castle
+Battle Hall
+Battle Arcade
+Prev
+Current
+Record
+Win Streak: \xf000ȃ\x0001\x0000
 レベル50
-オープンレベル
+Open Level
 レンタル/こうかん
 \xf000봃\x0001\x0000キャッスルポイント
-\xf000ā\x0001\x0000の　きろく
+\xf000ā\x0001\x0000's Record
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000かい
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000CP
-\xf000ȃ\x0001\x0000れんしょう
-\xf000ȃ\x0001\x0000ゲーム　クリア
-ひろばゲームのかいすう
+Win Streak: \xf000ȃ\x0001\x0000
+Games Cleared: \xf000ȃ\x0001\x0000
+Plaza Games Played
 ひろばミニゲーム
-\xf000ȃ\x0001\x0000かい
-\xf000Ā\x0001\x0000の　ともだちコード
-\xf000봂\x0000もどる
-\xf000봂\x0000\xf000ȃ\x0001\x0001　\xf000ȃ\x0001\x0002　\xf000ȃ\x0001\x0003
+\xf000ȃ\x0001\x0000
+\xf000Ā\x0001\x0000's Friend Code
+\xf000봂\x0000Cancel
+\xf000봂\x0000\xf000ȃ\x0001\x0001 \xf000ȃ\x0001\x0002 \xf000ȃ\x0001\x0003
 ともだちコードを　おしえあうと\xfffeWi－Fiコネクションを　つかって\xfffeとおくのともだちと\xfffeたいせんやこうかんが　たのしめます
 ともだちコードを　もらうには\xfffeいちど　Wi－Fiコネクションに\xfffeせつぞく　してください
-\xf000ȃ\x0001\x0001　\xf000ȃ\x0001\x0002　\xf000ȃ\x0001\x0003\xfffe\xf000Ā\x0001\x0000を　とうろくします
-ともだちコードが　まちがっています\xfffe\xf000ȃ\x0001\x0001　\xf000ȃ\x0001\x0002　\xf000ȃ\x0001\x0003
+\xf000ȃ\x0001\x0001 \xf000ȃ\x0001\x0002 \xf000ȃ\x0001\x0003\xfffe\xf000Ā\x0001\x0000 will be registered.
+The Friend Code is wrong.\xfffe\xf000ȃ\x0001\x0001 \xf000ȃ\x0001\x0002 \xf000ȃ\x0001\x0003
 \xf000Ā\x0001\x0000を　けします\xfffeほんとうに　よろしいですか?
 ともだちリストが　いっぱい　です!
-おなじ　ともだちコードが\xfffeとうろく　されていました
-\xf000Ā\x0001\x0000の　ともだちコード\xfffe\xf000ȃ\x0001\x0001　\xf000ȃ\x0001\x0002　\xf000ȃ\x0001\x0003
-ともだちコードをみる
+That Friend Code has already been\xffferegistered before.
+\xf000Ā\x0001\x0000's Friend Code:\xfffe\xf000ȃ\x0001\x0001 \xf000ȃ\x0001\x0002 \xf000ȃ\x0001\x0003
+Check Friend Code
 \xf000Ā\x0001\x0000さんを　ともだちてちょう　に\xfffeとうろく　しますか?
 ともだちリストが　いっぱい　です!\xfffeだれか　さくじょ　しますか?
 \xf000Ā\x0001\x0000さんの　とうろく　を\xfffeあきらめますか?
 \xf000Ā\x0001\x0000の　データを\xfffeさくじょ　しますか?
-YES
-NO
-Please go to the Wi-Fi Club\xfffewith \xf000Ā\x0001\x0000.
+Yes
+No
+\xf000Ā\x0001\x0000さんと　いっしょに\xfffeWi－Fiクラブへ　いってください

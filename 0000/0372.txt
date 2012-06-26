@@ -4,6 +4,6 @@ Defense
 Speed
 Sp. Atk
 Sp. Def
-めいちゅうりつ
-かいひりつ
-Maximum HP
+Accuracy
+Evasion
+Max HP

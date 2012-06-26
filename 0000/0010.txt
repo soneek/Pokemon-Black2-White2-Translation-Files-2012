@@ -1,21 +1,21 @@
-なまえ
-しごと
-しゅみ
-プレイじかん
+Name
+Work
+Hobby
+Playtime
 \xf000ļ\x0001\x0000
 \xf000ļ\x0001\x0000
 \xf000봃\x0001\x0000\xf000Ȃ\x0001\x0002:\xf000ȁ\x0001\x0003
-しゅっしん
+Hometown
 \xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
-おれいをうけた　かいすう\xfffeすれちがった　にんずう
-\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000かい\xfffe\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0001にん
-\xf000Ȅ\x0001\x0001にん
+Thanks Received\xfffeChance-Upon Count
+\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000\xfffe\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0001
+\xf000Ȅ\x0001\x0001
 \xf000Ȃ\x0001\x0002:\xf000ȁ\x0001\x0003
 すれちがったじかん　AM\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
 すれちがったじかん　PM\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
-やせいの　\xf000ā\x0001\x0000と\xfffeせんとうちゅう　です
-とくべつな　ポケモンと\xfffeせんとうちゅう　です
-\xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001と\xfffeたいせんちゅう　です
-ジムリーダーと\xfffeたいせんちゅう　です
-とくべつな　トレーナーと\xfffeたいせんちゅう　です
-\xf000ą\x0001\x0000を\xfffeいどうちゅう　です
+Currently fighting\xfffea wild \xf000ā\x0001\x0000.
+Currently fighting\xfffea special Pokémon.
+Currently battling \xf000Ď\x0001\x0000's\xfffe\xf000Ā\x0001\x0001.
+Currently battling\xfffea gym leader.
+Currently battling\xfffea special trainer.
+Currently moving\xfffe\xf000ą\x0001\x0000.

@@ -81,7 +81,7 @@ A world-famous sea of shining waves.
 しばらく　まえまでは　なにもないのに\xfffeまよう　ばしょとして　しられていた
 きせつが　うつろい　かわる\xfffeけしきを　たのしめる　うみぞいのみち
 のどかな　ムードの　みちでは\xfffeトレーナーたちが　うでを　きそいあう
-おおくの　くさむらと　いけによって\xfffeまがりくねった　ながい　どうろ
+A long route with many twists and turns,\xfffeowed to all the grass and ponds.
 いせきが　はっくつされて\xfffeかいはつこうじは　ちゅうしされた
 A busy road where\xfffeperformers gather.
 A road with many trees\xfffefor nature lovers.
@@ -123,8 +123,8 @@ Pokémon Center
 Pokémon Center
 Black Skyscraper
 White Tree Hollow
-かんこうきゃくに　にんきだが\xfffeリゾートとよぶには　きびしい　さばく
-かつて　えいがを　ほこるも　いつしか\xfffeすなにうもれた　おおむかしの　いせき
+Though a popular tourist spot and\xfffeknown as a resort, it's a harsh desert.
+The ruins of an ancient civilization\xfffewhose glory was buried in the sands.
 でいりぐちの　かなごうしが　はずされ\xfffeものずきな　トレーナーが　うろつく
 ポケモンと　ひとが　あつまるうちに\xfffeいつしか　ぼくじょうに　なった
 ポケモンが　はたらきやすいように\xfffeせっけい　されている　コンビナート

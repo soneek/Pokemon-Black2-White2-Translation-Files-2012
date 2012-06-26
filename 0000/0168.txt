@@ -2,25 +2,25 @@ PGL
 GTS
 PDW
 Wi－Fi
-ぐるぐる
-ゲームシンク
-コロシアム
-サブウェイ
-ジオネット
-シングルバトル
-せきがいせん
-ダブルバトル
-チャット
-つうしん
-ともだちコード
-トリプルバトル
-ハイリンク
-バトルビデオ
-ボイスチャット
-ポケシフター
-マルチバトル
-ミュージカル
-ユニオン
-すれちがいログ
-ローテーション
-ワイヤレス
+Spin Trade
+﻿Game Sync
+Colosseum
+Subway
+Geonet
+Single Battle
+Infrared
+Double Battle
+Chat
+Communication
+Friend Codes
+Triple Battle
+﻿High Link
+Battle Video
+Voice Chat
+Pok�Shifter
+Multi Battle
+Pok�mon Musical
+Union
+C-Gear Log
+Rotation
+Wireless

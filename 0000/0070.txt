@@ -1,17 +1,17 @@
-メールボックス
+Mailbox
 \xf000Ȁ\x0001\x0000
 /
-やめる
-とじる
-メールを　よむ
-メールを　けす
-もたせる
-やめる
+Cancel
+Close
+Read
+Erase
+Give
+Cancel
 \xf000Ā\x0001\x0000の\xfffeメールを　どうしますか?
 ないようは　きえて　しまいますが\xfffeよろしいですか?
-ないようを　けしました
+The message was erased.
 ポケモンに　もたせますか?
-ないようを　けした　メールを\xfffeバッグに　しまいました
-バッグが　いっぱいです……\xfffeメールを　すてました
+The Mail's mesage was erased\xfffeand it was put in the Bag.
+Your Bag is full...\xfffeThe Mail was discarded.
 Yes
 No

@@ -88,12 +88,12 @@ Bug
 ユ
 ヨ
 ラ.
-リ
+Li
 ル
 レ
 ロ
 ワ.
-―
+-
 Red
 Blue
 Yellow
