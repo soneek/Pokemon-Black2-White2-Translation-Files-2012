@@ -2,10 +2,10 @@ BＧM
 ME
 SE
 PＶ
-SOＵNＤ　TEST
+SOＵND　TEST
 A　PLAＹ
 B　STOP
-Ｘ　ENＤ
+Ｘ　END
 Ｙ　INIT
 PLAＹER
 ＫEＹ
