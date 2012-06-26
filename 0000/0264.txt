@@ -13,9 +13,9 @@
 フレンドリィショップで\xfffe10％オフの　やすうりが　はじまります\xfffeこうかは　3ふん　です
 フレンドリィショップで\xfffe25％オフの　やすうりが　はじまります\xfffeこうかは　3ふん　です
 フレンドリィショップで\xfffe50％オフの　やすうりが　はじまります\xfffeこうかは　3ふん　です
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeたいりょくが　すこし　かいふくします
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeたいりょくが　とても　かいふくします
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeたいりょくが　かなり　かいふくします
+With this power\xfffethe Pok�mon in the front of the party\xfffewill recover HP gradually.
+With this power\xfffethe Pok�mon in the front of the party\xfffewill recover more HP gradually.
+With this power\xfffethe Pok�mon in the front of the party\xfffewill recover even more HP gradually.
 このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffePPが　すこし　かいふくします
 このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffePPが　とても　かいふくします
 このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffePPが　かなり　かいふくします
@@ -37,16 +37,16 @@
 たたかったあと　もらえる　けいけんちが\xfffeかなり　あがります\xfffeこうかは　30ふん　です
 たたかったあと　もらえる　おこづかいが\xfffeかなり　あがります\xfffeこうかは　30ふん　です
 ポケモンを　ほかくする　かくりつが\xfffeかなり　あがります\xfffeこうかは　30ふん　です
-このパワーを　うけとると\xfffeてもちにいる　すべての　ポケモンが\xfffeぜんかい　します
+Upon receiving this power,\xfffeall Pok�mon on hand\xfffeare completely recovered.
 あるいているときに　タマゴが\xfffeかなり　かえりやすく　なります\xfffeこうかは　60ふん　です
 フレンドリィショップで\xfffe50％オフの　やすうりが　はじまります\xfffeこうかは　60ふん　です
 ポケモンが　かなり\xfffeなつきやすく　なります\xfffeこうかは　60ふん　です
 たたかったあと　もらえる　けいけんちが\xfffeかなり　あがります\xfffeこうかは　60ふん　です
 たたかったあと　もらえる　おこづかいが\xfffeかなり　あがります\xfffeこうかは　60ふん　です
 ポケモンを　ほかくする　かくりつが\xfffeかなり　あがります\xfffeこうかは　60ふん　です
-ダミー
-ダミー
-ダミー
+Dummy
+Dummy
+Dummy
 ゆれる　くさむらや　つちけむりが\xfffeすこしだけ　みつけやすく　なります\xfffeこうかは　3ふん　です
 ゆれる　くさむらや　つちけむりが\xfffeとても　みつけやすく　なります\xfffeこうかは　3ふん　です
 ゆれる　くさむらや　つちけむりが\xfffeかなり　みつけやすく　なります\xfffeこうかは　3ふん　です

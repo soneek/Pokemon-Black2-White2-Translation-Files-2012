@@ -1,4 +1,4 @@
-\xf000ȁ\x0001\x0000がつ\xf000ȁ\x0001\x0001にち
+\xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001
 
 
 ◇ヒオウギシティしゅっしんの　トレーナーが　ヒオウギジムリーダー　チェレンにしょうり!
@@ -18,47 +18,47 @@
 ◇「つどえ　トレーナー!　めざすは　せかいいち!」ホドモエシティ　ポケモンワールドトーナメント
 ◇「イッシュでいちばんの　しなぞろえ!　さがしものは　とうてんで!」ショッピングモール　アールナイン
 ◇サンヨウシティは　もりと　ていえんに　かこまれた　しずかなまちです
-◇げんかんさきにあるかいだんは　ゆきをさけるためにあります
+◇The stairs leading into the gate prevent snow from piling in.
 ◇サンヨウレストランは　しょうぶと　しょくじを　たのしめる　スポットです　
-◇みどりゆたかなていえんが　こころを　あたたかく　させてくれます
-◇まちのとなりには　そだてやがあり　おおくのトレーナーが　かよいます
-◇トレーナーズスクールでは　ポケモンのきそから　まなべます
-◇サンヨウシティは　もりにかこまれ　すずやかな　かぜが　かおります
-◇げんかんさきにあるかいだんは　ゆきをさけるためにあります
+◇Lushgreen Park will warm your heart!
+◇Many trainers visit the daycare next to the city.
+◇Study Pokémon from the basics at the Trainer's School!
+◇From Sanyou City, you can smell the refreshing breeze of the forest!
+◇The stairs leading into the gate prevent snow from piling in.
 ◇サンヨウレストランは　しょうぶと　しょくじを　たのしめる　スポットです　
-◇シッポウシティは　いしだたみとそうこが　とくちょうです
+◇Shippo City has stone roads and warehouses!
 ◇はくぶつかんでは　ほねからポケモンについて　けんきゅうしています
 ◇はくぶつかんでは　たすうのしょもつを　よむことができます
-◇わかてげいじゅつかが　おおくすみ　そうこをアトリエにしています
-◇かんこうきゃくは　そうこがいと　はくぶつかんを　みるために　おとずれます
-◇せんろが　とおっていた　なごりが　いまもみられます
-◇げいじゅつに　みせられたひとがあつまる　まちです
-◇はくぶつかんのテーマは　ぶんかとしぜんの　たいひです
-◇シッポウシティから　ゆうめいげいじゅつかが　おおくうまれました
-◇かくれためいぶつ　ヒウンアイスが　いま　ブームになっています
-◇ヒウンシティの　ピアからでるふねは　それぞれいきさきが　ちがいます
+◇Young artist turning dilapidated warehouse into a studio!
+◇Tourists come just to see the warehouses and the museum!
+◇You can also see the remains of the track that ran through town!
+◇A town where appreciators of the fine arts gather!
+◇The museum is themed around the comparison of civilization and nature!
+◇Many famous artists were born in Shippou City!
+◇The obscure specialty Hiun Ice is becoming majorly popular!
+◇The ships taking off from Hiun City's piers have a variety of destinations!
 ◇ヒウンジムが　アーティの　しんさくアートによって　うまれかわりました
 ◇ちゅうしんの　ふんすいは　ひととひとを　つなぐばしょだと　いわれています
 ◇せかいじゅうの　げいじゅつかが　ヒウンシティで　ギャラリーを　ひらいています
 ◇ホドモエシティが　おおきくなった　いまでも　ヒウンシティが　イッシュちほういちの　だいとしです
 ◇さまざまな　くにの　ひとびとがうつりすみ　ヒウンシティは　へんかしつづけます
 ◇ヒウンシティには　いろんなくにが　まざった　どくじのぶんかや　たべものがあります
-◇ひとと　ひとの　すれちがいについて　けんきゅうしている　ばしょが　あります
+◇There's a place investigating the way people happen upon other people!
 ◇ライモンシティには　しげきをもとめて　おおくのトレーナーが　あつまります
 ◇あついテニス　はくねつのバスケットボール　ねっきあふれるリトルコート
 ◇あついポケモンしょうぶを　ねんりょうに　バトルサブウェイは　しっそうしつづけています
-◇ミュージカルホールでは　ときおり　ポケモンのスカウトが　あるそうです
+◇Pokémon scouts occasionally make an appearance at the Musical Hall.
 ◇スタープレイヤーあつまるスタジアム　れんしゅうする　せんしゅとポケモンしょうぶ
 ◇めいぶつの　ジェットコースターは　おどろきのばしょで　はしっています
 ◇キラキラけしき　ワクワクたかさ　ドキドキであいの　あいのりかんらんしゃ
 ◇ギアステーションから　カナワタウンへ　いくことができます
 ◇なんどでも　きたくなる　ごらくのまち　ライモンシティへようこそ
-◇ホドモエシティは　みずべにりんせつする　みなとまちです
-◇むかしは　すいじょうからの　かぜをうける　はんせんが　はしっていました
-◇ホドモエは　かもつとりひきと　ぎょぎょうで　はってんしたまちです
-◇マーケットは　せかいからあつまったしなもので　にぎわっています
+◇Hodomoe City is a harbor adjacent to the shore.
+◇Long ago, ships sailed by means of the wind and water.
+◇Hodomoe is a town founded upon freight trading and fishing.
+◇The Market is packed with items from around the world.
 ◇まちのイメージカラーは　オレンジから　エメラルドにかわりました
-◇そらにそびえる　リザードンばしは　ぜっけいです
+◇The Charizard Bridge that rises into the sky serves as picturesque scenery.
 ◇ジムリーダー　ヤーコンは　いつまでもほりつづける　おとこです
 ◇ポケモンワールドトーナメントかんせんを　みんな　たのしみにしています
 ◇みつぼしホテルが　せかいじゅうから　おこしいただく　ひとびとを　おむかえします
@@ -91,22 +91,22 @@
 ◇まちからは　まいとし　こうこがくしゃが　おおく　たんじょうします
 ◇まちのビルは　ポケモンが　100ぴきのっても　くずれないと　いわれています
 ◇ソウリュウシティでは　さいしんのモンスターボールが　かいはつされています
-◇まちのビルは　さいしんの　ざいりょうで　たてられています
+◇The city's buildings are built with the newest and best materials.
 ◇ソウリュウシティの　セキュリティは　あんぜんなことで　ゆうめいです
-◇ネットワークをつかった　とてもべんりな　せいかつが　できます
+◇Networks allow for a very convenient lifestyle.
 ◇まちのビルは　ポケモンが　100ぴきのっても　くずれないと　いわれています
 ◇ソウリュウシティでは　さいしんのモンスターボールが　かいはつされています
-◇まちのビルは　さいしんの　ざいりょうで　たてられています
+◇The city's buildings are built with the newest and best materials.
 ◇ソウリュウシティの　セキュリティは　あんぜんなことで　ゆうめいです
-◇カゴメタウンは　じかんにおおざっぱなため　みんかには　とけいが　おいてありません
-◇カゴメタウンの　ひとびとは　ひがしずむとともに　しごとをおえます
-◇きょだいな　はしのうえから　まちぜんたいを　みおろせます
+◇Since time is hard to judge in Kagome Town, people don't have clocks in their homes.
+◇The Kagome townspeople leave their jobs with the setting of the sun.
+◇The entire town can be viewed from the top of an enormous bridge.
 ◇まちからみえる　もりでは　なぞのポケモンの　もくげきじょうほうがあります
 ◇カゴメタウンの　どうろも　たてものも　すべて　いしで　できています
 ◇カゴメタウンでは　ひるをすぎてから　まちが　かっぱつになります
 ◇はれのひには　にっこうよくをするひとが　おおくみられます
-◇カゴメタウンは　じかんにおおざっぱなため　みんかには　とけいが　おいてありません
-◇カゴメタウンの　ひとびとは　ひがしずむとともに　しごとをおえます
+◇Since time is hard to judge in Kagome Town, people don't have clocks in their homes.
+◇The Kagome townspeople leave their jobs with the setting of the sun.
 ◇はまべのすなは　とてもこまかく　あしあとがハッキリと　のこります
 ◇サザナミタウンに　べっそうをもつことは　あこがれとされています
 ◇サザナミタウンの　なみのおとの　うつくしさは　たからものであると　いわれています
@@ -116,33 +116,33 @@
 ◇マリンチューブは　サザナミタウンと　セイガイハシティを　むすぶ　しんめいしょです
 ◇サザナミわんで　おおむかしの　かいていいせきが　みつかりました
 ◇はまべのすなは　とてもこまかく　あしあとがハッキリと　のこります
-◇ホワイトフォレストは　しぜんが　おおくみられるまちです
-◇まちのひとは　しぜんをあいし　しぜんとともにせいかつしています
+◇White Forest is a town where nature can be found everywhere.
+◇The townspeople love and always live in touch with nature.
 ◇しろのじゅどうに　おおくの　トレーナーが　いどんでいます
-◇しぜんにひかれた　ブリーダーが　おおくあつまっています
+◇Many nature-loving breeders gather in the town.
 ◇ゆたかなしぜんのおかげで　こころいやされる　ばしょとして　にんきです
-◇ポケモンの　おとしものがあり　しぜんのめぐみとされています
+◇Pokémon and lost items in the area are said to be blessings of nature.
 ◇しろのじゅどうが　たんじょうして　トレーナーがおおくつどっています
-◇ホワイトフォレストは　しぜんが　おおくみられるまちです
-◇まちのひとは　しぜんをあいし　しぜんとともにせいかつしています
-◇ブラックシティは　ビルがならぶ　ぶんめいのまちです
-◇イッシュで　いちばん　はったつしたまちを　めざしています
+◇White Forest is a town where nature can be found everywhere.
+◇The townspeople love and always live in touch with nature.
+◇Black City is a cultured city with lined-up buildings.
+◇People aim to make the city the most developed in Isshu.
 ◇くろのまてんろうに　おおくの　トレーナーが　いどんでいます
-◇きょうそういしきのたかいトレーナーが　おおくすんでいます
+◇Many trainers filled with competitive spirit live here.
 ◇まちのマーケットでは　ちょっとした　ほりだしものを　うっています
-◇あつまったひとが　りゅうつうをかえ　しなものがかわります
+◇People gather to change circulation and exchange goods.
 ◇くろのまてんろうが　たんじょうして　トレーナーがおおくつどっています
-◇ブラックシティは　ビルがならぶ　ぶんめいのまちです
-◇イッシュで　いちばん　はったつしたまちを　めざしています
-◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
-◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
-◇さばくぜんたいに　ふきわたる　すなあらしに　ごちゅういください
-◇いせきが　たてられたじきについて　げんざいちょうさされています
-◇こだいのくにが　なぜほろびたのかは　なぞです
-◇こだいのしろないぶでは　げんざいもすなが　ながれおちています
-◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
-◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
-◇さばくぜんたいに　ふきわたる　すなあらしに　ごちゅういください
+◇Black City is a cultured city with lined-up buildings.
+◇People aim to make the city the most developed in Isshu.
+◇The ruins of the Ancient Castle are a major tourist spot.
+◇The desert is large and harsh. Please be sure to make preparations.
+◇Please be wary of the desert-wide sandstorms.
+◇The era in which the ruins were built is currently being investigated.
+◇Why the ancient kingdom perished is still a mystery.
+◇The Ancient Castle still has sinking quicksand.
+◇The ruins of the Ancient Castle are a major tourist spot.
+◇The desert is large and harsh. Please be sure to make preparations.
+◇Please be wary of the desert-wide sandstorms.
 
 
 
@@ -179,22 +179,22 @@
 
 
 
-はれ
-ゆき
-あめ
-すなあらし
-すなあらし
-ふぶき
-あられ
-きり
+Clear
+Snowy
+Rainy
+Sandstorm
+Sandstorm
+Blizzard
+Hail
+Fog
 ひじょうにめずらしい　ダイヤモンドダストが　はっせい!!
 ひじょうにつよい　らいうが　はっせい!!
 ひじょうにつよい　おおあらしが　はっせい!!
 \xf000ą\x0001\x0000:\xf000ľ\x0001\x0001
-\xf000Ā\x0001\x0000
-\xf000Ā\x0001\x0000　　\xf000Ā\x0001\x0001
-\xf000Ā\x0001\x0000　　\xf000Ā\x0001\x0001　　\xf000Ā\x0001\x0002
-\xf000Ā\x0001\x0000　　\xf000Ā\x0001\x0001　　\xf000Ā\x0001\x0002　　\xf000Ā\x0001\x0003
+﻿\xf000Ā\x0001\x0000
+\xf000Ā\x0001\x0000 \xf000Ā\x0001\x0001
+\xf000Ā\x0001\x0000 \xf000Ā\x0001\x0001 \xf000Ā\x0001\x0002
+\xf000Ā\x0001\x0000 \xf000Ā\x0001\x0001 \xf000Ā\x0001\x0002 \xf000Ā\x0001\x0003
 ◆\xf000ą\x0001\x0000で　ポケモンが　たいりょうはっせい!!
 
 
@@ -228,24 +228,24 @@
 ◇コンビナートで　はたらく　ひとびとは　しごとの　あいまに　ポケモンしょうぶを　たのしんでいます
 ◇しごとでくたびれた　ひとたちを　コンビナートの　やけいがいやします
 ◇まちの　ひがしにある　クレーンで　にもつの　あげおろしをします
-◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
-◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
-◇さばくぜんたいに　ふきわたる　すなあらしに　ごちゅういください
-◇いせきが　たてられたじきについて　げんざいちょうさされています
-◇こだいのくにが　なぜほろびたのかは　なぞです
-◇こだいのしろないぶでは　げんざいもすなが　ながれおちています
-◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
-◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
-◇さばくぜんたいに　ふきわたる　すなあらしに　ごちゅういください
-◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
-◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
-◇さばくぜんたいに　ふきわたる　すなあらしに　ごちゅういください
-◇いせきが　たてられたじきについて　げんざいちょうさされています
-◇こだいのくにが　なぜほろびたのかは　なぞです
-◇こだいのしろないぶでは　げんざいもすなが　ながれおちています
-◇いせきめあての　りょこうしゃがおおい　かんこうスポットです
-◇さばくは　ひろく　かこくです　じゅんびをととのえて　おこしください
-◇さばくぜんたいに　ふきわたる　すなあらしに　ごちゅういください
+◇The ruins of the Ancient Castle are a major tourist spot.
+◇The desert is large and harsh. Please be sure to make preparations.
+◇Please be wary of the desert-wide sandstorms.
+◇The era in which the ruins were built is currently being investigated.
+◇Why the ancient kingdom perished is still a mystery.
+◇The Ancient Castle still has sinking quicksand.
+◇The ruins of the Ancient Castle are a major tourist spot.
+◇The desert is large and harsh. Please be sure to make preparations.
+◇Please be wary of the desert-wide sandstorms.
+◇The ruins of the Ancient Castle are a major tourist spot.
+◇The desert is large and harsh. Please be sure to make preparations.
+◇Please be wary of the desert-wide sandstorms.
+◇The era in which the ruins were built is currently being investigated.
+◇Why the ancient kingdom perished is still a mystery.
+◇The Ancient Castle still has sinking quicksand.
+◇The ruins of the Ancient Castle are a major tourist spot.
+◇The desert is large and harsh. Please be sure to make preparations.
+◇Please be wary of the desert-wide sandstorms.
 ◇ポケウッドでは　あなたがえいがスターに　なれるかもしれません!
 ◇ポケウッドには　せかいかっこくの　えいががあつまります
 ◇ポケウッドでは　スターをもとめています　きたれスター!

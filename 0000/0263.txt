@@ -1,43 +1,43 @@
-そうぐうパワー　＋
-そうぐうパワー　＋＋
-そうぐうパワー　＋＋＋
-そうぐうパワー　ー
-そうぐうパワー　ーー
-そうぐうパワー　ーーー
-タマゴふかパワー　＋
-タマゴふかパワー　＋＋
-タマゴふかパワー　＋＋＋
-なつきパワー　＋
-なつきパワー　＋＋
-なつきパワー　＋＋＋
-やすうりパワー　＋
-やすうりパワー　＋＋
-やすうりパワー　＋＋＋
-HPかいふくパワー　＋
-HPかいふくパワー　＋＋
-HPかいふくパワー　＋＋＋
-PPかいふくパワー　＋
-PPかいふくパワー　＋＋
-PPかいふくパワー　＋＋＋
-けいけんちパワー　＋
-けいけんちパワー　＋＋
-けいけんちパワー　＋＋＋
-けいけんちパワー　ー
-けいけんちパワー　ーー
-けいけんちパワー　ーーー
-おこづかいパワー　＋
-おこづかいパワー　＋＋
-おこづかいパワー　＋＋＋
-ほかくパワー　＋
-ほかくパワー　＋＋
-ほかくパワー　＋＋＋
+Encounter Power +
+Encounter Power ++
+Encounter Power +++
+Encounter Power -
+Encounter Power --
+Encounter Power ---
+Hatching Power +
+Hatching Power ++
+Hatching Power +++
+Happiness Power +
+Happiness Power ++
+Happiness Power +++
+Discount Power +
+Discount Power ++
+Discount Power +++
+HP Power +
+HP Power ++
+HP Power +++
+PP Power +
+PP Power ++
+PP Power +++
+EXP Power +
+EXP Power ++
+EXP Power +++
+EXP Power -
+EXP Power --
+EXP Power ---
+Money Power +
+Money Power ++
+Money Power +++
+Capture Power +
+Capture Power ++
+Capture Power +++
 タマゴふかパワー　S
 やすうりパワー　S
 なつきパワー　S
 けいけんちパワー　S
 おこづかいパワー　S
 ほかくパワー　S
-ぜんかいパワー
+HP Restore Power
 タマゴふかパワー　MAＸ
 やすうりパワー　MAＸ
 なつきパワー　MAＸ

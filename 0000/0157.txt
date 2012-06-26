@@ -1,13 +1,13 @@
 10まんほると
 ……
 
-bonjour
+Bonjour
 C
-ciao
+Ciao
 GTS
-hallo
-hello
-hola
+Hallo
+Hello
+Hola
 PDW
 PGL
 PIC_ありかとう

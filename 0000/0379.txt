@@ -25,9 +25,9 @@ POKÉWOOD FILMS SHOT
 PWT CHAMPIONSHIPS
 \xf000Ĺ\x0001\x0007に
 あんないした　ひとの　かず
-：
-－－－－年 －－月 －－日 －－時 －－分
-ーー：ーー
+:
+--/--/---- --:--
+--:--
 Cancel
 Touch Card to flip.
 Sign Card
