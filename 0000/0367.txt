@@ -1,10 +1,10 @@
-ＢＧM
+BＧM
 ME
 SE
 PＶ
 SOＵNＤ　TEST
 A　PLAＹ
-Ｂ　STOP
+B　STOP
 Ｘ　ENＤ
 Ｙ　INIT
 PLAＹER

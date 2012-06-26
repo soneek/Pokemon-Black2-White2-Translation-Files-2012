@@ -79,7 +79,7 @@ Once you have completed\xfffethe registration for Battle Competition,\xfffeyou w
 Before adjusting Game Sync settings,\xfffeyou must complete your\xfffeNintendo Wi-Fi Connection settings.\xfffe\xfffeWhen these settings are done,\xfffeadjust the Game Sync settings\xfffeto have the Game Sync ID issued.\xfffeThis is a unique ID assigned to you.
 You must have a Game Sync ID\xfffeto register at the\xfffePokémon Global Link using\xfffea computer with Internet access.
 When you delete a saved game,\xfffeyour Game Sync ID will also be lost.\xfffe\xfffeWhen you change your Game Sync ID,\xfffeyou must also renew your registration\xfffeat the Pokémon Global Link.
-ニンテンドーＤS／ＤS　Lｉｔｅで\xfffeWｉ－Ｆｉつうしんを　するための\xfffeせっていが　できます。\xfffe\xfffeWｉ－Ｆｉせっていをすると\xfffeインターネットを　つうじて\xfffeせかいじゅうの　ひとたちと\xfffeポケモンのこうかんや　たいせんが\xfffeできるように　なります。
+ニンテンドーＤS/ＤS　Lｉｔｅで\xfffeWｉ－Ｆｉつうしんを　するための\xfffeせっていが　できます。\xfffe\xfffeWｉ－Ｆｉせっていをすると\xfffeインターネットを　つうじて\xfffeせかいじゅうの　ひとたちと\xfffeポケモンのこうかんや　たいせんが\xfffeできるように　なります。
 You need to set up the Nintendo Wi-Fi\xfffeConnection settings to connect your game\xfffewith the Pokémon Global Link, which allows\xfffeBattle Competition, Game Sync settings,\xfffeand so on.
 You can check to see\xfffeif your DS system's\xfffemicrophone is functioning.\xfffe\xfffeThe microphone is functioning properly\xfffeif Jigglypuff on the top screen\xfffereacts when you talk\xfffeor blow into it.
 You can restore your tired Pokémon and buy\xfffeuseful items. You'll find the PC where you\xfffecan keep captured Pokémon.\xfffe\xfffeYou can hear\xfffeProfessor Juniper's evaluation\xfffeof your Pokédex.\xfffe\xfffeVisit 2F for Link Trade and Link Battle.
@@ -113,7 +113,7 @@ You can use the PC to store and organize\xfffePokémon.\xfffe\xfffeWhen you have
 グローバルターミナル　では\xfffeとおくにいる　みしらぬひとと\xfffeつうしんこうかんや　つうしんたいせんを\xfffeたのしめます。\xfffeポケモンセンター2かいの　みぎで\xfffeうけつけを　してください。
 いちど　Wｉ－Ｆｉコネクションに\xfffeせつぞくを　すると　はっこうされる\xfffeあなたこじんの　ばんごうです。\xfffeともだちコードを　おしえあうと\xfffeとおくの　ともだちと\xfffeたいせんや　こうかんが　たのしめます。\xfffeじぶんの　ともだちコードは\xfffeバッグの　たいせつなものの　なかにある\xfffe「ともだちてちょう」で　かくにんできます。
 ともだちコードを　とうろくするほうほうは\xfffeつぎの2しゅるいが　あります。\xfffe\xfffe・バッグの　たいせつなもの　にある\xfffe　ともだちてちょうで　「つかう」をえらび\xfffe　ともだちから　おそわった　コードを\xfffe　ちょくせつ　にゅうりょくする\xfffe・Cギアの　IRつうしんを　つかう
-Cギアは　ちかくのひとと\xfffeつうしんこうかんや　たいせんをしたり\xfffeハイリンクや　ライブキャスター\xfffeゲームシンクなどを　するときにつかう\xfffeいろいろな　きのうをもった　きかいです。\xfffe\xfffeCギアの　みぎしたに　ひょうじされた\xfffeでんげんのマークを　タッチすると\xfffeCギアのでんげんを　オン／オフできます。
+Cギアは　ちかくのひとと\xfffeつうしんこうかんや　たいせんをしたり\xfffeハイリンクや　ライブキャスター\xfffeゲームシンクなどを　するときにつかう\xfffeいろいろな　きのうをもった　きかいです。\xfffe\xfffeCギアの　みぎしたに　ひょうじされた\xfffeでんげんのマークを　タッチすると\xfffeCギアのでんげんを　オン/オフできます。
 Cギアのでんげんが　はいっているとき\xfffeＤSのむせんは　つねにオンになっています。\xfffe\xfffeひこうきや　びょういんのなか　など\xfffeむせんつうしんを　つかってはいけない\xfffeばしょでは　Cギアの　でんげんは\xfffeかならず　オフに　してください。\xfffeまもらないと　ほうりついはんになる\xfffeばあいが　あります。
 Cギアの　みぎしたに　ある\xfffeスパナマークを　タッチすると\xfffeCギアを　カスタマイズできます。\xfffeわくを　タッチして　いろをかえたり\xfffeひかる　ボタンを　スライドさせて\xfffeすきな　ばしょに　いどうできます。\xfffe\xfffe？マークを　タッチすると　Cギアの\xfffeヘルプを　みることができます。
 Cギアの　まんなかに　ひょうじされる\xfffeしかくいマークが　すれちがいログ　です。\xfffeタッチすると　ちかくで　Cギアを\xfffeつかっている　ひとがいるか　わかります。\xfffeちかくの　ひとの　ゲームでの　ようすや\xfffeプロフィールが　わかったり\xfffeメッセージの　やりとりなどが　できます。\xfffeまた　フェスミッションが　はっせいすると\xfffeてんめつして　しらせてくれます。
@@ -144,12 +144,12 @@ Cギアの\xfffe「WIRELESS（ワイヤレス）」と\xfffeかかれた　ま�
 ハイルツリーが　せいちょうし\xfffeレベルが　あがることで\xfffeあたらしい　デルパワーを\xfffeうけとれるように　なります。\xfffe\xfffeレベルを　あげるには\xfffeフェスミッションを　うけて\xfffeスコアを　たくさん　ためます。
 デルダマは　デルパワーを　つかうときに\xfffeきまったかずだけ　ひつように　なります。\xfffe\xfffeデルダマは　ハイルツリーから　うける\xfffeフェスミッションを　クリアすることで\xfffeもらうことが　できます。
 ■バッグの　きのう\xfffeバッグは　もちものの　しゅるいごとに\xfffeじどうてきに　ふりわけられます。\xfffe\xfffeたいせつなものポケットに　いれている\xfffeどうぐは　なまえの　よこの　しかくい\xfffeマークを　チェックして　とうろくすると\xfffeバッグを　ひらかなくても　Ｙボタンで\xfffeかんたんに　つかうことが　できます。
-したがめんの　みどりいろの　マークか\xfffeスタートボタンを　おすと　ひょうじされる\xfffeならびかたを　えらぶことで\xfffeどうぐの　ならびを　へんこう　できます。\xfffeセレクトボタンを　おすと\xfffeポケットの　どうぐの　じゅんばんを\xfffeじゆうに　いれかえることが　できます。\xfffeL／Rボタンを　おすと\xfffeページを　きりかえることが　できます。
+したがめんの　みどりいろの　マークか\xfffeスタートボタンを　おすと　ひょうじされる\xfffeならびかたを　えらぶことで\xfffeどうぐの　ならびを　へんこう　できます。\xfffeセレクトボタンを　おすと\xfffeポケットの　どうぐの　じゅんばんを\xfffeじゆうに　いれかえることが　できます。\xfffeL/Rボタンを　おすと\xfffeページを　きりかえることが　できます。
 バッグには　「フリースペース」が\xfffeようい　されています。\xfffe\xfffeまず　ポケットの　どうぐを　えらびます。\xfffeつぎに　「フリースペースへ」を\xfffeえらぶことで　すきな　どうぐを\xfffeフリースペースに\xfffeいどう　させることが　できます。
 ■もちものの　しゅるい\xfffe・どうぐ\xfffeポケモンに　もたせると　のうりょくや\xfffeわざの　いりょくが　アップする\xfffeどうぐが　あります。\xfffeもたせて　こうかのある　どうぐには\xfffeしるしが　ついているので　\xfffeポケモンに　もたせて\xfffeこうかを　たしかめて　みましょう。
 せんとうちゅうに　つかうと　そのときだけ\xfffeのうりょくや　わざの　いりょくが\xfffeアップする　どうぐも　あります。\xfffe\xfffeいっていのあいだ　こうかが　つづくものや\xfffeポケモンを　いれかえると\xfffeこうかが　きれるものも　あります。
 ポケモンを　つかまえるための　ボールも\xfffeどうぐポケットに　はいっています。\xfffeポケモンの　しんかに　かんけいする\xfffeどうぐも　どこかに　あるようです。\xfffe\xfffeメールは　すきなことばを　くみあわせて\xfffeつくる　てがみの　ことで\xfffeポケモンに　もたせて　こうかんすると　\xfffeともだちに　とどけることが　できます。
-・かいふく\xfffeポケモンの　ＨPや　PP\xfffeじょうたいいじょうなどを　かいふくさせる　\xfffeどうぐを　しまっておく　ばしょです。\xfffe\xfffe・わざマシン\xfffeわざマシンや　ひでんマシンを　しまいます。\xfffeわざマシンや　ひでんマシンは\xfffeなんどでも　つかうことができます。
+・かいふく\xfffeポケモンの　HPや　PP\xfffeじょうたいいじょうなどを　かいふくさせる　\xfffeどうぐを　しまっておく　ばしょです。\xfffe\xfffe・わざマシン\xfffeわざマシンや　ひでんマシンを　しまいます。\xfffeわざマシンや　ひでんマシンは\xfffeなんどでも　つかうことができます。
 ・きのみ\xfffeポケモンに　つかったり　もたせておくと\xfffeこうかのある　きのみを　しまっておく\xfffeばしょです。\xfffe・たいせつなもの\xfffeたいせつな　どうぐを\xfffeしまっておく　ばしょです。\xfffeべんりボタンに\xfffeとうろくできる　ものも　あります。
 Ｘボタンで　ひらいた　メニューから\xfffeじぶんの　なまえを　えらぶと\xfffeトレーナーカードを\xfffeかくにん　することが　できます。\xfffe\xfffeしたがめんの　ひだりしたに　ある\xfffeマークを　タッチすると\xfffeジムバッジを　どれだけ　もっているか\xfffeかくにん　することが　できます。
 トレーナーカードは　プレイじかんや\xfffeおこづかいを　かくにんできる　カードです。\xfffeかたがきや　せいかくは　がめんを\xfffeタッチすると　きりかわりますので\xfffeすきなものを　えらんでください。\xfffeしたの　あいさつらんを　タッチすると\xfffeメッセージが　へんしゅう　できます。\xfffeあいている　ところに　すきな　たんごを\xfffeえらんで　かんせいさせて　ください。
@@ -163,22 +163,22 @@ Cギアの\xfffe「WIRELESS（ワイヤレス）」と\xfffeかかれた　ま�
 だすわざの　タイプが　そのわざを　だす\xfffeポケモンのタイプと　おなじばあいは\xfffeわざのいりょくが　いつもより　あがります。\xfffeポケモンが　2つの　タイプを\xfffeもっていると　それぞれの　あいしょうが\xfffeえいきょう　しあいます。\xfffe\xfffeまた　あいしょうに　よっては　わざの\xfffeこうかがない　くみあわせも　あります。
 わざは　「ぶつり」と　「とくしゅ」と\xfffe「へんか」の　3つに　ぶんるいされていて\xfffeマークに　よって\xfffeみわけることが　できます。\xfffe\xfffe・ぶつりわざ\xfffeポケモンの　こうげきと　ぼうぎょの\xfffeすうちに　よって　ダメージが　きまる\xfffeわざの　しゅるいです。
 ・とくしゅわざ\xfffeポケモンの　とくこうと　とくぼうの\xfffeすうちに　よって　ダメージが　きまる\xfffeわざの　しゅるいです。\xfffe・へんかわざ\xfffeあいてを　こうげきする　わざではなく\xfffeポケモンの　のうりょくを　あげたり\xfffeじょうたいいじょうに　するなど　ほじょの\xfffeこうかがある　わざの　しゅるいです。
-ポケモンの　ＨPが0に　なったじょうたい。\xfffeかいふくさせる　までは　せんとうに\xfffeだすことが　できませんが　せんとうちゅう\xfffeいがいで　つかえる　いちぶの　わざは\xfffeひんしでも　つかうことが　できます。\xfffe■なおす　おもな　ほうほう\xfffe・ポケモンセンターで　やすませる\xfffe・げんきのかけらを　つかう\xfffe・げんきのかたまりを　つかう
-ポケモンが　どくを　あびたじょうたい。\xfffeせんとうちゅう　じょじょに\xfffeＨPが　へって　いきます。\xfffeボールにもどったり　せんとうがおわると\xfffeＨPは　へらなく　なりますが\xfffeしぜんには　なおりません。\xfffe■なおす　おもな　ほうほう\xfffe・ポケモンセンターで　やすませる\xfffe・どくけしや　モモンのみを　つかう
+ポケモンの　HPが0に　なったじょうたい。\xfffeかいふくさせる　までは　せんとうに\xfffeだすことが　できませんが　せんとうちゅう\xfffeいがいで　つかえる　いちぶの　わざは\xfffeひんしでも　つかうことが　できます。\xfffe■なおす　おもな　ほうほう\xfffe・ポケモンセンターで　やすませる\xfffe・げんきのかけらを　つかう\xfffe・げんきのかたまりを　つかう
+ポケモンが　どくを　あびたじょうたい。\xfffeせんとうちゅう　じょじょに\xfffeHPが　へって　いきます。\xfffeボールにもどったり　せんとうがおわると\xfffeHPは　へらなく　なりますが\xfffeしぜんには　なおりません。\xfffe■なおす　おもな　ほうほう\xfffe・ポケモンセンターで　やすませる\xfffe・どくけしや　モモンのみを　つかう
 ポケモンが　まひに　なったじょうたい。\xfffeせんとうちゅう　えらんだ　わざが\xfffeときどき　うまく　だせなくなり\xfffeすばやさも　さがってしまいます。\xfffeまた　せんとうが　おわっても\xfffeしぜんには　なおりません。\xfffe■なおす　おもな　ほうほう\xfffe・ポケモンセンターで　やすませる\xfffe・まひなおしや　クラボのみを　つかう
 ポケモンが　ねむっている　じょうたい。\xfffeとくていの　わざ　いがいは\xfffeつかうことが　できなくなります。\xfffeせんとうちゅうに　かいふく　することが\xfffeありますが　ねむったまま　せんとうが\xfffeおわっても　かいふく　しません。\xfffe■なおす　おもな　ほうほう\xfffe・ポケモンセンターで　やすませる\xfffe・ねむけざましや　カゴのみを　つかう
 ポケモンが　こおりついた　じょうたい。\xfffeほとんどの　わざが　だせなくなります。\xfffeせんとうちゅうに　かいふく　することが\xfffeありますが　こおったまま　せんとうが\xfffeおわっても　かいふく　しません。\xfffe\xfffe■なおす　おもな　ほうほう\xfffe・ポケモンセンターで　やすませる\xfffe・こおりなおしや　ナナシのみを　つかう
-ポケモンが　やけどした　じょうたい。\xfffeせんとうちゅう　じょじょに　ＨPが\xfffeへっていき　こうげきも　さがります。\xfffeボールにもどったり　せんとうがおわると\xfffeＨPは　へらなく　なりますが\xfffeしぜんには　なおりません。\xfffe■なおす　おもな　ほうほう\xfffe・ポケモンセンターで　やすませる\xfffe・やけどなおしや　チーゴのみを　つかう
+ポケモンが　やけどした　じょうたい。\xfffeせんとうちゅう　じょじょに　HPが\xfffeへっていき　こうげきも　さがります。\xfffeボールにもどったり　せんとうがおわると\xfffeHPは　へらなく　なりますが\xfffeしぜんには　なおりません。\xfffe■なおす　おもな　ほうほう\xfffe・ポケモンセンターで　やすませる\xfffe・やけどなおしや　チーゴのみを　つかう
 ポケモンが　こんらんした　じょうたい。\xfffeえらんだ　わざを　ださずに　ときどき\xfffeじぶんを　こうげきして　しまいます。\xfffeせんとうちゅう　しばらくたつか\xfffeせんとうがおわると　しぜんに　なおります。\xfffe\xfffe■なおす　おもな　ほうほう\xfffe・せんとうちゅう　ポケモンを　いれかえる\xfffe・キーのみを　つかう
 せいべつの　ちがう　ポケモンに　\xfffeメロメロに　なった　じょうたい。\xfffeあいての　ポケモンに　みとれて\xfffeえらんだ　わざを\xfffeときどき　だせなく　なります。\xfffeポケモンを　いれかえるか\xfffeあいてを　たおすと　なおります。
 ポケモンは　たたかいに　さんかすると\xfffeけいけんちが　もらえます。\xfffeたくさん　けいけんを　つむと　レベルが\xfffeあがって　どんどん　せいちょうします。\xfffe\xfffeあいての　ポケモンのほうが　つよいと\xfffeもらえる　けいけんちは　おおくなります。\xfffeあいての　ポケモンのほうが　よわいと\xfffeもらえる　けいけんちは　すくなくなります。
 けいけんちは　せんとうにでた\xfffeすべての　ポケモンで　わけあいます。\xfffeよわいポケモンにも　わけたいときは\xfffeよわいポケモンを　さきに　だしたあと\xfffeつよいポケモンに　こうたいする\xfffeテクニックも　あります。\xfffeほかのひとと　こうかんした　ポケモンは\xfffeじぶんで　つかまえた　ポケモンよりも\xfffeもらえる　けいけんちが　おおくなります。
 ポケモンは　しんかすることが　あります。\xfffeしんかすると　すがたかたちが　かわり\xfffeのうりょくも　アップします。\xfffe\xfffeレベルを　あげて　せいちょうさせたり\xfffeしんかにひつような　どうぐを　つかったり\xfffeともだちと　つうしんで　こうかんしたりと\xfffeポケモンごとに　さまざまな\xfffeしんかの　しかたが　あるようです。
-ポケモンが　しんかしている　さいちゅうに\xfffeＢボタンを　おすと　ポケモンが　\xfffeおどろいて　しんかを　やめます。\xfffe\xfffeポケモンに　もたせておくと　\xfffeしんかしなくなる　どうぐも\xfffeどこかに　あるようです。
+ポケモンが　しんかしている　さいちゅうに\xfffeBボタンを　おすと　ポケモンが　\xfffeおどろいて　しんかを　やめます。\xfffe\xfffeポケモンに　もたせておくと　\xfffeしんかしなくなる　どうぐも\xfffeどこかに　あるようです。
 おなじ　しゅるいの　ポケモンでも\xfffeせいかくや　こせいは　さまざまです。\xfffeせいちょうにも　ちがいが　でてきます。\xfffe\xfffeポケモンの　つよさをみると　こうげきや\xfffeぼうぎょなどの　のうりょくに\xfffeいろが　ついていることが　あります。\xfffeあかは　その　のうりょくが　あがりやすく\xfffeあおは　あがりにくいことを　あらわします。
 ポケルスとは　ポケモンにくっつく　とても\xfffeめずらしい　せいめいたいの　ことです。\xfffeいちど　ポケルスが　くっついた\xfffeポケモンは　よくそだつ　らしいです。\xfffe\xfffeほかの　ポケモンにも\xfffeうつることが　あるようです。
 ぼうけんの　とちゅうで　であう\xfffeそだてやさんに　ポケモンを\xfffe2ひき　あずけていると　タマゴが\xfffeみつかることが　あります。\xfffe\xfffeタマゴは　げんきな　ポケモンと\xfffeいっしょに　つれあるくことで\xfffeなかから　ポケモンが　あらわれます。
-ランニングシューズを　もらったあとは\xfffeＢボタンを　おしながら　いどうすると\xfffeはしることが　できます。
+ランニングシューズを　もらったあとは\xfffeBボタンを　おしながら　いどうすると\xfffeはしることが　できます。
 ダウジングマシンを　つかいながら\xfffeあるいていると　したがめんが\xfffeはんのうすることが　あります。\xfffeやじるしにむかって　あるいてみましょう。\xfffeかくれた　どうぐの　まうえに　たつと\xfffeがめんの　マークが　てんめつします。\xfffeまうえからは　どうぐが　ひろえません。\xfffeいっぽ　さがって　はんのうしていた\xfffeばしょをむいてから　Aボタンを　おします。
 ＤSワイヤレスつうしんや\xfffeWｉ－Ｆｉつうしんを　つかって\xfffeともだちと　おはなしできる　どうぐです。\xfffe3ＤSやＤSｉ、ＤSｉLLなら\xfffeカメラきのうを　つかって　ともだちの\xfffeかおを　みながら　おはなしが　できます。\xfffeライブキャスターで　おはなしするには\xfffeあらかじめ　ともだちコードを　とうろく\xfffeしあっておく　ひつようが　あります。
 ■ＤSワイヤレスつうしんのばあい\xfffeCギアの　ワイヤレスボタンを　タッチして\xfffeライブキャスターを　えらびます。\xfffeちかくに　ともだちコードを　こうかん\xfffeしている　あいてが　みつかると\xfffeしたがめんに　なまえと　IＤばんごうが\xfffeひょうじされますので　おはなしをしたい\xfffeあいてを　えらんで　よびだして　ください。\xfffe3にんまで　どうじに　よびだせます。

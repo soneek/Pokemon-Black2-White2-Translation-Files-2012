@@ -3,11 +3,11 @@ IR
 Wｉrｅlｅss
 ＧａｍｅSｙｎｃ
 Trａdｅ
-Ｂａｔｔlｅ
+Bａｔｔlｅ
 ＦrｉｅｎdCodｅ
 Cａrd
 C－ＧEAR＞IR
-C－ＧEAR＞IR＞ＢATTLE
+C－ＧEAR＞IR＞BATTLE
 C－ＧEAR＞IR＞TRAＤE
 C－ＧEAR＞ＧAMESＹNC
 C－ＧEAR＞WIRELESS
