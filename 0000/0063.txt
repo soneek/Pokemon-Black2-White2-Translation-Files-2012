@@ -132,7 +132,7 @@ A cassette to be held by Genesect.\xfffeIt changes Techno Blast to an\xfffeIce-t
 
 
 
-Very sweet chocolate.  \xfffeIt restores the HP of one Pokémon\xfffeby only 20 points.
+Very sweet chocolate. \xfffeIt restores the HP of one Pokémon\xfffeby only 20 points.
 A brightly gleaming orb to be held by\xfffeDialga. It boosts the power of Dragon-\xfffeand Steel-type moves.
 A beautifully glowing orb to be held by\xfffePalkia. It boosts the power of Dragon-\xfffeand Water-type moves.
 Stationery designed for\xfffeintroductory greetings.\xfffeLet a Pokémon hold it for delivery.
@@ -142,7 +142,7 @@ Stationery designed for\xfffea thank-you note.\xfffeLet a Pokémon hold it for d
 Stationery designed for\xfffewriting questions. \xfffeLet a Pokémon hold it for delivery.
 Stationery designed for\xfffewriting recommendations.\xfffeLet a Pokémon hold it for delivery.
 Stationery designed for\xfffewriting a reply. \xfffeLet a Pokémon hold it for delivery.
-Stationery featuring a print of \xfffea sky-piercing bridge.  \xfffeLet a Pokémon hold it for use.
+Stationery featuring a print of \xfffea sky-piercing bridge. \xfffeLet a Pokémon hold it for use.
 Stationery featuring a print of\xfffea red drawbridge. \xfffeLet a Pokémon hold it for use.
 Stationery featuring a print of\xfffea steel suspension bridge. \xfffeLet a Pokémon hold it for use.
 Stationery featuring a print of\xfffea brick bridge.\xfffeLet a Pokémon hold it for use.

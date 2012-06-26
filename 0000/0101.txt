@@ -6,20 +6,20 @@ Your friend's name?
 How do you greet passersby?
 How do you thank passersby?
 What's your message\xfffeto passersby?
-この　まちの　なまえは?\xfffe（トレーナーカードに　のります）
-あなたの　かたがきは?\xfffe（このまち　だけの　よばれかた　です）
-じぶんの　くちぐせは?\xfffe（せかいの　みんなに　つたわります）
-パスワードを　にゅうりょくせよ
-ゲームシンクIDコードを\xfffeにゅうりょく　してください
-かんどう　したときの　ことばは?\xfffe（せかいの　みんなに　つたわります）
-さんかしている　トレーナーへ\xfffeつたえたい　メッセージは?
-すれちがった　あいてへの\xfffeよろこびの　メッセージは?
+この まちの なまえは?\xfffe（トレーナーカードに のります）
+あなたの かたがきは?\xfffe（このまち だけの よばれかた です）
+じぶんの くちぐせは?\xfffe（せかいの みんなに つたわります）
+パスワードを にゅうりょくせよ
+ゲームシンクIDコードを\xfffeにゅうりょく してください
+かんどう したときの ことばは?\xfffe（せかいの みんなに つたわります）
+さんかしている トレーナーへ\xfffeつたえたい メッセージは?
+すれちがった あいてへの\xfffeよろこびの メッセージは?
 Your Pokémon's nickname?
 Please enter the name.
-にゅうりょく　できる　すうじは\xfffe4もじ　まで　です
+にゅうりょく できる すうじは\xfffe4もじ まで です
 The Game Sync ID\xfffewas entered incorrectly.
- 
- 
+﻿
+﻿
 よろしく!
 ありがとう!
 White.

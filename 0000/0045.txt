@@ -2,9 +2,9 @@
 \xf000봂\x0000Appointed Trade
 Trade Wish
 Level
-Lｖ．1からLｖ．49
-Lｖ．50
-Lｖ．51からLｖ．100
+Lv.1からLv.49
+Lv.50
+Lv.51からLv.100
 Any
 Cool
 Cute
@@ -15,7 +15,7 @@ Trade Search
 Looking for partners\xfffethat meet your needs...
 Cancel
 Getting information about partner.
-こうかんあいてが　みつかりました!
+こうかんあいてが みつかりました!
 Search
 Please choose a\xfffepartner to trade with.
 Decide your trade conditions\xfffeand hit Search.
@@ -29,20 +29,20 @@ Appointment
 \xf000Ā\x0001\x0000 \xf000봃\x0001\x0001ID：\xf000Ȅ\x0001\x0001\xfffe\xf000Ĥ\x0001\x0002
 There isn't yet anyone\xfffeto make an appointment with.
 Choose Appointment Partner
-このひとと　まちあわせしますか?
+このひとと まちあわせしますか?
 Decide how to choose\xfffeyour trade partner.
 Cancel
 \xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
 ﻿Greet
 \xf000봃\x0001\x0001\xf000Ȅ\x0001\x0000かい
 \xf000봂\x0000\xf000Ā\x0001\x0000
-さがすのを　あきらめますか?
-こうかんを　かいしします!
+さがすのを あきらめますか?
+こうかんを かいしします!
 \xf000봃\x0001\x0001 Trade Count
 Location
-Wi－Fiコネクション　から\xfffeせつだん　しても　よろしいですか?
-こうかんには　てもちの　ポケモンが\xfffe2ひき　いじょう　ひつようです
-みんなと　まちあわせ
-いぜん　ポケモンを　こうかん\xfffeしたひとと　まちあわせますか?
+Wi－Fiコネクション から\xfffeせつだん しても よろしいですか?
+こうかんには てもちの ポケモンが\xfffe2ひき いじょう ひつようです
+Appointment with All
+いぜん ポケモンを こうかん\xfffeしたひとと まちあわせますか?
 Delete
 99ついかします

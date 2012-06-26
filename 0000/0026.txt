@@ -1,5 +1,5 @@
-﻿High Link
-    Live\xfffe   Caster
+﻿Entralink
+  Live\xfffe  Caster
 Union Room
 \xf000ȁ\x0001\x0000
 Wireless Connection
@@ -13,6 +13,6 @@ Now saving.\xfffePlease wait.
 Cギア　キャッチ
 In
 None
-High-Link\xfffe Connect...
-High-Link\xfffe Guest: \xf000Ȁ\x0001\x0000
-High-Link\xfffe Mission
+Entralink\xfffe Connect...
+Entralink\xfffe Guest: \xf000Ȁ\x0001\x0000
+Entralink\xfffe Mission
