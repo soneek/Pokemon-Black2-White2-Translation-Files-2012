@@ -1,7 +1,7 @@
-\xf000Ā\x0001\x0000
+﻿\xf000Ā\x0001\x0000
 ID\xf000Ȅ\x0001\x0000
-あと\xf000Ȁ\x0001\x0000にん　ひつよう
-あと\xf000Ȁ\x0001\x0000にん　まで
+\xf000Ȁ\x0001\x0000 more needed
+Up to \xf000Ȁ\x0001\x0000 more
 マルチバトル　ぼしゅうちゅう!
 ミュージカル　ぼしゅうちゅう!
 バトルサブウェイ　ぼしゅうちゅう!
@@ -14,20 +14,20 @@ ID\xf000Ȅ\x0001\x0000
 ミュージカルを　やめますか?
 バトルサブウェイを　やめますか?
 リーダーが　やめると　かいさんに\xfffeなりますが　よろしいですか?
-それでは　マルチバトルを\xfffeちゅうし　します
-それでは　ミュージカルを\xfffeちゅうし　します
-それでは　バトルサブウェイを\xfffeちゅうし　します
-つごうの　わるくなってしまった\xfffeメンバーが　います
-メンバーが　いなくなりました\xfffeマルチバトルを　ちゅうし　します
+Then the Multi Battle\xfffewill be suspended.
+Then the Musical\xfffewill be suspended.
+Then the Battle Subway\xfffewill be suspended.
+Some members are facing\xfffetechnical difficulties.
+All members left.\xfffeMulti Battle will be suspended.
 そのまま　おまちください\xfffeBボタン：やめる
-そのまま　おまちください
-つごうが　わるくなりました\xfffeマルチバトルを　ちゅうし　します\xf000븂\x0001<
-つごうが　わるくなりました\xfffeミュージカルを　ちゅうし　します\xf000븂\x0001<
-つごうが　わるくなりました\xfffeバトルサブウェイを　ちゅうし　します\xf000븂\x0001<
+﻿Please wait a moment.
+Conditions have worsened.\xfffeMulti Battle will be suspended.\xf000븂\x0001<
+Conditions have worsened.\xfffeMusical will be suspended.\xf000븂\x0001<
+Conditions have worsened.\xfffeBattle Subway will be suspended.\xf000븂\x0001<
 \xf000ȁ\x0001\x0000:
 \xf000ȁ\x0001\x0000:\xf000Ā\x0001\x0001\xf000봅\x0001jID：\xf000Ȅ\x0001\x0002
-ミュージカルをする　ともだちを\xfffeえらんでください
-バトルサブウェイをする　ともだちを\xfffeえらんでください
+Choose a friend\xfffefor the Musical.
+Choose a friend\xfffefor the Battle Subway.
 メンバーが　そろいました!\xfffeそれでは　こちらへ　どうぞ!
 \xf000Ā\x0001\x0000から　NGとの\xfffeへんじが　きてしまいました……\xf000븂\x0001<
 \xf000Ā\x0001\x0000の　へんじを　まっています\xfffeBボタン：やめる

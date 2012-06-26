@@ -1,23 +1,23 @@
-「どうあそんでるか　ちょうさ」
-「どんなひとが　いるかの　ちょうさ」
-「すきなポケモンの　ちょうさ」
-「みんなの　りそうを　ちょうさ」
-「すきなひとの　ちょうさ」
+﻿"Which Do You Play? Survey"
+"What Kind of Person? Survey"
+"Favorite Pokémon Survey"
+"Everyone's Ideals Survey"
+"Favorite People Survey"
 「みんなの　しょうらいを　ちょうさ」
-「みんなの　しゅみを　ちょうさ」
+"Everyone's Hobbies Survey"
 「もしも……だったら　を　ちょうさ」
-「どんな　あそびがすきか　ちょうさ」
-「ポケモンのことをくわしくちょうさ」
+"What Do You Play? Survey"
+"Pokémon Specifics Survey"
 ブラック2・ホワイト2を\xfffeどのように　あそんでいるか　ちょうさします
-じぶんの　まわりには　どんなひとが\xfffeおおいのか　ちょうさします
-じぶんの　すきな　ポケモンで\xfffeどんな　あそびをしてるのか　ちょうさします
-じぶんの　りそうや　みんなの　たいせつに\xfffeしているものを　ちょうさします
-どんな　ひとが　すきなのか\xfffeその　けいこうを　ちょうさします
+Survey asking which kinds of\xfffepeople are more numerous.
+Survey asking how people\xfffeplay with their favorite Pokémon.
+Survey asking people their\xfffeideals and what they consider precious.
+Survey asking people who\xfffethey like and their tendencies.
 みんなの　しょうらいの　もくひょうや\xfffeなりたいものを　ちょうさします
-みんなが　どんな　しゅみを\xfffeもっているのか　ちょうさします
+Survey asking people\xfffewhat hobbies they have.
 もしも……だったら　どうする?\xfffeみんなの　いけんを　ちょうさします
 みんなが　どんな　あそびや　ゲームが\xfffeすきなのか　ちょうさします
-ポケモンに　ついて　みんなのかんそうを\xfffeくわしく　ちょうさします
+Survey specifically asking people\xfffetheir thoughts on Pokémon.
 ・ブラック2とホワイト2　どっち?
 ・おとこと　おんな　どっち?
 ・たいせんとこうかん　どっちがすき?

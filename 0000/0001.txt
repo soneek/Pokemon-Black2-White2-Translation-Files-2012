@@ -34,7 +34,7 @@ USE
 x\xf000Ȃ\x0001\x0000
 It won't have any effect.
 The area was shrouded\xfffein fog!
-\xf000Ă\x0001\x0000は\xfffeはりきっている
+\xf000Ă\x0001\x0000 \xfffeis getting pumped!
 \xf000Ă\x0001\x0000の\xfffeこうげきが　あがった!
 \xf000Ă\x0001\x0000の\xfffeとくこうが　あがった!
 \xf000Ă\x0001\x0000の\xfffeすばやさが　あがった!

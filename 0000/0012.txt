@@ -1,4 +1,4 @@
 Yes
 No
-かくにん
-とじる
+Confirm
+Close

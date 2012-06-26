@@ -64,7 +64,7 @@ You are out of room for Wonder Cards.\xf000븁\x0000\xfffeYou may not accept ano
 Yes
 No
 There was a problem\xfffewith receiving the gift.\xf000븁\x0000
-おくりものを　みつけましたが\xfffeこの　バージョンでは\xf000븀\x0000\xfffeうけとることが　できません\xf000븁\x0000
+おくりものを みつけましたが\xfffeこの バージョンでは\xf000븀\x0000\xfffeうけとることが できません\xf000븁\x0000
 You cannot receive any more gifts until \xfffeyou have a saved game.\xf000븀\x0000\xfffePlease start a new game and save it.\xf000븁\x0000
 CARD ALBUM
 A Button: Sort
@@ -75,7 +75,7 @@ Wonder Card
 Date received
 \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
 A: Done
-　
+ 
 Thank you for coming to see\xfffethe Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
 Thank you for coming to see\xfffethe 2010 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.
 Thank you for coming to see\xfffethe 2011 Pokémon Movie!\xfffePlease pick up your gift from the\xfffedeliveryman in any Pokémon Center.

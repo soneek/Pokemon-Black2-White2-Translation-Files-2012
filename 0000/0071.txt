@@ -1,6 +1,6 @@
-けってい
-やめる
-なにか　ことばを　いれてください
+Confirm
+Cancel
+Please enter a phrase or word.
 メールを　もたせるのを\xfffeやめますか?
 Yes
 No

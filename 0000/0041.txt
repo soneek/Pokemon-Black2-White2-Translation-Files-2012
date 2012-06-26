@@ -1,6 +1,6 @@
 でんどういり　おめでとう!
-おしまい
+The End
 ゲームクリア　おめでとう!
-ポケモンレポートに　かきこんでいます\xfffeでんげんを　きらないで　ください
+Saving...\xfffeDon't turn off the power.
 \xf000Ā\x0001\x0000は\xfffeレポートに　しっかり　かきのこした!
-レポートが　かけませんでした
+The game could not be saved.
