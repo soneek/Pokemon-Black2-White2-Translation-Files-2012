@@ -6,22 +6,22 @@ GL: Battle Tournament
 GL: Game Sync
 Transfer Machine
 Mic Test
-イッシュリンク
+Unova Link
 Player
 Playtime \xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
 Pokédex \xf000Ȃ\x0001\x0000
 Badges \xf000ȁ\x0001\x0000
 \xf000Ā\x0001\x0000
 \xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
-\xf000Ȃ\x0001\x0000ひき
-\xf000ȁ\x0001\x0000こ
+\xf000Ȃ\x0001\x0000
+\xf000ȁ\x0001\x0000
 \xf000ą\x0001\x0000
 レポートじょうほう
 キーシステムせってい
 アシストモード
 チャレンジモード
-ホワイトフォレスト
-ブラックシティ
+White Forest
+Black City
 いわやまのま
 くろがねのま
 ひょうざんのま

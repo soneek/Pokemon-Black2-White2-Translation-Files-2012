@@ -15,7 +15,7 @@ Name
 Type
 Color
 Forme
-Isshu Dex: Search Mode
+Unova Dex: Search Mode
 National Dex: Search Mode
 Reset
 Start
