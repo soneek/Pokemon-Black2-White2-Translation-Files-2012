@@ -1,2 +1,2 @@
-スタートボタンを　おしてください
-PUSH　START　BUTTON
+Push Start Button
+PUSH START BUTTON

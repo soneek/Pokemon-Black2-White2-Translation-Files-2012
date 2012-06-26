@@ -1,46 +1,46 @@
-Ｘボタン
+﻿X Button
 SELECT
 Bボタン
-らくがきツールを　つかう
-がぞうを　とめる
-らくがきを　やめる
-ペンサイズを　へんこう
-いろを　スポイト
-けしゴムに　へんこう
-らくがきツールを　とじる
-スタンプ
-らくがきモード
+Use Graffiti Tools
+Quit Picture
+Stop Graffiti
+Change Pen Size
+Color Dropper
+Change Eraser
+Close Graffiti Tools
+Stamp
+Scribble Mode
 REC
-らくがき
+Scribble
 ID\xf000Ȅ\x0001\x0000
 ―/―
 \xf000Ȁ\x0001\x0000/4
-ともだちを　えらんでください
-ともだちを　よびだす
-さんかする
+Choose a friend.
+Call Friend
+Enter
 ともだちを　よびだしちゅう!
-ともだちを　よびだしちゅう・
-ともだちを　よびだしちゅう・・
-ともだちを　よびだしちゅう・・・
+Calling a friend.
+Calling a friend..
+Calling a friend...
 せつぞくちゅう!
-せつぞくちゅう・
-せつぞくちゅう・・
-せつぞくちゅう・・・
+Linking.
+Linking..
+Linking...
 ともだちを　さがしています!
-ともだちを　さがしています・
-ともだちを　さがしています・・
-ともだちを　さがしています・・・
+Searching for friends.
+Searching for friends..
+Searching for friends...
 ライブキャスターを\xfffeしゅうりょう　しますか?
 リーダーが　やめると　かいさんに\xfffeなりますが　よろしいですか?
 Yes
 No
-リーダーが　しゅうりょうしたので　\xfffeかいさんします
-あいてが　しゅうりょうしたので　\xfffeかいさんします
-メンバーが　いなくなったので\xfffeしゅうりょうします
-よびだしに　しっぱいしました
-せつぞくに　しっぱいしました
+The leader quit, so the\xfffegroup will dissolve.
+Your partner quit, so the\xfffegroup will dissolve.
+All members left,\xfffeso now quitting.
+There was an error in calling.
+There was an error in linking.
 ペアレンタルコントロールの\xfffeせっていにより　しゃしんデータの\xfffeそうじゅしんが\xfffeせいげん　されています\xfffeがぞうを　だしたいときは\xfffeほんたいせっていで\xfffeせいげんを　かいじょ　してください
-あいての　しゅうりょうを　まっています
+Waiting for partner to finish.
 ただいま　『\xf000Ĝ\x0001\x0000』の\xfffeさんかしゃを　ぼしゅうちゅうです!\xfffeしめきりまで　あと\xf000ȁ\x0001\x0001びょうです!
 『\xf000Ĝ\x0001\x0000』の\xfffeかいしまで　しばらくおまちください
 『\xf000Ĝ\x0001\x0000』が\xfffeちゅうし　されました
@@ -64,7 +64,7 @@ No
 ゲームルール
 ちゅうし
 \xf000Ȃ\x0001\x0000
-あか
-あお
-き
-みどり
+Red
+Blue
+Yellow
+Green

@@ -1,203 +1,203 @@
-ディレクター
-うんの　たかお
-プランニング　ディレクター
-さいとう　まさふみ
-プログラム　ディレクター
-たまだ　そうすけ
+﻿DIRECTOR
+TAKAO  UNNO
+PLANNING  DIRECTOR
+MASAFUMI  SAITO
+PROGRAM  DIRECTOR
+SOSUKE  TAMADA
 アート　ディレクター
-うんの　たかお
-シナリオ
-まつみや　としのぶ
+TAKAO  UNNO
+SCENARIO
+TOSHINOBU  MATSUMIYA
 プログラム
-リーダー
-もり　あきと
-いわさわ　みゆき
-なぎはし　とおる
-いちらく　かつひこ
-おのうえ　まさゆき
+Lead
+AKITO  MORI
+MIYUKI  IWASAWA
+TORU  NAGIHASHI
+KATSUHIKO  ICHIRAKU
+MASAYUKI  ONOUE
 たなか　りょうた
 ポケモンBW　プログラム
-わたなべ　てつや
-そがべ　ひさし
-おおの　かつみ
-たや　まさお
-なかむら　ひろゆき
-さいとう　のぞむ
-たかはし　ともや
-ほさか　げんや
-ありいずみ　のぶひこ
-おばた　としひろ
-かわだ　こうじ
-まつだ　よしのり
-かがや　けいた
-ポケモン　キャラクター　ディレクター
-すぎもり　けん
-ポケモン　デザイン
-すぎもり　けん
-うんの　たかお
-ふじわら　もとふみ
-よしだ　ひろのぶ
-とやま　けんきち
-ふちの　ひろき
-おおむら　ゆうすけ
-つるた　さや
-リ　ヒョンジョン
-いべ　まな
-たのうえ　れいこ
-ふじわら　まいこ
-みずたに　めぐみ
-おおくぼ　ともひこ
-ジェイムス　ターナー
-にしだ　あつこ
-もりつぐ　けいこ
-きたかぜ　ともひろ
+TETSUYA  WATANABE
+HISASHI  SOGABE
+KATSUMI  OHNO
+MASAO  TAYA
+HIROYUKI  NAKAMURA
+NOZOMU  SAITO
+TOMOYA  TAKAHASHI
+GENYA  HOSAKA
+NOBUHIKO  ARIIZUMI
+TOSHIHIRO  OBATA
+KOJI  KAWADA
+YOSHINORI  MATSUDA
+KEITA  KAGAYA
+DIRECTOR  OF  POKÉMON  CHARACTERS
+KEN  SUGIMORI
+POKÉMON  CHARACTERS  DESIGN
+KEN  SUGIMORI
+TAKAO  UNNO
+MOTOFUMI  FUJIWARA
+HIRONOBU  YOSHIDA
+KENKICHI  TOYAMA
+HIROKI  FUCHINO
+YUSUKE  OHMURA
+SAYA  TSURUTA
+LEE  HYUNJUNG
+MANA  IBE
+REIKO  TANOUE
+MAIKO  FUJIWARA
+MEGUMI  MIZUTANI
+TOMOHIKO  OHKUBO
+JAMES  TURNER
+ATSUKO  NISHIDA
+KEIKO  MORITSUGU
+TOMOHIRO  KITAKAZE
 2D　グラフィック　デザイン
-リーダー
-よしだ　ひろのぶ
-とやま　けんきち
-つるた　さや
-みずたに　めぐみ
-おおむら　ゆうすけ
+Lead
+HIRONOBU  YOSHIDA
+KENKICHI  TOYAMA
+SAYA  TSURUTA
+MEGUMI  MIZUTANI
+YUSUKE  OHMURA
 3D　グラフィック　デザイン
-リーダー
-おおくぼ　ともひこ
-ふちの　ひろき
-いべ　まな
-おおたに　まよ
-かわもと　ゆき
-ふじわら　もとふみ
+Lead
+TOMOHIKO  OHKUBO
+HIROKI  FUCHINO
+MANA  IBE
+MAYO  OHTANI
+YUKI  KAWAMOTO
+MOTOFUMI  FUJIWARA
 まつざき　つばさ
 しいやま　ゆきこ
 たかお　ゆういちろう
 わたなべ　あつし
-トレーナー　メイン　デザイン
-おおむら　ゆうすけ
+Trainer  Graphics  Main  Design
+YUSUKE  OHMURA
 トレーナー　デザイン
-いべ　まな
-みずたに　めぐみ
-バトル　グラフィック　デザイン
-よしだ　ひろのぶ
-バトル　エフェクト　デザイン
-ふじわら　もとふみ
+MANA  IBE
+MEGUMI  MIZUTANI
+Battle  Graphics  Design
+HIRONOBU  YOSHIDA
+Battle  Effect  Graphics  Design
+MOTOFUMI  FUJIWARA
 ＵI　グラフィック　メイン　デザイン
-とやま　けんきち
-デモ　ムービー　デザイン
-うんの　たかお
+KENKICHI  TOYAMA
+Digital  Movie  Main  Design
+TAKAO  UNNO
 ポケモンBW　グラフィック　デザイン
-リ　ヒョンジョン
-たのうえ　れいこ
-ふじわら　まいこ
-ジェイムス　ターナー
-もりつぐ　けいこ
-きたかぜ　ともひろ
-ポケモン　せってい　＆　ずかん　テキスト
-まつみや　としのぶ
-おんがく
-いちのせ　ごう
-さとう　ひとみ
-ポケモン　ボイス
-いちのせ　ごう
-サウンド　エフェクト
-さとう　ひとみ
+LEE  HYUNJUNG
+REIKO  TANOUE
+MAIKO  FUJIWARA
+JAMES  TURNER
+KEIKO  MORITSUGU
+TOMOHIRO  KITAKAZE
+POKÉMON  CONCEPT  &  POKÉDEX  TEXT
+TOSHINOBU  MATSUMIYA
+Music
+GO  ICHINOSE
+HITOMI  SATO
+POKÉMON  VOICE  DESIGN
+GO  ICHINOSE
+SOUND  EFFECTS
+HITOMI  SATO
 たにぐち　てるお
 Seigaiha City
 19ばんどうろ
 23ばんどうろなど
 ジョインアベニューなど
-さっきょく　＆　へんきょく
-さっきょく　＆　へんきょく
-いちのせ　ごう
-さとう　ひとみ
+All  Battle  Music
+All  Battle  Music
+GO  ICHINOSE
+HITOMI  SATO
 ポケモンBW　おんがく
-ますだ　じゅんいち
-かげやま　しょうた
-あだち　みなこ
+JUNICHI  MASUDA
+SHOTA  KAGEYAMA
+MINAKO  ADACHI
 ゲームデザイン
-リーダー
-しもやまだ　てるゆき
-リーダー
-なかつい　すぐる
-リーダー
-まつみや　としのぶ
-にしの　こうじ
-みずぐち　まい
-すぎなか　かつのり
-なかむら　あきら
-いとう　ひろと
-むらかみ　なおと
+Lead
+TERUYUKI  SHIMOYAMADA
+Lead
+SUGURU  NAKATSUI
+Lead
+TOSHINOBU  MATSUMIYA
+KOJI  NISHINO
+MAI  MIZUGUCHI
+KATSUNORI  SUGINAKA
+AKIRA  NAKAMURA
+HIROTO  ITO
+NAOTO  MURAKAMI
 テキスト
-まつみや　としのぶ
-なかつい　すぐる
-いとう　ひろと
+TOSHINOBU  MATSUMIYA
+SUGURU  NAKATSUI
+HIROTO  ITO
 よしかわ　ひかる
 スクリプトせってい
-みずぐち　まい
-すぎなか　かつのり
+MAI  MIZUGUCHI
+KATSUNORI  SUGINAKA
 ふじむら　そういちろう
 マップデザイン
-なかつい　すぐる
-すぎなか　かつのり
-なかむら　あきら
-にしの　こうじ
+SUGURU  NAKATSUI
+KATSUNORI  SUGINAKA
+AKIRA  NAKAMURA
+KOJI  NISHINO
 あさおか　ようへい
 むろい　かずき
 パラメーターせっけい
-にしの　こうじ
-いとう　ひろと
+KOJI  NISHINO
+HIROTO  ITO
 ポケウッド　せっけい
-なかつい　すぐる
+SUGURU  NAKATSUI
 ポケモンワールドトーナメント　せっけい
-すぎなか　かつのり
-まつみや　としのぶ
+KATSUNORI  SUGINAKA
+TOSHINOBU  MATSUMIYA
 ハイリンクフェス　せっけい
-さいとう　まさふみ
+MASAFUMI  SAITO
 ジョインアベニュー　せっけい
-しもやまだ　てるゆき
+TERUYUKI  SHIMOYAMADA
 ポケモンBW　ゲームデザイン
-もりもと　しげき
-まつしま　けんじ
-おおた　てつじ
-おおもり　しげる
-ひろ　なかむら
-いわお　かずまさ
-ほずみ　ゆきこ
-かわちまる　たけし
-たかはし　ただし
+SHIGEKI  MORIMOTO
+KENJI  MATSUSHIMA
+TETSUJI  OHTA
+SHIGERU  OHMORI
+HIRO  NAKAMURA
+KAZUMASA  IWAO
+YUKIKO  HOZUMI
+TAKESHI  KAWACHIMARU
+TADASHI  TAKAHASHI
 3DSれんどう　せっけい
-うんの　たかお
-さいとう　まさふみ
+TAKAO  UNNO
+MASAFUMI  SAITO
 3DSれんどう　プログラム
 いさり　やすのり
 ポケモンBW　Wi-Fi　サーバー　かいはつ
-やまぐち　たかひろ
-やまぐち　りょう
-にわ　かずとも
-たけうち　たかあき
-いしかわ　みきひろ
+TAKAHIRO  YAMAGUCHI
+RYO  YAMAGUCHI
+KAZUTOMO  NIWA
+TAKAAKI  TAKEUCHI
+MIKIHIRO  ISHIKAWA
 ポケモングローバルリンク　せっけい
-たかはし　まきこ
+MAKIKO  TAKAHASHI
 よしかわ　けいいち
 うわい　しん
-ベースメントファクトリープロダクション
-デバッグマネージメント
-たにかわ　ゆうき
-なかじま もとき
+BASEMENT  FACTORY  PRODUCTIONS
+DEBUG  MANAGEMENT
+YUKI  TANIKAWA
+MOTOKI  NAKAJIMA
 おおはし　あきこ
 たむら　たけし
-デバッグ
-マリオクラブ
+DEBUG
+MARIO  CLUB
 B　＆　W　こうそう
-ますだ　じゅんいち
-スペシャルサンクス
-とみなが　けんじ
-もり　ゆういちろう
-たじり　よしお
-ささき　ていこ
-えんどう　えみ
-さとう　あさみ
-ふかせ　ながあき
-はまの　さちこ
-すなが　はるか
+JUNICHI  MASUDA
+SPECIAL  THANKS
+KENJI  TOMINAGA
+YUICHIRO  MORI
+YOSHIO  TAJIRI
+TEIKO  SASAKI
+EMI  ENDO
+ASAMI  SATO
+NAGAAKI  FUKASE
+SACHIKO  HAMANO
+HARUKA  SUNAGA
 たかだ　けいすけ
 つる　ひろあき 
 いとう　けんじろう 
@@ -210,51 +210,51 @@ B　＆　W　こうそう
 かわもと　たく
 のもと　がくじ 
 むらた　かなこ
-たきざわ　みちこ
-まつなが　みつよ
+MICHIKO  TAKIZAWA
+MITSUYO  MATSUNAGA
 ふるたに　しょう
 おおにし　たかひろ
-つみた　ゆういちろう
+YUICHIRO  TSUMITA
 ふじた　おさむ 
 そが　まさゆき 
 なかやま　ようこ
 なかた　かよ
-むらかわ　てるき
-あんどう　かおり
+TERUKI  MURAKAWA
+KAORI  ANDO
 ひろまつ　こうたろう
-あくね　ひろし
-こまい　だいすけ
-むかい　としお
-たかはら　ちあき
-アートワーク
-いたに　きよみ
-なかみち　さちこ
-グローバライズ
+HIROSHI  AKUNE
+DAISUKE  KOMAI
+TOSHIO  MUKAI
+CHIAKI  TAKAHARA
+ART  WORK
+KIYOMI  ITANI
+SACHIKO  NAKAMICHI
+GLOBALIZERS
 なかお　のりこ
 いちばやし　ひろのり
-ふるかわ　しゅうへい
+SHUHEI  FURUKAWA
 にのみや　けい
-まつしま　けんじ
-じょうほうかんり
-よねだ　とうや
-はらぐち　しほ
+KENJI  MATSUSHIMA
+INFORMATION  COORDINATORS
+TOYA  YONEDA
+SHIHO  HARAGUCHI
 なかい　ゆうた
-さくらい　ゆうり
-コーディネーター
-こほり　しゅんすけ
-かじわら　あやこ
+YURI  SAKURAI
+COORDINATORS
+SHUNSUKE  KOHORI
+AYAKO  KAJIWARA
 きなし　あきら
-あらき　ひであき
+HIDEAKI  ARAKI
 おかだ　ゆうき
-プロデューサー
-ますだ　じゅんいち
-やまがみ　ひとし
-えがみ　しゅうさく
-エグゼクティブ　プロデューサー
-たじり　さとし
-いわた　さとる
-いしはら　つねかず
-かいはつ
-ゲームフリーク
+PRODUCED  BY
+JUNICHI  MASUDA
+HITOSHI  YAMAGAMI
+SHUSAKU  EGAMI
+EXECUTIVE  PRODUCERS
+SATOSHI  TAJIRI
+SATORU  IWATA
+TSUNEKAZU  ISHIHARA
+DEVELOPED BY
+GAME FREAK inc.
 ポケットモンスターブラック2
 ポケットモンスターホワイト2

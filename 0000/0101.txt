@@ -18,8 +18,8 @@ Your Pokémon's nickname?
 Please enter the name.
 にゅうりょく　できる　すうじは\xfffe4もじ　まで　です
 The Game Sync ID\xfffewas entered incorrectly.
-　
-　
+ 
+ 
 よろしく!
 ありがとう!
 White.

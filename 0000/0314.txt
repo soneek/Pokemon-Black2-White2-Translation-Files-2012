@@ -21,22 +21,22 @@
 カット　20
 あくタイプの　じゃくてんを　つけ!
 ひこうタイプの　じゃくてんを　つけ!
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
-なし
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None

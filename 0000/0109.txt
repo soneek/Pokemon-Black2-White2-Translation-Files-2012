@@ -1,4 +1,4 @@
-－－－－－－－－－－
+----------
 Mystery Zone
 Faraway place
 \xf000Ā\x0001\x0000’s \xf000ą\x0001\x0001
@@ -136,7 +136,7 @@ Victory Road East
 Plasma Frigate
 Ancient Path
 Clay Road
-－－－－－－－－－－
+----------
 White Tree Hollow
 Black Skyscraper
 Seaside Grotto
