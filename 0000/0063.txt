@@ -625,15 +625,15 @@ An important letter which\xfffeWingull delivers.
 An important letter which\xfffeWingull delivers.
 An important letter which\xfffeWingull delivers.
 A high-tech transceiver with a\xfffecamera function. It allows up to\xfffefour-way calls.
-かくとくした　メダルを　しゅうのうし\xfffeメダルについての　じょうほうを\xfffeきろくする　はこがたの　きかい。
-もとは　ひとつだったと　いわれる\xfffeキュレムと　あるポケモンを\xfffeがったいさせる　いっついの　くさび。
-がったいした　キュレムと\xfffeあるポケモンを　もとどおりに\xfffeぶんりさせる　いっついの　くさび。
-わずかな　ひとしか　しらない\xfffeしぜんほごくに　はいるために\xfffeひつような　ライセンスカード。
-もっていると　そだてやさんで\xfffeタマゴが　みつかりやすくなる\xfffeふしぎで　とてもまるい　おまもり。
-もっていると　ひかる　ポケモンと\xfffeであいやすくなる　といわれる\xfffeふしぎで　ひかりかがやく　おまもり。
+A box-like device which stores the\xfffemedals you've collected and displays\xfffeinformation about them. 
+A pair of linking pins to combine\xfffeKyurem and a Pokémon which were\xfffesaid to originally be one.
+A pair of linking pins to combine\xfffeKyurem and a Pokémon which were\xfffesaid to originally be one. 
+A license card necessary to enter the\xfffeNature Sanctuary that very few people\xfffeknow of. 
+A mysterious unbelievable charm that\xfffewhen held, makes it easier for the\xfffeDaycare Man to find eggs. 
+A mysterious shining charm that when\xfffeheld, makes it easier to encounter\xfffeshiny Pokémon. 
 A key card needed in order\xfffeto gain access inside\xfffethe Plasma Frigate ship.
-A handkerchief dropped by a Café\xfffeWarehouse regular in Nacrene City.\xfffeIt faintly smells of Pokemon.
-A specialized device built in order to\xfffeforcefully awaken a Pokémon's abilities.\xfffeIt is a prototype.
+A handkerchief that a regular visitor to\xfffeNacrene City's "Cafe Warehouse" dropped.\xfffeIt faintly smells of Pokémon.
+A specialized device built in order to\xfffeforcefully awaken a Pokémon's abilities.\xfffeIt is an unfinished prototype.
 An Xtransceiver found in the Nimbasa\xfffeCity amusement park.\xfffeIt seems that a boy lost it.
 An Xtransceiver found in the Nimbasa\xfffeCity amusement park.\xfffeIt seems that a girl lost it.
 A mysterious mirror that will\xfffechange a Pokémon's appearance to\xfffereveal its truly reflected nature.

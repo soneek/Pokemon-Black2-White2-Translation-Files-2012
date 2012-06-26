@@ -37,33 +37,33 @@ SCENERY 1
 SCENERY 2
 SCENERY 3
 MISC.
-だいすき１
-だいすき２
-もり
-シティ
-さばく
-サバンナ
-いわやま
-かざん
-ゆきやま
-どうくつ
-うみべ
-かいてい
-かわ
-そら
-ポケセン
-きんぞく
-チェック
-シンプル
-スペシャル
-モノクロ
-プラズマだん
-PokéWood
-ＰＷＴ
-キュレム１
-キュレム２
-レシラム
-ゼクロム
+だいすき1
+だいすき2
+FOREST
+CITY
+DESERT
+SAVANNA
+CRAG
+VOLCANO
+SNOW
+CAVE
+BEACH
+SEAFLOOR
+RIVER
+SKY
+POKÉ CENTER
+MACHINE
+CHECKS
+SIMPLE
+SPECIAL
+MONOCHROME
+TEAM PLASMA
+POKÉWOOD
+PWT
+KYUREM 1
+KYUREM 2
+RESHIRAM
+ZEKROM
 BACK
 PREVIOUS
 NEXT
@@ -104,19 +104,19 @@ ITEM
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
 None
-？？？
-Ｌｖ．
-Ｎｏ．
+???
+Lｖ．
+No．
 MOVES LEARNED
 YES
 NO
 ボックスを　せいりする
 バトルボックス
 ポケモンを　しぼりこむ
-じょうけんを　えらび　ＯＮに　すると\xfffeしぼりこみを　おこないます。
+じょうけんを　えらび　ONに　すると\xfffeしぼりこみを　おこないます。
 ポケモンの　なまえの\xfffeかしらもじを　えらんでください。
-ポケモンを　えらんでください。\xfffe\xfffeなまえ：　\xf000\xff00\x0001\x0002\xf000ā\x0001\x0000\xfffe\xf000\xff00\x0001\x0000タイプ１：　\xf000ă\x0001\x0001\xfffeタイプ２：　\xf000ă\x0001\x0002
-ポケモンを　えらんでください。\xfffe\xfffeなまえ：　\xf000\xff00\x0001\x0002\xf000ā\x0001\x0000\xf000\xff00\x0001\x0000\xfffeタイプ１：　\xf000ă\x0001\x0001\xfffeタイプ２：　ーーーー
+ポケモンを　えらんでください。\xfffe\xfffeなまえ：　\xf000\xff00\x0001\x0002\xf000ā\x0001\x0000\xfffe\xf000\xff00\x0001\x0000タイプ1：　\xf000ă\x0001\x0001\xfffeタイプ2：　\xf000ă\x0001\x0002
+ポケモンを　えらんでください。\xfffe\xfffeなまえ：　\xf000\xff00\x0001\x0002\xf000ā\x0001\x0000\xf000\xff00\x0001\x0000\xfffeタイプ1：　\xf000ă\x0001\x0001\xfffeタイプ2：　ーーーー
 ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　　\xf000\xff00\x0001\x0002がんばりや\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000バランスよく　せいちょう　しやすい。
 ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002さみしがり\xfffe\xf000\xff00\x0001\x0000こうげきが　せいちょう　しやすい。\xfffeぼうぎょが　せいちょう　しにくい。
 ポケモンの　せいかくを　えらんでください。\xfffe\xfffeせいかく：　\xf000\xff00\x0001\x0002ゆうかん\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000こうげきが　せいちょう　しやすい。\xfffeすばやさが　せいちょう　しにくい。
@@ -152,7 +152,7 @@ NO
 \xf000봂\x0000とくせい
 \xf000봂\x0000せいべつ
 \xf000봂\x0000もちもの
-\xf000봂\x0000マーク
+\xf000봂\x0000MARK
 ア
 イ
 ウ

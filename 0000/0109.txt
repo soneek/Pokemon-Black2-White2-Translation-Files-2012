@@ -34,7 +34,7 @@ Dreamyard
 Pinwheel Forest
 Desert Resort
 Relic Castle
-Cold Storage
+PWT
 Chargestone Cave
 Twist Mountain
 Dragonspiral Tower
@@ -141,7 +141,7 @@ White Tree Hollow
 Black Skyscraper
 Seaside Grotto
 Heart Hollow
-Hidden Cave
+Hidden Hollow
 Marine Tube
 Virbank Gate
 Aspertia Gate
