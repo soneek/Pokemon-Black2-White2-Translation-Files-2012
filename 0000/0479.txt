@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Search Mode
+=======
+Search Mode
+>>>>>>> 94528f46dcc98488196b1a3788fc98a3a41dc839
 Please enter the search criteria.
 Search Results
 RESULTS: \xf000Ȃ\x0001\x0000

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Idol
+=======
+Idol
+>>>>>>> 94528f46dcc98488196b1a3788fc98a3a41dc839
 Autumn
 Tomorrow
 Play

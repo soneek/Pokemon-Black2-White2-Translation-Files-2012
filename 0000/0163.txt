@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Foe
+=======
+Foe
+>>>>>>> 94528f46dcc98488196b1a3788fc98a3a41dc839
 Me
 You
 Mother
