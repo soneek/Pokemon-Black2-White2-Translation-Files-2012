@@ -5,7 +5,7 @@ Battle Style
 Sound
 Display Text
 Frame
-IR Report
+Save Before IR
 Confirm
 Quit
 Slow
@@ -21,16 +21,16 @@ English
 Japanese
 Write
 Off
-Write
-Don't
+Save
+No Save
 The text speed can be set\xfffein three different speeds.
 Choose to display battle animations.
 Choose the standard rules\xfffeof shifting Pokémon in battle.
 Choose to play the sound\xfffein stereo or in mono mode.
 Choose to display text\xfffein English or Japanese.
 Choose to have constant wireless\xfffecommunication on or off.
-Choose whether to write a report\xfffebefore C-Gear infrared communications.
-Another report has already been written,\xfffeso this cannot be changed.\xf000븁\x0000
+Choose whether to save\xfffebefore C-Gear infrared communications.
+You have already saved,\xfffeso this cannot be changed.\xf000븁\x0000
 Make the selected changes?
 Yes
 No

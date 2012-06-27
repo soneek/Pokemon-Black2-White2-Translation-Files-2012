@@ -1,17 +1,17 @@
-\xf000Ă\x0001\x0000を　どうする?
+Do what with \xf000Ă\x0001\x0000?
 Please Mark
 ほんとうに　にがしますか?
-\xf000Ă\x0001\x0000 released!
-ばいばい　\xf000Ă\x0001\x0000!
-てもちが　いっぱいです!
-たたかうポケモンが　いなくなります!
-このボックスを　どうしますか?
-どのボックスに\xfffeジャンプしますか?
-どのテーマに　しますか?
-どの　かべがみに　しますか?
-ボックスそうさを　つづけますか?
-このボックスは　いっぱいです!
-バッグが　いっぱいです!
+\xf000Ă\x0001\x0000 was released.
+Bye-bye, \xf000Ă\x0001\x0000!
+Your party's full!
+That's your last Pokémon!
+What do you want to do?
+Jump to which Box?
+Please pick a theme.
+Pick the wallpaper.
+Continue Box operations?
+The Box is full.
+The Bag is full.
 \xf000ĉ\x0001\x0000を　あずかった!
 \xf000ĉ\x0001\x0000を　もたせた!
 ポケモンを　タッチ!
@@ -19,18 +19,18 @@ Please Mark
 Not holding anything
 ♂
 ♀
-\xf000ĉ\x0001\x0000を　あずかりますか?
-メールをしまうことは　できません!
-\xf000ĉ\x0001\x0000を　どうしますか?
-\xf000ĉ\x0001\x0000を　しまいますか?
-\xf000ĉ\x0001\x0000を　バッグに　いれた!
+Take this \xf000ĉ\x0001\x0000?
+Mail can't be taken away.
+\xf000ĉ\x0001\x0000 is selected.
+Put away \xf000ĉ\x0001\x0000?
+Placed \xf000ĉ\x0001\x0000 in the Bag.
 Can't hold an item.
-メールを　はずしてください!
-タマゴを　にがすことは　できません!
+Please remove the Mail.
+You can't release an Egg.
 がったいした　キュレムは　にがせません!
-\xf000Ă\x0001\x0000が　もどってきちゃった!
+\xf000Ă\x0001\x0000 came back!
 Huh, It failed...
-タマゴは　どうぐを　もてません!
+An Egg can't hold an item.
 マークを　タッチしよう!
 ボックスに　おけます!
 てもちに　くわえることが　できます!
@@ -42,15 +42,15 @@ Move Pokémon
 Move Items
 Battle Box
 Put to Bed
-メールは　いどうできません!
-\xf000ĉ\x0001\x0000を　もてない!
-メールを　もっています!
-たたかうポケモンが　いなくなります!
-メールは　いどうできません!
-You can't hold mail here
-タマゴは　えらべません!
+Mail cannot be moved!
+It cannot hold \xf000ĉ\x0001\x0000!
+It has Mail!
+You're out of Pokémon that can fight!
+Mail cannot be moved!
+It cannot hold Mail here.
+Eggs cannot be selected!
 \xf000Ă\x0001\x0000を　ねむらせます\xfffeよろしいですか?
 This Pokemon doesn't\xfffelook sleepy.
-ポケモンせんたくを　つづけますか?
+Select another Pokémon?
 Battle Box has been locked.\xfffePokemon cannot be removed.
 Battle Box has been locked.\xfffeHeld item cannot be changed.

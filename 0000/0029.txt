@@ -18,15 +18,15 @@ ID\xf000Ȅ\x0001\x0000
 Choose a friend.
 Call Friend
 Enter
-ともだちを　よびだしちゅう!
+Calling a friend!
 Calling a friend.
 Calling a friend..
 Calling a friend...
-せつぞくちゅう!
+Linking!
 Linking.
 Linking..
 Linking...
-ともだちを　さがしています!
+Searching for friends!
 Searching for friends.
 Searching for friends..
 Searching for friends...
