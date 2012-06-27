@@ -20,7 +20,7 @@ National Dex: Search Mode
 Reset
 Start
 Cancel
-\xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
+\xf000Ȃ\x0001\x0000.\xf000Ȁ\x0001\x0001
 Accept
 Cancel
 Numerical

@@ -64,7 +64,7 @@ You are out of room for Wonder Cards.\xf000븁\x0000\xfffeYou may not accept ano
 Yes
 No
 There was a problem\xfffewith receiving the gift.\xf000븁\x0000
-おくりものを みつけましたが\xfffeこの バージョンでは\xf000븀\x0000\xfffeうけとることが できません\xf000븁\x0000
+A gift was found,\xfffebut can not be received\xf000븀\x0000\xfffein this version.\xf000븁\x0000
 You cannot receive any more gifts until \xfffeyou have a saved game.\xf000븀\x0000\xfffePlease start a new game and save it.\xf000븁\x0000
 CARD ALBUM
 A Button: Sort
