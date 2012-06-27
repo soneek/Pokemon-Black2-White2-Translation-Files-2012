@@ -39,7 +39,7 @@ There was a communication error\xfffein the Wi-Fi Plaza.\xfffeError code: （\xf
 ほんとうに こうしん しても\xfffeよろしいですか?\xfffe\xfffeちゅうい\xfffeいま とうろく している\xfffeWi－Fiたいかいは\xfffeさんかが かいじょに なります
 ほんたいの むせんつうしんが\xfffeオフに なっています\xfffeほんたいせっていで むせんつうしんを\xfffeオンに してください\xfffe（50699）
 あいてとの せつぞくが\xfffeせつだん されました
-つうしんエラーが はっせいしました\xfffeでんげんを きってください
+A communication error has occurred\xfffePlease turn off the power.
 ほんたいの\xfffeWi－Fiユーザーじょうほう が\xfffeきえた かのうせい が あります\xfffe\xfffeほんたい せっていの\xfffeインターネットの せってい で\xfffeせつぞくさきの せってい を\xfffeごかくにん ください
 Wi－Fiコネクションでは\xfffeセーブデータと ほんたいを\xfffeセットで あつかいます\xfffeセーブデータに ほんたいの\xfffeWi－Fiユーザーじょうほう を\xfffeほぞん して\xfffeWi－Fiコネクションに\xfffeせつぞく しますか?
 この ほんたいの\xfffeWi－Fiユーザーじょうほう を\xfffeセーブデータに\xfffeほぞん しました\xfffeこんごの Wi－Fiコネクションへの\xfffeせつぞくは\xfffeこの ほんたいを\xfffeおつかい ください
