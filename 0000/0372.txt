@@ -2,8 +2,8 @@ HP
 Attack
 Defense
 Speed
-Sp. Attack
-Sp. Defense
+Sp. Atk
+Sp. Def
 Accuracy
 Evasion
-さいだいHP
+Max HP

@@ -5,7 +5,7 @@ Chongqing
 Fujian
 Gansu
 Guangdong
-Guanxi
+Guangxi
 Guizhou
 Hainan
 Hebei
@@ -17,7 +17,7 @@ Jiangsu
 Jiangxi
 Jilin
 Liaoning
-Neimenggu
+Inner Mongolia
 Ningxia
 Qinghai
 Shaanxi
@@ -27,7 +27,7 @@ Shanxi
 Sichuan
 Tianjin
 Xinjiang
-Xizang
+Tibet
 Yunnan
 Zhejiang
 Hong Kong

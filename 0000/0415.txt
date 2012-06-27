@@ -98,7 +98,7 @@ Yes
 No
 Holding
 Name
-Entrust Pokémon
+Deposit Pokémon
 \xf000ċ\x0001\x0000
 In Party
 Cancel

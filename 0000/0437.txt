@@ -17,7 +17,7 @@ Iowa
 Kansas
 Kentucky
 Louisiana
-Main
+Maine
 Maryland
 Massachusetts
 Michigan
@@ -46,7 +46,7 @@ Utah
 Vermont
 Virginia
 Washington
-Washington D.C.
+Washington, DC
 West Virginia
 Wisconsin
 Wyoming

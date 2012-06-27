@@ -36,7 +36,7 @@ Huh, It failed...
 てもちに　くわえることが　できます!
 このボックスは　いっぱいです!
 てもちが　いっぱいです!
-Entrust Pokémon
+Deposit Pokémon
 Withdraw Pokémon
 Move Pokémon
 Move Items
