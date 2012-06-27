@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 ﻿"Which Do You Play? Survey"
-=======
-"Which Do You Play? Survey"
->>>>>>> 94528f46dcc98488196b1a3788fc98a3a41dc839
 "What Kind of Person? Survey"
 "Favorite Pokémon Survey"
 "Everyone's Ideals Survey"

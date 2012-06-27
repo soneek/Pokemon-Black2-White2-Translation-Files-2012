@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 ﻿Unable to connect to Nintendo\xfffeWi-Fi Connection.\xfffe\xfffeFor help, check the software\xfffeInstruction Booklet or visit\xfffesupport.nintendo.com.\xfffeError code: \xf000Ȅ\x0001\x0000
-=======
-Unable to connect to Nintendo\xfffeWi-Fi Connection.\xfffe\xfffeFor help, check the software\xfffeInstruction Booklet or visit\xfffesupport.nintendo.com.\xfffeError code: \xf000Ȅ\x0001\x0000
->>>>>>> 94528f46dcc98488196b1a3788fc98a3a41dc839
 Either Nintendo Wi-Fi Connection\xfffeis experiencing high traffic\xfffevolumes or the service is down.\xfffePlease try again later. \xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.\xfffeError code: \xf000Ȅ\x0001\x0000
 This Nintendo Wi-Fi Connection ID\xfffewas removed because it was\xfffeinactive for a long time. \xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.\xfffeError code: \xf000Ȅ\x0001\x0000
 Nintendo Wi-Fi Connection service\xfffefor this software has been discontinued.\xfffe\xfffeVisit support.nintendo.com for a list \xfffeof current Nintendo Wi-Fi \xfffeConnection-compatible software. \xfffeError code: \xf000Ȅ\x0001\x0000

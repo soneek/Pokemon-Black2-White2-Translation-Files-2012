@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 ﻿Please wait a moment.
-=======
-Please wait a moment.
->>>>>>> 94528f46dcc98488196b1a3788fc98a3a41dc839
 ﻿\xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0001は\xfffe\xf000Ă\x0001\x0002の　タマゴを　もらった!
 おまけエリアに　とまったので\xfffe\xf000ĉ\x0001\x0000を　もらった!
