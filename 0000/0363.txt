@@ -1,4 +1,4 @@
-﻿Please choose a language.
+Please choose a language.
 おとこのこ?　おんなのこ?
 つうしんきのう　を　オンにしますか?
 ちゅうい!

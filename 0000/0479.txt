@@ -1,4 +1,4 @@
-﻿Search Mode
+Search Mode
 Please enter the search criteria.
 Search Results
 RESULTS: \xf000Ȃ\x0001\x0000

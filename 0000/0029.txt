@@ -1,4 +1,4 @@
-﻿X Button
+X Button
 SELECT
 Bボタン
 Use Graffiti Tools
