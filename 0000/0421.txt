@@ -1,28 +1,28 @@
 None
 Acre
-Rondonia
+Rondônia
 Alagoas
-Amapa
+Amapá
 Amazonas
 Bahia
-Ceara
-Distrito Federal
-Espirito Santo
+Ceará
+Federal District
+Espírito Santo
 Goias
-Maranhao
+Maranhão
 Mato Grosso
 Mato Grosso do Sul
 Minas Gerais
-Para
-Paraiba
-Parana
+Pará
+Paraíba
+Paraná
 Pernambuco
-Piaui
+Piauí
 Rio de Janeiro
 Rio Grande do Sul
 Rio Grande do Norte
 Roraima
 Santa Catarina
-Sao Paulo
+São Paulo
 Sergipe
 Tocantins

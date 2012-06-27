@@ -45,15 +45,17 @@ China
 Christmas Island
 Colombia
 Comoros
-Democratic Republic of the Congo
 Congo
 Cook Islands
 Costa Rica
-Cote d’Ivoire
+Côte d'Ivoire
 Croatia
 Cuba
 Cyprus
 Czech Republic
+North Korea
+Democratic Republic of the Congo
+Timor-Leste
 Denmark
 Djibouti
 Dominica
@@ -65,8 +67,8 @@ Equatorial Guinea
 Eritrea
 Estonia
 Ethiopia
-Faroe Islands
 Falkland Islands
+Faroe Islands
 Fiji
 Finland
 France
@@ -89,7 +91,6 @@ Guinea-Bissau
 Guyana
 Haiti
 Honduras
-Hong Kong
 Hungary
 Iceland
 India
@@ -97,30 +98,28 @@ Indonesia
 Iran
 Iraq
 Ireland
-Isle of Man 
+Isle of Man
 Israel
 Italy
 Jamaica
+Jan Mayen Island
 Japan
 Jordan
 Kashmir
 Kazakhstan
 Kenya
 Kiribati
-D.P. Republic of Korea
-Republic of Korea
 Kuwait
 Kyrgyzstan
-Lao People’s Democratic Republic
+Laos
 Latvia
 Lebanon
 Lesotho
 Liberia
-Libyan Arab Jamahiriya
+Libya
 Liechtenstein
 Lithuania
 Luxembourg
-Macau
 Macedonia (FYROM)
 Madagascar
 Malawi
@@ -135,9 +134,9 @@ Mauritius
 Mayotte
 Mexico
 Micronesia
-Republic of Moldova
 Monaco
 Mongolia
+Montenegro
 Morocco
 Mozambique
 Myanmar
@@ -158,6 +157,7 @@ Norway
 Oman
 Pakistan
 Palau
+Palestine
 Panama
 Papua New Guinea
 Paraguay
@@ -168,21 +168,23 @@ Poland
 Portugal
 Puerto Rico
 Qatar
-Reunion
+South Korea
+Moldova
+Réunion
 Romania
 Russian Federation
 Rwanda
 Saint Helena
 Saint Kitts and Nevis
 Saint Lucia
-Saint-Pierre and Miquelon
 Saint Vincent and the Grenadines
+Saint Pierre and Miquelon
 Samoa
 San Marino
 Sao Tome and Principe
 Saudi Arabia
 Senegal
-Serbia and Montenegro
+Serbia
 Seychelles
 Sierra Leone
 Singapore
@@ -195,16 +197,13 @@ Spain
 Sri Lanka
 Sudan
 Suriname
-Jan Mayen Island
 Swaziland
 Sweden
-Swiss Confederation
-Syrian Arab Republic
+Switzerland
+Syria
 Taiwan
 Tajikistan
-United Republic of Tanzania
 Thailand
-Democratic Republic of Timor-Leste
 Togo
 Tokelau
 Tonga
@@ -218,23 +217,24 @@ Uganda
 Ukraine
 United Arab Emirates
 United Kingdom
-United States of America
-United States Virgin Islands
+Tanzania
+United States\xfffeof America
+United States\xfffeVirgin Islands
 Uruguay
 Uzbekistan
 Vanuatu
-Vatican City
+Holy See (Vatican City State)
 Venezuela
 Vietnam
 Wallis and Futuna
-Palestine
 Western Sahara
 Yemen
 Zambia
 Zimbabwe
-\xf000Ĥ\x0001\x0000\xfffeのフロアに いどう しますか?
-Yes
-No
+Please select a floor.
+Will you go to the\xfffe\xf000Ĥ\x0001\x0000 floor?
+YES
+NO
 \xf000Ȃ\x0001\x0002F
 ?
-いどうさきが かわっていません\xf000븁\x0000
+You selected the current floor.\xf000븁\x0000

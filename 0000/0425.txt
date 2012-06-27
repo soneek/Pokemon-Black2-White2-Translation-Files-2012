@@ -1,18 +1,18 @@
 None
-Andalucia
+Andalusia
 Aragon
-Asturias 
-Islas Baleares
-Pais Vasco
-Islas Canarias
+Asturias
+Balearic Islands
+Basque Country
+Canary Islands
 Cantabria
-Castilla-La Mancha
-Castilla Leon
-Cataluna
+Castile-La Mancha
+Castile and León
+Catalonia
 Extremadura
 Galicia
 Madrid
 Murcia
-Navarra
+Navarre
 La Rioja
-Comunidad Valenciana
+Valencia

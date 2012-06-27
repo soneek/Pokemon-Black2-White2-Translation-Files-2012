@@ -1,17 +1,17 @@
 None
-Baden-Wurttemberg
+Baden-Württemberg
 Bayern
 Berlin
 Brandenburg
 Bremen
 Hamburg
-Hessen
-Mecklenburg-Vorpommern
-Niedersachsen
-Nordrhein-Westfalen
-Rheinland-Pfalz
+Hesse
+Mecklenburg-West Pomerania
+Lower Saxony
+North Rhine-Westphalia
+Rhineland-Palatinate
 Saarland
-Sachsen
-Sachsen-Anhalt
+Saxony
+Saxony-Anhalt
 Schleswig-Holstein
-Freistaat Thuringen
+Thuringia

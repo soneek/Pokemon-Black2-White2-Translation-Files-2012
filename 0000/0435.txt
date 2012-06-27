@@ -1,23 +1,23 @@
 None
-Angermanland
 Blekinge
-Bohuslan
 Dalarna
-Dalsland
-Gastrikland
+Gävleborg
 Gotland
 Halland
-Halsingland
 Jamtland
-North Lapland
-South Lapland
-Medelpad
-Narke
+Jönköping
+Kalmar
+Kronoberg
 Norrbotten
 Oland
-Ostergotland / Vastergotland
+Örebro
+Östergötland
 Skane
-Smaland
 Sodermanland
-Uppland
+Stockholm
+Uppsala
 Varmland
+Vasterbotten
+Västernorrland
+Vastmanland
+Västra Götaland

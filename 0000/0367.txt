@@ -1,12 +1,12 @@
-BGM
-ME
-SE
-PＶ
-SOＵND　TEST
-A　PLAY
-B　STOP
-Ｘ　END
-Y　INIT
-PLAYER
-ＫEY
-TMP
+ＢＧＭ
+ＭＥ
+ＳＥ
+ＰＶ
+ＳＯＵＮＤ　ＴＥＳＴ
+Ａ　ＰＬＡＹ
+Ｂ　ＳＴＯＰ
+Ｘ　ＥＮＤ
+Ｙ　ＩＮＩＴ
+ＰＬＡＹＥＲ
+ＫＥＹ
+ＴＭＰ

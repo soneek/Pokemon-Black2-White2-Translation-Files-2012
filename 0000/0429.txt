@@ -1,6 +1,6 @@
 None
 Andaman and Nicobar Islands
-Andhra Pradesh 
+Andhra Pradesh
 Arunachal Pradesh
 Assam
 Bihar
@@ -15,8 +15,8 @@ Haryana
 Himachal Pradesh
 Jammu and Kashmir
 Jharkhand
-Karnataka 
-Kerala 
+Karnataka
+Kerala
 Lakshadweep
 Madhya Pradesh
 Maharashtra
@@ -29,8 +29,8 @@ Puducherry
 Punjab
 Rajasthan
 Sikkim
-Tamil Nadu 
+Tamil Nadu
 Tripura
 Uttar Pradesh
-Uttaranchal
+Uttarakhand
 West Bengal

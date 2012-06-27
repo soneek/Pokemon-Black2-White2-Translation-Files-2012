@@ -5,19 +5,19 @@ Buskerud
 Finnmark
 Hedmark
 Hordaland
-Svalbard
+Jan Mayen Island
 Lofoten
-More og Romsdal
+Møre og Romsdal
 Nordland
-Nord-Trondelag
+Nord-Trøndelag
 Oppland
 Oslo
 Rogaland
 Sogn og Fjordane
-Sor-Trondelag
+Sør-Trøndelag
 Svalbard
 Telemark
 Troms
 Vest-Agder
 Vestfold
-Ostfold
+Østfold

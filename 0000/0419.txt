@@ -1,20 +1,20 @@
 None
 Buenos Aires
-Ciudad Autonoma de Buenos Aires 
+Ciudad Autónoma de Buenos Aires
 Catamarca
 Chaco
 Chubut
-Cordoba
+Córdoba
 Corrientes
-Entre Rios
+Entre Ríos
 Formosa
 Jujuy
 La Pampa
 La Rioja
 Mendoza
 Misiones
-Neuquen
-Rio Negro
+Neuquén
+Río Negro
 Salta
 San Juan
 San Luis
@@ -22,4 +22,4 @@ Santa Cruz
 Santa Fe
 Santiago del Estero
 Tierra del Fuego
-Tucuman
+Tucumán
