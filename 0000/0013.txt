@@ -106,7 +106,7 @@ Item
 None
 ???
 Lv.
-No．
+No.
 MOVES LEARNED
 Yes
 No
