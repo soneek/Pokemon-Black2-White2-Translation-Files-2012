@@ -1,7 +1,7 @@
 ﻿\xf000ā\x0001\x0000
 ﻿\xf000Ă\x0001\x0000
 Item
-Character
+Nature
 Ability
 \xf000ċ\x0001\x0000
 BOX 1
@@ -105,7 +105,7 @@ Item
 \xf000Ȃ\x0001\x0000
 None
 ???
-Lｖ．
+Lv.
 No．
 MOVES LEARNED
 Yes

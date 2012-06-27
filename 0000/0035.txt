@@ -1,6 +1,6 @@
-\xf000Ă\x0001\x0000を　グッズで\xfffeドレスアップ　しましょう!
-ドレスアップは\xfffeこれで　よろしいですか?
-ほかの　さんかしゃの\xfffeドレスアップを　まっています
+\xf000Ă\x0001\x0000を グッズで\xfffeドレスアップ しましょう!
+ドレスアップは\xfffeこれで よろしいですか?
+Waiting for other entrants\xfffeto finish accessorizing.
 An accessory suitable\xfffefor \xf000Ċ\x0001\x0000 \xf000ı\x0001\x0001.
 Accessories for \xf000ı\x0001\x0000\xfffehave been put in front.
 The order of accessories\xfffewas returned to normal.
