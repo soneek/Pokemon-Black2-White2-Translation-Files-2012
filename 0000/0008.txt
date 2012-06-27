@@ -228,38 +228,38 @@ Competition, Rotation\xfffeLauncher On
 23: Battle Arcade\xfffeMulti
 \xf000봂\x0000TAP HERE!
 Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
-﻿
+
 Authentication error.\xfffeUnable to connect.
 This data is already registered.\xfffeTouch the Touch Screen to continue.
 There appears to be a problem\xfffewith the Musical Photo.
 There appears to be a problem with the\xfffePokémon in the Musical Photo.
 There appears to be a problem\xfffewith the Profile data.
 An error occurred.\xfffeTouch the Touch Screen to continue.
-﻿
+
 Authentication error.\xfffeUnable to connect.
 There appears to be a problem with the\xfffechosen Pokémon.
 An error occurred.\xfffeTouch the Touch Screen to continue.
-﻿
+
 User authentication error.\xfffePlease wait a while before reconnecting.
 This data is already registered.\xfffeTouch the Touch Screen to continue.
 There appears to be a problem with the\xfffeBox Data.
 There appears to be a problem with the\xfffeProfile data.
 There appears to be a problem with your\xfffeparty.
 An error occurred.\xfffeTouch the Touch Screen to continue.
-﻿
+
 User authentication error.\xfffePlease wait a while before reconnecting.
 There appears to be a problem with your\xfffeparty.
 An error occurred.\xfffeTouch the Touch Screen to continue.
-﻿
+
 User authentication error.\xfffePlease wait a while before reconnecting.
 An error occurred.\xfffeTouch the Touch Screen to continue.
-﻿
+
 User authentication error.\xfffePlease wait a while before reconnecting.
 Failed to receive ranking data.\xfffeTouch the Touch Screen to continue.
 There appears to be a problem with your\xffferanking record.
 An error occurred.\xfffeTouch the Touch Screen to continue.
 An error occurred.\xfffeTouch the Touch Screen to continue.
-﻿
+
 Authentication error.\xfffeUnable to connect.
 This data is already registered.\xfffeTouch the Touch Screen to continue.
 There appears to be a problem\xfffewith the Battle Video.
@@ -267,21 +267,21 @@ There appears to be a problem\xfffewith the Battle Video.
 There appears to be a problem\xfffewith the Profile data.
 There appears to be a problem with the\xfffePokémon in the Battle Video.
 An error occurred.\xfffeTouch the Touch Screen to continue.
-﻿
+
 Authentication error.\xfffeUnable to connect.
 There appears to be a problem\xfffewith the search criteria.
 There appears to be a problem\xfffewith the search criteria.
 The search failed...
-﻿
+
 Authentication error.\xfffeUnable to connect.
 No matching Battle Videos found...\xfffeTouch the Touch Screen to continue.
 You cannot watch this Battle Video.
 Failed to receive the Battle Video.
-﻿
-﻿
-﻿
-﻿
-﻿
+
+
+
+
+
 An error occurred.\xfffeError Code 10601
 An error occurred.\xfffeError Code 10602
 An error occurred.\xfffeError Code 10603
@@ -296,16 +296,16 @@ There is no response.\xfffeError Code 10611
 There is no response.\xfffeError Code 10612
 Communication was interrupted.\xfffeError Code 10613
 Unable to connect.\xfffeError Code 10614
-﻿
-﻿
-﻿
-﻿
-﻿
-﻿
-﻿
+
+
+
+
+
+
+
 The connection to the server was lost.\xfffeTouch the Touch Screen to continue.
-﻿
-﻿
+
+
 There is nothing saved.\xfffeTouch the Touch Screen to continue.
 Please choose a Box.
 からの ボックスは おくれません!
@@ -340,13 +340,13 @@ Saving...\xfffeDon't turn off the power.
 There is no ranking data...\xfffeTouch the Touch Screen to continue.
 Would you like to send\xfffeyour Battle Video?
 
-﻿
-﻿
-﻿
 
-﻿
-﻿
-﻿
+
+
+
+
+
+
 だいすきボックス さいしん20けん
 かっこいいボックス さいしん20けん
 かわいいボックス さいしん20けん
@@ -365,7 +365,7 @@ Lass
 Battle Girl
 Beauty
 Ace Trainer♀
-﻿Idol
+Idol
 Socialite
 Cowgirl
 Lady

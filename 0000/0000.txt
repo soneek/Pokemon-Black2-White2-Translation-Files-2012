@@ -21,7 +21,7 @@ Oshawott
 Snivy
 Competitive
 Cooperative
-﻿ー
+ー
 かこにいく
 みらいにいく
 ひつようない
@@ -34,8 +34,8 @@ TrainerCard
 ふしぎなひと
 ゆめをおう
 げんじつをみる
-﻿ー
-﻿ー
+ー
+ー
 Funny
 Cool
 Nice
@@ -88,7 +88,7 @@ Relationships
 Interests
 Health 
 えらくなる
-﻿ー
+ー
 Exercising
 Reading
 Music
@@ -113,9 +113,9 @@ Clay
 Skyla
 Drayden
 Shizui
-﻿ー
-﻿ー
-﻿ー
+ー
+ー
+ー
 Normal
 Fire
 Water

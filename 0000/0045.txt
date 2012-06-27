@@ -33,7 +33,7 @@ Choose Appointment Partner
 Decide how to choose\xfffeyour trade partner.
 Cancel
 \xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
-﻿Greet
+Greet
 \xf000봃\x0001\x0001\xf000Ȅ\x0001\x0000かい
 \xf000봂\x0000\xf000Ā\x0001\x0000
 さがすのを あきらめますか?

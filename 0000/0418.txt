@@ -4,7 +4,7 @@ Register Friend Code
 \xf000Ā\x0001\x0000's Friend Code
 Close
 Friend Roster
-﻿\xf000Ā\x0001\x0000
+\xf000Ā\x0001\x0000
 \xf000봂\x0000Cancel
 Details
 Rewrite Name
@@ -14,7 +14,7 @@ What would you like to do\xfffewith \xf000Ā\x0001\x0000's data?
 Record With \xf000Ā\x0001\x0000
 \xf000봂\x0000A：まえの　がめんに　もどります
 Group
-﻿\xf000Ā\x0001\x0000
+\xf000Ā\x0001\x0000
 \xf000봂\x0000\xf000Ā\x0001\x0000
 \xf000봂\x0000\xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001
 Battle Record

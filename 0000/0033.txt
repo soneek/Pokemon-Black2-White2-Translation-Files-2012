@@ -20,7 +20,7 @@ Then the Battle Subway\xfffewill be suspended.
 Some members are facing\xfffetechnical difficulties.
 All members left.\xfffeMulti Battle will be suspended.
 そのまま　おまちください\xfffeBボタン：やめる
-﻿Please wait a moment.
+Please wait a moment.
 Conditions have worsened.\xfffeMulti Battle will be suspended.\xf000븂\x0001<
 Conditions have worsened.\xfffeMusical will be suspended.\xf000븂\x0001<
 Conditions have worsened.\xfffeBattle Subway will be suspended.\xf000븂\x0001<

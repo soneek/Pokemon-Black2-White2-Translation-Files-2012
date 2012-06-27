@@ -19,7 +19,7 @@ Registered Pokémon
 Registered Pokémon
 Registered Pokémon
 Location
-﻿Greet
+Greet
 \xf000Ĥ\x0001\x0000
 \xf000ĥ\x0001\x0000
 Receiving data...\xfffePlease wait a moment.

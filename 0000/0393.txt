@@ -11,4 +11,4 @@ Tetsu
 Ruly
 Tetsu
 Ruly
-﻿\xf000Ā\x0001\x0000
+\xf000Ā\x0001\x0000

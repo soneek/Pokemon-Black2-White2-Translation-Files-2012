@@ -3,7 +3,7 @@ GTS
 Pokémon DW
 Wi－Fi
 Spin Trade
-﻿Game Sync
+Game Sync
 Colosseum
 Subway
 Geonet
@@ -14,7 +14,7 @@ Chat
 Communication
 Friend Codes
 Triple Battle
-﻿Entralink
+Entralink
 Battle Video
 Voice Chat
 Pok�Shifter

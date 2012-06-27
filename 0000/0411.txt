@@ -30,6 +30,6 @@ Rental
 Rental Master
 Mix
 Mix Master
-﻿\xf000Ā\x0001\x0000
+\xf000Ā\x0001\x0000
 そうゆうしょうかいすう
 Name

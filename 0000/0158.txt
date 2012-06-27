@@ -3,7 +3,7 @@ Status
 Move
 Trainer
 Union
-﻿Greet
+Greet
 Person
 Lifestyle
 Feeling
