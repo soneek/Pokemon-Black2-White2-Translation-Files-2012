@@ -158,7 +158,7 @@ Cheren
 Roxie
 Clay
 Drayden
-Shizui
+Marlon
 Rival
 Rival
 Rival
@@ -342,7 +342,7 @@ Charles
 Iris
 Grunt
 Grunt
-Achroma
+Corless
 Geechisu
 ロット
 ヴィオ
@@ -356,7 +356,7 @@ Washio
 ナギサ
 Grunt
 ニシノ
-Achroma
+Corless
 Grunt
 Kyouhei
 Kyouhei
@@ -579,7 +579,7 @@ Tetsuharu
 パーカー
 Lisa
 ガンジロウ
-Achroma
+Corless
 Alder
 ダーク
 ヴィオ
@@ -751,15 +751,15 @@ Kuniyuki
 サチ
 Grunt
 Koharu
-マミとミホ
-リッキー
+Mami & Miho
+Ricky
 ベルモンド
-ティナ
+Tina
 アルバレス
 イーライ
 ダイゴロウ
-シゲマツ
-ジョー
+Shigematsu
+Joe
 ウェイン
 Grunt
 Cheren
@@ -769,7 +769,7 @@ Elesa
 Clay
 Skyla
 Drayden
-Shizui
+Marlon
 Shauntal
 Grimsley
 Marshal
@@ -811,4 +811,4 @@ Grunt
 Grunt
 キリツグ
 Grunt
-Achroma
+Corless
