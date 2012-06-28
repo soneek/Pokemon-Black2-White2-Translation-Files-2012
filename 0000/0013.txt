@@ -89,7 +89,7 @@ Cancel
 Cancel
 Change\xfffeBox
 Change\xfffeWallpaper
-Store\xfffePokemon
+Store\xfffePokémon
 BAG
 GIVE
 MOVE
