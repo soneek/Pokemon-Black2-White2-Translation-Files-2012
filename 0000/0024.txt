@@ -16,7 +16,7 @@ About Custom Settings
 Using infrared\xfffeめのまえにいる ともだちと きがるに\xfffeたいせんや こうかんが できます。\xfffeまた あいしょうが わかる\xfffeフィーリングチェックや\xfffeともだちコードの こうかんも できます。
 ゲームシンクという　ボタンで\xfffeねむらせる　ポケモンを　えらび\xfffeWi－Fiコネクションで\xfffeレポートを　おくることが　できます。
 Wi－Fiの　でんぱを　キャッチしても\xfffeほんたいせっていが　できていないと\xfffeWi－Fiに　せつぞく　できません。
-Using Wireless\xfffeちかくにいる ともだちと\xfffeつぎの あそびが できます。\xfffe・Live Caster\xfffe・Entralink
+Using Wireless\xfffeちかくにいる ともだちと\xfffeつぎの あそびが できます。\xfffe・Xtransceiver\xfffe・Entralink
 ライブキャスターは\xfffeCギアで　ともだちコードを\xfffeこうかんしたり　Wi－Fiクラブで\xfffeいっしょに　あそんだことの　ある\xfffeともだちと　ライブキャスターを\xfffeつかって　あそべます。
 If you touch the Entralink Button,\xfffe you will go to Entralink in an instant.
 じぶんの まわりで げんざい\xfffeユニオンルームに はいっている\xfffeにんずうが わかります。\xfffeまた ちかくで ワイヤレスの\xfffeはいしんを おこなっているかも\xfffeわかります。
