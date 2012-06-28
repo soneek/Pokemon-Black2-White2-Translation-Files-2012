@@ -1,31 +1,31 @@
-Pal Pad
-Check Friend Roster
-Register Friend Code
-\xf000Ā\x0001\x0000's Friend Code
+PAL PAD
+CHECK FRIEND ROSTER
+REGISTER FRIEND CODE
+\xf000Ā\x0001\x0000'S FRIEND CODE
 Close
-Friend Roster
+FRIEND ROSTER
 \xf000Ā\x0001\x0000
 \xf000봂\x0000Cancel
-Details
-Rewrite Name
-Delete
-Cancel
+DETAILS
+REWRITE NAME
+DELETE
+CANCEL
 What would you like to do\xfffewith \xf000Ā\x0001\x0000's data?
-Record With \xf000Ā\x0001\x0000
+RECORD WITH \xf000Ā\x0001\x0000
 \xf000봂\x0000A：まえの　がめんに　もどります
 Group
 \xf000Ā\x0001\x0000
 \xf000봂\x0000\xf000Ā\x0001\x0000
 \xf000봂\x0000\xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001
-Battle Record
-Win
-Lose
+BATTLE RECORD
+WIN
+LOSE
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-Pokémon Trades
+POKÉMON TRADES
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
 Times Cooked
 \xf000ȃ\x0001\x0000
-Date Last Played
+DATE LAST PLAYED
 \xf000ȃ\x0001\x0000/\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002
 Battle Tower
 Battle Factory
@@ -48,7 +48,7 @@ Games Cleared: \xf000ȃ\x0001\x0000
 Plaza Games Played
 Plaza Mini-Games
 \xf000ȃ\x0001\x0000
-\xf000Ā\x0001\x0000's Friend Code
+\xf000Ā\x0001\x0000'S FRIEND CODE
 \xf000봂\x0000Cancel
 \xf000봂\x0000\xf000ȃ\x0001\x0001 \xf000ȃ\x0001\x0002 \xf000ȃ\x0001\x0003
 By exchanging Friend Codes\xfffewith other players, you may\xfffetrade and battle with them\xfffeover Nintendo Wi-Fi Connection.
@@ -59,11 +59,11 @@ The Friend Code is wrong.\xfffe\xf000ȃ\x0001\x0001 \xf000ȃ\x0001\x0002 \xf000�
 Your Friend Roster is full!
 That Friend Code has already been\xffferegistered.
 \xf000Ā\x0001\x0000's Friend Code:\xfffe\xf000ȃ\x0001\x0001 \xf000ȃ\x0001\x0002 \xf000ȃ\x0001\x0003
-Check Friend Code
+CHECK FRIEND CODE
 \xf000Ā\x0001\x0000さんを　ともだちてちょう　に\xfffeとうろく　しますか?
 ともだちリストが　いっぱい　です!\xfffeだれか　さくじょ　しますか?
 \xf000Ā\x0001\x0000さんの　とうろく　を\xfffeあきらめますか?
 \xf000Ā\x0001\x0000の　データを\xfffeさくじょ　しますか?
-Yes
-No
+YES
+NO
 Please go to the Wi-Fi Club\xfffewith \xf000Ā\x0001\x0000.

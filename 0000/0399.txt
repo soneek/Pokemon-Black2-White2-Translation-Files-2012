@@ -5,20 +5,20 @@ Trade
 Quit
 Spin Trade
 Record
-\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 came\xfffeto talk to you.\xf000븂\x0001\x000f
-The conversation was cut.
-Awaiting \xf000Ā\x0001\x0000's reply.\xf000븂\x0001\x000f
-The conversation ended.
-\xf000Ā\x0001\x0000 came to\xfffeshow you their Trainer Card.\xf000븁\x0000\xfffeShow your own Trainer Card?
-Saw \xf000Ā\x0001\x0000's Trainer Card.\xfffeThey live in \xf000Ĥ\x0001\x0003,\xf000븀\x0000\xf000ĥ\x0001\x0004!\xf000븂\x0001<
-Saw \xf000Ā\x0001\x0000's Trainer Card.\xfffeThey live in \xf000Ĥ\x0001\x0003!\xf000븂\x0001<
-Saw \xf000Ā\x0001\x0000's Trainer Card.\xfffeThey live in \xf000ĥ\x0001\x0004!\xf000븂\x0001<
-Saw \xf000Ā\x0001\x0000's Trainer Card.\xf000븂\x0001<
-Waiting for partner to finish.
-Declined the invitation.
-\xf000Ā\x0001\x0000 invited you\xfffeto draw a picture.\xf000븁\x0000\xfffeDraw a picture together?
+\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000\xfffehas contacted you.\xf000븂\x0001\x000f
+The chat has been dropped.
+Awaiting a response from\xfffe\xf000Ā\x0001\x0000...\xf000븂\x0001\x000f
+The chat was ended.
+You have an offer to see\xfffe\xf000Ā\x0001\x0000's Trainer Card.\xf000븁\x0000\xfffeWould you like to show your\xfffeTrainer Card?
+This is the Trainer Card of\xfffe\xf000Ā\x0001\x0000, who lives in\xf000븀\x0000\xfffe\xf000ĥ\x0001\x0004,\xf000븀\x0000\xfffe\xf000Ĥ\x0001\x0003.\xf000븂\x0001<
+This is the Trainer Card of\xfffe\xf000Ā\x0001\x0000, who lives in\xf000븀\x0000\xfffe\xf000Ĥ\x0001\x0003.\xf000븂\x0001<
+This is the Trainer Card of\xfffe\xf000Ā\x0001\x0000, who lives in\xf000븀\x0000\xfffe\xf000ĥ\x0001\x0004.\xf000븂\x0001<
+This is \xf000Ā\x0001\x0000's\xfffeTrainer Card.\xf000븂\x0001<
+Waiting for the other player to finish.
+You declined the offer.
+\xf000Ā\x0001\x0000 has invited you to draw\xfffesomething.\xf000븁\x0000\xfffeWould you like to join the other\xfffeplayer and draw?
 Drawing will begin!\xf000븂\x0001<
-Declined the invitation.
+You declined the offer.
 \xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeFight a Single Battle\xfffewith Level 50 rules?
 \xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeFight a Single Battle\xfffewith no limits?\xf000븁\x0000
 \xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeFight a Single Battle\xfffewith flat rules?\xf000븁\x0000
@@ -28,106 +28,106 @@ Declined the invitation.
 \xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeFight a Triple Battle\xfffewith Level 50 rules?
 \xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeFight a Triple Battle\xfffewith no limits?\xf000븁\x0000
 \xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeFight a Triple Battle\xfffewith flat rules?\xf000븁\x0000
-\xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeFight a Rotation Battle\xfffewith Level 50 rules?
-\xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeFight a Rotation Battle\xfffewith no limits?\xf000븁\x0000
-\xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeFight a Rotation Battle\xfffewith flat rules?\xf000븁\x0000
-\xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeFight a Multi Battle\xfffewith no limits?\xf000븁\x0000
-\xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeFight a Multi Battle\xfffewith flat rules?\xf000븁\x0000
+\xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeWill you accept a Rotation Battle\xfffewith Level 50 rules?
+\xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeWill you accept a Rotation Battle\xfffewith no restrictions?\xf000븁\x0000
+\xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeWill you accept a Rotation Battle\xfffewith Flat Battle rules?\xf000븁\x0000
+\xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeWill you accept a Multi Battle\xfffewith no restrictions?\xf000븁\x0000
+\xf000Ā\x0001\x0000 proposed\xfffea battle.\xf000븁\x0000\xfffeWill you accept a Multi Battle\xfffewith Flat Battle rules?\xf000븁\x0000
 The battle will begin!\xf000븂\x0001<
 Declined the invitation.
 \xf000Ā\x0001\x0000 proposed\xfffesome trading.\xf000븁\x0000\xfffeWill you trade?
 Trading will begin!\xf000븂\x0001<
-Declined the invitation.
+You declined the offer.
 You must have two Pokémon\xfffeon hand for trading.
 \xf000Ā\x0001\x0000 invited you\xfffeto share records.\xf000븁\x0000\xfffeShare records together?
 Record sharing will begin!
-Declined the invitation.
+You declined the offer.
 \xf000Ā\x0001\x0000 invited you\xfffeto a Spin Trade.\xf000븁\x0000\xfffeDo a Spin Trade together?
 Spin Trade will begin!\xf000븂\x0001<
-Declined the invitation.
-You don't have an egg,\xfffeso you declined the invitation.
-\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffeI'm \xf000Ā\x0001\x0000!\xfffeWhat'll we do?
-\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffeI'm \xf000Ā\x0001\x0000!\xfffeWhat will we do?
-Oh! Sorry!\xfffeI have other things to do.\xf000븀\x0000\xfffeSee you later!
-Oh! Sorry!\xfffeI have other things to do.\xf000븀\x0000\xfffeSee you later!
-What will you do?
-What will you do?
-...\xfffeThey look confused at the moment.
-...\xfffeThey look confused at the moment.
-\xf000Ā\x0001\x0000 wasn't\xfffeable to reply...
-\xf000Ā\x0001\x0000 wasn't\xfffeable to reply...
-Gotcha! Well, instead of a greeting,\xfffeI'll show you my Trainer Card!
-Well, in place of a greeting,\xfffelet me show you my Trainer Card!
-Huh?! I can't find\xfffemy Trainer Card...\xf000븁\x0000\xfffeSorry! Maybe later!
-Huh?! Where did my\xfffeTrainer Card get to...?\xf000븁\x0000\xfffeSorry! Maybe later!
-We're showing off our Trainer Cards\xfffeinstead of a greeting!
-We're showing our Trainer Cards\xfffein place of a greeting!
-Nice to meet you!
-Nice to meet you!
-Draw a picture with me?\xfffeOkay, hold on a second.
-Ah, drawing!\xfffeOkay, hold on a second.
+You declined the offer.
+You don't have an Egg.\xfffeThe invitation was turned down.
+\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffeThis is \xf000Ā\x0001\x0000! Is there\xfffesomething you wanted to do?
+\xf000Ĝ\x0001\x0002\xf000븂\x0001\x000f\xf000븁\x0000\xfffeHello, it's \xf000Ā\x0001\x0000!\xfffeWould you like to do something?
+Whoops! Sorry, but I have to do\xfffesomething else.\xf000븀\x0000\xfffeAnother time, OK?
+Whoops! Sorry, but I have to do\xfffesomething else.\xf000븀\x0000\xfffeAnother time, OK?
+What would you like to do?
+What would you like to do?
+...\xfffeThe Trainer appears to be busy...
+... ...\xfffeThe Trainer appears to be busy...
+\xf000Ā\x0001\x0000 did not reply...
+\xf000Ā\x0001\x0000 did not reply...
+Sure thing! Let me show you\xfffemy Trainer Card.
+Hi, let me introduce myself\xfffeby showing you my Trainer Card.
+Huh? My Trainer Card...\xfffeWhere'd it go now?\xf000븁\x0000\xfffeSorry! I'll show you another time!
+Huh? My Trainer Card...\xfffeWhere'd it go now?\xf000븁\x0000\xfffeSorry! I'll show you another time!
+I'm just showing my Trainer Card\xfffeas my way of a greeting.
+We're showing each other our\xfffeTrainer Cards to get acquainted.
+I hope I get to know you better!
+Glad to meet you.\xfffePlease don't be a stranger!
+Oh, did you want to draw with me?\xfffeSure thing, but hang on just a second.
+You want to draw with me?\xfffeSure! Just give me a second...
 Oh, sorry I kept you!\xfffeOkay, let's start drawing!\xf000븂\x0001<
 Oh, sorry about that!\xfffeOkay, let's begin!\xf000븂\x0001<
-Oh, sorry!\xfffeLet's draw some other time.
-Oh, I'm sorry!\xfffeWe'll do some drawing later.
-\xf000Ā\x0001\x0000: We're drawing\xffferight now!\xf000븁\x0000\xfffeHey! You wanna draw\xfffewith us too, \xf000Ā\x0001\x0001?
-\xf000Ā\x0001\x0000: We're drawing\xfffeat the moment!\xf000븁\x0000\xfffeAh! Do you want to\xfffedraw with us, \xf000Ā\x0001\x0001?
-Really?\xfffeCome anytime!
-I see...\xfffeCome again any time!
-Alright! Hold on a sec!
-All right, wait a second!
-Alright!\xfffeLet's draw together!\xf000븂\x0001<
-Sorry I kept you!\xfffeNow, let's draw together!\xf000븂\x0001<
-Oh, sorry!\xfffeNow's not a good time...\xf000븀\x0000\xfffeLet's draw some other time!
-Sorry!\xfffeNow's not a good time...\xf000븀\x0000\xfffeLet's draw something later!
-I see...!\xfffeYou're making a game out of this!
-Whoa!\xfffeYou're really good!
-If I draw any funny faces,\xfffedon't laugh at me!
-Ahaha!\xfffeWhat's that even supposed to BE?!
-Ooh, fancy!\xfffeI'll try to copy that!
-Drawing's fun!\xfffeLet's draw more!
-...What? Is that supposed\xfffeto be my face?
-Ah!\xfffeMy hand slipped!
-A battle!\xfffeAlright, hold on!
-Ah, a battle!\xfffeOkay, give me a second!
-Sorry I kept you!\xfffeOkay, let's start the battle!\xf000븂\x0001<
-Sorry about that!\xfffeOkay, let's begin!\xf000븂\x0001<
+Oh, sorry! I can't now.\xfffeLet's draw another time.
+Oh, I'm sorry!\xfffeLet's draw another time!
+\xf000Ā\x0001\x0000: We're drawing right\xfffenow.\xf000븁\x0000\xfffeOh, I know! \xf000Ā\x0001\x0001, would\xfffeyou like to draw with us?
+\xf000Ā\x0001\x0000: We're drawing right\xfffenow.\xf000븁\x0000\xfffeOh, I know! \xf000Ā\x0001\x0001, would\xfffeyou like to draw with us?
+Oh, all right.\xfffeCome see me anytime, OK?
+Oh...\xfffePlease come by anytime.
+OK! Just give me a second!
+OK! Just give me a second!
+OK! Let's do some drawing\xfffetogether!\xf000븂\x0001<
+OK! Thanks for waiting!\xfffeLet's get drawing!\xf000븂\x0001<
+Oh, I'm sorry.\xfffeI have too much to do right now.\xf000븀\x0000\xfffeLet's draw some other time, OK?
+Oh, I'm sorry.\xfffeI have too much to do right now.\xf000븀\x0000\xfffeLet's draw some other time, OK?
+The last letter of what you draw has\xfffeto be the first letter of what I draw?
+Wow!\xfffeYou're really good!
+Stop drawing funny faces!\xfffeIt hurts to laugh so much!
+Ahaha!\xfffeWhat is that?!
+Wow, you're good!\xfffeI'll try to imitate you!
+I love drawing!\xfffeI can draw and draw!
+...Uh-huh... What is that?\xfffeIs that supposed to be me?
+Oops!\xfffeI can't stay inside the lines!
+A battle? Of course, but I need\xfffetime to get ready.
+A battle? Of course, but I need\xfffetime to get ready.
+Thanks for waiting!\xfffeLet's get our battle started!\xf000븂\x0001<
+Sorry I made you wait!\xfffeLet's get started!\xf000븂\x0001<
 Sorry! My Pokémon\xfffearen't feeling very well...\xf000븀\x0000\xfffeLet's battle some other time!
 I'm sorry!My Pokémon\xfffearen't faring too well...\xf000븁\x0000\xfffeWe'll battle\xfffeanother time!
-\xf000Ā\x0001\x0000: We're having\xfffea Multi Battle now!\xf000븁\x0000\xfffeHey! You wanna Multi Battle\xfffewith us too, \xf000Ā\x0001\x0001?
-\xf000Ā\x0001\x0000: We're having\xfffea Multi Battle now!\xf000븁\x0000\xfffeAh! Do you want to\xfffeMulti Battle with us, \xf000Ā\x0001\x0001?
-Really?\xfffeCome anytime!
-I see...\xfffeCome again any time!
-Alright, hold on!
-Alright, give me a second!
-Sorry I kept you! Now let's\xfffeMulti Battle together!\xf000븂\x0001<
-Sorry about that! Okay, let's\xfffeMulti Battle together!\xf000븂\x0001<
-Oh, sorry!\xfffeNow's not a good time...\xf000븀\x0000\xfffeLet's say later!
-Oh, I'm sorry!\xfffeLet's do it later.
+I'm terribly sorry, but my Pokémon\xfffearen't feeling well...\xf000븁\x0000\xfffeLet's battle another time.
+\xf000Ā\x0001\x0000: We're about to have a\xfffeMulti Battle.\xf000븁\x0000\xfffeOh! \xf000Ā\x0001\x0001, would you\xfffejoin us in the Multi Battle?
+\xf000Ā\x0001\x0000: We're about to have a\xfffeMulti Battle.\xf000븁\x0000\xfffeOh! \xf000Ā\x0001\x0001, would you\xfffejoin us in the Multi Battle?
+Oh, all right.\xfffeCome see me anytime, OK?
+OK! Just give me a second!
+OK! Just give me a second!
+Sorry to make you wait! OK then,\xfffelet's have a Multi Battle!\xf000븂\x0001<
+Sorry to keep you waiting! OK then,\xfffelet's have a Multi Battle!\xf000븂\x0001<
+Oh, I'm sorry.\xfffeI have too much to do right now.\xf000븀\x0000\xfffeAnother time, OK?
+Oh, sorry!\xfffeLet's do this another time!
 Declined the invitation.
 Declined the invitation.
-Whoa!\xfffeYou're pretty resilient!
-You really raised\xfffethat Pokémon well!
-Not bad using\xfffea move like that now!
-Aha!\xfffeThat's the move!!
-Naturally!\xfffeSo you can fight like that!
-Amazing!\xfffeSo some fight this way!
-Sending out that Pokémon\xfffein this situation...?!
-The timing on your\xfffePokémon switching is top-notch!
-A trade!\xfffeAlright, hold on!
+Whoa!\xfffeI can tell you're pretty tough!
+You used that move?\xfffeThat's good strategy!
+That's it!\xfffeThis is the right move now!
+Way to go!\xfffeThat was an eye-opener!
+That's awesome!\xfffeI've never seen that battle style!
+Oh! How could you use that\xfffePokémon in that situation?
+You have exquisite timing for\xfffeswitching Pokémon!
+You want to trade, huh?\xfffeSure, hold on just a second.
+A trade? Of course, but I need\xfffetime to get ready.
 Ah, a trade!\xfffeAlright, give me a second!
 Sorry I kept you!\xfffeOkay, let's start trading!\xf000븂\x0001<
 Sorry about that!\xfffeOkay, let's begin!\xf000븂\x0001<
 Sorry!\xfffeI don't have any Pokémon\xf000븀\x0000\xfffeto trade right now...\xf000븁\x0000\xfffeWe can trade later!
-I'm sorry!\xfffeI don't have any Pokémon\xf000븀\x0000\xfffeI could trade with you...\xf000븁\x0000\xfffeLet's trade some other day!
-Yes!\xfffeI really wanted this Pokémon!
-I'm trading Pokémon right now!
-At last, I was traded\xfffethe Pokémon I was looking for!
-I was finally traded\xfffethe Pokémon I wanted!
-You can't trade with\xfffeonly one Pokémon on hand!\xf000븁\x0000
-You can't trade with\xfffeonly one Pokémon on hand...\xf000븁\x0000
-If you want anything,\xfffecome tell me about it!
-If you want anything,\xfffejust tell me!
+Sorry! I don't have a Pokémon\xfffethat I can trade right now.\xf000븁\x0000\xfffeLet's trade some other time.
+I'm sorry, but I don't have any\xfffePokémon that I can trade now...\xf000븁\x0000\xfffeLet's trade some other time!
+I'm trading Pokémon right now.
+Finally, I got that Pokémon\xfffeI've wanted for so long.
+I finally got that Pokémon\xfffeI wanted in a trade!
+You can't trade if you have only one\xfffePokémon with you.\xf000븁\x0000
+You can't trade if you have only\xfffeone Pokémon with you.\xf000븁\x0000
+If you want to do something\xfffewith me, just give me a shout!
+If you want to do something\xfffewith me, don't be shy. Just ask!
 Record sharing!\xfffeAlright, hold on!
 Ah, record sharing!\xfffeOkay, give me a second!
 Sorry I kept you!\xfffeOkay, let's share records!
@@ -140,8 +140,8 @@ Really?\xfffeCome anytime!
 I see...\xfffeCome again any time!
 Alright! Okay, let's\xfffeshare records together!
 Sorry about that! Now, let's\xfffeshare records together!
-Oh, sorry!\xfffeNow's not a good time...\xf000븀\x0000\xfffeLet's say later!
-Oh, I'm sorry!\xfffeLet's do it later.
+Oh, I'm sorry.\xfffeI have too much to do right now.\xf000븀\x0000\xfffeAnother time, OK?
+Oh, sorry!\xfffeLet's do this another time!
 Mixing records is great!
 Mixing records is fun!
 Keep on mixing!
@@ -150,43 +150,44 @@ Mix it! Mix it!
 Mix! Mix!
 You mix next time!
 I wonder what'll happen!
-A Spin Trade!\xfffeAlright, hold on!
-Oh, a Spin Trade!\xfffeOkay, give me a second!
+Spin Trade? Sure!\xfffeOK, just hold on a second!
+Spin Trade? Of course!\xfffeOK, can you just wait a moment?
 Okay, I'm good!\xfffeOkay, let's Spin Trade!\xf000븂\x0001<
 Oh, sorry about that!\xfffeOkay, let's begin!\xf000븂\x0001<
 Oh, sorry!\xfffeNow's not a good time...\xf000븀\x0000\xfffeLet's say later!
-Oh, I'm sorry!\xfffeLet's do it later.
-You need an egg\xfffeto do a Spin Trade!\xf000븁\x0000
-You need an egg\xfffeto do a Spin Trade!\xf000븁\x0000
-\xf000Ā\x0001\x0000: We're doing\xfffea Spin Trade now!\xf000븁\x0000\xfffeHey! You wanna do\xfffethe Spin Trade with us too, \xf000Ā\x0001\x0001?
-\xf000Ā\x0001\x0000: We're doing\xfffea Spin Trade now!\xf000븁\x0000\xfffeAh! Do you want to\xfffeSpin Trade with us, \xf000Ā\x0001\x0001?
-Really?\xfffeCome anytime!
-I see...\xfffeCome again any time!
-Alright, hold on!
-Alright, give me a second!
-Alright! Okay, let's\xfffeSpin Trade together!\xf000븂\x0001<
-Sorry about that! Now, let's\xfffeSpin Trade together!\xf000븂\x0001<
-Huh?\xfffeYou don't look to have an egg...\xf000븁\x0000\xfffeCome back later\xfffewhen you've got an egg!
-Huh?\xfffeYou don't have an egg?\xf000븁\x0000\xfffeWhen you get an egg,\xfffelet's do it then!
-Oh, sorry!\xfffeNow's not a good time...\xf000븀\x0000\xfffeLet's say later!
-Oh, I'm sorry!\xfffeLet's do it later.
-You have an egg on hand\xfffethat cannot be traded.
-You have an egg on hand\xfffethat cannot be traded.
-You have an egg on hand\xfffethat cannot be traded.\xf000븁\x0000
-You have an egg on hand\xfffethat cannot be traded.\xf000븁\x0000
-Spin Trading is a blast!
-Let's do the Spin Trade!
-Stop! Stop right there!
-Wah! It moved again!
-My egg is the best!
-I wanted that egg...
-Yes!\xfffeI got the end I wanted!
-I would've gotten a berry\xfffeif it had stopped there...
-Welcome to the Union Room!\xf000븁\x0000\xfffeIf you don't understand anything,\xfffeallow me to guide you!\xf000븁\x0000
+Oh, I'm sorry.\xfffeI have too much to do right now.\xf000븀\x0000\xfffeAnother time, OK?
+Oh, sorry!\xfffeLet's do this another time!
+You need an Egg if you want to take\xfffepart in a Spin Trade.\xf000븁\x0000
+You need an Egg if you want to\xfffetake part in a Spin Trade.\xf000븁\x0000
+\xf000Ā\x0001\x0000: We're going to do a Spin\xfffeTrade now.\xf000븁\x0000\xfffeHey, \xf000Ā\x0001\x0001! Do you want to join\xfffeus for a Spin Trade, too?
+\xf000Ā\x0001\x0000: We were doing Spin Trades\xfffejust now.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001, do you want to join us\xfffeand do some Spin Trades, too?
+Oh, all right.\xfffeCome see me anytime, OK?
+Oh...\xfffePlease come by anytime.
+OK! Just give me a second!
+OK! Just give me a second!
+OK!\xfffeLet's do a Spin Trade together!\xf000븂\x0001<
+OK!\xfffeLet's do a Spin Trade together!\xf000븂\x0001<
+What's this?\xfffeIt looks like you don't have an Egg.\xf000븁\x0000\xfffeWhen you have an Egg, please come back!
+What's this?\xfffeIt looks like you don't have an Egg.\xf000븁\x0000\xfffeWhen you bring an Egg,\xfffelet's do this again!
+Oh, I'm sorry.\xfffeI have too much to do right now.\xf000븀\x0000\xfffeAnother time, OK?
+Oh, sorry!\xfffeLet's do this another time!
+There is an Egg that cannot be traded\xfffein your party.
+There is an Egg that cannot be traded\xfffein your party.
+There is an Egg that cannot be traded\xfffein your party.\xf000븁\x0000
+There is an Egg that cannot be traded\xfffein your party.\xf000븁\x0000
+Spin Trades are so much fun!
+We're doing Spin Trades!
+There!\xfffeStop there!
+Wah!\xfffeIt moved again!
+My Egg's awesome!
+There goes the Egg I wanted...
+Yes!\xfffeI got the Egg I wanted!
+If it stopped there,\xfffeI would've gotten a Berry.
+Welcome to the Union Room.\xf000븁\x0000\xfffeIf there is anything you need help with,\xfffeplease let me know!\xf000븁\x0000
 Do you have any\xfffebusiness with me?
-What do you want\xfffeto ask about?
-たいせんには 5しゅるいの\xfffeモードがあります\xf000븁\x0000\xfffeシングルバトルは たたかいの ばに\xfffeポケモンを 1ひき だして\xf000븀\x0000\xfffeふたりで たいせん します\xf000븁\x0000\xfffeダブルバトルは たたかいの ばに\xfffeポケモンを 2ひきずつ だして\xf000븀\x0000\xfffeふたりで たいせん します\xf000븁\x0000\xfffeトリプルバトルは たたかいの ばに\xfffeポケモンを 3ひきずつ だして\xf000븀\x0000\xfffeふたりで たいせん します\xf000븁\x0000\xfffeローテーションバトルは\xfffeポケモンを まえに 1ひき\xfffeうしろに 2ひき だしながら\xf000븀\x0000\xfffeふたりで たいせん します\xf000븁\x0000\xfffeマルチバトルは たたかいの ばに\xfffe4にんで ポケモンを\xf000븀\x0000\xfffe1ひきずつ だして\xf000븀\x0000\xfffe2たい2で たいせん します\xf000븁\x0000
-おたがいの ポケモンを\xfffeこうかんすることが できます\xf000븁\x0000\xfffeあたらしい ひととの であいが\xfffeめずらしい ポケモンとの\xf000븀\x0000\xfffeであいになるかも しれませんね!\xf000븁\x0000
+Which topic would you\xfffelike me to explain?
+There are five Battle Formats.\xf000븁\x0000\xfffeSingle Battle is for two Trainers\xfffewith one or more Pokémon each.\xf000븁\x0000\xfffeEach Trainer can have one Pokémon\xfffein battle at a time.\xf000븁\x0000\xfffeDouble Battle is for two Trainers\xfffewith two or more Pokémon each.\xf000븁\x0000\xfffeEach Trainer will send out two\xfffePokémon to battle at a time.\xf000븁\x0000\xfffeTriple Battle is for two Trainers\xfffewith three or more Pokémon each.\xf000븁\x0000\xfffeEach Trainer puts three Pokémon\xfffeinto battle at one time.\xf000븁\x0000\xfffeRotation Battle is for two Trainers.\xfffeEach Trainer sends three Pokémon\xf000븀\x0000\xfffeinto battle, with one Pokémon in front\xf000븀\x0000\xfffeand the other two in back.\xf000븁\x0000\xfffeMulti Battle is for four Trainers\xfffewith one or more Pokémon each.\xf000븁\x0000\xfffeEach Trainer can have one Pokémon\xfffein battle at a time.\xf000븁\x0000
+You may trade your Pokémon with\xfffeother players.\xf000븁\x0000\xfffeMeeting new people could be a\xfffeshortcut to meeting rare Pokémon!\xf000븁\x0000
 レコードつうしん では\xfffeじぶんの きろくを\xf000븀\x0000\xfffeみんなで こうかんすることが できます\xf000븁\x0000\xfffeきろくを こうかんすることで\xfffeいったい なにがおきるのか!?\xf000븁\x0000\xfffeそれは じぶんの めで\xfffeたしかめてみて ください!\xf000븁\x0000\xfffe5にんまで さんか できるので\xfffeともだちと やってみてくださいね!\xf000븁\x0000
 ぐるぐるこうかん は もっている\xfffeタマゴを みんなで もちよって\xf000븀\x0000\xfffeこうかん することが できます\xf000븁\x0000\xfffeいったい どのタマゴがくるか?\xfffeどんな ポケモンの タマゴなのか?\xf000븀\x0000\xfffeわくわく ドキドキ ですね!\xf000븁\x0000\xfffe5にんまで さんか できるので\xfffeともだちと やってみてくださいね!\xf000븁\x0000
 みんなで おえかきを\xfffeすることが できます\xf000븁\x0000\xfffe1まいの かみの うえに\xfffeすきに えを かいてみてください!\xf000븁\x0000\xfffeみんなで かいた えは きっと\xfffeすばらしい えに なるはずですよ!\xf000븁\x0000\xfffe5にんまで さんか できるので\xfffeともだちと やってみて くださいね!\xf000븁\x0000
@@ -220,48 +221,48 @@ Quit
 Battle
 Trade
 Record
-Spin Trade
+Spin
 Draw
 Chat
-Return
-Talking to \xf000Ā\x0001\x0000.
-Oh! Sorry!\xfffeI have other things to do.\xf000븀\x0000\xfffeSee you later!
+Cancel
+Talking to \xf000Ā\x0001\x0000...
+Whoops! Sorry, but I have to do\xfffesomething else.\xf000븀\x0000\xfffeAnother time, OK?
 Friend
 \xf000Ā\x0001\x0001's Friend
 \xf000Ā\x0001\x0002's Friend
+こんにちは！
 Hello!
-Hello
-Bonjour
-Ciao
-Hallo
-Hola
-Konnichiwa!
+Bonjour!
+Ciao!
+Hallo!
+Hola!
+H-e-l-l-o-!
 안녕하세요
-Battle With Two
-Battle With Four
-Quit
+Battles for two
+Battles for four
+Cancel
 Single Battle
 Double Battle
 Triple Battle
 Rotation Battle
 Confirm
-View Rules
-Return
+Rules
+Cancel
 Level 50 Rules
-No Limits
-Flat Rules
-With Miracle Shooter
-No Miracle Shooter
-Return
-Battle Format\xf000봅\x0001s: \xf000\xff00\x0001\x0002 Single Battle \xf000\xff00\x0001\x0000
-Battle Format\xf000봅\x0001s: \xf000\xff00\x0001\x0002 Double Battle \xf000\xff00\x0001\x0000
-Battle Format\xf000봅\x0001s: \xf000\xff00\x0001\x0002 Triple Battle \xf000\xff00\x0001\x0000
-Battle Format\xf000봅\x0001s: \xf000\xff00\x0001\x0002 Rotation Battle \xf000\xff00\x0001\x0000
+No Restrictions
+Flat Battle
+Wonder Launcher on
+Wonder Launcher off
+Cancel
+Battle Format\xf000봅\x0001s: \xf000\xff00\x0001\x0002Single Battle\xf000\xff00\x0001\x0000
+Battle Format\xf000봅\x0001s: \xf000\xff00\x0001\x0002Double Battle\xf000\xff00\x0001\x0000
+Battle Format\xf000봅\x0001s: \xf000\xff00\x0001\x0002Triple Battle\xf000\xff00\x0001\x0000
+Battle Format\xf000봅\x0001s: \xf000\xff00\x0001\x0002Rotation Battle\xf000\xff00\x0001\x0000
 Battle Format\xf000봅\x0001s: Multi Battle
-Battle Rules\xf000봅\x0001s: \xf000\xff00\x0001\x0002 No Limits \xf000\xff00\x0001\x0000
-Battle Rules\xf000봅\x0001s: \xf000\xff00\x0001\x0002 Flat Rules \xf000\xff00\x0001\x0000
-Miracle Shooter\xf000봅\x0001s: \xf000\xff00\x0001\x0002 On \xf000\xff00\x0001\x0000
-Miracle Shooter\xf000봅\x0001s: \xf000\xff00\x0001\x0002 Off \xf000\xff00\x0001\x0000
+Battle Rules\xf000봅\x0001s: \xf000\xff00\x0001\x0002No Restrictions\xf000\xff00\x0001\x0000
+Battle Rules\xf000봅\x0001s: \xf000\xff00\x0001\x0002Flat Battle\xf000\xff00\x0001\x0000
+Wonder Launcher\xf000봅\x0001s: \xf000\xff00\x0001\x0002On\xf000\xff00\x0001\x0000
+Wonder Launcher\xf000봅\x0001s: \xf000\xff00\x0001\x0002Off\xf000\xff00\x0001\x0000
 Two or more Pokémon\xfffeare required to battle.
 Three or more Pokémon\xfffeare required to battle.
 Three or more Pokémon that\xfffemeet conditions are required to battle.
@@ -272,16 +273,16 @@ Use the Support Shooter?
 With Miracle Shooter
 No Miracle Shooter
 Choose to use Pokémon on-hand\xfffeor those in your Battle Box.
-On Hand
+Party
 Battle Box
 Quit
-As it does not meet conditions,\xfffeIt cannot be entered.
-Please wait a moment.\xfffe(B to cancel)
-Now, please choose\xfffea Pokémon to use.\xf000븂\x0001<
-Now, please choose\xfffethree Pokémon to use.\xf000븂\x0001<
-Now, please choose\xfffefour Pokémon to use.\xf000븂\x0001<
-Now, please choose\xfffesix Pokémon to use.\xf000븂\x0001<
-Now, please choose\xfffeup to three Pokémon to use.\xf000븂\x0001<
+You don't meet the conditions,\xfffeso you cannot participate.
+Please wait a moment...\xfffePress the B Button to cancel.
+Please choose the Pokémon\xfffethat will participate.\xf000븂\x0001<
+Please select the three Pokémon\xfffethat will participate.\xf000븂\x0001<
+Please select the four Pokémon\xfffethat will participate.\xf000븂\x0001<
+Please select the six Pokémon\xfffethat will participate.\xf000븂\x0001<
+Please select up to three Pokémon\xfffethat will participate.\xf000븂\x0001<
 Please wait a moment.
 はなしかけています
 はなしかけられました\xfffeおやに へんじを かえしています
@@ -330,10 +331,10 @@ Please wait a moment.
 おえかきって たのしい!
 みたこともない あそびをしている!
 そっか!バイバイ!
-Now leaving.\xfffePlease wait a moment.\xf000븂\x0001<
-Please wait a moment.\xfffe(B to cancel)
-たいせんを しゅうりょう しますが\xfffeよろしいですか?
-Pokémon On Hand
+Ending communication.\xfffePlease wait...\xf000븂\x0001<
+Please wait a moment...\xfffePress the B Button to cancel.
+Communication will end.\xfffeIs that OK?
+Party
 Battle Box
 ...\xfffeThey look confused at the moment.
 Jump to someone\xfffewho wants to battle!
@@ -347,4 +348,3 @@ Looked at \xf000Ā\x0001\x0000's\xfffeTrainer Card!\xf000븁\x0000\xfffe...It's 
 Looked at \xf000Ā\x0001\x0000's\xfffeTrainer Card!\xf000븁\x0000\xfffe...It's a Gold Card!
 Looked at \xf000Ā\x0001\x0000's\xfffeTrainer Card!\xf000븁\x0000\xfffe...It's a White Card!
 Looked at \xf000Ā\x0001\x0000's\xfffeTrainer Card!\xf000븁\x0000\xfffe...It's a Black Card!
-Looked at \xf000Ā\x0001\x0000's\xfffeTrainer Card!\xf000븁\x0000\xfffe...It's a card you've never even seen!

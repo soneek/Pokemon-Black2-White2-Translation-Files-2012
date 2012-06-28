@@ -11,18 +11,18 @@ Yes
 No
 Group\xfffeMode
 ABC\xfffeMode
-Use
-Confirm
-Cancel
-Edit
-Add New Message
-Choose
-Delete
-Cancel
-メッセージとうろくリスト：\xfffeつかいたい　メッセージを\xfffeえらんで　ください!
-メッセージの　しゅるいや\xfffeことばをいれる　ばしょを\xfffeえらんで　ください!
-ことばをいれる　ばしょを\xfffeえらんで　ください!
-グループモード：\xfffeグループの　なかから\xfffeことばを　えらんで　ください!
-あいうえおモード：\xfffeもじを　えらんでいって\xfffeことばを　しぼりこんでください!
-あいうえおモード：\xfffeしぼりこんだ　なかから\xfffeことばを　えらんで　ください!
-Group Mode:\xfffeChoose the\xfffeappropriate group!
+USE
+CONFIRM
+QUIT
+EDIT
+ADD NEW MESSAGES
+SELECT
+DELETE
+QUIT
+Registered message list:\xfffePlease select the message\xfffeyou want to use.
+Please choose a message type\xfffeor the place you want\xfffeyour word or phrase to go.
+Please choose where you want\xfffeyour word or phrase to be placed.
+GROUP MODE:\xfffePlease choose a word or phrase\xfffefrom the group.
+ABC MODE:\xfffePlease choose a letter to\xfffenarrow down your choices.
+ABC MODE:\xfffePlease choose a word or phrase\xfffefrom the narrowed-down list.
+GROUP MODE:\xfffePlease choose a group of words\xfffeor phrases that'll go in that place.

@@ -1,44 +1,44 @@
-Affection
-Best
-One More
-Prepared
-Win
-No Match
-Spirit
-Critical
-Trump Card
-こい!
-Ineffective
-Attack
-Probability
-Guts
-Ability
-Strategy
-Battle
-Victory
-Sense
-Battle
-Duel
-Power
-Challenge
-Champion
-String
-Go Easy
-Enemy
-Genius
-Legend
-Trainer
-Effective
-Battle
-Pinchi
-Fight
-Revive
-Point
-Serious
-Lose
-Ally
-Invincible
-Careless
-Weak
-Cakewalk
-Move
+MATCH UP
+NO. 1
+BAD MATCHUP
+PREPARATION
+WINS
+NO MATCH
+SPIRIT
+CRITICAL HIT
+ACE CARD
+COME ON
+NO EFFECT
+ATTACK
+SURRENDER
+COURAGE
+TALENT
+STRATEGY
+MATCH
+VICTORY
+SENSE
+VERSUS
+FIGHTS
+POWER
+CHALLENGE
+CHAMPION
+STRONG
+TAKE IT EASY
+FOE
+GENIUS
+LEGEND
+TRAINER
+GOOD MATCHUP
+BATTLE
+EMERGENCY
+FIGHT
+REVIVE
+POINTS
+SERIOUS
+LOSS
+PARTNER
+INVINCIBLE
+EASY
+WEAK
+EASY WIN
+MOVE

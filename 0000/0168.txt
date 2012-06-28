@@ -1,26 +1,26 @@
 PGL
 GTS
-Pokémon DW
-Wi－Fi
-Spin Trade
-Game Sync
-Colosseum
-Subway
-Geonet
-Single Battle
-Infrared
-Double Battle
-Chat
-Communication
-Friend Codes
-Triple Battle
-Entralink
-Battle Video
-Voice Chat
-Pok�Shifter
-Multi Battle
-Pok�mon Musical
-Union
-C-Gear Log
-Rotation
-Wireless
+POKÉMON DW
+Wi-Fi
+SPIN
+GAME SYNC
+COLOSSEUM
+SUBWAY
+GEONET
+SINGLE
+INFRARED
+DOUBLE
+CHAT
+CONNECTION
+FRIEND CODE
+TRIPLE
+ENTRALINK
+BATTLE VIDEOS
+VOICE CHAT
+POKÉ TRANSFER
+MULTI BATTLE
+MUSICAL
+UNION
+TAG LOG
+ROTATION
+WIRELESS
