@@ -50,7 +50,7 @@ Mail cannot be moved!
 It cannot hold Mail here.
 Eggs cannot be selected!
 \xf000Ă\x0001\x0000を　ねむらせます\xfffeよろしいですか?
-This Pokemon doesn't\xfffelook sleepy.
+This Pokémon doesn't\xfffelook sleepy.
 Select another Pokémon?
-Battle Box has been locked.\xfffePokemon cannot be removed.
+Battle Box has been locked.\xfffePokémon cannot be removed.
 Battle Box has been locked.\xfffeHeld item cannot be changed.

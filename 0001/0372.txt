@@ -1,9 +1,9 @@
-HP
-Attack
-Defense
-Speed
-Sp. Atk
-Sp. Def
+たいりょく
+こうげき
+ぼうぎょ
+すばやさ
+とくこう
+とくぼう
 めいちゅうりつ
 かいひりつ
-Maximum HP
+さいだいＨＰ
