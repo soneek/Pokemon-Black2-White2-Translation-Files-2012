@@ -1,18 +1,18 @@
-メダルラリーに　さんかする　すべての\xfffeトレーナーが　さいしょに　もらえる\xfffeかのうせいに　みちた　メダル。
+This medal commemorates a\xfffetrainer's decison to particapate\xfffein medal rallying.
 メダルラリーに　さんかし　いっていの\xfffeせいせきを　おさめ　ゴールインした\xfffeきねんとなる　メダル。
 メダルラリーで　どりょくを　かさね\xfffeルーキーランクに　ランクアップした\xfffeきねんとなる　メダル。
 メダルラリーで　どりょくを　かさね\xfffeエリートランクに　ランクアップした\xfffeきねんとなる　メダル。
 メダルラリーで　どりょくを　かさね\xfffeマスターランクに　ランクアップした\xfffeきねんとなる　メダル。
 メダルラリーで　どりょくを　かさね\xfffeレジェンドランクに　ランクアップした\xfffeきねんとなる　メダル。
 すべての　メダルを　あつめ\xfffeメダリストの　ちょうてんに　たった\xfffeえいよの　あかしの　メダル。
-イッシュの　だいちを　5000かい\xfffeふみしめた　そこそこの\xfffeけんきゃくを　たたえる　メダル。
-イッシュの　だいちを　10000かい\xfffeふみしめた　なかなかの\xfffeけんきゃくを　たたえる　メダル。
-イッシュの　だいちを　20000かい\xfffeふみしめた　かなりの\xfffeけんきゃくを　たたえる　メダル。
-イッシュの　だいちを　100000かい\xfffeふみしめた　きゅうきょくの\xfffeけんきゃくを　たたえる　メダル。
-レポートを　10かい　かいた\xfffeういういしい　たびの　きろくを\xfffeひょうかする　メダル。
-レポートを　20かい　かいた\xfffeけっき　さかんな　たびの　きろくを\xfffeひょうかする　メダル。
-レポートを　50かい　かいた\xfffeじゅんちょうな　たびの　きろくを\xfffeひょうかする　メダル。
-レポートを　100かい　かいた\xfffeおどろくべき　たびの　きろくを\xfffeひょうかする　メダル。
+This medal commemorates\xfffeyour 5000th step\xfffein the Unova Region.
+This medal commemorates\xfffeyour 10000th step\xfffein the Unova Region.
+This medal commemorates\xfffeyour 20000th step\xfffein the Unova Region.
+This medal commemorates\xfffeyour 100000th step\xfffein the Unova Region.
+This medal commemorates\xfffeyour 10th written save file.
+This medal commemorates\xfffeyour 20th written save file.
+This medal commemorates\xfffeyour 50th written save file.
+This medal commemorates\xfffeyour 100th written save file.
 ポケモンセンターで　ポケモンを\xfffeなんども　やすませた　やさしい\xfffeトレーナーに　おくられる　メダル。
 5かしょの　おとくな　けいじばんを\xfffeみた　じょうほうしゅうしゅうに\xfffeねっしんな　ひとのための　メダル。
 15かしょの　おとくな　けいじばんを\xfffeみた　じょうほうしゅうしゅうを\xfffeきわめた　ひとのための　メダル。
@@ -234,22 +234,22 @@ PWTの\xfffeミックスマスタートーナメントで\xfffeゆうしょう�
 おもいでリンクを　おこない\xfffeはじめて　リンクイベントを　みた\xfffeあかしの　メダル。
 おもいでリンクを　おこない\xfffeすべての　リンクイベントを　みた\xfffeあかしの　メダル。
 『おたのしみ』メダルを　すべて　\xfffeあつめた　ごほうびの　メダル。
-ノーマルタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeひぼんさを　たたえる　メダル。
-ほのおタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeあついちしおを　たたえる　メダル。
-みずタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeみずみずしさを　たたえる　メダル。
-でんきタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeしびれるげんきを　たたえる　メダル。
-くさタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeはなばなしさを　たたえる　メダル。
-こおりタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeれいせいさを　たたえる　メダル。
-かくとうタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeナイスファイトを　たたえる　メダル。
-どくタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeどくそうせいを　たたえる　メダル。
-じめんタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeじりきのつよさを　たたえる　メダル。
-ひこうタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeひやくを　たたえる　メダル。
-エスパータイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeエキスパートを　たたえる　メダル。
-むしタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeインパクトを　たたえる　メダル。
-いわタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeかたい　いしを　たたえる　メダル。
-ゴーストタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeしゅうねんを　たたえる　メダル。
-ドラゴンタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeごうかいさを　たたえる　メダル。
-あくタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeアクのつよさを　たたえる　メダル。
-はがねタイプの　ポケモンだけで\xfffeポケモンリーグを　せいはした\xfffeてつのハートを　たたえる　メダル。
-たった　1ひきの　ポケモンで\xfffeポケモンリーグを　せいはした\xfffeここうの　おうじゃのための　メダル。
-『ちょうせん』メダルを　すべて\xfffeあつめた　ごほうびの　メダル。
+The medal commemorates your victory\xfffeover the Elite Four and\xfffeChampion using only Normal-type Pokemon.
+The medal commemorates your victory\xfffeover the Elite Four and\xfffeChampion using only Fire-type Pokemon.
+The medal commemorates your victory\xfffeover the Elite Four and\xfffeChampion using only Water-type Pokemon.
+The medal commemorates your victory\xfffeover the Elite Four and\xfffeChampion using only Electric-type Pokemon.
+The medal commemorates your victory\xfffeover the Elite Four and\xfffeChampion using only Grass-type Pokemon.
+The medal commemorates your victory\xfffeover the Elite Four and\xfffeChampion using only Ice-type Pokemon.
+The medal commemorates your victory\xfffeover the Elite Four and\xfffeChampion using only Fighting-type Pokemon.
+The medal commemorates your victory\xfffeover the Elite Four and\xfffeChampion using only Poison-type Pokemon.
+The medal commemorates your victory\xfffeover the Elite Four and\xfffeChampion using only Ground-type Pokemon.
+The medal commemorates your victory\xfffeover the Elite Four and\xfffeChampion using only Flying-type Pokemon.
+The medal commemorates your victory\xfffeover the Elite Four and\xfffeChampion using only Psychic-type Pokemon.
+The medal commemorates your victory\xfffeover the Elite Four and\xfffeChampion using only Bug-type Pokemon.
+The medal commemorates your victory\xfffeover the Elite Four and\xfffeChampion using only Rock-type Pokemon.
+The medal commemorates your victory\xfffeover the Elite Four and\xfffeChampion using only Ghost-type Pokemon.
+The medal commemorates your victory\xfffeover the Elite Four and\xfffeChampion using only Dragon-type Pokemon.
+The medal commemorates your victory\xfffeover the Elite Four and\xfffeChampion using only Dark-type Pokemon.
+The medal commemorates your victory\xfffeover the Elite Four and\xfffeChampion using only Steel-type Pokemon.
+The medal commemorates your victory\xfffeover the Elite Four and\xfffeChampion using only one Pokemon.
+This medal commemorates obtaining\xfffeall of the "challenge" medals.
