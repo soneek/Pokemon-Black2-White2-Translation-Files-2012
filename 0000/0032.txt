@@ -1,37 +1,37 @@
-﻿Options
-Text Speed
-Battle Scene
-Battle Style
-Sound
-Display Text
-Frame
-Save Before IR
-Confirm
-Quit
-Slow
-Mid
-Fast
-On
-Off
-Shift
-Set
-Stereo
-Mono
+OPTIONS
+TEXT SPEED
+BATTLE SCENE
+BATTLE STYLE
+SOUND
+CHARACTERS
+FRAME
+SAVE BEFORE IR
+CONFIRM
+QUIT
+SLOW
+MID
+FAST
+ON
+OFF
+SHIFT
+SET
+STEREO
+MONO
 English
 Japanese
 Write
 Off
-Save
-No Save
-The text speed can be set\xfffein three different speeds.
-Choose to display battle animations.
-Choose the standard rules\xfffeof shifting Pokémon in battle.
-Choose to play the sound\xfffein stereo or in mono mode.
+SAVE
+NO SAVE
+You can choose from three different\xfffetext-scrolling speeds.
+You can choose whether to view\xfffemove animations.
+You can choose to switch Pokémon\xfffewhen an opponent's Pokémon faints.
+You can choose the way the game sounds.
 Choose to display text\xfffein English or Japanese.
 Choose to have constant wireless\xfffecommunication on or off.
-Choose whether to save\xfffebefore C-Gear infrared communications.
-You have already saved,\xfffeso this cannot be changed.\xf000븁\x0000
-Make the selected changes?
-Yes
-No
+You can choose to save the game\xfffebefore C-Gear launches infrared.
+You have saved data already.\xfffeYou cannot change this option.\xf000븁\x0000
+Would you like to make these changes?
+YES
+NO
 Dummy message

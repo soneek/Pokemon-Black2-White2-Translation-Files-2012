@@ -1,61 +1,61 @@
-Do you want to save \xfffethis match in your VS Recorder?
+Would you like to save the last battle\xfffeas your Battle Video?
 Yes
 No
-Data will be lost forever.\xfffeAre you sure?
+The last battle will not be saved.\xfffeOK?
 Yes
 No
-You will be overwriting your previous battle video.\xfffeIs that OK?
+Is it OK to overwrite your existing\xfffeBattle Video?
 Yes
 No
-Your video is now saving.\xfffePlease wait!
-Your match has been saved.
-There was an error.\xfffeVideo couldn't be saved.
-Waiting for your opponent.\xfffePlease wait a moment!
-Your opponent is not ready.\xfffePlease wait a moment!
-You cannot record a match with this opponent.
-You cannot record this match.
-SELECT TIME
+Saving your Battle Video...\xfffeDon't turn off the power.
+The Battle Video has been saved.
+There was an error.\xfffeThe Battle Video couldn't be saved.
+Awaiting your friend's decision...\xfffePlease wait.
+You cannot record videos\xfffewith this Trainer... Please wait.
+You cannot record videos\xfffewith this Trainer.
+The last battle cannot be recorded.
+Time Limit:
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
-Previous Record
-Single Coliseum\xfffeUnrestricted
-Single Coliseum\xfffeFlat
-Single coliseum\xfffeUnrestricted Shooting
-Single Coliseum\xfffeRestricted Shooting
-Double Coliseum\xfffeUnrestricted
-Double Coliseum\xfffeFlat
-Double Coliseum\xfffeUnrestricted Shooting
-Double Coliseum\xfffeRestricted Shooting
-Triple Coliseum\xfffeUnrestricted
-Triple Coliseum\xfffeFlat
-Triple Coliseum\xfffeUnrestricted Shooting
-Triple Coliseum\xfffeRestricted Shooting
-Rotation Coliseum\xfffeUnrestricted
-Rotation Coliseum\xfffeFlat
-Rotation Coliseum\xfffeUnrestricted Shooting
-Rotation Coliseum\xfffeRestricted Shooting
-Multi Coliseum\xfffeUnrestricted
-Multi Coliseum\xfffeFlat
-Multi Coliseum\xfffeUnrestricted Shooting
-Multi Coliseum\xfffeRestricted Shooting
-Battle Subway\xfffeSingle
-Battle Subway\xfffeDouble
-Battle Subway\xfffeMulti
-Free Random Matches\xfffeSingle
-Free Random Matches\xfffeDouble
-Free Random Matches\xfffeTriple
-Free Random Matches\xfffeRotation
-Free Random Matches\xfffeMiracle Shooter
-Random Match Rating\xfffeSingle
-Random Match Rating\xfffeDouble
-Random Match Rating\xfffeTriple
-Random Match Rating\xfffeRotation
-Random Match Rating\xfffeMiracle Shooter
-Single Tournament\xfffeNo Miracle Shooter
-Single Tournament\xfffeMiracle Shooter
-Double Tournament\xfffeNo Miracle Shooter
-Double Tournament\xfffeMiracle Shooter
-Triple Tournament\xfffeNo Miracle Shooter
-Triple Tournament\xfffeMiracle Shooter
-Rotation Tournament\xfffeNo Miracle Shooter
-Rotation Tournament\xfffeMiracle Shooter
+PREVIOUS RECORD
+Colosseum Single,\xfffeNo Restrictions
+Colosseum Single,\xfffeFlat
+Colosseum Single,\xfffeNo Restrictions, Launcher On
+Colosseum Single,\xfffeFlat, Launcher On
+Colosseum Double,\xfffeNo Restrictions
+Colosseum Double,\xfffeFlat
+Colosseum Double,\xfffeNo Restrictions, Launcher On
+Colosseum Double,\xfffeFlat, Launcher On
+Colosseum Triple,\xfffeNo Restrictions
+Colosseum Triple,\xfffeFlat
+Colosseum Triple,\xfffeNo Restrictions, Launcher On
+Colosseum Triple,\xfffeFlat, Launcher On
+Colosseum Rotation,\xfffeNo Restrictions
+Colosseum Rotation,\xfffeFlat
+Colosseum Rotation,\xfffeNo Restrictions, Launcher On
+Colosseum Rotation,\xfffeFlat, Launcher On
+Colosseum Multi,\xfffeNo Restrictions
+Colosseum Multi,\xfffeFlat
+Colosseum Multi,\xfffeNo Restrictions, Launcher On
+Colosseum Multi,\xfffeFlat, Launcher On
+Battle Subway,\xfffeSingle
+Battle Subway,\xfffeDouble
+Battle Subway,\xfffeMulti
+Random Matchup, Free\xfffeSingle
+Random Matchup, Free\xfffeDouble
+Random Matchup, Free\xfffeTriple
+Random Matchup, Free\xfffeRotation
+Random Matchup, Free\xfffeLauncher Battle
+Random Matchup, Rating\xfffeSingle
+Random Matchup, Rating\xfffeDouble
+Random Matchup, Rating\xfffeTriple
+Random Matchup, Rating\xfffeRotation
+Random Matchup, Rating\xfffeLauncher Battle
+Competition, Single\xfffeLauncher Off
+Competition, Single\xfffeLauncher On
+Competition, Double\xfffeLauncher Off
+Competition, Double\xfffeLauncher On
+Competition, Triple\xfffeLauncher Off
+Competition, Triple\xfffeLauncher On
+Competition, Rotation\xfffeLauncher Off
+Competition, Rotation\xfffeLauncher On

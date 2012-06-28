@@ -1,6 +1,6 @@
-Confirm
-Cancel
+CONFIRM
+CANCEL
 Please enter a phrase or word.
-メールを　もたせるのを\xfffeやめますか?
-Yes
-No
+Stop giving the Pokémon Mail?
+YES
+NO

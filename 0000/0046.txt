@@ -1,13 +1,13 @@
-﻿Please wait a moment.
+Please stand by...
 \xf000Ă\x0001\x0000
-\xf000Ă\x0001\x0001は\xfffe\xf000Ă\x0001\x0002の　タマゴを　もらった!
-おまけエリアに　とまったので\xfffe\xf000ĉ\x0001\x0000を　もらった!
-ざんねん!　バッグが　いっぱいだ……\xfffeきのみを　もらうのを　あきらめた
-Waiting for communications.\xfffePlease wait a moment.
-Some members are having troubles.\xfffeSpin Trade will be suspended.
-The leader is having troubles.\xfffeSpin Trade will be suspended.
-A communication error has occurred.\xfffeSpin Trade will be suspended.
-Time has run out.\xfffeSpin Trade will be suspended.
-Waiting for communications.\xfffePlease wait a moment.
+\xf000Ā\x0001\x0001 received\xfffe\xf000Ā\x0001\x0002's Egg!
+Landed on a Bonus Area!\xfffeReceived a free \xf000ĉ\x0001\x0000!
+Oh, no. The Bag is full...\xfffeThe Berry had to be refused.
+Communicating. Please stand by...
+A member dropped out.\xfffeThe Spin Trade will be canceled.
+The leader had to drop out.\xfffeThe Spin Trade will be canceled.
+Communication error...\xfffeThe Spin Trade will be canceled.
+Time has run out.\xfffeThe Spin Trade will be canceled.
+Communicating.\xfffePlease stand by...
 Saving...\xfffeDon't turn off the power.
-There are untradable eggs present.\xfffeSpin Trade will be suspended.
+There is an Egg that can't be traded.\xfffeSpin Trade will be canceled.

@@ -1,6 +1,6 @@
-Do what with \xf000Ă\x0001\x0000?
+\xf000Ă\x0001\x0000 is selected.
 Please Mark
-ほんとうに　にがしますか?
+Release this Pokémon?
 \xf000Ă\x0001\x0000 was released.
 Bye-bye, \xf000Ă\x0001\x0000!
 Your party's full!
@@ -12,10 +12,10 @@ Pick the wallpaper.
 Continue Box operations?
 The Box is full.
 The Bag is full.
-\xf000ĉ\x0001\x0000を　あずかった!
-\xf000ĉ\x0001\x0000を　もたせた!
-ポケモンを　タッチ!
-どのボックスへ　あずける?
+Took the \xf000ĉ\x0001\x0000.
+\xf000ĉ\x0001\x0000 is now being held.
+Which one will you take?
+Place it in which Box?
 Not holding anything
 ♂
 ♀
@@ -24,7 +24,7 @@ Mail can't be taken away.
 \xf000ĉ\x0001\x0000 is selected.
 Put away \xf000ĉ\x0001\x0000?
 Placed \xf000ĉ\x0001\x0000 in the Bag.
-Can't hold an item.
+It can hold an item.
 Please remove the Mail.
 You can't release an Egg.
 がったいした　キュレムは　にがせません!
@@ -36,12 +36,12 @@ An Egg can't hold an item.
 てもちに　くわえることが　できます!
 このボックスは　いっぱいです!
 てもちが　いっぱいです!
-Deposit Pokémon
-Withdraw Pokémon
-Move Pokémon
-Move Items
-Battle Box
-Put to Bed
+DEPOSIT POKÉMON
+WITHDRAW POKÉMON
+MOVE POKÉMON
+MOVE ITEMS
+BATTLE BOX
+SELECT A SLEEPY POKÉMON
 Mail cannot be moved!
 It cannot hold \xf000ĉ\x0001\x0000!
 It has Mail!
@@ -49,8 +49,8 @@ You're out of Pokémon that can fight!
 Mail cannot be moved!
 It cannot hold Mail here.
 Eggs cannot be selected!
-\xf000Ă\x0001\x0000を　ねむらせます\xfffeよろしいですか?
-This Pokémon doesn't\xfffelook sleepy.
+\xf000Ă\x0001\x0000 will be tucked in.\xfffeOK?
+This Pokémon doesn't seem\xfffesleepy now.
 Select another Pokémon?
-Battle Box has been locked.\xfffePokémon cannot be removed.
-Battle Box has been locked.\xfffeHeld item cannot be changed.
+Your Battle Box is locked.\xfffeYou cannot move your Pokémon.
+Your Battle Box is locked.\xfffeItems cannot be given or taken.

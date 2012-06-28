@@ -1,24 +1,24 @@
-「IR」について
-「Wi－Fi」について
-「Wi－Fi」について
-「Wireless」について
-「Wireless」について
-「Wireless」について
-「Wireless」について
-「Wireless」について
-About Tag Mode
-About Tag Mode
-About Radar Surveys
-About Radar Surveys
-About Custom Settings
-「オン/オフ」について
-「オン/オフ」について
-Using infrared\xfffeめのまえにいる ともだちと きがるに\xfffeたいせんや こうかんが できます。\xfffeまた あいしょうが わかる\xfffeフィーリングチェックや\xfffeともだちコードの こうかんも できます。
-ゲームシンクという　ボタンで\xfffeねむらせる　ポケモンを　えらび\xfffeWi－Fiコネクションで\xfffeレポートを　おくることが　できます。
-Wi－Fiの　でんぱを　キャッチしても\xfffeほんたいせっていが　できていないと\xfffeWi－Fiに　せつぞく　できません。
-Using Wireless\xfffeちかくにいる ともだちと\xfffeつぎの あそびが できます。\xfffe・Xtransceiver\xfffe・Entralink
-ライブキャスターは\xfffeCギアで　ともだちコードを\xfffeこうかんしたり　Wi－Fiクラブで\xfffeいっしょに　あそんだことの　ある\xfffeともだちと　ライブキャスターを\xfffeつかって　あそべます。
-If you touch the Entralink Button,\xfffe you will go to Entralink in an instant.
+About “Infrared"
+About “Online"
+About “Online"
+About “Wireless"
+About “Wireless"
+About “Wireless"
+About “Wireless"
+About “Wireless"
+About “Tag Log"
+About “Tag Log"
+About “Survey Radar"
+About “Survey Radar"
+About “Customization"
+About “ON/OFF"
+About “ON/OFF"
+Using infrared, you can battle and trade\xfffewith a friend in front of you.\xfffeYou can also use the Feeling Check which\xfffetells you how compatible you and your\xfffefriend are, and exchange Friend Codes.
+By pressing the Game Sync button,\xfffeyou can select a Pokémon to make sleep\xfffeand then send your saved data over\xfffeNintendo Wi-Fi Connection.
+You cannot connect to Nintendo Wi-Fi\xfffeConnection without the proper\xfffesystem settings, even when you are\xfffeable to receive a signal for \xfffeNintendo Wi-Fi Connection.
+DS Wireless Communications\xfffeallow you to use the features below\xfffewith your nearby friends.\xfffe-Xtransceiver\xfffe-Entralink
+The Xtransceiver allows you to connect\xfffewith friends you've played with in the\xfffeWi-Fi Club or those you've exchanged\xfffeFriend Codes with using the C-Gear.
+Press the button, and you will be\xfffesent to the Entralink instantly.
 じぶんの まわりで げんざい\xfffeユニオンルームに はいっている\xfffeにんずうが わかります。\xfffeまた ちかくで ワイヤレスの\xfffeはいしんを おこなっているかも\xfffeわかります。
 それと　Cギアの　でんげんを\xfffeオンにしている　ひとが\xfffeまわりに　いるか　わかります。\xfffeちかくに　ひとが　いると\xfffeすれちがいや　ちょうさレーダーの\xfffeつうしんを　キャッチ　しやすいです。
 すれちがった ひとが\xfffeどんなことを しているのかが\xfffeリアルタイムで ひょうじされます。\xfffeタッチすることで あいてについて\xfffeくわしく みたり\xfffeじゆうに はつげん できます。
@@ -28,6 +28,6 @@ If you touch the Entralink Button,\xfffe you will go to Entralink in an instant.
 カスタムマークを　タッチすると\xfffeマークが　てんめつ　します。\xfffeボタンを　タッチしながら　うごかすと\xfffeばしょを　かえることが　できます。\xfffeまた　リングを　タッチすると\xfffeリングの　いろが　へんかします。
 でんげんマークを タッチすると\xfffeオンと オフを きりかえるかの\xfffeかくにんがめんに かわります。\xfffeオフにすると タッチぶぶんが\xfffeくらくなり どうじに\xfffeむせんの つうしんが オフになります。
 のこされた　でんりょくが\xfffeすくない　じょうたいで\xfffeDSの　ふたが　とじられていると\xfffeCギアの　でんげんが\xfffeじどうてきに　オフになります。
-Next
-Quit
-Previous
+NEXT
+QUIT
+PREVIOUS

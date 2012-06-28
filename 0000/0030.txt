@@ -1,4 +1,4 @@
-﻿Circumstances seem bad... \xf000Ȅ\x0001\x0009
+Circumstances seem bad... \xf000Ȅ\x0001\x0009
 つうしんエラーが\xfffeはっせい　しました\xfffe\xfffeユニオンルームの　ばあいは\xfffeユニオンルームに　はいりなおします\xfffeそれいがいの　ばあいは\xfffeさいごに　レポートをかいた\xfffeばしょに　もどります\xfffeAボタンを　おしてください
 An error has occurred\xfffeduring communications. (\xf000Ȅ\x0001\x0000)\xfffeTurn off the power\xfffeand try again.\xfffe\xfffeIf this message\xfffeappears multiple times,\xfffeinquire the Support Center.
 つうしんエラーが\xfffeはっせい　しました\xfffe\xfffeタイトルがめんに　もどります\xfffeAボタンを　おしてください

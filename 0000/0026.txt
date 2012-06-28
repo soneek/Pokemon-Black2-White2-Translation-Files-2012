@@ -1,18 +1,18 @@
-﻿Entralink
- Live\xfffe Caster
+ENTRALINK
+XTRANSCEIVER
 Union Room
-\xf000ȁ\x0001\x0000
-Wireless Connection
-In
-None
+\xf000ȁ\x0001\x0000 Ppl
+Wireless Distribution
+YES
+NO
 Yes
 No
 Quit
 ここまでの　かつやくを\xfffeポケモンレポートに　かきこみますか?
 Now saving.\xfffePlease wait.
-Cギア　キャッチ
+C-Gear Detected
 In
 None
-Entralink\xfffe Connect...
-Entralink\xfffe Guest: \xf000Ȁ\x0001\x0000
-Entralink\xfffe Mission
+CONNECTING\xfffeENTRALINK...
+ENTRALINK\xfffeGUESTS: \xf000Ȁ\x0001\x0000
+ENTRALINK\xfffeMISSION

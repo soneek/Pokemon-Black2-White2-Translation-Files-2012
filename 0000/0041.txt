@@ -2,5 +2,5 @@
 The End
 ゲームクリア　おめでとう!
 Saving...\xfffeDon't turn off the power.
-\xf000Ā\x0001\x0000は\xfffeレポートに　しっかり　かきのこした!
-The game could not be saved.
+\xf000Ā\x0001\x0000 saved the game.
+There is already a saved game file.\xfffeIt is impossible to save.

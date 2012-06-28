@@ -1,4 +1,4 @@
-﻿\xf000ā\x0001\x0000
+\xf000ā\x0001\x0000
 \xf000Ă\x0001\x0000
 Item
 Nature
@@ -64,43 +64,43 @@ KYUREM 1
 KYUREM 2
 RESHIRAM
 ZEKROM
-Quit
-Previous
-Next
-Party
+BACK
+PREVIOUS
+NEXT
+PARTY ⒆⒇
 BOX LIST
 BATTLE BOX
 Switch Box
 Organize Bag
-View Status
-Item
+SUMMARY
+HELD ITEMS
 MARKING
-Release
-Take
-Store
-Cancel
-Move
-Move
-Sleep
-Confirm
-Cancel
+RELEASE
+WITHDRAW
+DEPOSIT
+CANCEL
+MOVE
+MOVE
+TUCK IN
+CONFIRM
+CANCEL
 Switch
 Cancel
 Cancel
 Change\xfffeBox
 Change\xfffeWallpaper
-Store\xfffePokémon
-To bag
-Give
-Move
+Store\xfffePokemon
+BAG
+GIVE
+MOVE
 ♂
 ♀
 \xf000Ć\x0001\x0000
 \xf000Ĉ\x0001\x0000
 \xf000ĉ\x0001\x0000
-Nature
-Ability
-Item
+NATURE
+ABILITY
+ITEM
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
 None
@@ -108,8 +108,8 @@ None
 Lv.
 No.
 MOVES LEARNED
-Yes
-No
+YES
+NO
 Move Pokémon
 Battle Box
 ポケモンを　しぼりこむ
