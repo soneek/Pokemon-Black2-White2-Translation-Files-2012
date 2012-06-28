@@ -66,8 +66,8 @@ $\xf000Ȇ\x0001\x0000
 Aspertia City Gym Leader\xfffeCheren
 しんりを　もとめる　もの
 みんなの　ゆめは　それぞれ　ちがう\xfffeきみは　きみが　したいことを　さがせ
-Virbank City　Gym Leader\xfffeRoxie
-ポイズンライフ　ポイズンライブ!
+Virbank City Gym Leader\xfffeRoxie
+Poison life, poison live!
 ともだちのため　ポケモンのため\xfffeノー!　というのも　やさしさでしょ!
 Castelia City Gym Leader\xfffeBurgh
 Premier Insect Artist
