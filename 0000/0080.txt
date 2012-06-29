@@ -17,14 +17,14 @@ This medal commemorates the many\xfffetimes you've healed your Pokémon\xfffeat 
 This medal commemorates\xfffethe 5th sign that you read.
 This medal commemorates\xfffethe 15th sign that you read.
 This medal commemorates\xfffethe time you caught graffti on\xfffethe back of a sign.
-This medal commemorates\xfffethe first time youxffferode a bicycle.
-This medal commemorates\xfffethe 30th time youxffferode a bicycle.
-This medal commemorates\xfffethe 100th time youxffferode a bicycle.
-This medal commemorates\xfffethe 500th time youxffferode a bicycle.
-This medal commemorates\xfffethe first time youxfffeused the Super Rod.
-This medal commemorates\xfffethe 10th time youxfffeused the Super Rod.
-This medal commemorates\xfffethe 50th time youxfffeused the Super Rod.
-This medal commemorates\xfffethe 100th time youxfffeused the Super Rod.
+This medal commemorates\xfffethe first time you\xffferode a bicycle.
+This medal commemorates\xfffethe 30th time you\xffferode a bicycle.
+This medal commemorates\xfffethe 100th time you\xffferode a bicycle.
+This medal commemorates\xfffethe 500th time you\xffferode a bicycle.
+This medal commemorates\xfffethe first time you\xfffeused the Super Rod.
+This medal commemorates\xfffethe 10th time you\xfffeused the Super Rod.
+This medal commemorates\xfffethe 50th time you\xfffeused the Super Rod.
+This medal commemorates\xfffethe 100th time you\xfffeused the Super Rod.
 This medal commemorates your\xfffecapture of all Normal-type Pokémon\xfffein the Unova region.
 This medal commemorates your\xfffecapture of all Fire-type Pokémon\xfffein the Unova region.
 This medal commemorates your\xfffecapture of all Water-type Pokémon\xfffein the Unova region.
@@ -201,24 +201,24 @@ This medal commemorates your score\xfffeof 50 points in the\xfffeXtransceiver Mi
 This medal commemorates your score\xfffeof 200 points in the\xfffeXtransceiver Mini-Games.
 This medal commemorates your score\xfffeof 500 points in the\xfffeXtransceiver Mini-Games.
 This medal commemorates your score\xfffeof 1000 points in the\xfffeXtransceiver Mini-Games.
-This medal commemorates the debut\xfffeof "Brycenman" in\xfffePokeStar Studios.
-This medal commemorates your creation\xfffeof the "Brycenman"\xfffePokeStar Studios movie.
-This medal commemorates your creation\xfffeof the "Full Metal Cup" \xfffePokeStar Studios movie.
-This medal commemorates your creation\xfffeof the "Invaders"\xfffePokeStar Studios movie.
-This medal commemorates your creation\xfffeof the "Monster Movie"\xfffePokeStar Studios movie.
-This medal commemorates your creation\xfffeof the "Time Traveler"\xfffePokeStar Studios movie.
-This medal commemorates your creation\xfffeof the "Pokémon Trainers in Love"\xfffePokeStar Studios movie.
-This medal commemorates your creation\xfffeof the "Mysterious Door of the\xfffeMagic Kingdom" PokeStar Studios movie.
-This medal commemorates your creation\xfffeof the "Giant Office Lady"\xfffePokeStar Studios movie.
-This medal commemorates your creation\xfffeof the "Fear! The Red Mist\xfffeNightmare" PokeStar Studios movie.
-This medal commemorates your creation\xfffeof the "Storage Robot"\xfffePokeStar Studios movie.
-This medal commemorates your creation\xfffeof the "Ghost Eraser"\xfffePokeStar Studios movie.
-This medal commemorates your creation\xfffeof the "Return of Brycenman"\xfffePokeStar Studios movie.
-This medal commemorates your\xffferole in all PokeStar Studios films.
-This medal commemorates your\xffferole in all PokeStar Studios\xfffeclassic films.
-This medal commemorates your\xfffeearning of over $100 billion\xfffein PokeStar Studios films.
-This medal commemorates your creation\xfffeof your first Cult PokeStar\xfffeStudios movie.
-This medal commemorates your creation\xfffeof all the Cult PokeStar\xfffeStudios movies.
+This medal commemorates the debut\xfffeof "Brycenman" in\xfffePokéstar Studios.
+This medal commemorates your creation\xfffeof the "Brycenman"\xfffePokéstar Studios movie.
+This medal commemorates your creation\xfffeof the "Full Metal Cup" \xfffePokéstar Studios movie.
+This medal commemorates your creation\xfffeof the "Invaders"\xfffePokéstar Studios movie.
+This medal commemorates your creation\xfffeof the "Monster Movie"\xfffePokéstar Studios movie.
+This medal commemorates your creation\xfffeof the "Time Traveler"\xfffePokéstar Studios movie.
+This medal commemorates your creation\xfffeof the "Pokémon Trainers in Love"\xfffePokéstar Studios movie.
+This medal commemorates your creation\xfffeof the "Mysterious Door of the\xfffeMagic Kingdom" Pokéstar Studios movie.
+This medal commemorates your creation\xfffeof the "Giant Office Lady"\xfffePokéstar Studios movie.
+This medal commemorates your creation\xfffeof the "Fear! The Red Mist\xfffeNightmare" Pokéstar Studios movie.
+This medal commemorates your creation\xfffeof the "Storage Robot"\xfffePokéstar Studios movie.
+This medal commemorates your creation\xfffeof the "Ghost Eraser"\xfffePokéstar Studios movie.
+This medal commemorates your creation\xfffeof the "Return of Brycenman"\xfffePokéstar Studios movie.
+This medal commemorates your\xffferole in all Pokéstar Studios films.
+This medal commemorates your\xffferole in all Pokéstar Studios\xfffeclassic films.
+This medal commemorates your\xfffeearning of over $100 billion\xfffein Pokéstar Studios films.
+This medal commemorates your creation\xfffeof your first Cult Pokéstar\xfffeStudios movie.
+This medal commemorates your creation\xfffeof all the Cult Pokéstar\xfffeStudios movies.
 This medal commemorates your participation\xfffein Fes Missions\xfffewith 10 people.
 This medal commemorates your participation\xfffein Fes Missions\xfffewith 30 people.
 This medal commemorates your score\xfffeof 100 in a Fes Mission.
