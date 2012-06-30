@@ -7,7 +7,7 @@ Hironobu
 ゆうえんちのきゃくB
 Megumi
 Extra
-P　キャスティング
+P　Casting
 None
 None
 None
@@ -18,7 +18,7 @@ N・スグル
 \xf000ā\x0001\x0000キッド
 \xf000ā\x0001\x0000ガール
 アナウンス
-MIYＵＫI
+MIYUKI
 None
 None
 None
@@ -540,13 +540,13 @@ None
 S・テルユキ
 ゆうれいたち
 Ghost Erasers
-Ghost Thief CChar
 Ghost Eraser
-ポルターガイストA
+Ghost Eraser
+Poltergeist A
 Hironobu
-ポルターガイストB
+Poltergeist B
 Akito
-ポルターガイストC
+Poltergeist C
 Megumi
 Extra
 ヤマジの　みなさん
@@ -569,13 +569,13 @@ None
 None
 S・テルユキ
 はかいのまじん
-ゴーストイレイザーズ\xfffe
+Ghost Erasers\xfffe
 Ghost Eraser
 Ghost Eraser
 にげまどう　しみん
 Hironobu
 にげまどう　しみん
-P　キャスティング
+P　Casting
 None
 None
 None
@@ -607,7 +607,7 @@ Hironobu
 ゆうえんちの　きゃくB
 Megumi
 Extra
-P　キャスティング
+P　Casting
 None
 None
 None
