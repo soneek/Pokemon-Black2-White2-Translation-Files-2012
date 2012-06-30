@@ -6,12 +6,12 @@ TRADE
 CANCEL
 Communicating. Please stand by...
 パートナーとなる あいてに\xfffeせきがいせんを むけてください
-リーダーに　なりました!
+リーダーに なりました!
 たいせん あいての リーダーに\xfffeせきがいせんを むけてください
 Please wait a moment.
 Friend Codes
 Feeling Checks:
-ちゅうだん　しますか?
+ちゅうだん しますか?
 こうかんする あいてに\xfffeせきがいせんを むけてください
 Pokémon Trades
 IN PARTY
@@ -20,8 +20,8 @@ Lv. \xf000Ȃ\x0001\x0000
 しゅうりょうしますか?
 交換しました
 Please wait a moment.
-あそぶないようが ちがったので\xfffeさいしょに もどります
-ここまでの　かつやくを\xfffeポケモンレポートに　かきこみますか?
+You and your friend(s) did not select the\xfffesame thing. Returning to previous menu.
+ここまでの かつやくを\xfffeポケモンレポートに かきこみますか?
 YES
 NO
 Saving...\xfffeDon't turn off the power.
@@ -106,8 +106,8 @@ Cancel trading?
 Waiting for the other player to finish...
 Egg
 The Mail held by the Pokémon\xfffewas sent to your PC.
-メールを　すてますが\xfffeよろしいですか?
-メールボックスが　いっぱいです\xfffeせいりしますか?
+メールを すてますが\xfffeよろしいですか?
+メールボックスが いっぱいです\xfffeせいりしますか?
 メールを すてました
 とった メールを\xfffeパソコンに てんそう しました
 The other Trainer cannot\xfffereceive Mail. The trade will be canceled.
