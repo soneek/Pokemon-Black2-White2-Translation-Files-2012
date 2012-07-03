@@ -128,15 +128,15 @@ Brycen Man
 メカポリス
 ポリアンナ
 メカポリス
-ＵFO
+UFO
 E
-ＵFO
+UFO
 Alien
 ???
 Hoffman
 ???
 セリザワ
-ストレンジ
+Strange
 LEDIAN
 LEDIAN
 Miguel
@@ -145,16 +145,16 @@ Miguel
 ???
 Stuffed
 ジュジュベ
-モニカ
+Monica
 グアイ
 グアイ
 グアイ
 Red Wear
 Red Wear
 Red Wear
-マニュエル
+Manuel
 Simon
-マニュエル
+Manuel
 Simon
 カダス
 セラエノ
@@ -164,8 +164,8 @@ Brycen Man
 Brycen Man
 ＵFO
 Brycen Man
-M・B
-M・B2
+M・T
+M・T2
 てんそうき
 モニカ
 Puppet
@@ -190,8 +190,8 @@ F－00
 セット
 セット
 セット
-ＵFO
-モニカ
+UFO
+Monica
 F－00
 カラテオー
 SMEARGLE
