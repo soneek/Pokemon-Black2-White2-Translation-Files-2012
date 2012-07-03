@@ -11,13 +11,13 @@ No
 Saving the game.\xfffePlease don't turn off the power.
 バトルボックスの ポケモンを\xfffeとうろく しました\xf000븁\x0000\xfffeたいかいの さんかを\xfffeかいじょするまで\xf000븀\x0000\xfffeバトルボックスの ポケモンは\xf000븀\x0000\xfffeかえられなく なります\xf000븁\x0000
 ポケモンBattle Convention!\xfffeなにを しますか?
-たいせんする
+Battle
 ふりかえる
 Cancel participation
 さいごの たいせんの きろくを\xfffeさいせい します\xf000븁\x0000
 さんかを かいじょすると\xfffeおなじ たいかいに さんかできません\xf000븁\x0000\xfffeかいじょしても よろしいですか?
 たいかいの さんかを かいじょします\xfffeほんとうに よろしいですか?
-バトルボックスの とうろくを\xfffeかいじょ しました\xf000븁\x0000
+Your Battle Box has been\xfffeunregistered.\xf000븁\x0000
 たいせんする あいてと\xfffeせきがいせんつうしん します\xf000븁\x0000\xfffeじぶんと あいての\xfffeDSカードを むきあわせて\xf000븀\x0000\xfffeAボタンを おしてください\xf000븁\x0000
 せきがいせんつうしんを\xfffeやめますか?
 おたがいの えらんでいる\xfffeたいかいが ちがいます\xf000븁\x0000\xfffeデジタルせんしゅしょうを\xfffeかくにんして\xf000븁\x0000\xfffeかかりいんの しじに\xfffeしたがって ください\xf000븁\x0000
@@ -30,13 +30,13 @@ Cancel participation
 ライブたいかいを しゅうりょうします\xf000븁\x0000
 おわる
 たいかいを しゅうりょうします\xfffeおつかれさまでした\xf000븁\x0000
-データを うけとっています……\xfffeしばらく おまちください
+Receiving data...\xfffePlease wait a moment.
 たいせん あいてを さがしています……\xfffeしばらく おまちください
 さいごの たいせんの きろくには\xfffeもんだいが あるため\xf000븀\x0000\xfffeさいせい できませんでした\xf000븁\x0000
 つうしん たいきちゅう です……\xfffeしばらく おまちください
 つうしんした あいてとは\xfffeいちど たいせん しています\xf000븁\x0000\xfffeおなじ あいてとは\xfffeたいせん できません\xf000븁\x0000
 バトルボックスに\xfffeポケモンが 1ひきも いません\xf000븁\x0000\xfffeたいかいの ルールを かくにんして\xfffeバトルボックスに ポケモンを\xf000븀\x0000\xfffeセット してください\xf000븁\x0000
-ポケモンを\xfffeえらんで ください
+Please choose your Pokémon.
 エラーが はっせいしたため\xfffeたいせんを しゅうりょうしました\xf000븀\x0000\xfffeかかりいんの しじに したがってください\xf000븁\x0000
 けっかを かくにん
 たいかいの じょうけんを\xfffeみたしていません\xf000븁\x0000
