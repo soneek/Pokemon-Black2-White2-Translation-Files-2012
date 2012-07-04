@@ -17,7 +17,7 @@
 ボクの　むしポケモンが　きみと\xfffeたたかいたいって　さわいでさ\xf000븁\x0000\xfffeではでは\xfffeさっそくだけど　しょうぶ　だね\xf000븁\x0000
 むしポケモンの　うつくしさを\xfffeひきだせる　たたかいを　すれば\xf000븁\x0000\xfffeかっても　まけても\xfffeこころおどる　こうけいに　なるよ!\xf000븁\x0000\xfffeぼくの　むしポケモンも\xfffeそう　さわいで　くれてるし!\xf000븁\x0000\xfffeではでは\xfffeさっそくだけど　しょうぶ　だね\xf000븁\x0000
 んうん……\xf000븁\x0000\xfffeこの　たたかいに　かてば\xfffeいままでに　ない　えを　かける\xf000븀\x0000\xfffeそんな　イメージが　あるんだ……\xf000븁\x0000\xfffeうん!　たたかいかたの\xfffeイマジネーション　いっぱい!\xf000븁\x0000\xfffeではでは\xfffeさっそくだけど　しょうぶ　だね\xf000븁\x0000
-ぬうん……!?\xfffeひょっとして　おわり!?\xf000븁\x0000
+Ooh...?!\xfffeCould this be the end?!
 うわあ……\xfffeなんだか……　うつくしいね……\xf000븁\x0000
 アーティ『あうう\xfffeまけちゃったよ……\xf000븁\x0000\xfffeそれにしても　きみ\xfffeすっごく　つよいんだねえ\xf000븁\x0000
 アーティ『ときどき　さあ\xfffeかっこわるい　かちかた　ってきくけど\xf000븀\x0000\xfffeいっしょうけんめい　なら\xf000븁\x0000\xfffeどんな　たたかいかた　だって\xfffeきれいに　みえると　おもうんだよね\xf000븁\x0000
@@ -49,7 +49,7 @@ I feel stronger just battling\xfffewith you... thanks!
 いま　わたしが　もとめるのは\xfffeあかるい　みらいを　みせてくれる\xf000븀\x0000\xfffeわかい　トレーナーの　そんざい\xf000븁\x0000
 としおいて　かんがえるのは\xfffeじぶんに　のこされた　じかんのこと\xf000븁\x0000\xfffeできることが　へっていく　いま\xfffeわたしが　もとめるのは\xf000븁\x0000\xfffeあかるい　みらいを　みせてくれる\xfffeわかい　トレーナーの　そんざい\xf000븁\x0000
 いま　わたしが　もとめるのは\xfffeあかるい　みらいを　みせてくれる\xf000븀\x0000\xfffeわかい　トレーナーの　そんざい\xf000븁\x0000\xfffeきみが　どれほどの　ものか\xfffeわたしの　これまでの　けいけん\xf000븁\x0000\xfffeポケモンに　そそぎこんだ　あい\xfffeそれら　すべてを　ぶつけよう!\xf000븁\x0000
-やぶれて　わきあがる\xfffeこの　あつき　おもい……\xf000븀\x0000\xfffeなんと　いえば　よいのか……
+I'm worn out, but\xfffeboiling over with emotions...\xf000븀\x0000What can I say...?
 ええい!　きみの　じつりょく\xfffeそんなものでは　ないだろう!\xf000븁\x0000
 シャガ『すばらしい\xf000븁\x0000\xfffeきみと　であい\xfffeたたかえたこと　かんしゃする\xf000븁\x0000\xfffeきみは　じぶんの　みらいだけでなく\xfffeひとにも　あかるい　みらいを　つくれ\xf000븁\x0000
 シャガ『ものたりぬ!\xf000븁\x0000\xfffeもういちど　ここで　あいまみえるよう\xfffeこの　シャガと　やくそくだぞ!\xf000븁\x0000
@@ -73,7 +73,7 @@ I feel stronger just battling\xfffewith you... thanks!
 ほのおタイプで　もやしまくる\xfffeオレ　ポッドが　あいてをするぜ!\xf000븁\x0000
 イヤッホー!\xf000븁\x0000\xfffeきょうだいで　いちばん　つよい\xfffeオレさまと　あそぼうぜ!!\xf000븁\x0000
 トーナメントの　けっしょう\xfffeこの　シチュエーション　もえるよな!\xf000븁\x0000\xfffeというわけで\xfffeほのおタイプで　もやしまくる\xf000븀\x0000\xfffeオレ　ポッドが　あいてをするぜ!\xf000븁\x0000
-まいったぜ……\xf000븁\x0000\xfffeも　　　え　　　つ　　　き　　　た!\xf000븁\x0000
+I give up...\xf000븁\x0000I am B-U-R-N-T O-U-T!
 もえて　ファイヤー!\xfffeオレさま　ぜっこうちょう!!\xf000븁\x0000
 ポッド『うわーッ!　オマエ　すげえ!!\xf000븁\x0000\xfffeだけどな　いい　しょうぶをした\xfffeオレさまも　けっこう　すごいだろ!\xf000븁\x0000
 ポッド『きにするなよ!\xfffeまけたって　しかたないだろ!\xf000븁\x0000\xfffeだって　あいてが　わるいよ\xfffeなんたって　オレさま　だぜ?\xf000븁\x0000
@@ -89,7 +89,7 @@ I feel stronger just battling\xfffewith you... thanks!
 はい……　それでは\xfffeくさタイプの　ポケモンが　すきな\xf000븀\x0000\xfffeぼく　デントが　おあいてします\xf000븁\x0000
 はい……　ぼくで　よろしければ\xfffeまごころを　こめて\xf000븀\x0000\xfffeおあいて　させていただきます\xf000븁\x0000
 はい……　それでは\xfffeくさタイプの　ポケモンが　すきな\xf000븀\x0000\xfffeぼく　デントが　おあいてします\xf000븁\x0000\xfffeよろしく　おねがい　いたしますね\xf000븁\x0000
-……えーっと\xfffeおわっちゃいました?\xf000븁\x0000
+...Er, is it over?
 ……えーっと\xfffeぼく　かっちゃいました?\xf000븁\x0000
 デント『……おどろいた\xfffeきみ　すっごく　つよいんだね\xf000븁\x0000\xfffeきょうだいの　ポッドや　コーンでも\xfffeかてない　あいて　だったみたい……\xf000븁\x0000
 デント『……こんかい　かてたのは\xfffeきょうだいの　ポッドや　コーンと　ともに\xf000븁\x0000\xfffeきそいあって　それぞれ\xfffeたんれん　できたから　ですね\xf000븁\x0000
@@ -97,7 +97,7 @@ I feel stronger just battling\xfffewith you... thanks!
 さあて　トレーナーさん\xf000븁\x0000\xfffeどんな　たたかいかたを　するのか\xfffeけんきゅう　させて　もらうよ!\xf000븁\x0000
 さあて　トレーナーさん\xf000븁\x0000\xfffeあいじょう　こめて\xfffeそだてた　ポケモンで\xf000븁\x0000\xfffeどんな　たたかいかたを　するのか\xfffeけんきゅう　させて　もらうよ!\xf000븁\x0000
 いらっしゃい!\xf000븁\x0000\xfffeもと　ジムリーダーにして\xfffeいまは　シッポウはくぶつかん　の\xf000븀\x0000\xfffeかんちょうの　アロエさ\xf000븁\x0000\xfffeさあて　トレーナーさん\xf000븁\x0000\xfffeあいじょう　こめて\xfffeそだてた　ポケモンで\xf000븁\x0000\xfffeどんな　たたかいかたを　するのか\xfffeけんきゅう　させて　もらうよ!\xf000븁\x0000
-たいしたもんだよ\xfffeアンタ　ほれちゃうじゃないか!\xf000븁\x0000
+Now that was really something!\xfffeAin't you just charming!
 なんだいなんだい?　もしかして\xfffeわざを　よみちがえたのかい?\xf000븁\x0000
 アロエ『ウットリ　するほどの\xfffeえもいわれぬ　たたかいっぷり!\xf000븀\x0000\xfffeアンタと　であえて　よかったよ!\xf000븁\x0000
 アロエ『あはは!　まけたなら\xfffeその　りゆうを　ぶんせき　して\xf000븀\x0000\xfffeつぎの　たいせんに　いかしなよ!\xf000븁\x0000
@@ -105,8 +105,8 @@ I feel stronger just battling\xfffewith you... thanks!
 たたかいに　いどむ　こころの\xfffeじゅんび　できているようだな\xf000븁\x0000
 たたかいに　いどむ　こころの\xfffeじゅんび　できているようだな\xf000븁\x0000\xfffeでは　いざ!\xf000븁\x0000
 ほかのひとや　ポケモンと　ともにあり\xfffeその　ささえに　よって\xf000븀\x0000\xfffeじぶんが　つよくなる……\xf000븁\x0000\xfffeそういう　つよさも　ある\xfffeそれを　おみせ　しましょう!\xf000븁\x0000
-きみと　ポケモンと!\xfffeすばらしき　コンビネーション!\xf000븀\x0000\xfffeうるわしき　ゆうじょう!\xf000븁\x0000
-きょくげんで　こそ\xfffeためされる!　きたえられる!\xf000븁\x0000
+You and your Pokémon...!\xfffeThey are a stellar combination!\xf000븀\x0000What a beautiful friendship you've built!
+I shall try you at my limits!\xfffeYou shall be schooled!
 ハチク『きみは　つよい!\xfffeいや　きみとポケモンは　つよいな!\xf000븁\x0000
 ハチク『いちどは　すてた\xfffeやくしゃの　みち……\xf000븁\x0000\xfffeだからこそ　みえた　たいせつなもの\xfffeそれを　しょうぶに　つぎこめた!\xf000븁\x0000
 しずかなる　アイス　マスク!\xfffeハチク!　アクションッ　スタートッ!\xf000븁\x0000
@@ -641,7 +641,7 @@ I feel stronger just battling\xfffewith you... thanks!
 レンタルした　ポケモンが\xfffeたたかいたいって　さわいでさ\xf000븁\x0000\xfffeではでは\xfffeさっそくだけど　しょうぶ　だね\xf000븁\x0000
 ポケモンの　うつくしさを\xfffeひきだせる　たたかいを　すれば\xf000븁\x0000\xfffeかっても　まけても\xfffeこころおどる　こうけいに　なるよ!\xf000븁\x0000\xfffeではでは\xfffeさっそくだけど　しょうぶ　だね\xf000븁\x0000
 んうん……\xf000븁\x0000\xfffeこの　たたかいに　かてば\xfffeいままでに　ない　えを　かける\xf000븀\x0000\xfffeそんな　イメージが　あるんだ……\xf000븁\x0000\xfffeうん!　たたかいかたの\xfffeイマジネーション　いっぱい!\xf000븁\x0000\xfffeではでは\xfffeさっそくだけど　しょうぶ　だね\xf000븁\x0000
-ぬうん……!?\xfffeひょっとして　おわり!?\xf000븁\x0000
+Ooh...?!\xfffeCould this be the end?!
 うわあ……\xfffeなんだか……　うつくしいね……\xf000븁\x0000
 アーティ『あうう\xfffeまけちゃったよ……\xf000븁\x0000\xfffeそれにしても　きみ\xfffeすっごく　つよいんだねえ\xf000븁\x0000
 アーティ『ときどき　さあ\xfffeかっこわるい　かちかた　ってきくけど\xf000븀\x0000\xfffeいっしょうけんめい　なら\xf000븁\x0000\xfffeどんな　たたかいかた　だって\xfffeきれいに　みえると　おもうんだよね\xf000븁\x0000
@@ -673,7 +673,7 @@ I feel stronger just battling\xfffewith you... thanks!
 いま　わたしが　もとめるのは\xfffeあかるい　みらいを　みせてくれる\xf000븀\x0000\xfffeわかい　トレーナーの　そんざい\xf000븁\x0000
 としおいて　かんがえるのは\xfffeじぶんに　のこされた　じかんのこと\xf000븁\x0000\xfffeできることが　へっていく　いま\xfffeわたしが　もとめるのは\xf000븁\x0000\xfffeあかるい　みらいを　みせてくれる\xfffeわかい　トレーナーの　そんざい\xf000븁\x0000
 いま　わたしが　もとめるのは\xfffeあかるい　みらいを　みせてくれる\xf000븀\x0000\xfffeわかい　トレーナーの　そんざい\xf000븁\x0000\xfffeきみが　どれほどの　ものか\xfffeわたしの　これまでの　けいけん\xf000븁\x0000\xfffeポケモンに　そそぎこんだ　あい\xfffeそれら　すべてを　ぶつけよう!\xf000븁\x0000
-やぶれて　わきあがる\xfffeこの　あつき　おもい……\xf000븀\x0000\xfffeなんと　いえば　よいのか……
+I'm worn out, but\xfffeboiling over with emotions...\xf000븀\x0000What can I say...?
 ええい!　きみの　じつりょく\xfffeそんなものでは　ないだろう!\xf000븁\x0000
 シャガ『すばらしい\xf000븁\x0000\xfffeきみと　であい\xfffeたたかえたこと　かんしゃする\xf000븁\x0000\xfffeきみは　じぶんの　みらいだけでなく\xfffeひとにも　あかるい　みらいを　つくれ\xf000븁\x0000
 シャガ『ものたりぬ!\xf000븁\x0000\xfffeもういちど　ここで　あいまみえるよう\xfffeこの　シャガと　やくそくだぞ!\xf000븁\x0000
@@ -697,7 +697,7 @@ I feel stronger just battling\xfffewith you... thanks!
 ほのおタイプで　もやしまくる\xfffeオレ　ポッドが　あいてをするぜ!\xf000븁\x0000
 イヤッホー!\xf000븁\x0000\xfffeきょうだいで　いちばん　つよい\xfffeオレさまと　あそぼうぜ!!\xf000븁\x0000
 トーナメントの　けっしょう\xfffeこの　シチュエーション　もえるよな!\xf000븁\x0000\xfffeというわけで\xfffeほのおタイプで　もやしまくる\xf000븀\x0000\xfffeオレ　ポッドが　あいてをするぜ!\xf000븁\x0000
-まいったぜ……\xf000븁\x0000\xfffeも　　　え　　　つ　　　き　　　た!\xf000븁\x0000
+I give up...\xf000븁\x0000I am B-U-R-N-T O-U-T!
 もえて　ファイヤー!\xfffeオレさま　ぜっこうちょう!!\xf000븁\x0000
 ポッド『うわーッ!　オマエ　すげえ!!\xf000븁\x0000\xfffeだけどな　いい　しょうぶをした\xfffeオレさまも　けっこう　すごいだろ!\xf000븁\x0000
 ポッド『きにするなよ!\xfffeまけたって　しかたないだろ!\xf000븁\x0000\xfffeだって　あいてが　わるいよ\xfffeなんたって　オレさま　だぜ?\xf000븁\x0000
@@ -713,7 +713,7 @@ I feel stronger just battling\xfffewith you... thanks!
 はい……　それでは\xfffeくさタイプの　ポケモンが　すきな\xf000븀\x0000\xfffeぼく　デントが　おあいてします\xf000븁\x0000
 はい……　ぼくで　よろしければ\xfffeまごころを　こめて\xf000븀\x0000\xfffeおあいて　させていただきます\xf000븁\x0000
 はい……　それでは\xfffeくさタイプの　ポケモンが　すきな\xf000븀\x0000\xfffeぼく　デントが　おあいてします\xf000븁\x0000\xfffeよろしく　おねがい　いたしますね\xf000븁\x0000
-……えーっと\xfffeおわっちゃいました?\xf000븁\x0000
+...Er, is it over?
 ……えーっと\xfffeぼく　かっちゃいました?\xf000븁\x0000
 デント『……おどろいた\xfffeきみ　すっごく　つよいんだね\xf000븁\x0000\xfffeきょうだいの　ポッドや　コーンでも\xfffeかてない　あいて　だったみたい……\xf000븁\x0000
 デント『……こんかい　かてたのは\xfffeきょうだいの　ポッドや　コーンと　ともに\xf000븁\x0000\xfffeきそいあって　それぞれ\xfffeたんれん　できたから　ですね\xf000븁\x0000
@@ -721,7 +721,7 @@ I feel stronger just battling\xfffewith you... thanks!
 さあて　トレーナーさん\xf000븁\x0000\xfffeどんな　たたかいかたを　するのか\xfffeけんきゅう　させて　もらうよ!\xf000븁\x0000
 さあて　トレーナーさん\xf000븁\x0000\xfffeレンタルした　ポケモンに\xfffeどんな　あいじょう　こめて\xf000븁\x0000\xfffeどんな　たたかいかたを　するのか\xfffeけんきゅう　させて　もらうよ!\xf000븁\x0000
 いらっしゃい!\xf000븁\x0000\xfffeもと　ジムリーダーにして\xfffeいまは　シッポウはくぶつかん　の\xf000븀\x0000\xfffeかんちょうの　アロエさ\xf000븁\x0000\xfffeさあて　トレーナーさん\xf000븁\x0000\xfffeあいじょう　こめて\xfffeそだてた　ポケモンで\xf000븁\x0000\xfffeどんな　たたかいかたを　するのか\xfffeけんきゅう　させて　もらうよ!\xf000븁\x0000
-たいしたもんだよ\xfffeアンタ　ほれちゃうじゃないか!\xf000븁\x0000
+Now that was really something!\xfffeAin't you just charming!
 なんだいなんだい?　もしかして\xfffeわざを　よみちがえたのかい?\xf000븁\x0000
 アロエ『ウットリ　するほどの\xfffeえもいわれぬ　たたかいっぷり!\xf000븀\x0000\xfffeアンタと　であえて　よかったよ!\xf000븁\x0000
 アロエ『あはは!　まけたなら\xfffeその　りゆうを　ぶんせき　して\xf000븀\x0000\xfffeつぎの　たいせんに　いかしなよ!\xf000븁\x0000
@@ -729,8 +729,8 @@ I feel stronger just battling\xfffewith you... thanks!
 たたかいに　いどむ　こころの\xfffeじゅんび　できているようだな\xf000븁\x0000
 たたかいに　いどむ　こころの\xfffeじゅんび　できているようだな\xf000븁\x0000\xfffeでは　いざ!\xf000븁\x0000
 ほかのひとや　ポケモンと　ともにあり\xfffeその　ささえに　よって\xf000븀\x0000\xfffeじぶんが　つよくなる……\xf000븁\x0000\xfffeそういう　つよさも　ある\xfffeそれを　おみせ　しましょう!\xf000븁\x0000
-きみと　ポケモンと!\xfffeすばらしき　コンビネーション!\xf000븀\x0000\xfffeうるわしき　ゆうじょう!\xf000븁\x0000
-きょくげんで　こそ\xfffeためされる!　きたえられる!\xf000븁\x0000
+You and your Pokémon...!\xfffeThey are a stellar combination!\xf000븀\x0000What a beautiful friendship you've built!
+I shall try you at my limits!\xfffeYou shall be schooled!
 ハチク『きみは　つよい!\xfffeいや　きみとポケモンは　つよいな!\xf000븁\x0000
 ハチク『いちどは　すてた\xfffeやくしゃの　みち……\xf000븁\x0000\xfffeだからこそ　みえた　たいせつなもの\xfffeそれを　しょうぶに　つぎこめた!\xf000븁\x0000
 ポケモンの　つよさを　ひきだせ!\xfffeハチクなら　それが　できるはず!\xf000븁\x0000
