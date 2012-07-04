@@ -318,7 +318,7 @@ Refused.
 あいての せんたくを まっています
 しらない あそびだから あそべないよ!
 じょうけんが あって いないので\xfffeたいせん できません
-メンバーしゅうごうを まっています
+Please wait a moment.
 Please wait a moment.
 うんうん! へー! そうなんだ!
 ふむふむ トレーナーカードを\xfffeみるのって たのしい!
@@ -330,7 +330,7 @@ Please wait a moment.
 みんなで おえかき しよう!\xfffeきみも さんかする?
 おえかきって たのしい!
 みたこともない あそびをしている!
-そっか!バイバイ!
+Now leaving.\xfffePlease wait a moment.\xf000븂\x0001<
 Ending communication.\xfffePlease wait...\xf000븂\x0001<
 Please wait a moment...\xfffePress the B Button to cancel.
 Communication will end.\xfffeIs that OK?

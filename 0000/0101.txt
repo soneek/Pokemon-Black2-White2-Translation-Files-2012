@@ -16,12 +16,12 @@ What's your message\xfffeto passersby?
 すれちがった あいてへの\xfffeよろこびの メッセージは?
 Your Pokémon's nickname?
 Please enter the name.
-にゅうりょく できる すうじは\xfffe4もじ まで です
+You can only enter\xfffefour characters.
 The Game Sync ID\xfffewas entered incorrectly.
 
 
-よろしく!
-ありがとう!
+Best regards!
+Thank you!
 White.
 Black.
 ♂

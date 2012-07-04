@@ -1,7 +1,7 @@
 Please choose a language.
-おとこのこ?　おんなのこ?
-つうしんきのう　を　オンにしますか?
-ちゅうい!
+Are you a boy? Are you a girl?
+Turn on wireless functionality?
+Caution!
 Please turn on wireless communication\xfffefor maximum enjoyment of the game.\xfffePlease turn it off in places\xfffewith bans on wireless communication,\xfffesuch as airplanes and hospitals.\xfffeThis can be changed in-game\xfffein the Settings menu.
 English
 Japanese

@@ -1,12 +1,12 @@
-ことばを　えらんでね!
+Choose a word!
 Think up a pre-battle intro!
 Think up a cool winning line!
 Think up a losing excuse!
-はやっている　ものは?
+What's trendy?
 Think up a Union greeting!
-これで　いいですか?
-なにか　ことばを　いれてください!
-なにも　しないで　やめますか?
+Is this okay?
+Put in a word!
+Stop entering?
 Yes
 No
 Group\xfffeMode

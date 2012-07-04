@@ -308,11 +308,11 @@ The connection to the server was lost.\xfffeTouch the Touch Screen to continue.
 
 There is nothing saved.\xfffeTouch the Touch Screen to continue.
 Please choose a Box.
-からの ボックスは おくれません!
-どの コーナーに おくりますか?
+An empty Box’s Data can’t be sent.
+Where would you like to send this?
 Only one Box Data may be sent at a time.
 The same Box Data can’t be sent.
-どの コーナーを みますか?
+Which category would you like to see?
 The saved data could not be deleted...
 The same Battle Video can't be saved again.\xfffeTouch the Touch Screen to continue.
 Saving...\xfffeDon't turn off the power.
@@ -347,12 +347,12 @@ Would you like to send\xfffeyour Battle Video?
 
 
 
-だいすきボックス さいしん20けん
-かっこいいボックス さいしん20けん
-かわいいボックス さいしん20けん
-おすすめボックス さいしん20けん
-おもしろいボックス さいしん20けん
-こだわりボックス さいしん20けん
+Latest 20 in the Favorite PC Box
+Latest 20 in the Cool PC Box
+Latest 20 in the Cute PC Box
+Latest 20 in the Suggested PC Box
+Latest 20 in the Fun PC Box
+Latest 20 in the Select PC Box
 School Kid♂
 Bug Catcher
 Ace Trainer♂

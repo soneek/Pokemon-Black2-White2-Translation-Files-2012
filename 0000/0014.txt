@@ -31,9 +31,9 @@ You can't release an Egg.
 \xf000Ă\x0001\x0000 came back!
 Huh, It failed...
 An Egg can't hold an item.
-マークを　タッチしよう!
-ボックスに　おけます!
-てもちに　くわえることが　できます!
+Touch to Mark!
+Place it in the box!
+Item can be eaten!
 The Box is full.
 Your party's full!
 DEPOSIT POKÉMON

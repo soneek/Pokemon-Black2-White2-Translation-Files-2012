@@ -36,7 +36,7 @@ CANCEL
 GREETINGS
 \xf000봃\x0001\x0001\xf000Ȅ\x0001\x0000
 \xf000봂\x0000\xf000Ā\x0001\x0000
-さがすのを あきらめますか?
+Give up on search?
 The trade will be started.
 \xf000봃\x0001\x0001NO. OF TRADES
 LOCATION
@@ -45,4 +45,4 @@ You need at least two Pokémon\xfffeif you want to trade!
 RENDEZVOUS WITH ANY
 Will you trade with someone\xfffeyou have traded with before?
 Delete
-99ついかします
+Add 99

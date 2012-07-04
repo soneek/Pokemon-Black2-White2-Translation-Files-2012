@@ -80,21 +80,21 @@
 
 
 
-◇ビルのそうしょくは 100ねんかけて しょくにんたちのてで つくられています
+◇The town's buildings were created by craftmens to last a hundred years.
 ◇Souryuu City is said to be the oldest city in the world.
 ◇Souryuu City's ancient technology still serves it today.
 ◇Many archeologists are born in the town every year.
 ◇In the town, you can hear music with countless centuries of history behind it.
-◇ビルのそうしょくは 100ねんかけて しょくにんたちのてで つくられています
+◇The town's buildings were created by craftmens to last a hundred years.
 ◇Souryuu City is said to be the oldest city in the world.
 ◇Souryuu City's ancient technology still serves it today.
 ◇Many archeologists are born in the town every year.
-◇まちのビルは ポケモンが 100ぴきのっても くずれないと いわれています
+◇The city's buildings are said to withstand more than 100 Pokémon without collapsing.
 ◇Souryuu City develops the cutting-edge in Pokéballs.
 ◇The city's buildings are built with the newest and best materials.
 ◇Souryuu City is famous for its security-ensured safety.
 ◇Networks allow for a very convenient lifestyle.
-◇まちのビルは ポケモンが 100ぴきのっても くずれないと いわれています
+◇The city's buildings are said to withstand more than 100 Pokémon without collapsing.
 ◇Souryuu City develops the cutting-edge in Pokéballs.
 ◇The city's buildings are built with the newest and best materials.
 ◇Souryuu City is famous for its security-ensured safety.
@@ -192,9 +192,9 @@ A very unusual thunderstorm is happening!
 A very unusual strong storm is happening!
 \xf000ą\x0001\x0000: \xf000Ā\x0001\x0001
 \xf000Ā\x0001\x0000
-\xf000Ā\x0001\x0000  \xf000Ā\x0001\x0001
-\xf000Ā\x0001\x0000  \xf000Ā\x0001\x0001  \xf000Ā\x0001\x0002
-\xf000Ā\x0001\x0000  \xf000Ā\x0001\x0001  \xf000Ā\x0001\x0002  \xf000Ā\x0001\x0003
+\xf000Ā\x0001\x0000 \xf000Ā\x0001\x0001
+\xf000Ā\x0001\x0000 \xf000Ā\x0001\x0001 \xf000Ā\x0001\x0002
+\xf000Ā\x0001\x0000 \xf000Ā\x0001\x0001 \xf000Ā\x0001\x0002 \xf000Ā\x0001\x0003
 ◆ A Pokémon outbreak at \xf000ą\x0001\x0000!
 
 

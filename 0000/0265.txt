@@ -1,6 +1,6 @@
 ----
-パワー1ばん
-パワー2ばん
-パワー3ばん
-パワー4ばん
-パワー5ばん
+Power Route - 1
+Power Route - 2
+Power Route - 3
+Power Route - 4
+Power Route - 5
