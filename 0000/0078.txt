@@ -1,5 +1,5 @@
-Medal Achievements
-Medals Achieved
+Medal Achievement Points
+Achieved
 Not Achieved
 \xf000봃\x0001\xf000Ȃ\x0001\x0000
 \xf000봃\x0001\xf000Ȃ\x0001\x0000/\xf000Ȃ\x0001\x0001
@@ -7,16 +7,16 @@ Not Achieved
 イチオシとうろくを\xfffeかいじょ しました
 ヒントメダルは イチオシに\xfffeとうろく できません!
 Would you like to\xfffechange the view?
-いちらんモ-ド
-いちれつモ-ド
-メダルだけみる
-ヒントだけみる
+Row Mode
+List Mode
+Achieved
+In Progress
 By Type
 By Name
 Recent
-Back to the original
+Default
 QUIT
 \xf000봃\x0001 Achieved
-\xf000봃\x0001 Hinted
-\xf000봃\x000120\xf000ȁ\x0001\x0000年 \xf000ȁ\x0001\x0001月 \xf000ȁ\x0001\x0002日
+\xf000봃\x0001 In Progress
+\xf000봃\x0001\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000
 メダルボックスに\xfffeせつめいしょが はさまっていた\xf000븁\x0000\xfffeメダルボックス きのう せつめい\xf000븁\x0000\xfffeメダルに カ-ソルを あわせて\xfffeAボタンを おすか\xf000븀\x0000\xfffeみぎはしの しかくを タッチすると\xf000븁\x0000\xfffeその メダルを\xfffeイチオシメダルに とうろくします\xf000븁\x0000\xfffeイチオシメダルは つうしんで\xfffeほかの プレイヤ-に みせられます\xf000븁\x0000\xfffeまた STARTボタンを おすか\xfffeひだりしたの ボタンを タッチすると\xf000븀\x0000\xfffeメダルの ひょうじを かえられます
