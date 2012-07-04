@@ -86,12 +86,12 @@ Please wait on the bridge\xfffeuntil a partner is found.
 You can return to\xfffeyour original world from here.\xf000븁\x0000Return to your\xfffeoriginal world?
 Communications halted.
 Your partner's world vanished, and\xfffeyou returned to your own Entralink.
-Mission failed!\xfffeWent too far ahead...\xf000븁\x0000Your partner's world vanished, and\xfffeyou returned to your own High-Link.
-Mission failed!\xfffeRan out of time...\xf000븁\x0000Your partner's world vanished, and\xfffeyou returned to your own High-Link.
-You were abruptly returned\xfffeto your own High-Link!\xf000븁\x0000...It seems the High-Link you were\xfffeconnected to vanished.
-You were abruptly returned\xfffeto your own High-Link!\xf000븁\x0000...It seems the High-Link you were\xfffeconnected to vanished.
-Mission failed!\xfffeYour partner disappeared...\xf000븁\x0000Your partner's world vanished, and\xfffeyou returned to your own High-Link.
-Mission failed!\xfffeYour partner declined...\xf000븁\x0000Your partner's world vanished, and\xfffeyou returned to your own High-Link.
+Mission failed!\xfffeWent too far ahead...\xf000븁\x0000Your partner's world vanished, and\xfffeyou returned to your own Entralink.
+Mission failed!\xfffeRan out of time...\xf000븁\x0000Your partner's world vanished, and\xfffeyou returned to your own Entralink.
+You were abruptly returned\xfffeto your own Entralink!\xf000븁\x0000...It seems the Entralink you were\xfffeconnected to vanished.
+You were abruptly returned\xfffeto your own Entralink!\xf000븁\x0000...It seems the Entralink you were\xfffeconnected to vanished.
+Mission failed!\xfffeYour partner disappeared...\xf000븁\x0000Your partner's world vanished, and\xfffeyou returned to your own Entralink.
+Mission failed!\xfffeYour partner declined...\xf000븁\x0000Your partner's world vanished, and\xfffeyou returned to your own Entralink.
 Mission restarted!\xfffeTime: Sixty seconds!
 \xf000Ā\x0001\x0000 warped\xfffeto the Entralink!\xf000븁\x0000
 You can't warp to\xfffethe Entralink here!
