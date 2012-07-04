@@ -18,7 +18,7 @@ Make an Infrared Connection\xfffewith your trade partner.
 POKÉMON TRADES
 手持ち
 交換しますか?
-Lv. \xf000Ȃ\x0001\x0000
+Lv.\xf000Ȃ\x0001\x0000
 終了しますか?
 交換しました
 Please wait a moment.

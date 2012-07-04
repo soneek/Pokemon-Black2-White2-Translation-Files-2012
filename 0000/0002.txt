@@ -99,7 +99,7 @@ It won't have any effect.
 \xf000Ă\x0001\x0000 recovered\xfffefrom fainting!
 \xf000Ă\x0001\x0000は\xfffe健康に　なった!
 \xf000Ă\x0001\x0000 snapped out of its\xfffeconfusion.
-\xf000Ă\x0001\x0000の\xfffeメロメロが　解けた!
+\xf000Ă\x0001\x0000 is no longer\xfffein love!
 \xf000Ă\x0001\x0000 woke up!
 \xf000Ă\x0001\x0000 has already been\xfffeselected.
 Restore which move?
