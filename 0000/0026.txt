@@ -8,7 +8,7 @@ NO
 Yes
 No
 Quit
-ここまでの　かつやくを\xfffeポケモンレポートに　かきこみますか?
+Would you like to save the game?
 Now saving.\xfffePlease wait.
 C-Gear Detected
 In

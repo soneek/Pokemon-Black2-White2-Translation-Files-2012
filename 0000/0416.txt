@@ -16,7 +16,7 @@ Communicating with \xf000Ā\x0001\x0000...
 \xf000Ā\x0001\x0000 failed to respond...
 \xf000Ā\x0001\x0000 ended the Voice Chat.
 Would you like to end\xfffethis Voice Chat?
-Wi－Fiコネクションに　せつぞく
+Nintendo Wi-Fi Connection
 せつぞくちゅうの ともだち
 Yes
 No
@@ -54,7 +54,7 @@ Standing By...
 \xf000Ā\x0001\x0000 is in a Voice Chat.
 でんげんを　きって\xfffeWi－Fiせっていを　しますか?
 Reconnect to Nintendo WFC?
-こうかんには　てもちの　ポケモンが\xfffe2ひき　いじょう　ひつようです
+You need at least two Pokémon\xfffein your party if you want to trade!
 Voice Chat was turned on.
 Voice Chat was turned off.
 ???

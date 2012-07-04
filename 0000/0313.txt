@@ -393,7 +393,7 @@ N・スグル
 モニカのこいびと
 モニカのいもうと
 おびえる　しみんたち
-P　キャスティング
+P　Casting
 None
 None
 None
@@ -438,7 +438,7 @@ I・ヒロト
 たびびと
 たびびと
 おそわれるむらびと
-P　キャスティング
+P　Casting
 None
 None
 None
@@ -453,7 +453,7 @@ I・ヒロト
 たびびと
 たびびと
 かいぶつのあし
-P　キャスティング
+P　Casting
 None
 None
 None
@@ -564,7 +564,7 @@ Akito
 いらいぬし
 Megumi
 Extra
-P　キャスティング
+P　Casting
 None
 None
 S・テルユキ

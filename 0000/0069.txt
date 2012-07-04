@@ -21,7 +21,7 @@ Your Battle Box has been\xfffeunregistered.\xf000븁\x0000
 たいせんする あいてと\xfffeせきがいせんつうしん します\xf000븁\x0000\xfffeじぶんと あいての\xfffeDSカードを むきあわせて\xf000븀\x0000\xfffeAボタンを おしてください\xf000븁\x0000
 せきがいせんつうしんを\xfffeやめますか?
 おたがいの えらんでいる\xfffeたいかいが ちがいます\xf000븁\x0000\xfffeデジタルせんしゅしょうを\xfffeかくにんして\xf000븁\x0000\xfffeかかりいんの しじに\xfffeしたがって ください\xf000븁\x0000
-たいせん あいてが\xfffeみつかりました!
+Your opponent has been found!
 かかりいんの しじに したがい\xfffeAボタンを おしてください\xf000븁\x0000
 たいせんが おわりましたので\xfffeバトルボックスの とうろくを\xf000븀\x0000\xfffeかいじょ しました\xf000븁\x0000
 せんしゅしょうの じゅしんに \xfffeしっぱい しました\xf000븁\x0000

@@ -34,8 +34,8 @@ An Egg can't hold an item.
 マークを　タッチしよう!
 ボックスに　おけます!
 てもちに　くわえることが　できます!
-このボックスは　いっぱいです!
-てもちが　いっぱいです!
+The Box is full.
+Your party's full!
 DEPOSIT POKÉMON
 WITHDRAW POKÉMON
 MOVE POKÉMON
