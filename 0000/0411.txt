@@ -14,7 +14,7 @@ Flying
 Psychic
 Bug
 Rock
-HAUNTER
+Ghost
 Dragon
 Dark
 Steel
@@ -32,4 +32,4 @@ Mix
 Mix Master
 \xf000Ā\x0001\x0000
 そうゆうしょうかいすう
-Name
+NAME

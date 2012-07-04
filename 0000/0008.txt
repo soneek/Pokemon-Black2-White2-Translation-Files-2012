@@ -27,7 +27,7 @@ UNREGISTERED
 \xf000Ā\x0001\x0000'S VIDEO
 DELETE MY VIDEO
 DELETE OTHER VIDEOS
-Autumn
+EMPTY
 Delete \xf000Ā\x0001\x0000's Records
 SEARCH BY RANKING
 SEND DATA
@@ -257,7 +257,7 @@ An error occurred.\xfffeTouch the Touch Screen to continue.
 User authentication error.\xfffePlease wait a while before reconnecting.
 Failed to receive ranking data.\xfffeTouch the Touch Screen to continue.
 There appears to be a problem with your\xffferanking record.
-An error occurred.\xfffeTouch the Touch Screen to continue.
+There appears to be a problem\xfffewith the Profile data.
 An error occurred.\xfffeTouch the Touch Screen to continue.
 
 Authentication error.\xfffeUnable to connect.

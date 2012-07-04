@@ -3,15 +3,15 @@ XTRANSCEIVER
 Union Room
 \xf000ȁ\x0001\x0000 Ppl
 Wireless Distribution
+Present
+None
 YES
 NO
-Yes
-No
-Quit
+BACK
 Would you like to save the game?
 Now saving.\xfffePlease wait.
 C-Gear Detected
-In
+Present
 None
 CONNECTING\xfffeENTRALINK...
 ENTRALINK\xfffeGUESTS: \xf000Ȁ\x0001\x0000

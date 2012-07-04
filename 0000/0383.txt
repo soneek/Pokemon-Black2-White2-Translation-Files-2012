@@ -145,24 +145,24 @@ Liza
 Juan
 Pokémon Trainer
 Guitarist
-The Riches
-The Riches
-The Riches
-The Riches
-The Riches
-The Riches
-The Riches
-The Riches
+Ace Trainer
+Ace Trainer
+Ace Trainer
+Ace Trainer
+Ace Trainer
+Ace Trainer
+Ace Trainer
+Ace Trainer
 Subway Boss
 no data
-The Riches
-The Riches
-The Riches
-The Riches
-The Riches
-The Riches
-The Riches
-The Riches
+Ace Trainer
+Ace Trainer
+Ace Trainer
+Ace Trainer
+Ace Trainer
+Ace Trainer
+Ace Trainer
+Ace Trainer
 Subway Boss
 no data
 Roark
@@ -225,7 +225,7 @@ Stunt Double
 Stunt Double
 Stunt Double
 Stunt Double
-The Riches
+Ace Trainer
 Pokémon Trainer
 Pokémon Trainer
 Pokémon Trainer

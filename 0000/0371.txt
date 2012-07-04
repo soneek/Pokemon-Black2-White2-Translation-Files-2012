@@ -27,7 +27,7 @@ Iron Room
 Glacier Room
 Wireless communications are turned OFF.\xfffeTurn wireless communications ON\xf000븀\x0000\xfffein the System Settings.\xf000븀\x0000\xfffeError code: 50699
 Communication restrictions\xfffeusing Parental Controls
-イッシュリンクの　キーシステム　で\xfffeモードへんこうの　キーが\xf000븀\x0000\xfffeそうしん　できるように　なりました\xf000븁\x0000
+イッシュリンクの キ-システム で\xfffeモ-ドへんこうの キ-が\xf000븀\x0000\xfffeそうしん できるように なりました\xf000븁\x0000
 Warning!
 You can enjoy this game to its fullest when\xfffewireless communications are available.\xfffeWhere it's prohibited to use wireless\xfffecommunications, such as airplanes and\xfffehospitals, please set wireless\xfffecommunications to OFF.\xfffeYou can also change this setting\xfffeusing the C-Gear while playing the game.
 Warning!
@@ -44,6 +44,6 @@ The Musical music data\xfffehas been erased.
 The Skin data for Pokédex\xfffehas been erased.
 Your Hall of Fame data\xfffehas been erased.
 Your Mystery Gift data\xfffehas been erased.
-きえてしまった　ポケウッドの\xfffeきろくが　あります!
-キーシステムと　おもいでリンクの\xfffeきろくが　きえてしまった!
-きえて　しまった　PWTの\xfffeきろくが　あります!
+きえてしまった ポケウッドの\xfffeきろくが あります!
+キ-システムと おもいでリンクの\xfffeきろくが きえてしまった!
+きえて しまった PWTの\xfffeきろくが あります!

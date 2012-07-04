@@ -8,99 +8,99 @@ Blue Flower
 Red Scarf
 Red Flower
 Big Barrette
-Headdress
+Headband
 Square Glasses
 Striped Barrette
 Small Barrette
 Decorative Ribbon
 Tote Bag
 Necklace
-Guady Flower
+Gorgeous Flower
 Round Button
 Green Barrette
 Straw Hat
-Ice Crystal
-Single Flower
+Snow Crystal
+Lonely Flower
 Paintbrush
 Beret
-Eggbeater
-Egg
-Cake Prop
+Whisk
+Ladle
+Toy Cake
 Chef's Hat
 Frying Pan
 Apron
 Red Parasol
 Wind Mask
-Hammer
+Mallet
 Colorful Parasol
 Wrench
-Latern
-Screw
+Lantern
+Windup Key
 Helmet
-Dress Apron
-Dress Tie
-Red Dress
-Red Mantle
+Frilly Apron
+Dressy Tie
+Lace Cap
+Scarlet Cape
 Toy Katana
 Toy Sword
 Pirate Hat
 Cowboy Hat
 Sturdy Shield
 Black Wings
-Witch's Hat
+Witchy Hat
 White Wings
-Brown Buckle
-Spiked Helmet
-Thin Spear
-Magical Staff
+Umber Belt
+Horned Helm
+Trident
+Magic Wand
 Red Nose
-Colorful Hat
-Spiral Glasses
+Jester's Cap
+Googly Specs
 Crown
-Black Necktie
-Black Mantle
-Gorgeous Glasses
-Silk Hat
-White Mask
-White Mantle
-Gentlemanly Glasses
-Steak
-Slanted Necktie
-Small Watch
-Bowtie
+Black Tie
+Black Cape
+Gorgeous Specs
+Top Hat
+White Domino Mask
+White Cape
+Gentleman's Hat
+Cane
+Striped Tie
+Pocket Watch
+Bow Tie
 Tiara
 Rose
 Monocle
-Striped Necktie
-Afro
-Microphone Stad
+Tie
+Wig
+Standing Mike
 Tambourine
-Small Hat
-Handheld Microphone
-Maracas
+Fedora
+Microphone
+Maraca
 Trumpet
-Grass Crown
-White Pom-pon
-Flag
-Ball
-Champion's Belt
+Laurel Wreath
+White Pompom
+Pennant
+Football
+Winner's Belt
 Racket
 Electric Guitar
 Toy Fishing Rod
-Smiling Mask
-Belly Button
-Professor's Hat
-Leaf Skirt
+Smiley-Face Mask
+Fake Bellybutton
+Professor Hat
+Hula Skirt
 Thick Book
 Bouquet
-Replica Bone
+Fake Bone
 Round Mushroom
 Shuriken
-Red Hat
+Scarlet Hat
 Big Bag
 Candy
-Flowing Beard
-Present Box
+Fluffy Beard
+Gift Box
 
 
 

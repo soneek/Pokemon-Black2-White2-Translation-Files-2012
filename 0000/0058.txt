@@ -1,12 +1,12 @@
 Create an Infrared Connection to start\xfffethe Feeling Check with someone.
-せきがいせんつうしんに しっぱい\xfffeメニューに もどります
+せきがいせんつうしんに しっぱい\xfffeメニュ-に もどります
 You've created an Infrared Connection!
 Create an Infrared Connection to start\xfffethe Feeling Check with someone.
 Checking...\xfffePlease maintain the Infrared Connection.
 Tap the menu in the Touch Screen\xfffeto begin!
 BEGIN CHECK
 RANKING
-CANCEL
 BACK
+CLOSE
 FEELING CHECK
-シーンが ずれました\xfffeさきへ すすみます
+シ-ンが ずれました\xfffeさきへ すすみます

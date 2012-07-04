@@ -1,6 +1,6 @@
 BATTLE
 TRADE
-QUIT
+BACK
 BATTLES FOR TWO
 BATTLES FOR FOUR
 SINGLE BATTLE
@@ -8,7 +8,7 @@ DOUBLE BATTLE
 TRIPLE BATTLE
 Make an Infrared Connection\xfffewith your opponent(s).
 Make an Infrared Connection\xfffewith your partner.
-リーダーに　なりました!
+リ-ダ-に なりました!
 Make an Infrared Connection\xfffewith your opponents' leader.
 Please wait a moment.
 FRIEND CODE
@@ -16,7 +16,7 @@ FEELING\xfffeCHECK
 Will you quit?
 Make an Infrared Connection\xfffewith your trade partner.
 POKÉMON TRADES
-手持ち
+HOLDING
 交換しますか?
 Lv.\xf000Ȃ\x0001\x0000
 終了しますか?

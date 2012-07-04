@@ -8,14 +8,14 @@
 You said\xfffe"\xf000Ĝ\x0001\x0000"!
 フェスミッションを\xfffeリタイア しますか?
 Confirm
-Yes
-No
+YES
+NO
 Confirm
-Close
+CLOSE
 \xf000봃\x0001\x0000スコア\xf000ȃ\x0001\x0000
 かいさい しました!
-さんか しました!
-\xf000ą\x0001\x0000に いどう
+Joined!
+\xf000ą\x0001\x0000に MOVE
 \xf000ā\x0001\x0000と せんとうちゅう!
 \xf000ā\x0001\x0000 was defeated!
 \xf000ā\x0001\x0000 was caught!
@@ -35,13 +35,13 @@ Received an egg!
 \xf000ā\x0001\x0000 was caught!
 \xf000ā\x0001\x0000 was defeated!
 \xf000ā\x0001\x0000 was caught!
-Found \xf000ĉ\x0001\x0000!
+Found a \xf000ĉ\x0001\x0000!
 You rang the bell!
-Found \xf000ĉ\x0001\x0000!
-Found \xf000ĉ\x0001\x0000!
+Found a \xf000ĉ\x0001\x0000!
+Found a \xf000ĉ\x0001\x0000!
 \xf000ā\x0001\x0000が うまれた!
 \xf000ā\x0001\x0000を つりあげた!
-Found \xf000ā\x0001\x0000!
+Found a \xf000ā\x0001\x0000!
 まいごを たすけてあげた!
 \xf000ĉ\x0001\x0000を わたした
 どうぐこうかん せいこう!

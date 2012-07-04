@@ -2,7 +2,7 @@
 Communication
 Moonlight
 つしきり
-つたーしや
+つた-しや
 つちにん
 Peck
 つつはり
@@ -19,4 +19,4 @@ Icicle Throw
 Fish
 つるきのまい
 つるのむち
-つんへあー
+つんへあ-

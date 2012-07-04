@@ -23,11 +23,11 @@ Update Wi-Fi User Information\xfffesaved in the save data?\xfffeWhen you update 
 Connect to Nintendo Wi-Fi Connection\xfffeto update Wi-Fi User Information?\xfffe\xfffeWarning:\xfffeAll of the friends registered in your\xfffePal Pad and the Rating Mode results\xfffefor Random Matchup will be deleted.
 Connecting to Nintendo Wi-Fi\xfffeConnection... Please wait a moment...
 You cannot access Nintendo Wi-Fi\xfffeConnection using this user name.\xfffe\xfffePlease change your user name.
-OK to disconnect from\xfffeNintendo Wi-Fi Connection?
+Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
 Disconnecting from\xfffeNintendo Wi-Fi Connection.
 You have been disconnected\xfffefrom Nintendo Wi-Fi Connection.\xf000븂\x0001d
-Yes
-No
+YES
+NO
 Saving...\xfffeDon't turn off the power.
 Communicating...\xfffeDon't turn off the power.
 Please configure your connection settings\xfffeunder the Internet option\xfffein the System Settings.\xfffe\xfffeFor help, visit support.nintendo.com.
@@ -59,9 +59,9 @@ This service has been discontinued.\xfffe\xfffeError Code: 13206
 A communication error occurred.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13207
 An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13208
 A communication error occurred.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13209
-The server is having trouble.\xfffe\xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.\xfffeError code: 13210
+An error occurred on the server.\xfffePlease try again.\xfffe\xfffeIf this does not solve the problem,\xffferefer to the “Troubleshooting"\xfffesection of your Instruction Booklet.\xfffe\xfffeError Code: 13210
 The server is experiencing high\xfffetraffic volumes.\xfffeUnable to connect.\xfffePlease wait a little while and try again.\xfffe\xfffeError Code: 13211
-The server is undergoing maintenance.\xfffeYou can review the details at the\xfffePokémon Global Link website.\xfffehttp://www.pokemon-gl.com\xfffe\xfffeError Code: 13212
+The server is undergoing maintenance.\xfffe\xfffeThe details can be reviewed at the\xfffePokémon Global Link website.\xfffe\xfffehttp://www.pokemon-gl.com\xfffe\xfffeError code: 13212
 Communication error.\xfffe\xfffeDisconnecting from \xfffeNintendo Wi-Fi Connection.
 Communication error.\xfffeFor help, visit support.nintendo.com.\xfffeError code: 13280
 Communication error.\xfffeFor help, visit support.nintendo.com.\xfffeError code: 13281

@@ -199,23 +199,23 @@ Sky Drop won't let \xf000Č\x0001\x0000 go!
 The match was forfeited.
 (\xf000Ȁ\x0001\x0000)'s Metronome \xf000Ȃ\x0001\x0001:\xf000ć\x0001\x0002
 Look! Is it wild?\xfffe\xf000ā\x0001\x0000 appeared!
-Cut 1
-Cut 2
-Cut 3
-Cut 4
-Cut 5
-Cut 6
-Cut 7
-Cut 8
-Cut 9
-Cut 10
-Cut 11
-Cut 12
-Cut 13
-Cut 14
-Cut 15
-Cut 16
-Cut 17
-Cut 18
-Cut 19
-Cut 20
+TAKE 01
+TAKE 02
+TAKE 03
+TAKE 04
+TAKE 05
+TAKE 06
+TAKE 07
+TAKE 08
+TAKE 09
+TAKE 10
+TAKE 11
+TAKE 12
+TAKE 13
+TAKE 14
+TAKE 15
+TAKE 16
+TAKE 17
+TAKE 18
+TAKE 19
+TAKE 20

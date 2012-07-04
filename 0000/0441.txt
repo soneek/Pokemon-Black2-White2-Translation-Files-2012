@@ -35,10 +35,10 @@ Kanto
 Johto
 Reset
 Start
-Cancel
+CLOSE
 \xf000Ȃ\x0001\x0000.\xf000Ȁ\x0001\x0001
-Confirm
-Cancel
+CONFIRM
+CLOSE
 Numerical
 A to Z
 Heaviest
@@ -51,7 +51,7 @@ Psychic
 Fight
 Grass
 Ice
-HAUNTER
+Ghost
 Ground
 Electric
 Poison
@@ -111,7 +111,7 @@ Unknown
 レ
 ロ
 ワ
-ー
+-
 Male
 Female
 West Sea
@@ -170,8 +170,8 @@ Compare
 Compare \xf000ā\x0001\x0000
 Forms
 Switch
-Quit
-Quit
+BACK
+BACK
 Return to list
 Give a nickname to the\xfffecaught \xf000ā\x0001\x0000?
 Give a nickname to the\xfffehatched \xf000ā\x0001\x0000?

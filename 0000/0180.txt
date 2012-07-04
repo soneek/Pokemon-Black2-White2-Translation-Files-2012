@@ -17,7 +17,7 @@ Peter
 モブコ
 モブコ
 メンデス
-カタリーナ
+カタリ-ナ
 イザベル
 Sabrina
 モブヘイ
@@ -30,9 +30,9 @@ Terry
 モブエ
 モブエ
 ゲンズブル
-バーグマン
+バ-グマン
 ゲンズブル
-バーグマン
+バ-グマン
 ニコルソン
 アビゲイル
 モブジロウ
@@ -46,9 +46,9 @@ Brycen Man
 メカポリス
 ポリアンナ
 メカポリス
-ＵFO
+UFO
 E
-ＵFO
+UFO
 Alien
 ???
 Hoffman
@@ -77,7 +77,7 @@ Simon
 カダス
 セラエノ
 Ancient Statue
-アーカム
+ア-カム
 Brycen Man
 Brycen Man
 Brycen
@@ -112,9 +112,9 @@ Terry
 モブエ
 モブエ
 ゲンズブル
-バーグマン
+バ-グマン
 ゲンズブル
-バーグマン
+バ-グマン
 ニコルソン
 アビゲイル
 モブジロウ
@@ -159,13 +159,13 @@ Simon
 カダス
 セラエノ
 Ancient Statue
-アーカム
+ア-カム
 Brycen Man
 Brycen Man
-ＵFO
+UFO
 Brycen Man
-M・T
-M・T2
+M・B
+M・B2
 てんそうき
 モニカ
 Puppet
@@ -193,6 +193,6 @@ F－00
 UFO
 Monica
 F－00
-カラテオー
+カラテオ-
 SMEARGLE
 ホミカパパ

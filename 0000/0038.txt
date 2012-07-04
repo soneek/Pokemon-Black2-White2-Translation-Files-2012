@@ -1,14 +1,14 @@
 ▲
-Pokédex
-Pokémon
-Bag
-TrainerCard
-Save
-Options
-
-Chat
-
-Retire
+POKÉDEX
+POKÉMON
+BAG
+TRAINER CARD
+SAVE
+OPTIONS
+ 
+CHAT
+ 
+RETIRE
 Pokédex selected.
 Pokémon Status selected.
 Bag selected.

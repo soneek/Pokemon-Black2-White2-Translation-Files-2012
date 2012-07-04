@@ -6,7 +6,7 @@
 \xf000Ă\x0001\x0000
 Choose a Pokémon.
 Use on which Pokémon?
-Switch with which Pokémon?
+Replace with?
 Battle using which Pokémon?
 Switch out which Pokémon?
 L\xf000Ȃ\x0001\x0000
@@ -33,7 +33,7 @@ No item held
 \xf000Ă\x0001\x0000
 Lv.
 \xf000Ȃ\x0001\x0000
-NEXT LV
+To Next Lv.
 \xf000ȅ\x0001\x0000
 \xf000Ć\x0001\x0000
 HP
@@ -95,7 +95,7 @@ It won't have any effect.
 \xf000Ă\x0001\x0000 was cured of\xfffeparalysis.
 \xf000Ă\x0001\x0000's burn was healed.
 \xf000Ă\x0001\x0000 was\xfffethawed out.
-PP was restored.　
+PP was restored. 
 \xf000Ă\x0001\x0000 recovered\xfffefrom fainting!
 \xf000Ă\x0001\x0000\xfffebecame healthy.
 \xf000Ă\x0001\x0000 snapped out of its\xfffeconfusion.

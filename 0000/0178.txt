@@ -31,10 +31,10 @@ YES
 NO
 Your PC's Mailbox is full.
 Mail was taken from the\xfffePokémon.
-\xf000Ă\x0001\x0000 wants to learn the\xfffemove \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeHowever, \xf000Ă\x0001\x0000 already\xfffeknows four moves.\xf000븁\x0000\xfffeShould a move be deleted and\xfffereplaced with \xf000ć\x0001\x0001?
+\xf000Ă\x0001\x0000 wants to learn\xfffe\xf000ć\x0001\x0001!\xf000븁\x0000However, \xf000Ă\x0001\x0000 already knows four moves.\xfffeDelete a move to learn \xf000ć\x0001\x0001?
 YES
 NO
-Give up on learning the move\xfffe\xf000ć\x0001\x0001?
+Give up on learning\xfffe\xf000ć\x0001\x0001?
 YES
 NO
 \xf000Ă\x0001\x0000 did not learn\xfffe\xf000ć\x0001\x0001.
@@ -64,10 +64,10 @@ NO
 Received the \xf000ĉ\x0001\x0001\xfffefrom \xf000Ă\x0001\x0000.
 The Bag is full.
 The \xf000ĉ\x0001\x0001 was taken and\xfffereplaced with the \xf000ĉ\x0001\x0002.
-さんかを　やめますか?
+さんかを やめますか?
 YES
 NO
-ちょうせんを　やめますか?
+ちょうせんを やめますか?
 YES
 NO
 \xf000Ă\x0001\x0000 woke up.
@@ -81,20 +81,20 @@ No more than two Pokémon\xfffemay enter.
 You're already surfing.
 You can't use that here.
 It won't have any effect.
-ひんしの　ポケモンには\xfffeつかえません
-てもちが　いっぱい　なので\xfffeぶんり　できません
-その　ポケモンとは\xfffeがったい　できません
-ひんしの　ポケモンとは\xfffeがったい　できません
-タマゴとは\xfffeがったい　できません
+ひんしの ポケモンには\xfffeつかえません
+てもちが いっぱい なので\xfffeぶんり できません
+その ポケモンとは\xfffeがったい できません
+ひんしの ポケモンとは\xfffeがったい できません
+タマゴとは\xfffeがったい できません
 Two Pokémon are needed.
 \xf000Ă\x0001\x0000 became more friendly.\xf000븁\x0000\xfffeHowever, its base \xf000č\x0001\x0001 fell!
 \xf000Ă\x0001\x0000 adores you!\xf000븁\x0000\xfffeIts base \xf000č\x0001\x0001 fell!
 \xf000Ă\x0001\x0000 became more friendly.\xf000븁\x0000\xfffeIts base \xf000č\x0001\x0001 can't go lower.
 \xf000Ă\x0001\x0000 was given the\xfffe\xf000ĉ\x0001\x0001 to hold.
-\xf000Ă\x0001\x0000の\xfffe\xf000ĉ\x0001\x0001と\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002の\xfffe\xf000ĉ\x0001\x0003を　いれかえた!
-はっきんだまを　ギラティナには\xfffeいどうできない!
-はっきんだまは　ギラティナから\xfffeいどうできない!
-タマゴには　どうぐを\xfffeもたせられない!
+\xf000Ă\x0001\x0000の\xfffe\xf000ĉ\x0001\x0001と\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002の\xfffe\xf000ĉ\x0001\x0003を いれかえた!
+はっきんだまを ギラティナには\xfffeいどうできない!
+はっきんだまは ギラティナから\xfffeいどうできない!
+タマゴには どうぐを\xfffeもたせられない!
 Choose a Pokémon.
 Two Pokémon are needed.
 Three Pokémon are needed.
@@ -109,21 +109,21 @@ No more than five Pokémon\xfffemay enter.
 Mail was transferred from\xfffethe Mailbox.
 This Pokémon is holding an item.\xfffeIt cannot hold Mail.
 This can't be used on\xfffethat Pokémon.
-ここを　だっしゅつして\xfffe\xf000ą\x0001\x0000に　もどる?
+ここを だっしゅつして\xfffe\xf000ą\x0001\x0000に もどる?
 YES
 NO
-さいごに　やすんだ\xfffe\xf000ą\x0001\x0000に　もどる?
+さいごに やすんだ\xfffe\xf000ą\x0001\x0000に もどる?
 YES
 NO
 Not enough HP...
 SWITCH
 SUMMARY
-ITEM
+BAG
 MAIL
 READ
 TAKE
 STORE
-QUIT
+CLOSE
 Switch
 ENTER
 NO ENTRY
@@ -140,7 +140,7 @@ TAKE
 MOVE
 MOVE MAIL
 NOT ENTERED
-BANNED
+UNABLE
 FIRST
 SECOND
 THIRD
@@ -169,7 +169,7 @@ SPEED
 \xf000Ȃ\x0001\x0000
 \xf000Ă\x0001\x0000 was elevated to\xfffeLv. \xf000Ȃ\x0001\x0001!\xf000븅\x0001\x0002\xf000븅\x0001\x0005
 \xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001!\xf000븅\x0001\x0003\xf000븅\x0001\x0005
-ふたりで　いるときは\xfffe\xf000ć\x0001\x0000は　つかえません!
+ふたりで いるときは\xfffe\xf000ć\x0001\x0000は つかえません!
 You can’t be doing that now!
 \xf000ĉ\x0001\x0001
 What will you do\xfffewith the Egg?

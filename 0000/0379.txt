@@ -23,8 +23,8 @@ Battle Test HIGH SCORE
 FES MISSIONS CLEARED
 POKÉSTAR STUDIOS FILMS SHOT
 PWT CHAMPIONSHIPS
-\xf000Ĺ\x0001\x0007に
-あんないした　ひとの　かず
+\xf000Ĺ\x0001\x0007
+Scenarios Filmed
 :
 --/--/---- --:--
 --:--
@@ -64,11 +64,11 @@ $\xf000Ȇ\x0001\x0000
 \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000 \xf000ȁ\x0001\x0003:\xf000ȁ\x0001\x0004
 \xf000Ȃ\x0001\x0000
 Aspertia City Gym Leader\xfffeCheren
-しんりを　もとめる　もの
-みんなの　ゆめは　それぞれ　ちがう\xfffeきみは　きみが　したいことを　さがせ
+しんりを もとめる もの
+みんなの ゆめは それぞれ ちがう\xfffeきみは きみが したいことを さがせ
 Virbank City Gym Leader\xfffeRoxie
 Poison life, poison live!
-ともだちのため　ポケモンのため\xfffeノー!　というのも　やさしさでしょ!
+ともだちのため ポケモンのため\xfffeノ-! というのも やさしさでしょ!
 Castelia City Gym Leader\xfffeBurgh
 Premier Insect Artist
 Umm... That's right. You!\xfffeUse Bug-type Pokémon!
@@ -80,13 +80,13 @@ The Underground Boss
 Ya always want to live honestly\xfffefer yerself and yer Pokémon.
 Mistralton City Gym Leader\xfffeSkyla
 The High-Flying Girl
-You’ll see smiles all around you,\xfffewith the brightest of skies above you.
+You'll see smiles all around you,\xfffewith the brightest of skies above you.
 Opelucid City Gym Leader\xfffeDrayden
 The Spartan Mayor
 Sincere Trainer,\xfffekeep growing stronger!
 Seigaiha City Gym Leader\xfffeMarlon
-うみよりも　うみな　おとこ!
-じんせいを　あらなみに　たとえるのも\xfffeちんぷだが　おはん　ながされるなよ!
+うみよりも うみな おとこ!
+じんせいを あらなみに たとえるのも\xfffeちんぷだが おはん ながされるなよ!
 Basic Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
 Traded Pokémon up to Lv. 20 will\xfffeobey you.
 

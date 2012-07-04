@@ -5,5 +5,5 @@ Press the A Button, then speak\xfffeinto the microphone.\xf000븁\x0000
 Try again?
 It seems distracted and \xfffeunable to concentrate...
 Preparing the Mic...
-Yes
-No
+YES
+NO

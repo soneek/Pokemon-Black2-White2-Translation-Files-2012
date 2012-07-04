@@ -8,7 +8,7 @@ Saving...\xfffeDon't turn off the power.
 The game has been saved.\xf000븂\x0001<
 Poké Transfer will end.\xf000븂\x0001<
 Will you cancel Poké Transfer?
-Unable to connect to the\xfffeother DS system.\xf000븁\x0000
+Unable to connect\xfffeto the other DS system.\xf000븁\x0000
 Waiting for the other DS system's\xfffedecision.
 Poké Transfer ID: \xf000Ȅ\x0001\x0000
 Pokémon Black Version 2\xfffePoké Transfer Program
@@ -32,7 +32,7 @@ No. of specially distributed Pokémon\xfffesafely transferred: \xf000Ȃ\x0001\x0
 Found a Lock Capsule.\xfffeWill you take the Lock Capsule?
 The Lock Capsule is being transferred\xfffewith the Relocator.\xfffePlease wait a moment...
 The Lock Capsule was safely\xfffetransferred. It was put away\xfffein the Key Items Case.\xf000븁\x0000
-Saving the game.\xfffePlease don't turn off the power.
+Saving...\xfffeDon't turn off the power.
 The Relocator is done.\xfffePlease turn the power off in the\xfffeother DS system.\xf000븁\x0000
 This Pokémon knows a hidden move.\xfffeIt cannot transfer\xfffewith the Relocator.\xf000븁\x0000\xfffeNo. of Pokémon with no HM: \xf000Ȃ\x0001\x0000!\xf000븁\x0000
 You have already received\xfffethe Lock Capsule.\xf000븁\x0000

@@ -1,5 +1,5 @@
 いあいきり
-いーふい
+い-ふい
 Okay
 No
 Gastro Acid
@@ -23,7 +23,7 @@ Pain Split
 いとまる
 String Shot
 いのちかけ
-いのむー
+いのむ-
 いはる
 いひき
 One More
@@ -34,11 +34,11 @@ Healing Heart
 いやしのはとう
 Screech
 いらつしやい
-いりゆーしよん
-いるみーせ
+いりゆ-しよん
+いるみ-せ
 いろめかね
 Rock
-いわーく
+いわ-く
 Rock Throw
 いわくたき
 いわなたれ

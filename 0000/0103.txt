@@ -5,11 +5,11 @@ Would you like to stop drawing?
 If the leader drops out, the group will\xfffebe disbanded. Is that OK?
 There are no members.\xfffeThe group will be disbanded.\xf000븂\x0001<
 The drawing session was ended.
-Cancel
+CLOSE
 \xf000Ā\x0001\x0000
-トレーナーサインを　かこう!
-これで　よろしい　ですか?
-あたらしく　サインを\xfffeかきなおしますか?
+トレ-ナ-サインを かこう!
+これで よろしい ですか?
+あたらしく サインを\xfffeかきなおしますか?
 おわる
 Joined a drawing session!
 YES

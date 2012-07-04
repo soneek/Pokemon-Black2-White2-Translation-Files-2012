@@ -111,27 +111,27 @@ A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt spa
 A peculiar stone that makes certain\xfffespecies of Pokémon evolve.\xfffeIt is shaped like an egg.
 A vital item that is needed to keep a\xfffestone tower from collapsing. Voices\xfffecan be heard from it occasionally.
 A glowing orb to be held by Giratina.\xfffeIt boosts the power of Dragon- and\xfffeGhost-type moves.
-
-
-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
 A cassette to be held by Genesect.\xfffeIt changes Techno Blast to a\xfffeWater-type move.
 A cassette to be held by Genesect.\xfffeIt changes Techno Blast to an\xfffeElectric-type move.
 A cassette to be held by Genesect.\xfffeIt changes Techno Blast to a\xfffeFire-type move.
 A cassette to be held by Genesect.\xfffeIt changes Techno Blast to an\xfffeIce-type move.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
 Very sweet chocolate. \xfffeIt restores the HP of one Pokémon\xfffeby only 20 points.
 A brightly gleaming orb to be held by\xfffeDialga. It boosts the power of Dragon-\xfffeand Steel-type moves.
 A beautifully glowing orb to be held by\xfffePalkia. It boosts the power of Dragon-\xfffeand Water-type moves.
@@ -424,8 +424,8 @@ It swamps the area around the user\xfffewith a giant wave.\xfffeIt can also be u
 The target is slugged with a punch\xfffethrown at maximum power. This move can\xfffealso be used to move boulders.
 The user charges the target at an\xfffeawesome speed. It can also be used\xfffeto climb a waterfall.
 Diving on the first turn, the user\xfffefloats up and attacks on the second.\xfffeIt can be used for diving in the ocean.
-
-
+-\xfffe-\xfffe-
+-\xfffe-\xfffe-
 A bag filled with convenient tools\xfffefor exploring. It provides access to\xfffethe Underground.
 A sturdy, spacious bag that is used\xfffeto carry loot obtained in the coal\xfffemine.
 It lists the rules for holding battles.\xfffeFor linked battles, you may choose\xfffewhich set of rules you wish to use.
@@ -619,7 +619,7 @@ Zekrom's body was destroyed and\xfffechanged into this stone. It is said to\xfff
 The user shrouds itself in electricity\xfffeand smashes into its target.\xfffeIt also damages the user a little.
 The user attacks with a punch that can\xfffeshatter a rock. It may also lower the\xfffetarget's Defense stat.
 The user yells as if it is ranting about\xfffesomething, making the target's Sp. Atk\xfffestat decrease.
-A high-tech transceiver with a \xfffecamera function. It allows up to\xfffefour-way calls.
+A high-tech transceiver with a\xfffecamera function. It allows up to\xfffefour-way calls.
 A rare stone.
 An important letter which\xfffeWingull delivers.
 An important letter which\xfffeWingull delivers.

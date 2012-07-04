@@ -5,7 +5,7 @@ Check complete. Create an Infrared\xfffeConnection with the other Trainer.
 Checking...\xfffePlease maintain the Infrared Connection.
 You've created an Infrared Connection!
 The connection was interrupted.\xfffePlease create a new Infrared Connection.
-Quit
+BACK
 no data
 no data
 no data

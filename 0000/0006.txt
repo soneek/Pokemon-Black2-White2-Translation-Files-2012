@@ -54,7 +54,7 @@ This is an important item\xfffeso you can't throw it away!
 Throw away how many\xfffe\xf000ĉ\x0001\x0000(s)?
 Threw away \xf000ĉ\x0001\x0000 \xf000Ȃ\x0001\x0001(s).
 Is it OK to throw away\xfffe\xf000ĉ\x0001\x0000 \xf000Ȃ\x0001\x0001(s)?
-Juniper’s words echoed...\xfffe\xf000Ā\x0001\x0000! There’s a time and\xf000븀\x0000place for everything! But not now.
+Juniper's words echoed...\xfffe\xf000Ā\x0001\x0000! There's a time and\xf000븀\x0000place for everything! But not now.
 You can't dismount your bike here.
 uniper's words echoed...\xfffe\xf000Ā\x0001\x0000! There's a time and\xf000븀\x0000\xfffeplace for everything! But not now.
 Your Coins: \xf000Ȅ\x0001\x0000
@@ -62,7 +62,7 @@ Booted up a TM.
 Booted up an HM.
 It contained \xf000ć\x0001\x0000.\xf000븁\x0000Teach \xf000ć\x0001\x0000\xfffeto a Pokémon?
 \xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.
-Since a Repel’s effects still linger,\xfffeyou can’t use this now.
+Since a Repel's effects still linger,\xfffeyou can't use this now.
 \xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Wild Pokémon will be lured.
 \xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Wild Pokémon will be repelled.
 The box is full!
@@ -117,10 +117,10 @@ The grass lands\xfffewere quiet...
 Poffins:
 \xf000Ȃ\x0001\x0000 / 100
 Please pick a powder\xfffeto cook with!
-Can’t be used when you have someone\xfffewith you!
-You can’t be doing that now!
+Can't be used when you have someone\xfffewith you!
+You can't be doing that now!
 Item Pocket\xfffeFor items that will be useful during your\xfffeadventure.
-Medicine Pocket\xfffeFor items to regain your Pokémon’s\xfffeHP and PP.
+Medicine Pocket\xfffeFor items to regain your Pokémon's\xfffeHP and PP.
 Poké Ball Pocket\xfffeFor all different types of Poké Balls.
 TMs and HMs Pocket\xfffeFor all different types of TMs and HMs.
 Berry Pocket\xfffeFor sorting and storing different\xfffeBerries.
@@ -138,24 +138,24 @@ You used a Dark Stone,\xfffebut nothing happened...
 You used a Light Stone,\xfffebut nothing happened...
 Items have been sorted!
 \xf000Ē\x0001\x0000
-しゅるいじゅんに\xfffeもちものを　せいり　しました!
-なまえじゅんに\xfffeもちものを　せいり　しました!
-おおいじゅんに\xfffeもちものを　せいり　しました!
-すくないじゅんに\xfffeもちものを　せいり　しました!
+しゅるいじゅんに\xfffeもちものを せいり しました!
+なまえじゅんに\xfffeもちものを せいり しました!
+おおいじゅんに\xfffeもちものを せいり しました!
+すくないじゅんに\xfffeもちものを せいり しました!
 ぜんぶ
 MOVE TO STORAGE
 MOVE BACK
-さがしたい　しゅるいを\xfffeえらんで　ください
-\xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました!
-\xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　いどう　しました!
-\xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　もどしました!
-どの　ならびに　かえますか?
+Please choose what\xfffeyou're looking for!
+\xf000Ē\x0001\x0000に いれる もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい みつかりました!
+\xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に いどう しました!
+\xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に もどしました!
+どの ならびに かえますか?
 Type
 Name
-おおいじゅん
-すくないじゅん
+Decreasing
+Increasing
 Numerical
-もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました!
-ばんごうじゅんに\xfffeもちものを　せいり　しました!
-みつかりません
+もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい みつかりました!
+ばんごうじゅんに\xfffeもちものを せいり しました!
+Not Found
 しまう

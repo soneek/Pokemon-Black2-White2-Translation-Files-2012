@@ -46,9 +46,9 @@ Flying
 Fire
 Water
 Bug
-――――
+----
 /
-――――
+----
 ア.
 イ
 ウ
@@ -88,7 +88,7 @@ Bug
 ユ
 ヨ
 ラ.
-Li
+リ
 ル
 レ
 ロ
@@ -104,4 +104,4 @@ Purple
 Gray
 White
 Pink
-――――
+----

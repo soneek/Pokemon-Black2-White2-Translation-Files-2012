@@ -21,37 +21,37 @@ Oshawott
 Snivy
 Competitive
 Cooperative
-ー
-かこにいく
-みらいにいく
-ひつようない
+-
+Classes
+Breaks
+Lunch
 Family
-Friend
-TrainerCard
-かっこいいひと
-かしこいひと
-おもしろいひと
-ふしぎなひと
-ゆめをおう
-げんじつをみる
-ー
-ー
-Funny
+Friends
+Self
+Spring
+Summer
+Autumn
+Winter
+Sweet
+Spicy
+-
+-
+Fun
 Cool
-Nice
+Kind
 Rich
-Duel
+Battles
 Collecting
-Talk
+The Story
 Pokémon
-Fly
-とうめいになる
-じかんをとめる
-こころをよむ
+English
+Math
+Science
+Social Studies
 Use
-ためる
-じまんする
-きふする
+Earning
+Boastful
+Giving
 0-5 Years
 5-10 Years
 10-15 Years
@@ -59,8 +59,8 @@ Use
 Outdoor Activities
 Shopping
 Reading
-Gaming
-Sleeping
+Video Games
+Sleeping Late
 Pop
 Rock
 Jazz
@@ -70,7 +70,7 @@ News
 Drama
 Comedy
 Sports
-Anime
+Cartoons
 Action
 Sci-Fi
 Romance
@@ -88,7 +88,7 @@ Relationships
 Interests
 Health 
 えらくなる
-ー
+-
 Exercising
 Reading
 Music
@@ -113,9 +113,9 @@ Clay
 Skyla
 Drayden
 Marlon
-ー
-ー
-ー
+-
+-
+-
 Normal
 Fire
 Water

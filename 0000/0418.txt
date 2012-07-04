@@ -2,14 +2,14 @@ PAL PAD
 CHECK FRIEND ROSTER
 REGISTER FRIEND CODE
 \xf000Ā\x0001\x0000'S FRIEND CODE
-Close
+CLOSE
 FRIEND ROSTER
 \xf000Ā\x0001\x0000
 \xf000봂\x0000Cancel
 DETAILS
 REWRITE NAME
 DELETE
-CANCEL
+CLOSE
 What would you like to do\xfffewith \xf000Ā\x0001\x0000's data?
 RECORD WITH \xf000Ā\x0001\x0000
 \xf000봂\x0000A: Return to Previous Screen
@@ -32,7 +32,7 @@ Battle Factory
 Battle Castle
 Battle Hall
 Battle Arcade
-Prev
+Previous
 Current
 Record
 Win Streak: \xf000ȃ\x0001\x0000

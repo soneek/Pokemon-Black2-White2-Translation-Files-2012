@@ -1,4 +1,4 @@
 What?\xfffe\xf000Ă\x0001\x0000 is evolving!
 Huh? \xf000Ă\x0001\x0000\xfffestopped evolving!
 Congratulations! Your \xf000Ă\x0001\x0000\xfffeevolved into \xf000ā\x0001\x0001!
-進化させますか？\xfffeはい：Ａボタン　いいえ：Ｂボタン
+進化させますか？\xfffeはい：Ａボタン いいえ：Ｂボタン

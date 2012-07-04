@@ -6,7 +6,7 @@
 \xf000봂\x0000Choose from the items below\xfffe\xf000봂\x0000to start the survey.
 Do you want to ask \xfffepeople about this item?
 CONFIRM
-CANCEL
+CLOSE
 \xf000봂\x0000The survey is starting.
 \xf000봂\x0000The survey is\xfffe\xf000봂\x0000not done yet.
 \xf000봂\x0000Analyzing the results...

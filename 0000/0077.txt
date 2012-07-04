@@ -7,7 +7,7 @@ The saved data could not be accessed.\xfffeThe Relocator will close.\xf000븁\x0
 Unable to connect to the\xfffeother DS system.\xf000븁\x0000
 Save failed...\xfffeThe Relocator will close.\xf000븁\x0000
 The Relocator is activated.\xfffeSearching for Pokémon...\xfffe\xfffePlease wait a moment.
-レポートを よみこむことが\xfffeできませんでした\xfffeレポートが かかれていないか\xfffeこわれている かのうせいがあります
+レポ-トを よみこむことが\xfffeできませんでした\xfffeレポ-トが かかれていないか\xfffeこわれている かのうせいがあります
 The game inserted is not compatible.\xfffeTurn off the power, insert a\xfffecompatible Game Card, and try again.\xf000븁\x0000
 YES
 NO

@@ -105,7 +105,7 @@ Somewhat stubborn.
 \xf000ȁ\x0001\x0006, \xf000ȁ\x0001\x0007, 20\xf000ȁ\x0001\x0005\xfffeA very mysterious\xfffePokémon Egg that came\xfffefrom \xf000\xff00\x0001\x0002\xf000ą\x0001\x0008\xf000\xff00\x0001\x0000.\xfffe
 “The Egg Watch”\xfffeSounds can be heard\xfffecoming from inside!\xfffeIt will hatch soon!
 “The Egg Watch”\xfffeIt appears to move\xfffeoccasionally. It may\xfffebe close to hatching.
-“The Egg Watch”\xfffeWhat will hatch from\xfffethis? It doesn’t seem\xfffeclose to hatching.
+“The Egg Watch”\xfffeWhat will hatch from\xfffethis? It doesn't seem\xfffeclose to hatching.
 “The Egg Watch”\xfffeIt looks like this Egg\xfffewill take a long time to\xfffehatch.
 Skills
 HP
@@ -154,7 +154,7 @@ SWITCH
 --
 --
 CONFIRM
-HM moves can’t be\xfffeforgotten now.
+HM moves can't be\xfffeforgotten now.
 PERFORMANCE
 DETAILS
 CONFIRM

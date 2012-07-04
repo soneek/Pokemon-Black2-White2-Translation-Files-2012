@@ -1,2 +1,2 @@
-A communication error has occurred.
-A communication error has occurred\xfffePlease turn off the power.
+Communication error.\xfffeFor help, visit support.nintendo.com.
+Communication error.\xfffePlease turn off the power.

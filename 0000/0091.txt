@@ -22,9 +22,9 @@ This Pokémon knows a hidden move.\xfffeIt cannot be caught with Poké Transfer.
 This Pokémon cannot be\xfffecaught with Poké Transfer.
 The six chosen Pokémon will be transferred.
 Oh! This Pichu needs to stay where it is.\xf000븁\x0000\xfffeIt appears to have traveled\xfffethrough time.\xf000븁\x0000\xfffeIt has been affected by traveling\xfffeso far through time with Celebi.\xf000븁\x0000\xfffeIt'll be very risky to transfer it,\xfffeso it's best for Pichu to stay where it is.
-Held items will be put\xfffein the Bag. Is that OK?
+Held items will be put in\xfffethe Bag. Is that OK?
 When the Bag is full of a certain item, you'll\xfffelose held items of that kind. Is that OK?
 Would you like to end Poké Transfer?
 Please choose the six Pokémon\xfffeto transfer and slide them\xfffeto the frame to the right.
 Catch all the Pokémon\xfffebefore time runs out!
-デバッグROM\xfffeDP　Y\xfffePT　X\xfffeGS　A
+デバッグROM\xfffeDP Y\xfffePT X\xfffeGS A

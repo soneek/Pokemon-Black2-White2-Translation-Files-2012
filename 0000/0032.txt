@@ -7,7 +7,7 @@ CHARACTERS
 FRAME
 SAVE BEFORE IR
 CONFIRM
-QUIT
+CLOSE
 SLOW
 MID
 FAST
@@ -17,10 +17,10 @@ SHIFT
 SET
 STEREO
 MONO
-English
-Japanese
-Write
-Off
+ENGLISH
+JAPANESE
+WRITE
+OFF
 SAVE
 NO SAVE
 You can choose from three different\xfffetext-scrolling speeds.
