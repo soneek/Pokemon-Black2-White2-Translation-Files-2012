@@ -152,8 +152,8 @@ Please select what\xfffeyou are looking for!
 How do you want to organize?
 Type
 Name
-Most to least
-Least to most
+Descending
+Ascending
 Numerical
 \xfffe\xf000Ȃ\x0001\x0001 items found!
 Your items have been\xfffe organized in numerical order.
