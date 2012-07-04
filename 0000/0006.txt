@@ -145,7 +145,7 @@ Your items have been\xfffeorganized in ascending order.
 ぜんぶ
 MOVE TO STORAGE
 MOVE BACK
-Please select the\xfffeyou are looking for!
+Please select what\xfffeyou are looking for!
 \xf000Ē\x0001\x0000に いれる もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい みつかりました!
 \xf000ĉ\x0001\x0001 \xfffe\xf000Ē\x0001\x0000 has been moved!
 \xf000ĉ\x0001\x0001 \xfffe\xf000Ē\x0001\x0000 was returned!
