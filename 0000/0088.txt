@@ -17,14 +17,14 @@ The connection has been lost.
 -
 -
 -
-\xf000Ā\x0001\x0000『やあ!\xfffeがんばってるかい?
-\xf000Ā\x0001\x0000『えへへ!\xfffeがんばってる?
+\xf000Ā\x0001\x0000: Hi!\xfffeAre you keeping busy?
+\xf000Ā\x0001\x0000: Hi!\xfffeAre you keeping busy?
 -
 \xf000봂\x0000\xf000Ā\x0001\x0000が ミッションたっせい!\xf000븂\x0001Z
-\xf000봂\x0000ミッションしっぱい
-デルダマを \xf000ȁ\x0001\x0000こ てにいれた!\xf000븂\x0001Z
-\xf000봂\x0000ミッションたっせい!
-ミッションが はじまるまで\xfffeしばらく おまちください
+\xf000봂\x0000Mission failed...
+Pass Orbs received: \xf000ȁ\x0001\x0000.\xf000븂\x0001Z\xfffe
+\xf000봂\x0000Mission accomplished!
+Please wait a moment...\xfffeThe mission will start shortly.
 \xf000봂\x0000ミッション スタ-ト!
 どうやら ハイリンクから\xfffe\xf000Ā\x0001\x0000が\xf000븀\x0000\xfffeたすけに きてくれたようだ\xf000븁\x0000\xfffe……おや?\xf000븁\x0000\xfffeたすけにきた \xf000Ā\x0001\x0000が\xfffeどうぐを おいていった\xf000븁\x0000
 -

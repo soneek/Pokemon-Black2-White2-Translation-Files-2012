@@ -7,4 +7,4 @@ Unable to connect to the\xfffeother DS system.\xf000븁\x0000
 Error reading the save file.\xfffeThere may not be a save file,\xfffeor the save file may be corrupted.\xf000븁\x0000
 YES
 NO
-おもいでリンク
+MEMORY LINK

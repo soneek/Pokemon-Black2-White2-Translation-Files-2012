@@ -14,7 +14,7 @@ NO
 Cancel participation
 Will you participate in\xfffethe Live Competition?
 You can check the information\xffferegarding the Live Competition at the\xf000븀\x0000\xfffePokémon official website:\xf000븀\x0000\xfffehttp://www.pokemon.com.\xf000븁\x0000\xfffePlease check the Pokémon official website\xfffefor the competition regulations,\xf000븀\x0000\xfffeits duration, and other information.\xf000븁\x0000
-Wi－Fiたいかい または\xfffeランダムマッチの さんかちゅうに\xf000븀\x0000\xfffeほんたいの でんげんが きれたため\xf000븁\x0000\xfffe1じかん\xfffeたいかいや ランダムマッチで\xf000븀\x0000\xfffeたいせんが できなくなります\xf000븁\x0000\xfffeじかんが たちましたら\xfffeおこしください\xf000븁\x0000
-Saving...\xfffeDon't turn off the power.
-たいせんの せいかを たたえて\xfffeバトルポイントを しんてい いたします\xf000븁\x0000
+If the power goes out\xfffeduring a tournament or a\xf000븀\x0000\xffferandom match on Wi-Fi,\xf000븁\x0000\xfffePlease\xfffetry again in about\xf000븀\x0000\xfffeone hour's time.\xf000븁\x0000
+Saving the game.\xfffePlease don't turn off the power.
+Battle Points will be awarded\xfffeat the results of the competition!\xf000븁\x0000
 \xf000Ā\x0001\x0000 received\xfffe\xf000ȁ\x0001\x0001 Battle Points!\xf000븁\x0000

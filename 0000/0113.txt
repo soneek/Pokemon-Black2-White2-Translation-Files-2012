@@ -4,42 +4,42 @@ Ahh
 あ-ほ
 あ-ほつく
 あ-まると
-あ-むはんま-
+Blue Flower
 Aah
-あいあんて-る
+Red Flower
 あいあんと
-あいあんへつと
+Headband
 あいしよう
-あいすほ-る
-あいすほてい
+Striped Barrette
+Small Barrette
 Foe
 あいとる
 Blue Fire
 Autumn
 あきるた-
 Dark
-あくあしえつと
-あくあて-る
-あくありんく
-あくうせつたん
+Straw Hat
+Snow Crystal
+Lonely Flower
+Paintbrush
 あくしゆう
-あくのはとう
+Whisk
 あくのむ
 あくひ
-あくまのきつす
+Chef's Hat
 Nightmare
-あくろはつと
+Bib
 あけはんと
 あさなん
-あさのひさし
-あしすとはわ-
+Mallet
+Colorful Parasol
 Tomorrow
-あしつとほむ
+Lantern
 あすまおう
 あそひ
 Me
 あちやも
-あついしほう
+Lace Cap
 あてみなけ
 あとたし
 You
@@ -51,16 +51,16 @@ Dig
 Ahaha
 あはれる
 あふそる
-あふろふれいく
+Trident
 Sweet Scent
 Charm
 あまこい
-あまのしやく
-あめうけさら
+Googly Specs
+Crown
 あめたま
 Drizzle
 あめも-す
-あやしいかせ
+Top Hat
 Confuse Ray
 Huh
 Hail
@@ -70,7 +70,7 @@ Hail
 ありしこく
 あるせうす
 あるはいと
-あろませらひ-
+Monocle
 Bubble
 あんこ-る
 あんの-ん

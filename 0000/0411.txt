@@ -1,5 +1,5 @@
 \xf000Ā\x0001\x0000の
-ゆうしょうかいすう
+Championships
 \xf000ȃ\x0001\x0000
 Normal
 Fire
@@ -31,5 +31,5 @@ Rental Master
 Mix
 Mix Master
 \xf000Ā\x0001\x0000
-そうゆうしょうかいすう
+Total Championships
 NAME

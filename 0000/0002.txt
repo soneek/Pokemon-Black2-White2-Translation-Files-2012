@@ -6,7 +6,7 @@
 \xf000Ă\x0001\x0000
 Choose a Pokémon.
 Use on which Pokémon?
-Replace with?
+Switch with which Pokémon?
 Battle using which Pokémon?
 Switch out which Pokémon?
 L\xf000Ȃ\x0001\x0000

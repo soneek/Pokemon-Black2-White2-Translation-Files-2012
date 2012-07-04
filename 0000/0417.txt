@@ -48,13 +48,13 @@ White.
 Participate
 Info
 CLOSE
-Wi－Fiたいかいは\xfffeポケモングロ-バルリンクで\xf000븀\x0000\xfffeとうろく すると Enter できます\xf000븁\x0000\xfffeたいかいの ル-ルや\xfffeかいさい きかんは\xf000븁\x0000\xfffeポケモングロバ-ルリンクを\xfffehttp://www.pokemon-gl.com/\xf000븀\x0000\xfffeかくにん してください\xf000븁\x0000
+Wi－Fiたいかいは\xfffeポケモングロ-バルリンクで\xf000븀\x0000\xfffeとうろく すると さんか できます\xf000븁\x0000\xfffeたいかいの ル-ルや\xfffeかいさい きかんは\xf000븁\x0000\xfffeポケモングロバ-ルリンクを\xfffehttp://www.pokemon-gl.com/\xf000븀\x0000\xfffeかくにん してください\xf000븁\x0000
 Do you want to stop\xfffeparticipating?
 YES
 NO
 Searching for competition data...
 Game Sync ID has not been\xffferegistered at the Pokémon Global Link.\xf000븁\x0000\xfffePlease complete the Game Sync settings\xfffeand access the Pokémon Global Link\xf000븁\x0000\xfffewebpage to register.\xfffehttp://www.pokemon-gl.com\xf000븁\x0000
-Enter できる\xfffeたいかいが ありません\xf000븁\x0000\xfffeBattle Conventionは \xfffeいぜん さんかした たいかいには\xf000븀\x0000\xfffeさんか できません\xf000븁\x0000
+さんか できる\xfffeたいかいが ありません\xf000븁\x0000\xfffeBattle Conventionは \xfffeいぜん さんかした たいかいには\xf000븀\x0000\xfffeさんか できません\xf000븁\x0000
 No competitions have been found\xfffefor you to participate in.\xf000븁\x0000\xfffeIn Battle Competition,\xfffeyou cannot participate in the same\xf000븀\x0000\xfffecompetition twice.\xf000븁\x0000
 Player ID will be updated...\xfffeDon't turn off the power.
 There are no current competitions\xfffethat you can participate in.\xf000븁\x0000

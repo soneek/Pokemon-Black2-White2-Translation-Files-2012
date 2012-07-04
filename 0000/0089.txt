@@ -1,45 +1,45 @@
 Entrance Tree
-デルパワ-を うけとる
-フェスミッションを うける
-きろくを みる
-ミッションの きろく
-フェスミッションを うけてください!
-デルパワ-を\xfffeうけとって ください!
-ハイルツリ-のごうけいLｖ： \xf000Ȃ\x0001\x0000
-◆ホワイトLｖ： \xf000ȃ\x0001\x0000
-◇ブラックLｖ： \xf000ȃ\x0001\x0000
-つかえるデルパワ- 「\xf000ȃ\x0001\x0000こ」
-たっせいしたミッション
-かいさいしたミッション
-さんかしたミッション
-さいこうにんずう
+RECEIVE PASS POWER
+ACCEPT FES MISSION
+VIEW RECORD
+MISSION RECORD
+Please receive\xfffethe Fes Mission.
+Please accept\xfffethe Pass Power.
+Entree's Total Level: \xf000Ȃ\x0001\x0000
+◆White Lv.: \xf000ȃ\x0001\x0000
+◇Black Lv.: \xf000ȃ\x0001\x0000
+Available Pass Powers: \xf000ȃ\x0001\x0000
+MISSIONS COMPLETED
+MISSIONS HOSTED
+MISSIONS PERFORMED
+MOST PARTICIPANTS
 Top Score
 \xf000Ȅ\x0001\x0000かい
 \xf000Ȅ\x0001\x0000かい
 \xf000Ȅ\x0001\x0000かい
 \xf000Ȃ\x0001\x0000にん
 \xf000Ȅ\x0001\x0000かい
-ミッションを かいしする
-ミッションを じっしちゅう
-ミッションを かいし します!\xf000븂\x0001Z
-すでに べつの ミッションが\xfffeかいしされて います
-6つの ミッションから\xfffe1つ えらんでください
-ミッションを えらんでください
-せかいが3つ つながっているときは\xfffeこのミッションを うけられません
-ぼうけんしゃが ハイリンクにいるので\xfffeミッションを うけることが できません
+BEGIN A MISSION
+MISSION IN PROGRESS
+The mission is starting now!\xf000븂\x0001Z
+Another mission is already\xfffein progress.
+Please select one of the\xfffesix missions.
+Please select a mission.
+You cannot accept this mission\xfffewhen three worlds are connected.
+You cannot accept a mission when\xfffeyou have a visitor in your Entralink.
 ミッションを えらぶことで\xfffeあいてを たすけることが できます\xf000븁\x0000\xfffeまず はじめに このなかから\xfffe『サポ-ト ミッション』を えらび\xf000븀\x0000\xfffeミッションを かいしして ください
 べつの ミッションを\xfffeえらんで います\xf000븁\x0000\xfffeまずは 『サポ-ト ミッション』を\xfffeえらんで かいしして ください
 \xf000ȃ\x0001\x0000こ
 YES
 NO
 Will you receive this Pass Power\xfffefrom the Entree?
-うけとれる デルパワ-
+AVAILABLE PASS POWER
 『\xf000Ĝ\x0001\x0000』 を\xfffeハイルツリ-から うけとった!\xf000븁\x0000\xfffeうけとった『\xf000Ĝ\x0001\x0000』を\xfffeCギアに とうろくした!
 AVAILABLE PASS POWER
 Received “\xf000Ĝ\x0001\x0000"\xfffefrom the Entree!\xf000븁\x0000\xfffeThe “\xf000Ĝ\x0001\x0000" is\xffferegistered to C-Gear!
 RECIEVED PASS POWER
 Please select the Pass Power\xfffeyou want to receive from the Entree.
-1st Floor, The \xf000ȃ\x0001\x0000.
+1st Floor, The \xf000ȃ\x0001\x0000 Pass Power.
 \xf000봂\x0000◆The White Level to receive it: \xf000Ȃ\x0001\x0000◆\xfffe\xfffeCurrent levels\xfffe◇Black Lv. : \xf000Ȃ\x0001\x0002   ◆White Lv. : \xf000Ȃ\x0001\x0001
 \xf000봂\x0000◆The Black Level to receive it: \xf000Ȃ\x0001\x0000◆\xfffe\xfffeCurrent levels\xfffe◇Black Lv. : \xf000Ȃ\x0001\x0002   ◆White Lv. : \xf000Ȃ\x0001\x0001
 チャレンジできる フェスミッション

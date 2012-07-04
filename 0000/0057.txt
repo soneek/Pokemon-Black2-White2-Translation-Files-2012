@@ -1,10 +1,10 @@
 たいせんする あいてと\xfffeせきがいせん つうしん します\xf000븁\x0000\xfffeあいてに せきがいせんを あわせて\xfffeAボタンを おしてください
 おたがいの えらんでいる\xfffeたいかいが ちがいます
 Your opponent has been found!
-たいせんを かいし します!\xfffeAボタンを おしてください
-あなたの かちです
-あなたの まけです
-ひきわけ です
+To start playing\xfffepress the A button.
+You Win
+You Lose
+Its a Draw
 Connection waiting.
 Wi－Fiたいかいに さんか
 イベントたいかいに さんか

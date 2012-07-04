@@ -201,5 +201,5 @@ Please choose a Pokémon.\xfffe\xfffeName： \xf000\xff00\x0001\x0002\xf000ā\x0
 ♂
 ♀
 GENDER
-EITHER
-GENDERLESS
+HAS
+DOES NOT HAVE

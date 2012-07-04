@@ -22,7 +22,7 @@ CONFIRM
 CLOSE
 Energetic?
 かいさい しました!
-さんか しました!
+Joined!
 \xf000ą\x0001\x0000に いどう
 \xf000ā\x0001\x0000と せんとうちゅう!
 \xf000ā\x0001\x0000 was defeated!
