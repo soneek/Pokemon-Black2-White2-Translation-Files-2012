@@ -190,7 +190,7 @@ UFOと なぞのおんな
 きかいじかけの かいぶつ
 しんぴの すなはま
 M・B ふたたび
-デスティニ-・メガネ
+Destiny Scope
 Pokemon Warrior
 Lost and Found
 ペネロペの ばあい
@@ -206,16 +206,16 @@ OLの かのじょは その\xfffeきょだいかに いかに くのうした�
 モ-テル の かいき
 ゆうえんちを さまようもの
 はかばからの よびごえ
-きどう
+Start
 Friends
 ぼうそう
 Goodbyes
-ゴ-ストイレイザ- ファイル1\xfffeゆうれいたちの むら
-ゴ-ストイレイザ- ファイル2\xfffeあくりょう しょうじょ
-ゴ-ストイレイザ- ファイル3\xfffeあくりょうの ひほう
-ゴ-ストイレイザ- ファイル4\xfffeはかいの まじん
+Ghost Eraser - FILE 1\xfffeGhost Village
+Ghost Eraser - FILE 2\xfffeCursed Girl
+Ghost Eraser - FILE 3\xfffeDemon Treasures
+Ghost Eraser - FILE 4\xfffeDestructive Spirit
 The Dream Match!!
-VS せいぎの ちゅうねん
+VS Wise Man
 VS \xf000Č\x0001\x0000 Girl
 VS \xf000Č\x0001\x0000 Girl\xfffeかえって きた ハチクマン
 VS \xf000Č\x0001\x0000 Girl\xfffeハチクマンの さいご
@@ -223,20 +223,20 @@ VS \xf000Č\x0001\x0000 Girl\xfffeハチクマンの さいご
 \xf000Č\x0001\x0000クノイチの ワナ
 \xf000Č\x0001\x0000クノイチVSいもうとポリス
 \xf000Č\x0001\x0000クノイチ さいごのじけん
-そらからの きょうふ
-UFOと なぞのおんな
-デコイさくせん
+Fear in the Sky
+The UFO and Mysterious Woman
+Decoy Strategy
 じんるい さいごのけっせん
 しゅつげん! だいバンギラス!!
 きかいじかけの かいぶつ
 しんぴの すなはま
-M・B ふたたび
-デスティニ-・メガネ
-ポケモン・ウォ-リア-
-ロスト・アンド・リゲイン
-ミゲルの ばあい
-カミロの ばあい
-アントニオの ばあい
+M.T: Second Coming
+Destiny Scope
+Pokemon Warrior
+Lost and Found
+Miguel's Moment
+Camillo's Moment
+Antonio's Moment
 とびらの おくへ……
 とびらの ひみつ
 とびらを あけて……
@@ -244,16 +244,16 @@ M・B ふたたび
 ほうもんしゃは なんどでも\xfffeインタ-フォンを ならす
 OLの かのじょは その\xfffeきょだいかに いかに くのうしたか
 さらば いとしき ジャイアント
-モ-テル の かいき
+Mysterious Motel
 ゆうえんちを さまようもの
 はかばからの よびごえ
-きどう
+Start
 Friends
 ぼうそう
 Goodbyes
-ゴ-ストイレイザ- ファイル1\xfffeゆうれいたちの むら
-ゴ-ストイレイザ- ファイル2\xfffeあくりょう しょうじょ
-ゴ-ストイレイザ- ファイル3\xfffeあくりょうの ひほう
-ゴ-ストイレイザ- ファイル4\xfffeはかいの まじん
+Ghost Eraser - FILE 1\xfffeGhost Village
+Ghost Eraser - FILE 2\xfffeCursed Girl
+Ghost Eraser - FILE 3\xfffeDemon Treasures
+Ghost Eraser - FILE 4\xfffeDestructive Spirit
 The Dream Match!!
-VS せいぎの ちゅうねん
+VS Wise Man
