@@ -142,7 +142,7 @@ Your items have been\xfffeorganized by type!
 Your items have been\xfffeorganized by name!
 Your items have been\xfffeorganized in descending order.
 Your items have been\xfffeorganized in ascending order.
-ぜんぶ
+ALL
 MOVE TO STORAGE
 MOVE BACK
 Please select what\xfffeyou are looking for!
@@ -158,4 +158,4 @@ Numerical
 \xfffe\xf000Ȃ\x0001\x0001 items found!
 Your items have been\xfffe organized in numerical order.
 Not Found
-しまう
+CLOSE

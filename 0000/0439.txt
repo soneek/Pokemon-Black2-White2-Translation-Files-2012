@@ -31,7 +31,7 @@ NO
 Saving...\xfffeDon't turn off the power.
 Communicating...\xfffeDon't turn off the power.
 Please configure your connection settings\xfffeunder the Internet option\xfffein the System Settings.\xfffe\xfffeFor help, visit support.nintendo.com.
-There was a communication error\xfffein the Wi-Fi Plaza.\xfffeError code: （\xf000Ȅ\x0001\x0000）
+There was a communication error\xfffein the Wi-Fi Plaza.\xfffeError code: (\xf000Ȅ\x0001\x0000)
 To use this feature, you must accept\xfffethe terms of the Nintendo DSi\xfffeNetwork Services Agreement\xfffein the System Settings.\xfffe\xfffeError code: 50599
 \xf000봂\x0000Connect to Nintendo WFC
 \xf000봂\x0000Disconnect from Nintendo WFC

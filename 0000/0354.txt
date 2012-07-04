@@ -83,7 +83,7 @@ Brycenman's Revenge Returns
 Brycenman
 Defeat your opponent in every take
 5TAKE の あいだ いきのこれ\xfffeあいてを たおすと NG
-15TAKE いないにセットH1をたおせ\xfffeほかの あいては むししても OＫ
+15TAKE いないにセットH1をたおせ\xfffeほかの あいては むししても OK
 5TAKE いないに じぶんの\xfffeポケモンを ぜんめつ させろ
 8TAKE いないに じぶんの\xfffeポケモンを ぜんめつ させろ
 10TAKE いないに じぶんの\xfffeポケモンを ぜんめつ させろ
@@ -97,7 +97,7 @@ Defeat your opponent in every take
 15TAKE いないに\xfffeすべての あいてを たおせ
 15TAKE いないにセットM2をたおせ
 4TAKE いないにセットT1をたおせ
-5TAKE の あいだ いきのこれ\xfffeセットＫ1を たおすと NG
+5TAKE の あいだ いきのこれ\xfffeセットK1を たおすと NG
 かみなり で セットT1を たおせ\xfffeそれいがいの わざで たおすと NG
 8TAKE いないに あいてを たおせ
 4TAKE いないに じぶんの\xfffeポケモンを ぜんめつ させろ
@@ -111,7 +111,7 @@ Defeat your opponent in every take
 6TAKE の あいだ いきのこれ\xfffeあいてを たおすと NG
 10TAKE いないに\xfffeすべての あいてを たおせ
 20TAKE いないに\xfffeすべての あいてを たおせ
-15TAKE いないにセットC2をたおせ\xfffeほかの あいてを たおしても OＫ
+15TAKE いないにセットC2をたおせ\xfffeほかの あいてを たおしても OK
 5TAKE の あいだ いきのこれ\xfffeあいてを たおすと NG
 6TAKE の あいだ いきのこれ\xfffeあいてを たおすと NG
 ふぶき で セットR2を たおせ\xfffeそれいがいの わざで たおすと NG

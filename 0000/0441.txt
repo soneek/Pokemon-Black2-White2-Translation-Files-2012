@@ -165,7 +165,7 @@ Snowy Form
 Overcast Form
 Sunshine Form
 Spiky-eared
-\xf000ā\x0001\x0000：
+\xf000ā\x0001\x0000:
 Compare
 Compare \xf000ā\x0001\x0000
 Forms

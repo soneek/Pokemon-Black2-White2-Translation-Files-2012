@@ -1,11 +1,11 @@
 Tournament Download
 \xf000Ļ\x0001\x0000
-バトルル-ル：
+バトルル-ル:
 SINGLE BATTLE
 DOUBLE BATTLE
 TRIPLE BATTLE
 ROTATION BATTLE
-ト-ナメントないよう：
+ト-ナメントないよう:
 ほぞんした ト-ナメント
 でられないポケモン
 もたせられない どうぐ
@@ -13,7 +13,7 @@ ROTATION BATTLE
 None
 ト-ナメントデ-タを さがしています\xfffeしばらく おまちください……
 ほぞんしたい ト-ナメントを\xfffeえらんで ください\xf000븁\x0000
-Wi－Fiコネクションを\xfffeおわりに しますか?
+Wi-Fiコネクションを\xfffeおわりに しますか?
 YES
 NO
 \xf000Ļ\x0001\x0000 を\xfffeほぞん しますか?

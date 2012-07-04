@@ -44,11 +44,11 @@ Waiting for the server...\xfffeDon't turn off the power.
 Awaiting communication...\xfffePlease stand by.
 Black.
 White.
-ポケモンバトル Wi－Fiたいかいに\xfffeさんか しますか?
+ポケモンバトル Wi-Fiたいかいに\xfffeさんか しますか?
 Participate
 Info
 CLOSE
-Wi－Fiたいかいは\xfffeポケモングロ-バルリンクで\xf000븀\x0000\xfffeとうろく すると さんか できます\xf000븁\x0000\xfffeたいかいの ル-ルや\xfffeかいさい きかんは\xf000븁\x0000\xfffeポケモングロバ-ルリンクを\xfffehttp://www.pokemon-gl.com/\xf000븀\x0000\xfffeかくにん してください\xf000븁\x0000
+Wi-Fiたいかいは\xfffeポケモングロ-バルリンクで\xf000븀\x0000\xfffeとうろく すると さんか できます\xf000븁\x0000\xfffeたいかいの ル-ルや\xfffeかいさい きかんは\xf000븁\x0000\xfffeポケモングロバ-ルリンクを\xfffehttp://www.pokemon-gl.com/\xf000븀\x0000\xfffeかくにん してください\xf000븁\x0000
 Do you want to stop\xfffeparticipating?
 YES
 NO

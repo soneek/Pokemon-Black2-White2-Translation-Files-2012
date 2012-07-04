@@ -79,7 +79,7 @@ Once you have completed\xfffethe registration for Battle Competition,\xfffeyou w
 Before adjusting Game Sync settings,\xfffeyou must complete your\xfffeNintendo Wi-Fi Connection settings.\xfffe\xfffeWhen these settings are done,\xfffeadjust the Game Sync settings\xfffeto have the Game Sync ID issued.\xfffeThis is a unique ID assigned to you.
 You must have a Game Sync ID\xfffeto register at the\xfffePokémon Global Link using\xfffea computer with Internet access.
 When you delete a saved game,\xfffeyour Game Sync ID will also be lost.\xfffe\xfffeWhen you change your Game Sync ID,\xfffeyou must also renew your registration\xfffeat the Pokémon Global Link.
-ニンテンド-DS/DS Liteで\xfffeWi－Fiつうしんを するための\xfffeせっていが できます。\xfffe\xfffeWi－Fiせっていをすると\xfffeインタ-ネットを つうじて\xfffeせかいじゅうの ひとたちと\xfffeポケモンのこうかんや たいせんが\xfffeできるように なります。
+ニンテンド-DS/DS Liteで\xfffeWi-Fiつうしんを するための\xfffeせっていが できます。\xfffe\xfffeWi-Fiせっていをすると\xfffeインタ-ネットを つうじて\xfffeせかいじゅうの ひとたちと\xfffeポケモンのこうかんや たいせんが\xfffeできるように なります。
 You need to set up the Nintendo Wi-Fi\xfffeConnection settings to connect your game\xfffewith the Pokémon Global Link, which allows\xfffeBattle Competition, Game Sync settings,\xfffeand so on.
 You can check to see\xfffeif your DS system's\xfffemicrophone is functioning.\xfffe\xfffeThe microphone is functioning properly\xfffeif Jigglypuff on the top screen\xfffereacts when you talk\xfffeor blow into it.
 You can restore your tired Pokémon and buy\xfffeuseful items. You'll find the PC where you\xfffecan keep captured Pokémon.\xfffe\xfffeYou can hear\xfffeProfessor Juniper's evaluation\xfffeof your Pokédex.\xfffe\xfffeVisit 2F for Link Trade and Link Battle.
@@ -127,15 +127,15 @@ You can accept Passerby Survey requests\xfffeat the Passerby Analytics HQ in Cas
 When the leader asks you to take a survey,\xfffetap the pie-chart icon in the bottom-left\xfffecorner of your C-Gear to decide which survey\xfffeto run.\xfffe\xfffeThe survey you are running will be marked\xfffein your list.
 Once you've decided which survey to run,\xfffejust turn your C-Gear on.\xfffe\xfffeThe survey will take place automatically\xfffeas people pass by you.\xfffe\xfffeThe survey will continue even when your\xfffeDS system is closed or when you are playing\xfffethe game.
 Before you report to the leader in Castelia\xfffeCity, check the results using “CHECK SURVEY\xfffeRESULTS" in your C-Gear.\xfffe\xfffeOnce you know that the survey is complete,\xfffego to Passerby Analytics HQ in Castelia City\xfffeto report to your leader.
-Cギアの 「IR（アイア-ル）」と\xfffeかかれた まるい わくを タッチすると\xfffeちかくのひとに つうしんこうかんや\xfffeたいせんを もうしこむことが できます。\xfffeともだちコ-ドを こうかんしたり\xfffeつうしんあいてとの あいしょうを\xfffeチェックすることも できます。
+Cギアの 「IR(アイア-ル)」と\xfffeかかれた まるい わくを タッチすると\xfffeちかくのひとに つうしんこうかんや\xfffeたいせんを もうしこむことが できます。\xfffeともだちコ-ドを こうかんしたり\xfffeつうしんあいてとの あいしょうを\xfffeチェックすることも できます。
 Select the same item and let your and your\xfffefriend's DS systems face each other to start\xfffethe connection.\xfffe\xfffeOnce they are connected, your DS systems\xfffeno longer need to face each other.
-Cギアの 「Wi－Fi（ワイファイ）」と\xfffeかかれた まるい わくを タッチすると\xfffeゲ-ムシンクが できます。\xfffe\xfffeゲ-ムシンクとは\xfffeボックスにいる ポケモンを ねむらせて\xfffeトレ-ナ-の レポ-トを\xfffeおくる しくみの ことです。
-Cギアの 「Wi－Fi」と かかれた\xfffeまるい わくは むせんつうしんの\xfffeじょうきょうによって いろが かわります。\xfffe\xfffeつかっている DSとの\xfffeWi－Fiせっていが すませてある\xfffeむせんアクセスポイントが\xfffeちかくに ある ばあいは\xfffeみどりいろに ひかります。
-ニンテンド-ゾ-ンなど みんなが\xfffeWi－Fiつうしんを つかえる\xfffeむせんアクセスポイントが\xfffeちかくに ある ばあいは\xfffe「Wi－Fi」の まるい わくは\xfffeあおいろに ひかります。
-Wi－Fiせっていが すんでいない\xfffeむせんアクセスポイントが\xfffeちかくに ある ばあいは\xfffe「Wi－Fi」の まるい わくは\xfffeあかいろに ひかります。
+Cギアの 「Wi-Fi(ワイファイ)」と\xfffeかかれた まるい わくを タッチすると\xfffeゲ-ムシンクが できます。\xfffe\xfffeゲ-ムシンクとは\xfffeボックスにいる ポケモンを ねむらせて\xfffeトレ-ナ-の レポ-トを\xfffeおくる しくみの ことです。
+Cギアの 「Wi-Fi」と かかれた\xfffeまるい わくは むせんつうしんの\xfffeじょうきょうによって いろが かわります。\xfffe\xfffeつかっている DSとの\xfffeWi-Fiせっていが すませてある\xfffeむせんアクセスポイントが\xfffeちかくに ある ばあいは\xfffeみどりいろに ひかります。
+ニンテンド-ゾ-ンなど みんなが\xfffeWi-Fiつうしんを つかえる\xfffeむせんアクセスポイントが\xfffeちかくに ある ばあいは\xfffe「Wi-Fi」の まるい わくは\xfffeあおいろに ひかります。
+Wi-Fiせっていが すんでいない\xfffeむせんアクセスポイントが\xfffeちかくに ある ばあいは\xfffe「Wi-Fi」の まるい わくは\xfffeあかいろに ひかります。
 The saved data sent through Game Sync\xfffegoes to the Pokémon Dream World.\xfffe\xfffeThe Pokémon Dream World is located\xfffeon the official Pokémon Global Link website.
 To play in the Pokémon Dream World,\xfffeyou must set up the following items:\xfffe\xfffe-Nintendo Wi-Fi Connection Settings\xfffe-Game Sync Settings\xfffe-User registration with your own computer\xfffe  at the official website for\xfffe  the Pokémon Global Link.
-Cギアの\xfffe「WIRELESS（ワイヤレス）」と\xfffeかかれた まるい わくを タッチすると\xfffeイッシュちほうの まんなかに ある\xfffeハイリンクと よばれる ばしょに\xfffeいくことが できます。\xfffe\xfffeハイリンクの まんなかには\xfffeハイルツリ-と よばれる きがあります。
+Cギアの\xfffe「WIRELESS(ワイヤレス)」と\xfffeかかれた まるい わくを タッチすると\xfffeイッシュちほうの まんなかに ある\xfffeハイリンクと よばれる ばしょに\xfffeいくことが できます。\xfffe\xfffeハイリンクの まんなかには\xfffeハイルツリ-と よばれる きがあります。
 ハイルツリ-に むかって\xfffeAボタンを おすと フェスミッションを\xfffeうけることが できます。\xfffe\xfffeミッションには さまざまな\xfffeもくひょうが あります。\xfffeせいげんじかんの なかで\xfffeどうぐを さがしたり\xfffeポケモンしょうぶを します。
 ミッションは スコアを\xfffeためることで クリアできます。\xfffeミッションせつめいに かかれた\xfffeクリアもくひょうを たっせいしましょう。\xfffe\xfffeスコアが おおいほど\xfffeミッションを クリアしたときの\xfffeほうしゅうが おおくなります。
 フェスミッションは\xfffeちかくに いる ひとと いっしょに\xfffeあそぶことが できます。\xfffe\xfffeだれかが フェスミッションを はじめると\xfffeすれちがいログが ひかるので\xfffeタッチして すきな フェスミッションに\xfffeさんかすることが できます。
@@ -151,7 +151,7 @@ There are some items you can use\xfffeonly in a battle to raise Pokémon stats o
 The Poké Balls you need to catch Pokémon\xfffeare kept in the ITEMS Case, as are items\xffferelated to Pokémon evolution.\xfffe\xfffeYou can combine phrases and words\xfffeto form Mail. Your Pokémon can hold Mail,\xfffeand if you trade the Pokémon with\xfffeyour friends, they can deliver your Mail.
 -MEDICINE\xfffeThis area holds items that restore\xfffeyour Pokémon's HP, PP, and heal\xfffestatus conditions.\xfffe\xfffe-TMs & HMs\xfffeThis area holds your TMs & HMs.\xfffeThey can be reused as often as you like.
 -BERRIES\xfffeThis holds Berries that create special\xfffeeffects when your Pokémon hold them\xfffeor use them.\xfffe\xfffe-KEY ITEMS\xfffeThis is a place to keep Key Items. You can\xfffeassign some of them to the Ready button\xfffefor instant use.
-Ｘボタンで ひらいた メニュ-から\xfffeじぶんの なまえを えらぶと\xfffeトレ-ナ-カ-ドを\xfffeかくにん することが できます。\xfffe\xfffeしたがめんの ひだりしたに ある\xfffeマ-クを タッチすると\xfffeジムバッジを どれだけ もっているか\xfffeかくにん することが できます。
+Xボタンで ひらいた メニュ-から\xfffeじぶんの なまえを えらぶと\xfffeトレ-ナ-カ-ドを\xfffeかくにん することが できます。\xfffe\xfffeしたがめんの ひだりしたに ある\xfffeマ-クを タッチすると\xfffeジムバッジを どれだけ もっているか\xfffeかくにん することが できます。
 トレ-ナ-カ-ドは プレイじかんや\xfffeおこづかいを かくにんできる カ-ドです。\xfffeかたがきや せいかくは がめんを\xfffeタッチすると きりかわりますので\xfffeすきなものを えらんでください。\xfffeしたの あいさつらんを タッチすると\xfffeメッセ-ジが へんしゅう できます。\xfffeあいている ところに すきな たんごを\xfffeえらんで かんせいさせて ください。
 You can sign the back of your card\xfffeusing the stylus.\xfffe\xfffeTap the pen and eraser icons to switch\xfffebetween writing and erasing.\xfffe\xfffeTap the plus icon to magnify the screen.\xfffeTap the triangle icon to split the signature\xfffearea in two for animation.
 ぼうけんを すすめていくと\xfffeトレ-ナ-カ-ドに メダルマ-クが\xfffeついか されます。\xfffe\xfffeメダルマ-クを タッチすることで\xfffeせってい されている イチオシメダルや\xfffeメダルを どれだけ もっているのか\xfffeかくにん することが できます。\xfffe
@@ -180,7 +180,7 @@ Pokémon can grow differently,\xfffedepending on each one's Nature\xfffeand Char
 ぼうけんの とちゅうで であう\xfffeそだてやさんに ポケモンを\xfffe2ひき あずけていると タマゴが\xfffeみつかることが あります。\xfffe\xfffeタマゴは げんきな ポケモンと\xfffeいっしょに つれあるくことで\xfffeなかから ポケモンが あらわれます。
 Once you've received the Running Shoes,\xfffepress the B Button to run.
 The Dowsing MCHN can indicate where items\xfffeare hidden on the Touch Screen.\xfffe\xfffeFollow the directions to find them. When\xfffeyou stand on a hidden item, it will blink.\xfffe\xfffeYou cannot pick up items if you are standing\xfffedirectly on them. Step away, face toward\xfffethe hidden item, and press the A Button.
-DSワイヤレスつうしんや\xfffeWi－Fiつうしんを つかって\xfffeともだちと おはなしできる どうぐです。\xfffe3DSやDSi、DSiLLなら\xfffeカメラきのうを つかって ともだちの\xfffeかおを みながら おはなしが できます。\xfffeライブキャスタ-で おはなしするには\xfffeあらかじめ ともだちコ-ドを とうろく\xfffeしあっておく ひつようが あります。
+DSワイヤレスつうしんや\xfffeWi-Fiつうしんを つかって\xfffeともだちと おはなしできる どうぐです。\xfffe3DSやDSi、DSiLLなら\xfffeカメラきのうを つかって ともだちの\xfffeかおを みながら おはなしが できます。\xfffeライブキャスタ-で おはなしするには\xfffeあらかじめ ともだちコ-ドを とうろく\xfffeしあっておく ひつようが あります。
 ■ Using DS Wireless Communications\xfffeTouch the “WIRELESS" button on your C-Gear\xfffeto select the Xtransceiver.\xfffeThe names and ID numbers of Trainers\xfffeyou've exchanged Friend Codes with\xfffewill appear on the Touch Screen.\xfffeSelect the people you want to talk to\xfffeand give them a call. You can call\xfffeup to three people at once.
 The “WIRELESS" button on your C-Gear will\xfffeflash, and the C-Gear will ring.\xfffe\xfffeThe Xtransceiver will show your friend's name.\xfffeTap it to pick up the phone.\xfffe\xfffeYou will not be able to answer if you tap\xfffethe Xtransceiver.
 ■ Using Wi-Fi Club\xfffeYou can talk to one Trainer in the Wi-Fi Club.
@@ -191,7 +191,7 @@ The “WIRELESS" button on your C-Gear will\xfffeflash, and the C-Gear will ring
 イッシュちほうには 8つの ジムが あり\xfffeそれぞれに ジムリ-ダ-が います。\xfffeジムバッジは ジムリ-ダ-に かった\xfffeあかしとして もらえる バッジです。\xfffe\xfffeトレ-ナ-カ-ドがめんの\xfffeひだりしたにある マ-クを タッチすると\xfffeジムバッジを どれだけ もっているか\xfffeかくにん することが できます。
 As you collect Badges, the Pokémon you've\xfffepicked up by trading will start to obey you\xfffewithout question, even if their level is high.
 The Ready button is an easy shortcut\xfffeto frequently used functions and items.\xfffe\xfffeOnce you register something with the\xfffeReady button, just press the Y Button\xfffeto use that item or function instantly.
-Ｘボタンを おして メニュ-を ひらくと\xfffeしたのがめんに しかくい マ-クが\xfffeひょうじされている ことが あります。\xfffeこのマ-クを タッチするか\xfffeYボタンを おすと\xfffeあかい チェックマ-クが つきます。\xfffe\xfffeチェックを つけた きのうや どうぐが\xfffeべんりボタンに とうろくされます。
+Xボタンを おして メニュ-を ひらくと\xfffeしたのがめんに しかくい マ-クが\xfffeひょうじされている ことが あります。\xfffeこのマ-クを タッチするか\xfffeYボタンを おすと\xfffeあかい チェックマ-クが つきます。\xfffe\xfffeチェックを つけた きのうや どうぐが\xfffeべんりボタンに とうろくされます。
 たいせつなもの ポケットに はいっている\xfffeどうぐの よこにも\xfffeしかくい マ-クが あります。\xfffe\xfffeカ-ソルを あわせて Yボタンを おすか\xfffeタッチして チェックしておくと \xfffeべんりボタンに とうろくして おけます。
 べんりボタンには 34こ まで\xfffeどうぐや きのうを とうろく できます。\xfffeとうろくを かいじょ したい ばあいは\xfffeしかくい マ-クを タッチするか\xfffeYボタンを おして\xfffeチェックを はずして ください。\xfffe2つ いじょう とうろく していると\xfffeセレクトボタンで べんりボタンの\xfffeこうもくを ならびかえることが できます。
 「メダルラリ-」は プレイヤ-が した\xfffeいろんなことを ひょうかして\xfffeメダルを プレゼントする システムです。\xfffe\xfffeてにいれた メダルは バッグの\xfffe「たいせつなもの」にある\xfffe「メダルボックス」を えらぶことで\xfffeかくにん することが できます。

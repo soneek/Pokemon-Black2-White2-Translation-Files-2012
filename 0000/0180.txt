@@ -170,7 +170,7 @@ M・B2
 モニカ
 Puppet
 Monster
-F－00
+F-00
 まじん
 しろとびら
 くろとびら
@@ -192,7 +192,7 @@ F－00
 セット
 UFO
 Monica
-F－00
+F-00
 カラテオ-
 SMEARGLE
 ホミカパパ

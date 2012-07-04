@@ -230,7 +230,7 @@ Whoops! Sorry, but I have to do\xfffesomething else.\xf000븀\x0000\xfffeAnother
 Friend
 \xf000Ā\x0001\x0001's Friend
 \xf000Ā\x0001\x0002's Friend
-こんにちは！
+こんにちは!
 Hello!
 Bonjour!
 Ciao!
@@ -322,7 +322,7 @@ Refused.
 Please wait a moment.
 うんうん! へ-! そうなんだ!
 ふむふむ トレ-ナ-カ-ドを\xfffeみるのって たのしい!
-1ｖs1で しょうぶしてるんだ!
+1vs1で しょうぶしてるんだ!
 4にんで たいせんしよう!\xfffeきみも さんかする?
 マルチバトルって たのしい!
 みんなで ぐるぐるこうかん しよう!\xfffeきみも さんかする?

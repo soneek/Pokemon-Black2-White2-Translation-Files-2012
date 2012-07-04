@@ -253,9 +253,9 @@ Hey! It's me! It's me!\xfffeIt's Isshu's top pilot!\xf000븁\x0000
 You! You've got guts!\xfffeBe my apprentice!
 ほら! これを やるから\xfffeワシの でしに なれい!\xf000븁\x0000
 You ever flown in your life?!\xfffeFly, fly, fly your heart out!
-ＶIPせきが どんなもんか\xfffeしりたければ ぼくに かつことだね\xf000븁\x0000
+VIPせきが どんなもんか\xfffeしりたければ ぼくに かつことだね\xf000븁\x0000
 The VIP seats...\xfffeare really far from the players!
-ＶIP! ＶIP!\xfffeＶ! I! P!\xf000븁\x0000
+VIP! VIP!\xfffeV! I! P!\xf000븁\x0000
 You can see the game well,\xfffebut the players look like ants!
 You...!\xfffeYou must be a fan of HIM!\xf000븁\x0000I understand! But...\xfffeI'll never hand him over!\xf000븁\x0000
 Oyoyoyo...\xfffeI'm so sorry, for his sake...
@@ -419,7 +419,7 @@ OF-FENSE!
 かっとばせえ!\xf000븁\x0000
 アミ『かっとびました!\xf000븁\x0000\xfffeユキ『かっ!
 カミツレさんも\xfffeけっこう かっとんだ センスよね
-1ｖs2 なんて\xfffeかっとびすぎぃ!
+1vs2 なんて\xfffeかっとびすぎぃ!
 ねえねえ かっとばせの\xfffe「かっ」って なあに?\xf000븁\x0000
 あたしが きいたのは\xfffeとばすって ことばを\xf000븀\x0000\xfffeきょうちょう するための\xf000븀\x0000\xfffe「かっ」なんだって!
 あたしたち ふたりで たたかうから\xfffeポケモン 2ひき いないとね!
@@ -729,7 +729,7 @@ Man, I let a huge\xfffevictory get away...
 フン……! たたかえる ポケモンが\xfffe1ぴきしか いない ヤツの\xf000븀\x0000\xfffeあいてなんか したくないんだぜ-ッ!
 ヘイヘイヘイ! どうしたんだぁ?\xfffeまいごにでも なったのか-ッ!?\xf000븁\x0000
 ワルいヤツどうし あつまって\xfffeポケモンじまん してるんだぜ!
-コラ-ッ! げんきな ポケモンが\xfffeたったの 1ぴき だとォ?\xf000븁\x0000\xfffe2ｖs1なんて ふりな しょうぶじゃ\xfffeワルの なが すたるだろうがッ!
+コラ-ッ! げんきな ポケモンが\xfffeたったの 1ぴき だとォ?\xf000븁\x0000\xfffe2vs1なんて ふりな しょうぶじゃ\xfffeワルの なが すたるだろうがッ!
 こだいのしろに たわむれに きた\xfffeラグジュアリ-な ボクの\xf000븀\x0000\xfffeゴ-ジャスな ポケモンを ごらん!\xf000븁\x0000
 キミの つよさは\xfffeハイクラス だな!
 フェイバリットな ポケモンと\xfffeかんこうめいしょを めぐるのって\xf000븀\x0000\xfffeプレミアムな けいけん だからさ
@@ -760,7 +760,7 @@ Man, I let a huge\xfffevictory get away...
 かった まけたも だいじだけど\xfffeそれしか みえなくなるのは ダメ!
 たたかえる ポケモンが 1ぴきじゃ\xfffeチ-ムプレイが できないね!
 あつい しょうぶを しってこそ\xfffeあつい おうえんが できるんです!\xf000븁\x0000
-おうえんも しょうぶも\xfffeいつだって ほんき 100％!\xf000븀\x0000\xfffeそれが ファンの こころいき!
+おうえんも しょうぶも\xfffeいつだって ほんき 100%!\xf000븀\x0000\xfffeそれが ファンの こころいき!
 たたかえる ポケモンが 1ぴきじゃ\xfffeチ-ムワ-クが みせられないよ!
 Well! These Pokémon always\xfffehelp me with my baking!\xf000븁\x0000
 あらま!? しょうぶは\xfffeパンづくりより むずかしいわねえ
@@ -784,7 +784,7 @@ With a spin and a turn, it's my turn! ♪\xfffeWith a turn and a spin, it's your
 たたかえる ポケモンが 1ぴき?\xfffeなかまと いると たのしいッスよ!
 やきゅうと ポケモンは\xfffeすじがきの ない ドラマ ッス!\xf000븁\x0000
 やきゅうせんしゅの さんびょうしは\xfffeうって まもって はしって ッス!
-スポ-ツマンシップから みて\xfffe2ｖs1じゃあ キミが ふりだよ!
+スポ-ツマンシップから みて\xfffe2vs1じゃあ キミが ふりだよ!
 だいとかいの そばに ひっそりと\xfffeひろがる みどりの くうかん\xf000븁\x0000\xfffeまさに オアシス! いやされた\xfffeぼくが ねがうのは しょうぶかな?\xf000븁\x0000
 こんな けっか じゃ!\xfffeオアシスって かんじ しない!
 この オアシスで おおきな いわは\xfffeかいりきって ひでんの わざで\xf000븀\x0000\xfffeおせるな- って おもってたんだ
@@ -845,7 +845,7 @@ I LOVE me summa\xfffethese bridge things!\xf000븁\x0000It takes balance!\xfffeI
 I lost, but\xfffeI cannot be stopped!
 はしのうえを あるけば やせいの\xfffeポケモンに あわずに すすめる!
 たたかえる ポケモンが\xfffe3ひき いじょう いたら\xf000븀\x0000\xfffeキミの あいて してあげる!
-3ｖs3の トリプルバトル……\xf000븁\x0000\xfffeかくごは できてる?\xfffeわたしは できてる! いくよっ!\xf000븁\x0000
+3vs3の トリプルバトル……\xf000븁\x0000\xfffeかくごは できてる?\xfffeわたしは できてる! いくよっ!\xf000븁\x0000
 なによ! まけることを かんがえて\xfffeしょうぶ するわけ ないでしょ!
 ポケモンが すくないと \xfffeトリプルバトルも たのしめないし\xf000븀\x0000\xfffeなにより ピンチに なりやすいかもね
 Rotation Battles are Pokémon battles\xfffewith three Pokémon!\xf000븁\x0000Get three Pokémon ready!
@@ -1026,7 +1026,7 @@ I heard you needed a parasol\xfffefor the beach, but, uh...\xf000븀\x0000Am I t
 たたかえる ポケモン 1ぴきだけ?\xfffeあたしたち ふたりだから……!
 エリと いっしょに たたかうのって\xfffeとっても たのしいんだ!\xf000븁\x0000
 なかよしの ともだちと\xfffeちからを あわせて しょうぶって\xf000븀\x0000\xfffeすごく ステキな ことだよね!
-あなた たたかえる ポケモンが\xfffe1ぴきしか いないの?\xf000븁\x0000\xfffe2ｖs2の ポケモンしょうぶ\xfffeとっても たのしいのに!
+あなた たたかえる ポケモンが\xfffe1ぴきしか いないの?\xf000븁\x0000\xfffe2vs2の ポケモンしょうぶ\xfffeとっても たのしいのに!
 デコボコみちで おのれを みがく!\xfffeこんじょうを きたえるのだ!\xf000븁\x0000
 こんじょう だけでは かてない!\xfffeそれも また じじつ……
 こんじょう だけでは かてないが\xfffeこんじょうも ひつよう!\xf000븀\x0000\xfffeなあ わしの ヘラクロスよ!
@@ -1585,7 +1585,7 @@ Mt. Helix changes with the seasons...\xfffeI change with my battles!\xf000븁\x0
 ……おとな あいてに\xfffeてかげん してくれよな!?
 I personally like winter best.\xf000븁\x0000The snow piled up on Mt. Helix...\xfffemakes for breathtaking scenery.
 ク-ルな こおりポケモンと\xfffeあつい オレの コンビネ-ション!\xf000븁\x0000
-あんたらも ク-ル＆ホットな\xfffeコンビの ようだな……!
+あんたらも ク-ル&ホットな\xfffeコンビの ようだな……!
 ネジやまは いちねんじゅう さむい!\xf000븁\x0000\xfffeまふゆでも げんきな\xfffeこおりポケモンが だいかつやく よ!
 ヘイ わかもの!\xfffeおじさんが あたためて あげよう!\xf000븁\x0000
 ハァッ……! しょうぶを すると\xfffeアセを かくほど あたたまるね
@@ -1806,9 +1806,9 @@ Mwahahaaa!!\xfffeHow AMUSING!!
 じんせいは やまを こえるもの!\xfffeあなたは やまに なれるかしら?\xf000븁\x0000
 あなたと いう やまを\xfffeこえられなかった……!
 やまは こえなくても\xfffeとおまわり しても いいの\xf000븁\x0000\xfffeここを のぼれば トレ-ナ-の たかみ\xfffeポケモンリ-グは もうすぐです
-1＝キミは ポケモントレ-ナ-\xfffe2＝ボクは エリ-トトレ-ナ-\xf000븁\x0000\xfffe1と2から ボクたちが\xfffeしょうぶするのは きまり だよね\xf000븁\x0000
-1＝キミは かった!\xfffe2＝ボクは まけた……
-1＝ボクは つよい\xfffe2＝キミは もっと つよい\xf000븁\x0000\xfffe1と2から キミは ボクよりも\xfffeつよい ポケモントレ-ナ-!
+1=キミは ポケモントレ-ナ-\xfffe2=ボクは エリ-トトレ-ナ-\xf000븁\x0000\xfffe1と2から ボクたちが\xfffeしょうぶするのは きまり だよね\xf000븁\x0000
+1=キミは かった!\xfffe2=ボクは まけた……
+1=ボクは つよい\xfffe2=キミは もっと つよい\xf000븁\x0000\xfffe1と2から キミは ボクよりも\xfffeつよい ポケモントレ-ナ-!
 あたしは しょうりすることで\xfffeポケモンへの あいを しめしたいの!\xf000븁\x0000
 まけちゃったら ポケモンへの\xfffeあいじょうを しめせない!
 あたし…… かつこと いがいに\xfffeポケモンへの かんしゃを いえないの\xf000븁\x0000\xfffeどうしたら いいのかしら?
