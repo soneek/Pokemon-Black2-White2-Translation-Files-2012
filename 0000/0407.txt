@@ -71,7 +71,7 @@ I'm worn out, but\xfffeboiling over with emotions...\xf000븀\x0000What can I sa
 ベル『あたし　あなたが　する\xfffeポケモンしょうぶ　だいすきだよ\xf000븁\x0000\xfffeなんだか　ポケモンも\xfffeとても　うれしそうなんだもん!\xf000븁\x0000
 しんじつを　もとめて　すすみつづける\xfffeわかき　けんきゅうしゃ　ベルゥッ!!\xf000븁\x0000
 ほのおタイプで　もやしまくる\xfffeオレ　ポッドが　あいてをするぜ!\xf000븁\x0000
-イヤッホー!\xf000븁\x0000\xfffeきょうだいで　いちばん　つよい\xfffeオレさまと　あそぼうぜ!!\xf000븁\x0000
+Ya-HOO!\xf000븁\x0000\xfffeC'mon, play with me,\xfffeand give it your all!!\xf000븁\x0000
 トーナメントの　けっしょう\xfffeこの　シチュエーション　もえるよな!\xf000븁\x0000\xfffeというわけで\xfffeほのおタイプで　もやしまくる\xf000븀\x0000\xfffeオレ　ポッドが　あいてをするぜ!\xf000븁\x0000
 I give up...\xf000븁\x0000I am B-U-R-N-T O-U-T!
 もえて　ファイヤー!\xfffeオレさま　ぜっこうちょう!!\xf000븁\x0000
@@ -695,7 +695,7 @@ I'm worn out, but\xfffeboiling over with emotions...\xf000븀\x0000What can I sa
 ベル『あたし　あなたが　する\xfffeポケモンしょうぶ　だいすきだよ\xf000븁\x0000\xfffeなんだか　ポケモンも\xfffeとても　うれしそうなんだもん!\xf000븁\x0000
 しんじつを　もとめて　すすみつづける\xfffeわかき　けんきゅうしゃ　ベルゥッ!!\xf000븁\x0000
 ほのおタイプで　もやしまくる\xfffeオレ　ポッドが　あいてをするぜ!\xf000븁\x0000
-イヤッホー!\xf000븁\x0000\xfffeきょうだいで　いちばん　つよい\xfffeオレさまと　あそぼうぜ!!\xf000븁\x0000
+Ya-HOO!\xf000븁\x0000\xfffeC'mon, play with me,\xfffeand give it your all!!\xf000븁\x0000
 トーナメントの　けっしょう\xfffeこの　シチュエーション　もえるよな!\xf000븁\x0000\xfffeというわけで\xfffeほのおタイプで　もやしまくる\xf000븀\x0000\xfffeオレ　ポッドが　あいてをするぜ!\xf000븁\x0000
 I give up...\xf000븁\x0000I am B-U-R-N-T O-U-T!
 もえて　ファイヤー!\xfffeオレさま　ぜっこうちょう!!\xf000븁\x0000

@@ -58,7 +58,7 @@ Defeated Elite Trainer
 クイズに　せいかいした!
 じゃんけんに　かった!
 \xf000ĉ\x0001\x0000を　もらった!
-おかねが　たりない!
+You don't have enough money!
 じゃんけんに　まけた!
 \xf000Ă\x0001\x0000が　ひんしです
 \xf000Ă\x0001\x0000のHPが　すくない!
