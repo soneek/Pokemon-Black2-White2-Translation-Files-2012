@@ -29,7 +29,7 @@ Heaviest
 Lightest
 Tallest
 Shortest
-Type
+Dark
 Rock
 Psychic
 Fighting
