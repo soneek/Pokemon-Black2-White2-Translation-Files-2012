@@ -1,14 +1,14 @@
-タイトルダミ-
-ミッションダミ-
-はじめての きのみ さがし!
-かけらを さがせ!
+Dummy Title
+Dummy Mission
+Find Berries for the first time!
+Find the fragment!
 いっかく せんきん!
-トレジャ- ハント!
-きえた \xf000ȃ\x0001\x0001この ざいほう
-なぞの こうせきを さがせ!
-ひかる こうせきを さがせ!
-きのみを あつめろ!
-きのみ だいしゅうかく!
+Treasure Hunt!
+\xf000ȃ\x0001\x0001 Treasures Disappeared
+Find the mysterious ore!
+Find the shining ore!
+Collect the Berries!
+Collect the Large Berries!
 おとしものを さがせ!
 わすれられた おとしもの
 みつからない おとしもの
@@ -17,19 +17,19 @@
 まぼろしの きのみを さがせ!
 まぼろしの いっぴん!
 きのみさがしで だいぼうけん!
-きのみ フェスティバル!
-まいごの しょうねんを さがせ
+Berry Festival!
+Find the lost boy!
 そのどうぐ ちょうだいな!
 かくとうかと しゅぎょう!
 \xf000ȃ\x0001\x0001にん くみて!
-エリ-トへの みちのり!
-めざせ わらしべちょうじゃ!
-ドキドキ ぶつぶつこうかん!
-ウキウキ ぶつぶつこうかん!
-エンジョイ ショッピング!
-ショッキング ショッピング!
-りそうの おねだんは……?
-ホントの おねだんは……?
+Road to the elite!
+Aim for riches!
+Exciting Trading!
+Cheerful Trading!
+Enjoy Shopping!
+Shocking Shopping!
+What is the price of an ideal...?
+What is price of truth...?
 きおくの げんかいへ……
 きおくりょく トレ-ニング!
 じゃんけん たいかい!

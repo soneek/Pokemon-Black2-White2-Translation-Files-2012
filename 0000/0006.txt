@@ -146,7 +146,7 @@ ALL
 MOVE TO STORAGE
 MOVE BACK
 Please select what\xfffeyou are looking for!
-\xf000Ē\x0001\x0000に いれる もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい みつかりました!
+Put the found \xf000Ē\x0001\x0000 into the \xfffe\xf000Ȃ\x0001\x0001 Case!
 \xf000ĉ\x0001\x0001 has been moved to \xfffe\xf000Ē\x0001\x0000 Case!
 \xf000ĉ\x0001\x0001 was returned to the \xfffe\xf000Ē\x0001\x0000 Case!
 How do you want to organize?
