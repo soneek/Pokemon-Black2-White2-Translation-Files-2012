@@ -44,9 +44,9 @@ This medal commemorates your\xfffecapture of all Dark-type Pokémon\xfffein the 
 This medal commemorates your\xfffecapture of all Steel-type Pokémon\xfffein the Unova region.
 This medal commemorates your\xfffecompletion of the Unova Pokedex.
 This medal commemorates your\xfffecompletion of the National Pokedex.
-This medal commemorates your\xfffedeposit of 30 Pokémon/xfffein the PC.
-This medal commemorates your\xfffedeposit of 120 Pokémon/xfffein the PC.
-This medal commemorates your\xfffedeposit of 360 Pokémon/xfffein the PC.
+This medal commemorates your\xfffedeposit of 30 Pokémon\xfffein the PC.
+This medal commemorates your\xfffedeposit of 120 Pokémon\xfffein the PC.
+This medal commemorates your\xfffedeposit of 360 Pokémon\xfffein the PC.
 This medal commemorates your\xfffemaxed out storage\xfffein the PC.
 This medal commemorates your\xfffecapture of 50 Pokémon\xfffein just one day.
 This medal commemorates your\xfffepurchase of 10 beverages\xfffefrom a vending machine.
@@ -154,10 +154,10 @@ This medal commemorates your\xfffedefeat of 100 trainers in\xfffethe Black Skysc
 This medal commemorates your\xfffedefeat of 1000 trainers in\xfffethe Black Skyscraper/White Tree Hollow.
 This medal commemorates your\xfffeultimate victory of Areas 2-5 in\xfffethe Black Skyscraper/White Tree Hollow.
 This medal commemorates your\xfffeultimate victory of Areas 6-10 in\xfffethe Black Skyscraper/White Tree Hollow.
-This medal commemorates your victory of\xfffeAreas 2-5 in the Black Skyscraper/White Tree Hollow/xfffewithout battling more than 4 people.
-This medal commemorates your victory of\xfffeAreas 6-10 in the Black Skyscraper/White Tree Hollow/xfffewithout battling more than 6 people.
-This medal commemorates your victory of\xfffeAreas 2-5 in the Black Skyscraper/White Tree Hollow/xfffein less than 100 steps.
-This medal commemorates your victory of\xfffeAreas 6-10 in the Black Skyscraper/White Tree Hollow/xfffein less than 1000 steps.
+This medal commemorates your victory of\xfffeAreas 2-5 in the Black Skyscraper/White Tree Hollow\xfffewithout battling more than 4 people.
+This medal commemorates your victory of\xfffeAreas 6-10 in the Black Skyscraper/White Tree Hollow\xfffewithout battling more than 6 people.
+This medal commemorates your victory of\xfffeAreas 2-5 in the Black Skyscraper/White Tree Hollow\xfffein less than 100 steps.
+This medal commemorates your victory of\xfffeAreas 6-10 in the Black Skyscraper/White Tree Hollow\xfffein less than 1000 steps.
 This medal commemorates your\xfffeacquirement of all the "battle" medals.
 This medal commemorates your\xfffefirst Pokémon trade.
 This medal commemorates your\xfffe10th Pokémon trade.
