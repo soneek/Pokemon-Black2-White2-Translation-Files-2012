@@ -1,146 +1,146 @@
-無回答
-ブラック２
-ホワイト２
-男
-女
-対戦
-交換
-都会
-田舎
-頭がいい
-運動できる
-時間
-お金
-外見
-中身
-かっこいい
-かわいい
-変な
-ポカブ
-ミジュマル
-ツタージャ
-競争
-協力
+No answer
+Black 2
+White 2
+Man
+Woman
+Against
+Exchange
+City
+Countryside
+A good head
+Can exercise
+Time
+Money
+Appearance
+Contents
+Cool
+Cute
+Strange
+Tepig
+Oshawott
+Snivy
+Competition
+Cooperation
 ー
-過去に行く
-未来に行く
-必要ない
-家族
-友達
-自分
-かっこいい人
-賢い人
-面白い人
-不思議な人
-夢を追う
-現実を見る
+Go in the past
+Go to the future
+Do not need
+Family
+Friend
+Their
+Cool people
+Clever person
+Funny man
+Strange person
+Chasing a dream
+Reality show
 ー
 ー
-面白い
-かっこいい
-優しい
-お金持ち
-戦い
-集める
-お話
-ポケモン
-空を飛ぶ
-透明になる
-時間を止める
-心を読む
-使う
-貯める
-自慢する
-寄付する
-０ー５年
-５ー１０年
-１０ー１５年
-１５年ー
-外で遊ぶ
-買い物
-読書
-ゲーム
-寝てる
-ポップス
-ロック
-ジャズ
-ラップ
-クラシック
-ニュース
-ドラマ
-お笑い
-スポーツ
-アニメ
-アクション
+Interesting
+Cool
+Friendly
+Rich
+Battle
+Collect
+Talk
+Pokemon
+Fly in the air
+Become transparent
+Stop time
+Reading the mind
+Use
+Save
+Be proud
+Donate
+0 - 5 years
+5 - 10 years
+10 ー 15 years
+ー 15 years
+Play outdoors
+Shopping
+Reading
+Game
+Sleep
+Pop
+Rock
+Jazz
+Wrap
+Classic
+News
+Drama
+Comedy
+Sport
+Animation
+Action
 SF
-恋愛
-サスペンス
-コメディ
-ホラー
-アクション
-パズル
-ＲＰＧ
-アドベンチャー
-シミュレーション
-スポーツ
-仕事
-人付き合い
-趣味
-健康
-偉くなる
+Love
+Suspense
+Comedy
+Horror
+Action
+Puzzle
+RPG
+Adventure
+Simulation
+Sport
+Work
+Interpersonal
+Hobby
+Health
+Become mighty
 ー
-運動
-読書
-音楽
-映画
-旅行
-料理
-釣り
-ゲーム
-学生
-サラリーマン
-クリエーター
-自営業
-公務員
-主婦
-芸術家
-フリーター
-チェレン
-ホミカ
-アーティ
-カミツレ
-ヤーコン
-フウロ
-シャガ
-シズイ
+Exercise
+Reading
+Music
+Movie
+Travel
+Cooking
+Fishing
+Game
+Student
+Salaryman
+Creator
+Self-employed
+Public officials
+Housewife
+Artist
+Freeter
+Cheren
+Roxie
+Burgh
+Elesa
+Clay
+Skyla
+Drayden
+Marlon
 ー
 ー
 ー
-ノーマル
-ほのお
-みず
-でんき
-くさ
-こおり
-かくとう
-どく
-じめん
-ひこう
-エスパー
-むし
-いわ
-ゴースト
-ドラゴン
-あく
-はがね
-０ー１０時間
-１０ー２０時間
-２０ー３０時間
-３０ー４０時間
-４０ー５０時間
-５０ー６０時間
-６０ー７０時間
-７０ー８０時間
-８０ー９０時間
-９０ー１００時間
-１００時間ー
+Normal
+Fire
+Water
+Electric
+Grass
+Ice
+Fighting
+Poison
+Ground
+Flying
+Psychic
+Bug
+Rock
+Ghost
+Dragon
+Dark
+Steel
+0 - 10 time
+10 hours 20
+20 hours - 30
+30 hours to 40
+40-hour -50
+50 hours - 60
+60 hours 70 ー
+70 hours 80 ー
+80 hours 90 ー
+90 hours - 100
+ー 100 hours
